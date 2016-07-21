@@ -1,0 +1,302 @@
+ccsa
+cobit
+wifi
+switches
+tcp
+firewalls
+iso 20000. mantener
+proxy
+reportes de disponibilidad
+sgsi
+incidentes
+wan
+auditoria
+iso 27001
+oracle
+administrador
+itil
+redes
+infraestructura
+routers
+atención de requerimientos
+ccna
+helpdesk
+mcse
+asterisk
+networking cisco
+dns
+datacenter
+tcp / ip
+equipos
+ti
+vpn
+soporte
+riesgos
+servidor
+oca
+continuidad
+incidencias
+infrastructure
+respaldo
+dba
+bcp
+sgcn
+dhcp
+it
+servidores
+problemas
+topologías
+soporte analizar
+tcp/ip
+virtualización
+disponibilidad
+backup
+mcts
+configuración
+drp
+mcsa
+lan
+soporte remoto
+voip
+vmware vsphere
+sniffer
+configuración mantenimiento
+asegurar la confiabilidad y operatividad de las aplicaciones
+conocimiento de itil
+mantener red de apoyo a las redes de distribución
+brindar soporte técnico a servidores y equipos de comunicaciones software
+servicio de correo electrónico
+investigar
+iso 22301
+instalación de software
+operatividad de sus equipos
+habilitación de plataforma de comunicaciones y servicios.
+controles de seguridad de la información
+service desk
+nivel de servicio
+iniciativas de negocio que incluyen participación de ti
+asegurar la continuidad en las operaciones de los sistemas
+red de datos
+infraestructura tecnológica
+ntpiso iec 27001.
+diagnóstico y solución de incidencias
+implementación
+infrastructure solution architect infrastructure solution architec
+mejora de procesos
+planificar
+modelamiento de procesos
+infraestructura de networking
+mantenimiento de hardware
+balanceadores de carga
+configurar red informática
+conocimiento en redes y telecomunicaciones.
+administración
+iso 27000
+administración y mantenimiento de servidores
+ingeniero senior de redes
+controles de seguridad para comunicaciones
+redes y comunicaciones
+definición de los controles de seguridad para las comunicaciones.
+administrar y monitorear la base de datos
+administración de equipos
+configuración de hardware de servidores gestionar y configurar la red informática
+soporte de comunicaciones
+continuidad en las operaciones
+balanceadores de carga diseñar e implementar una red de alta calidad
+administrar la base de datos
+mantener y gestionar una infraestructura de red
+infraestructura de virtualización
+hacer backup de servidores
+tareas de mantenimiento y soporte de red mantenimiento y soporte de red
+sistema de gestión de seguridad de información
+administración de equipos cuentas y servicios de cómputo.
+seguridad informatica
+asegurar el funcionamiento de las bases de datos.
+gestión del portafolio de servicios e interfaces
+administrador de base de datos
+administrar la seguridad
+mantenimiento
+estándares de hardware
+administrar los servicios
+gestión de las comunicaciones.
+continuidad de negocio
+hardware y software de comunicaciones
+servicios de instalación de sistemas
+tuning and optimization of cloudbased implementations
+metodologías para el análisis de sistema
+telefonía ip
+administración de firewalls
+plataformas informáticas
+tecnologías lan / wan
+servicios informáticos evaluar
+continuidad de ti
+configuración de equipos de comunicaciones
+infrastructure architecture regarding storage
+reemplazo de equipos
+portafolio de servicios
+arquitectura empresarial
+administración de servicio correo
+investigación en tecnología y procesos
+evaluar
+configuración de red
+conocimiento de protocolo
+equipos de red
+inventarios de software
+apoyo en todos los sistemas
+conocimientos de sistemas operativos
+seguridad de la información
+procesos de ti
+seguridad de información
+infraestructura de servidores
+configurar servidores y servicios
+plan de continuidad de negocios
+administrar los servicios de telecomunicaciones
+apoyo a los usuarios
+centros de cómputo
+administración soporte y delivery de sistema soporte y delivery de sistema
+cableado de red
+asesoría técnica
+soporte de ti
+administración de la infraestructura de servidores y soluciones de almacenamiento físicos
+arquitectura de comunicaciones
+controles de seguridad de información
+infraestructura it
+activos de ti
+infraestructura de red
+administrador de servidores y redes
+infraestructura ti
+gestión del suministro de servicios ti
+configurar hardware
+gestión de las comunicaciones
+mantenimiento correctivo y/o preventivo de sistemas de tecnología
+administración de firewall
+velar por la seguridad informática
+ejecutar pases a producción de aplicaciones internas.
+soporte técnico
+recuperación en casos de desastres.
+configurar software
+estandarización de versiones del software
+administración de infraestructura.
+diseñar la arquitectura de las plataformas
+interfaces batch
+control y gestión de la infraestructura
+redundancia de procesadores
+capacidades de los sistemas
+ingeniería de requerimientos
+controlar y mantener los equipos de comunicaciones
+documentar los proyectos procedimientos
+reemplazo de equipos con sistema operativo
+vware vsphere
+redes de ti
+confiabilidad y operatividad de las aplicaciones
+administrar y configurar los servidores y servicios
+soporte google apps
+operaciones de red
+continuidad operativa
+base de datos de la gestión de la configuración
+soporte a usuarios
+garantizar que las aplicaciones y dispositivos transaccionales de las oficinas mantengan una correcta operatividad
+soporte técnico de computo y sistemas
+soporte en comunicaciones
+apoyar en la implementación de nuevo software
+proponer configurar y proveer soluciones tecnológicas
+soporte de hardware
+gestión de gobierno de servicios de ti
+configuración y mantenimiento de redes
+respaldo de información
+estándares iso 27001
+tipos de incidentes y problemas
+tendencias digitales
+sistema de gestión de seguridad de la información
+red de alta calidad
+soporte técnico a servidores y equipos de comunicaciones software
+redes de comunicaciones de video
+infraestructura de red de datos
+establecer
+establecimiento de políticas
+gestión de riesgos
+data center
+soporte de sistemas
+instalar y configurar software
+información de comunicaciones
+mantenimiento correctivo y/o preventivo de sistemas de tecnología.
+tecnologías host
+analista de redes
+elaborar el plan de mantenimiento del hardware
+administración de los servicios
+operatividad de equipos
+canales digitales
+lineamientos de ti
+sistemas operativos
+servidores y comunicaciones . mantenimiento de hardware
+red de datos ejecutar y controlar la infraestructura de red de datos y telefonía
+servicios de ti
+mesa de ayuda
+dba
+seguridad inform
+sistema de gestión de seguridad de información (sgsi).
+proponer políticas de seguridad de la información
+cableado estructurado
+políticas de seguridad
+plataformas oss
+gestión de servicios ti
+equipos de comunicaciones . mantenimiento de hardware
+renovación de equipos
+seguridad informática
+redes de comunicación
+capacitar a los usuarios
+redes de comunicaciones
+administrar el centro de cómputo
+base de datos de topologías
+help desk
+plataformas de virtualización
+infraestructura de comunicaciones
+infraestructura de ti
+continuidad operativa.
+monitoreo de red
+procesos ti
+continuidad operacional
+asegurar el funcionamiento del oracle.
+infraestructura informática
+entornos de red
+evaluar y proponer alternativas de mejoras tecnológicas a la infraestructura de comunicaciones
+gobierno de los servicios de ti
+administrar la infraestructura informática
+red de comunicación
+niveles de servicio
+soporte administrativo de redes de it y comunicaciones
+administración de infraestructura
+gestor de proyectos ti
+infrastructure architecture
+estandarización de versiones de software
+redes ip
+análisis de riesgos
+mantenimiento de hardware.
+instalar
+continuidad de negocios
+auditor de sistemas
+instalar y configurar los equipos de comunicaciones y de banca virtual.
+disponibilidad de los servicios relacionados a las ti
+información de aplicativos
+reportes de disponibilidad de servicio
+soporte a aplicaciones
+backup de servidores
+administrar
+administración de redes
+mantenimiento soporte e inventario de los equipos informáticos soporte e inventario de los equipos informáticos de la organización
+disaster recovery plan
+administrador de red
+mensajería via ethernet
+oficial de seguridad
+plan de contingencia
+instalación software
+gestión de crisis
+configuración
+instalación de sistemas
+centro de datos
+aplicación de estándares
+infraestructura de voip
+administrar y monitorear las bases de datos y servicios de aplicaciones.
+instalación de equipos
+administración de base de datos
+redes de it y comunicaciones

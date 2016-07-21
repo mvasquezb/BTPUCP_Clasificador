@@ -1,0 +1,28 @@
+framework .net
+frontend
+visual studio
+uml
+java
+developer
+backend
+php
+android sdk
+diseño
+rup
+desarrollador
+cobol
+desarrollo
+power builder
+c++
+.net
+análisis
+scrum
+pruebas
+c#
+programador
+programación
+asp.net
+android studio
+android
+programmers
+eclipse

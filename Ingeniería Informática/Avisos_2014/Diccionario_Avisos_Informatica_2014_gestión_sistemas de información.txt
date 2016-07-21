@@ -1,0 +1,45 @@
+analista funcional: 5
+analista proceso: 6
+analista sap: 1
+analista sistema: 8
+analizar información: 9
+análisis: 50
+análisis dato: 2
+análisis diseño: 15
+análisis funcional: 2
+análisis información: 1
+análisis proceso: 3
+bpm: 12
+business process management: 1
+conocimiento banca: 25
+crm: 2
+desarrollo aplicación: 4
+diseño base dato: 1
+diseño sistema: 6
+documentación funcional: 1
+especificación funcional: 1
+evaluar requerimiento: 1
+funcional: 28
+gestión proceso: 13
+implementación sistema: 12
+indicador gestión: 13
+levantamiento: 6
+levantamiento proceso: 4
+manejo base dato: 2
+manejo proceso: 2
+mapeo proceso: 2
+mejora proceso: 25
+modelamiento: 5
+modelamiento proceso: 2
+nuevo requerimiento: 3
+oracle: 24
+procesamiento información: 2
+proceso negocio: 1
+producto servicio financiero: 1
+proyecto sistema: 14
+requerimiento: 70
+requerimiento funcional: 1
+sap: 25
+sap business one: 4
+sistema gestión: 11
+sistema información: 9

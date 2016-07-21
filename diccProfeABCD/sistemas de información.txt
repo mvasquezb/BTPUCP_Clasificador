@@ -1,0 +1,130 @@
+administrador de erp
+analisis de base de datos
+analisis de data
+analisis de datos
+analisis de indicadores
+analisis de informacion
+analisis de mercado
+analisis de procesos
+analisis de sistemas de informacion
+analisis funcional de procesos
+analista de informacion
+analista de procesos
+analista de sistemas
+analisys services
+analizar la informacion
+analizar procesos de negocio
+arquitectura de datos
+auditoria mensual
+automatizacion de procesos
+automatizacion de reportes
+balance score card
+base de datos
+big data
+business intelligence
+business process management
+calidad de base de datos
+consolidar la informacion
+consultor co
+consultor junior
+consultoria de negocio
+data analytics
+data marts
+data warehouse
+datamining
+definicion funcional
+diagnostico de procesos
+diseño de procesos
+diseño de sistemas de informacion
+diseño fisico
+diseño logico
+documentacion de procesos
+documentacion de sistemas
+documentar procesos
+documento de especificacion de casos de uso
+elaboracion de flujogramas
+elaboracion de prototipos
+establecimiento de procedimientos
+estrategia de sistemas
+evaluar estrategias
+experiencia funcional en procesos
+explotacion de informacion
+explotacion de informacion
+flujos de informacion
+generacion de indicadores
+generacion de reportes
+gestion de procesos
+herramienta de analisis
+implementacion de sistemas de informacion
+indicadores de gestion
+indicadores del area
+integraciones con otros sistemas
+inteligencia comercial
+inteligencia de negocios
+inteligencia de procesos
+interfaces entre los sistemas
+investigacion en procesos
+levantamiento de informacion
+levantamiento de procesos
+manejo de procesos
+mapeo de procesos
+mejora de procesos
+mineria de datos
+mining de datos
+modelacion de datos
+modelado de la solucion
+modelado de procesos
+modeladores de procesos
+modelamiento de base de datos
+modelamiento de datos
+modelamiento de procesos
+modelo de negocio
+modelos de gestion
+modelos de procesos
+modelos de simulacion
+moldeamiento de datos
+moldeamiento de procesos
+monitoreo de indicadores
+optimizacion de reportes
+patrones de negocios empresariales
+planeamiento de sistemas
+planes de ejecucion
+planes de optimizacion
+procesamiento de la informacion
+procesos automatizables
+procesos comerciales
+procesos de aseguramiento de calidad
+procesos de negocio
+rediseño de procesos
+registro de los indicadores
+relaciones entre procesos
+relevamiento de indicadores
+reporte de datos
+reporting services
+scripting
+seguimiento de indicadores
+sistema de administracion documentaria
+sistema documentario
+sistemas de gestion
+sistemas de informacion
+solucion a los casos de negocio
+soluciones de negocio
+validacion de base de datos
+volumen de informacion
+abap
+bi
+bpm
+bpmn
+bsc
+co
+crm
+cubos
+datastage
+datawarehouse
+datawarehousing
+erp
+etl
+olap
+procesos
+sap
+teradata

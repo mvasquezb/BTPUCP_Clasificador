@@ -1,0 +1,11 @@
+﻿automatización y control.txt
+automatización y robótica.txt
+biomecatrónica.txt
+diseño mecatrónico.txt
+electricidad y electrónica.txt
+energía.txt
+general.txt
+gestión.txt
+mantenimiento.txt
+metrología.txt
+operaciones.txt

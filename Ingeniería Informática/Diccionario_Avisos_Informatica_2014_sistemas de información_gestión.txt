@@ -1,0 +1,17 @@
+abap: 11
+bi: 93
+bpm: 32
+bpmn: 14
+cmmi: 7
+datastage: 32
+datawarehouse: 26
+datawarehousing: 2
+erp: 25
+itil: 12
+pmi: 15
+pmp: 7
+portafolio: 1
+proceso: 312
+rup: 21
+sap: 157
+scrum: 5

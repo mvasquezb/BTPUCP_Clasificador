@@ -1,0 +1,47 @@
+sistema
+proceso
+planta
+máquina
+automática
+sensor
+actuador
+P&ID
+instrumentación
+PFD
+process flow diagram
+diagrama de flujo
+diagrama de actividades
+monitoreo
+máquina
+proceso
+planta
+PLC
+microcontrolador
+microprocesador
+procesador
+sensor
+actuador
+motor
+variador de frecuencia
+monitoreo
+neumática
+hidráulica
+lógica de control
+filosofía de control
+algoritmo
+monitoreo
+eventos discretos
+Sistemas de control
+modelo
+modelamiento
+lógica de control
+planta
+realimentación
+proceso
+instrumentación
+Proceso
+supervisión
+seguridad
+protección
+alarmas
+manufactura

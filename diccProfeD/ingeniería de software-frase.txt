@@ -1,0 +1,152 @@
+programación en bases de datos
+sql server 2008.
+develop web applications
+construcción y testing de software
+uso de estándares web
+determine the best way to implement those requirements in code and develop it.
+algoritmos
+sistemas operativos
+análisis y diseño de los sistemas
+análisis diseño
+visual basic 6.0
+arquitectura de software
+conocimientos de rup
+developing and implementing test plans and test cases/scripts
+elaborar especificaciones funcionales
+base de datos sql server
+conocimiento de lenguajes
+inyección de dependencia
+investigación de librerías y componentes de software.
+construcción de los componentes de software
+ingeniería de requerimientos
+modelo de la arquitectura
+programación de los desarrollos y mantenimientos de software
+metodologías de desarrollo
+mvc
+validar el diseño de los casos de prueba
+php/sql
+c++
+desarrollar las soluciones propuestas
+web services
+desarrollo de aplicaciones y reportes
+programación
+android
+control de calidad
+unit and integration testing
+implementación y mantenimiento de herramientas informáticas
+lenguaje de programación java o .net.
+rich face
+corrección de defectos
+proceso de desarrollo de software
+realizar programas o componentes de sistemas
+metodologías de desarrollo de software.
+realizar pruebas unitarias
+javascript / ajax
+entity java bean
+desarrollar páginas web otros
+programación en lenguajes
+validación de necesidades funcionales.
+diseño y arquitectura de sistemas
+lenguajes
+functional testing based on test cases
+realizar pruebas funcionales
+desarrollo de programas y aplicativos
+entender los modelos lógico y físico de los sistemas
+framework de persistencia
+desarrollo web
+documentación de sistemas
+developing ios and android
+análisis de requerimientos diseño y planificación del desarrollo.
+realizar modelado basado en uml
+procesos de desarrollo
+programación de páginas web
+desarrollo de soluciones empresariales
+software engineer
+codificación
+gestión de pruebas
+base de datos
+java.
+implementación de software y aplicaciones móviles.
+conocimientos de pl/sql
+diseño y desarrollo de soluciones
+functional/manual and regression testing
+eclipse
+implementación de aplicaciones web
+pruebas unitarias
+diseño de sistemas
+agile/scrum methodology
+desarrollo android
+test case management
+levantamiento de necesidades funcionales
+elaborar el diseño de soluciones
+css.
+desarrollo de software
+proceso de desarrollo
+estándares de construcción de componentes de software
+pruebas de software
+depurar el código
+codificar y ejecutar pruebas unitarias
+análisis y diseño de sistemas
+phyton
+desarrollo de aplicaciones
+analizar y desarrollar software
+programación de aplicaciones
+conocimientos de php
+equipos de desarrollo
+metodologías ágiles de desarrollo
+análisis y levantamiento de requerimientos
+desarrollo de soluciones
+elaboración de casos de prueba
+.net.
+conocimiento en base de datos
+automation testing tools
+programación a tres capas
+integrar el código fuente
+desarrollo y mantenimiento de aplicativos
+diseño del sistema
+mongodb.
+determines the best way to implement specifications in code and codes it
+pruebas técnicas y de usuario
+establecer estandares de desarrollo.
+pruebas unitarias automatizadas
+django
+desarrollo de componentes
+aseguramiento de calidad
+implementar soluciones de software.
+realizar pruebas unitarias e implementación de patrones de diseño
+técnicas de desarrollo orientadas a objetos.
+plan de pruebas
+programación en .net php
+aplicaciones para móviles
+patrones de diseño
+análisis de elaboración de prototipos
+estructuras de datos
+plan de pruebas y corrección de defectos
+uml
+java
+criterios de accesibilidad.
+pruebas unitarias.
+estándares de modelamiento uml.
+implementación nuevos proyectos requerimientos y/o mejoras continuas para aplicativos
+ejecutar el plan de pruebas para las aplicaciones desarrolladas
+programación y diseño en plataformas
+despliegue de aplicativos en ambientes de producción.
+ios
+construcción de aplicaciones en ambiente web
+conocimientos de frameworks
+performance testing tools
+power builder
+pruebas de aplicaciones desarrolladas.
+objectoriented analysis and design skills
+.net
+desarrollar construir e implementar los componentes
+gestión de proyectos
+desarrollo en visual studio .net 2008/2010 c#
+calidad de los sistemas
+corrección de errores en base a pruebas de funcionalidad.
+sistema de control de versiones
+programación orientada a objetos
+conocimientos de uml
+programación de base de datos
+diseño y programación de base de datos
+análisis definición y desarrollo del ciclo de desarrollo del sofware

@@ -1,0 +1,31 @@
+j2ee
+desarrollo
+integraciones
+mvc
+certificación
+qa
+tdd
+arquitectura
+kanbam
+arquitecto
+implementación
+togaf
+calidad
+control de calidad
+soa
+web services
+componentes
+frameworks
+integración
+rup
+git
+certificador
+desarrollador
+pruebas
+desarrollos
+agile
+pruebas especiales funcionales
+mantenimiento
+quality
+scrum
+arquitectura de software

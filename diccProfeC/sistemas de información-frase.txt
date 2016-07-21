@@ -1,0 +1,134 @@
+diseñar e implementar procesos
+velar el correcto funcionamiento de los sistemas
+creación de manuales y tutoriales de uso de software
+administrar la herramienta de envíos de html
+unidad bpm
+bases de datos
+elaboración y análisis de información de base interna de datos
+requerimientos funcionales
+documentación de desarrollos
+análisis de la base de datos
+manejo y administración de bases de datos
+elaboración de diseños técnicos
+conocimiento demostrado de los estándares uml
+analizar diseñar y plantear propuestas
+necesidad de análisis técnico y planificar su ejecución
+implementación de proyectos
+levantamiento de información
+documentar los procesos
+elaborar planes de certificación (control de calidad) de las aplicaciones de software
+analizar las bases de datos
+analista de calidad/procesos/funcional/sistemas
+procesos de software
+análisis y definición funcional de proyectos de tecnología
+plan de testeo de regresión
+automatización y optimización
+administración de base de datos
+requerimientos de negocios
+implementar una aplicación
+desarrollar el análisis empleando información de diversas fuentes
+administración de la herramienta de crm
+análisis elaboración y validación de requerimientos
+calidad de software e implantación de sistemas
+pruebas de regresión
+desarrollo de proyectos y/o implementación de sistemas
+casos de prueba
+testing manual y automatizado
+calidad de software
+implementación de pruebas del sistema
+analizar nuevos requerimientos
+análisis y configuración de procesos de negocio
+asegurar la calidad del desarrollo de software
+proyectos de ti
+análisis para poder entender la parte funcional y técnica de la solución
+interfaz de consulta a base de datos
+identificar las relaciones entre procesos e interfaces entre los sistemas
+modelamiento de requerimientos informáticos del negocio y análisis funcional
+análisis y diseño de software
+realizar el análisis cualitativo y cuantitativo de la información de los procesos del área de sistemas y comunicaciones
+realizar y documentar el análisis y diseño de sus soluciones
+realización de análisis
+atención de los requerimientos funcionales
+análisis de datos
+conocimiento de sql
+administración de proyectos
+apoyar en la elaboración y documentar las definiciones funcionales
+defining developing and implementing test plans
+soporte en la realización de análisis
+solución de los requerimientos
+auditoría de sistemas
+elaboración de los documentos de alcance de una implementación
+entendimiento de casos de uso
+diseñar procesos e identificar las necesidades de soporte operativo
+administrador de base de datos
+controlar la manipulación de la información
+análisis de mercado
+soporte en definición de la arquitectura de integración y del modelo de datos
+diseño del sistema
+diferentes plataformas involucradas
+analisis de requerimientos y diseño de soluciones de desarrollo
+trainees en programación
+alta capacidad de análisis y comunicación
+análisis y diseño
+orientación a manejo de bases de datos y datamining o inteligencia de negocios
+racle developer con forms y reports pl sql
+creación de los casos de pruebas manuales
+realizar pruebas de aceptación
+administración y soporte técnico de aplicaciones software base y bases de datos
+capacitación a nuevos usuarios
+análisis y diseño lógico y físico y diseño de arquitectura de soluciones de business intelligence
+gestión de base de datos
+mantener la seguridad y configuración de la base de datos del servidor
+automatizar procesos manuales
+capturar requerimientos analizarlos
+asesorar a los clientes para el desarrollo e implementación de sus erp
+business inteligence
+control de calidad de productos de software
+análisis de los procesos
+elaborar documentación
+base de datos
+evaluación e identificación de impactos en los procesos o en la organización
+revisión de código fuente
+información desarrollo
+colaboración con los stakeholders de negocio y el equipo técnico
+testeo de aplicaciones
+uso de querys
+metodologías ágiles de control de calidad
+realizar y analizar en el software
+planificación y gestión de actividades de diseño prueba e implantación
+qa
+conocimientos en administración sql
+plan de pruebas y corrección de defectos
+diseñar e implementar proceso
+procedimientos de base de datos
+proceso de implementación de automatizaciones
+en la elaboración y actualización de documentación
+conocimientos de cmmi
+definir especificaciones funcionales de desarrollos
+mantenimiento evolutivo y correctivo
+procesamiento análisis e interpretación de data
+pruebas de stress
+test cases/scripts
+análisis de requerimientos funcionales
+análisis y levantamiento de requerimientos
+diseño y desarrollo
+alineada a implementación
+diseño de aplicaciones
+mineria de datos
+implementación de sistemas
+evaluar y diseñar sistemas de apoyo a las áreas existentes
+gestión de requerimientos regionales de índole técnico
+analizar y canalizar errores e incidencias
+pruebas de software de aseguramiento de calidad
+experiencia en programación
+casos de pruebas manuales y automáticos
+pruebas de instalación
+conocimientos en big data
+proponer mejoras de automatización en los procesos de la empresa
+administración de bases de datos
+manejo de base de datos
+elaboración de reportes en lenguaje sql
+conocimientos sobre análisis de datos
+revisión de los casos y scripts de pruebas
+analizar la información
+demostraciones técnicas del sistema

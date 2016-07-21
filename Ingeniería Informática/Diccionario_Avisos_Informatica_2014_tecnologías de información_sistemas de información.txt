@@ -1,0 +1,49 @@
+abap: 3
+analista funcional: 3
+analista proceso: 5
+analista sistema: 2
+analizar información: 7
+análisis: 76
+análisis dato: 5
+análisis diseño: 2
+análisis información: 2
+análisis proceso: 5
+automatización proceso: 3
+bpm: 6
+business process management: 1
+co: 1
+datawarehouse: 1
+desarrollo aplicación: 8
+diseño base dato: 5
+diseño sistema: 3
+etl: 1
+evaluar requerimiento: 2
+extracción: 1
+funcional: 24
+gestión proceso: 13
+herramienta análisis: 1
+herramienta oracle: 1
+implementación sistema: 16
+indicador gestión: 11
+levantamiento: 16
+levantamiento información: 8
+levantamiento proceso: 5
+manejo base dato: 5
+mejora proceso: 13
+modelamiento: 6
+modelamiento proceso: 6
+modelo lógico físico: 1
+nuevo requerimiento: 2
+oracle: 47
+procesamiento información: 1
+proceso automatizables: 1
+proceso negocio: 2
+producto servicio financiero: 6
+proyecto sistema: 5
+reporting services: 1
+requerimiento: 85
+requerimiento funcional: 1
+sap: 30
+sap business one: 1
+sistema gestión: 46
+sistema información: 50

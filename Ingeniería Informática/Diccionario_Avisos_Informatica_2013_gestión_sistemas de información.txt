@@ -1,0 +1,36 @@
+analista funcional: 2
+analista proceso: 1
+analizar información: 1
+analizar requerimiento: 2
+análisis: 32
+análisis dato: 1
+análisis diseño: 6
+análisis información: 1
+análisis mejora proceso: 1
+análisis proceso: 2
+bpm: 2
+co: 1
+conocimiento banca: 1
+crm: 1
+datastage: 1
+desarrollo aplicación: 4
+especificación funcional: 1
+etl: 1
+funcional: 14
+gestión proceso: 2
+herramienta análisis: 1
+implementación sistema: 3
+indicador gestión: 5
+mejora proceso: 3
+modelo lógico físico: 1
+nuevo requerimiento: 2
+oracle: 7
+planeamiento sistema: 1
+proceso comercial: 3
+proceso etl: 1
+proyecto sistema: 9
+requerimiento: 49
+requerimiento funcional: 2
+sap: 9
+sistema gestión: 3
+sistema información: 2

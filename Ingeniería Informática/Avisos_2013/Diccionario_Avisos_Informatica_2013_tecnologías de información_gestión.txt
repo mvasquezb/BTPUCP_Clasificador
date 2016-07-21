@@ -1,0 +1,43 @@
+Jefe: 53
+actividad proyecto: 1
+administrar riesgo: 1
+aseguramiento calidad: 6
+cmmi: 21
+control: 102
+control proyecto: 2
+controlar: 42
+coordinación recurso: 1
+coordinar: 69
+coordinar equipo proyecto: 2
+cumplimiento objetivo: 4
+desarrollo proyecto: 15
+dirigir: 20
+ejecutar proyecto: 3
+gerente: 18
+gerente proyecto: 1
+gestion proyecto: 4
+gestionar: 87
+gestionar proyecto: 6
+gestionar recurso: 2
+gestor proyecto: 1
+levantar información: 1
+liderando equipo: 4
+liderar: 12
+management: 20
+modelamiento proceso: 1
+organizar: 7
+pki: 1
+plan trabajo: 2
+planificar: 40
+pmbok: 11
+pmi: 10
+pmp: 13
+portafolio: 3
+portafolio proyecto: 1
+proceso negocio: 2
+project management professional: 5
+realizar estimación: 1
+seguimiento proyecto: 12
+supervisar: 52
+supervisar cumplimiento: 1
+supervisor: 17

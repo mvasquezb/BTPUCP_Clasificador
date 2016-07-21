@@ -1,0 +1,349 @@
+actualizacion de sistemas
+analisis de aplicaciones
+analisis de arquitectura
+analisis de codigo estático
+analisis de datos
+analisis de los sistemas
+analisis de requerimientos
+analisis de sistemas
+analista funcional
+analista programador
+analizar posibles soluciones
+analizar problemas
+analizar requerimientos
+analizar sistemas de informacion
+analizar software
+analizar soluciones
+android studio
+aplicaciones moviles
+aplicaciones web
+arquitecto de software
+arquitectura basada en servicios
+arquitectura de las soluciones
+arquitectura de sistemas
+arquitectura de software
+artefactos de software
+aseguramiento de la calidad
+atencion de requerimientos
+atencion de tickets
+automatizacion de pruebas
+bases de datos
+calidad de los sistemas
+cambios en la plataforma
+casos de prueba
+casos de usos
+ciclo de vida de desarrollo
+ciclo de vida de software
+cliente/servidor
+cocoa touch
+code reviews
+codificar pruebas
+codigo del programa
+codigo fuente
+codigo libre
+componentes de sistema
+componentes de software
+conocimiento de lenguajes
+construccion de aplicaciones
+construccion de aplicativos
+construccion de software
+construir los componentes
+content management system
+control de calidad
+control de versiones
+coordinacion con las areas
+coordinacion con usuarios finales
+correccion de bugs
+correccion de defectos
+dar soporte a los requerimientos
+depurar el codigo
+desarrollador web
+desarrollar las soluciones
+desarrollar los componentes
+desarrollar programas
+desarrollar requerimientos
+desarrollar software
+desarrollar soluciones
+desarrollo android
+desarrollo de aplicaciones
+desarrollo de componentes
+desarrollo de funcionalidades
+desarrollo de nuevas aplicaciones
+desarrollo de nuevas funcionalidades
+desarrollo de nuevas prestaciones
+desarrollo de software
+desarrollo de soluciones
+desarrollo orientado a objetos
+desarrollo web
+design architecture
+design patterns
+despliegue de las aplicaciones
+developing test plan
+diseñar sistemas de informacion
+diseñar soluciones
+diseño de aplicaciones
+diseño de arquitectura
+diseño de base de datos
+diseño de los sistemas
+diseño de productos de software
+diseño de requerimientos
+diseño de sistemas
+diseño de software
+diseño de soluciones
+diseño del desarrollo
+diseño del programa
+diseño del sistema
+diseño en plataformas
+diseños tecnicos
+documentacion de aplicativos
+documentacion de casos de prueba
+documentacion del codigo
+documentacion del programa
+documentacion funcional
+documentacion tecnica
+documentos funcionales
+documentos tecnicos
+ejecucion de proyectos de ti
+ejecutar pruebas
+elaboracion de documentos de sistemas
+end stage testing
+entrevista con usuarios
+equipos de desarrollo
+escribir codigo
+especificacion de casos de uso
+especificaciones funcionales
+especificaciones tecnicas
+especificar los requerimientos
+estandares de construccion
+estandares de desarrollo
+estandares de programacion
+estimar complejidad de requerimientos
+estimar tiempos
+estructura de datos
+evaluar los requerimientos
+functional testing
+gestion de pruebas
+gestion de tareas
+implement those requirements
+implementacion de aplicaciones
+implementacion de aplicaciones
+implementacion de productos de software
+implementacion de proyectos
+implementacion de sistemas
+implementar los componentes
+implementar requerimientos
+implementar sistemas de informacion
+implementar soluciones
+implementing test plan
+ing. de requerimientos
+ingenieria de requerimientos
+ingenieria de software
+ingeniero junior software
+ingeniero senior software
+integracion continua
+integrar el codigo fuente
+integration testing
+interfaces de usuario
+itl foundation
+java message service
+lenguaje de programacion
+levantamiento de informacion
+levantamiento de requerimientos
+librerias de software
+listado de casos de uso
+listado de requerimientos
+manejo de base de datos
+manejo de tickets
+mantenimiento de aplicaciones
+mantenimiento de sistemas
+mantenimiento de software
+mejoras en la plataforma
+metodologias agiles
+modelado de base de datos
+modelo de arquitectura
+modelo fisico
+modelo logico
+modelos arquitectonicos
+modelos fisicos
+modelos logicos
+normas de programacion
+object orieted analysis
+object orieted design
+object-relational mapping
+oportunidades de desarrollo tecnologico
+orientado a objetos
+pair programming
+pase a produccion
+patrones de diseño
+plan de pruebas
+planificacion del desarrollo
+power builder
+proceso de desarrollo
+procesos de despliegue
+producir posibles soluciones
+programacion a tres capas
+programacion de paginas web
+programacion de sistemas
+programacion en lenguajes
+programacion en plataformas
+programacion orientada a objetos
+programador de aplicaciones
+programador java
+programador web
+programadores en aplicaciones
+programar aplicaciones
+prototipo de pantallas
+proyectos de software
+prueba de aplicativos
+pruebas automatizadas
+pruebas de aplicaciones
+pruebas de integracion
+pruebas de sistema
+pruebas de stress
+pruebas unitarias
+qa de sistemas
+realizar programas
+recolectar datos
+regression testing
+reporting services
+requerimientos de usuarios
+requerimientos funcionales
+requerimientos informaticos
+requirements gathering
+requisitos tecnicos
+resolucion de problemas
+resolver incidencias
+revisar codigo
+revision del codigo
+scripts de base de datos
+seguimiento de errores
+service-oriented architecture
+servidores web
+sincronizacion del codigo
+software engineer
+solicitudes de proyectos
+solucion de requerimientos
+solucion de tickets
+solucion funcional
+solucion tecnica
+soporte a sistemas
+soporte de aplicaciones
+soporte en software
+sql server
+stored procedure
+systems development life cycle
+team foundation service
+test cases
+test del programa
+test plans
+test-driven development
+testing de software
+testing tools
+unit test
+visual basic
+web applications
+web logic
+web service
+.net
+agile
+ajax
+analista
+angularjs
+asp.net
+backend
+bootstrap
+c#
+c/s
+c++
+ci
+cmmi
+cms
+cobol
+criptografia
+css
+css3
+database
+desarrollo
+dotnet
+eclipse
+erwin
+frameworks
+frontend
+git
+glassfish
+hibernate
+html
+html5
+ibatis
+iis
+ios
+ISTQB
+itil
+j2ee
+java
+javabeans
+javascript
+jboss
+jdeveloper
+jms
+jquery
+js
+jscript
+jsf
+json
+jsp
+jstl
+junit
+kanban
+maven
+mule
+mvc
+myeclipse
+mysql
+net
+netbeans
+objectiveC
+odbc/jdbc
+open source
+optimization
+oracle
+orm
+php
+pkcs
+plsql
+poo
+postgresql
+primefaces
+programacion
+programador
+python
+restful
+rpg
+ruby
+rup
+scrum
+sdcl
+sdk
+security
+servlets
+soa
+software
+spring
+sql
+sqlite
+struts
+svn
+taglibs
+tdd
+testing
+tests
+tomcat
+ui
+uml
+vb.net
+velocity
+vfabric
+wcf
+xcode
+xml
+xsl

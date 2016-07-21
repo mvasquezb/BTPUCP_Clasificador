@@ -1,0 +1,62 @@
+ccsa
+cobit
+wifi
+switches
+tcp
+firewalls
+iso 20000. mantener
+proxy
+reportes de disponibilidad
+sgsi
+incidentes
+wan
+auditoria
+iso 27001
+oracle
+administrador
+itil
+redes
+infraestructura
+routers
+atención de requerimientos
+ccna
+helpdesk
+mcse
+asterisk
+networking cisco
+dns
+datacenter
+tcp / ip
+equipos
+ti
+vpn
+soporte
+riesgos
+servidor
+oca
+continuidad
+incidencias
+infrastructure
+respaldo
+dba
+bcp
+sgcn
+dhcp
+it
+servidores
+problemas
+topologías
+soporte analizar
+tcp/ip
+virtualización
+disponibilidad
+backup
+mcts
+configuración
+drp
+mcsa
+lan
+soporte remoto
+voip
+vmware vsphere
+sniffer

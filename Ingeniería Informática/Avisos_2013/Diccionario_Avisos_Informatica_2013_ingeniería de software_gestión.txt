@@ -1,0 +1,46 @@
+Jefe: 46
+actividad proyecto: 4
+aseguramiento calidad: 31
+asignar tarea: 2
+cmmi: 17
+control: 167
+control proyecto: 1
+controlar: 12
+coordinación persona: 1
+coordinar: 60
+coordinar equipo proyecto: 1
+cumplimiento objetivo: 4
+desarrollo nuevo proyecto: 9
+desarrollo proyecto: 27
+dirigir: 14
+dirigir equipo: 1
+dirigir proyecto: 4
+ejecutar proyecto: 5
+gerente: 15
+gerente proyecto: 7
+gestionar: 36
+gestionar equipo: 2
+gestionar proyecto: 5
+jefe proyecto: 15
+levantar información: 5
+liderando equipo: 12
+liderando proyecto: 5
+liderar: 29
+liderar proyecto: 4
+liderazgo proyecto: 1
+management: 38
+modelamiento proceso: 4
+organizar: 2
+pki: 2
+plan trabajo: 4
+planificar: 18
+pmbok: 2
+pmi: 21
+pmp: 3
+portafolio: 2
+proceso negocio: 1
+project manager: 2
+realizar estimación: 2
+seguimiento proyecto: 24
+supervisar: 38
+supervisor: 7

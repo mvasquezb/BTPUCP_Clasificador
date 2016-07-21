@@ -1,0 +1,27 @@
+dataminning
+cubos
+abap
+modelos de simulación de servicios
+bpm
+requerimientos
+bi
+olap
+datastage
+erp
+bpmn
+sap
+datawarehousing
+oracle
+volumen de información
+análisis de la información
+consolidar la información
+logística
+anaálisis frsaes
+teradata
+etl
+modelos de negocio
+data warehouses
+facturación
+datawarehouse
+crm
+analista funcional

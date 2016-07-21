@@ -1,0 +1,55 @@
+análisis: 37
+análisis diseño sistema: 2
+arquitectura: 15
+arquitectura sistema: 1
+arquitectura solución: 8
+aseguramiento calidad: 3
+c: 8
+calidad: 58
+calidad producto: 2
+caso prueba: 1
+certificación: 33
+componente: 2
+conocimiento base dato: 1
+control calidad: 11
+desarrollar: 36
+desarrollo: 84
+desarrollo aplicación: 4
+desarrollo componente: 1
+desarrollo mantenimiento sistema: 2
+desarrollo software: 10
+desarrollo solución: 3
+diseño: 36
+diseño desarrollo solución: 1
+diseño sistema: 2
+equipo desarrollo: 1
+gestión proyecto: 80
+gestión tarea: 1
+implementación: 63
+implementar: 33
+ingeniería requerimiento: 1
+ingeniería software: 2
+integración: 15
+java: 11
+jee: 1
+kanban: 1
+mantenimiento: 25
+metodología desarrollo: 4
+metodología desarrollo software: 1
+metodología ágil: 1
+net: 16
+plan prueba: 1
+power builder: 1
+proceso desarrollo: 9
+programación: 20
+programación base dato: 1
+programación net: 2
+programador: 3
+prueba: 20
+quality: 1
+rup: 2
+scrum: 1
+soa: 10
+standard: 37
+standard desarrollo: 2
+visual basic: 5

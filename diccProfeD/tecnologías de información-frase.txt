@@ -1,0 +1,139 @@
+asegurar el funcionamiento del oracle.
+análisis y definición de integraciones entre los sistemas
+soporte administrativo de redes de it y comunicaciones
+administración soporte y delivery de sistema
+administrar el centro de cómputo
+gestión de gobierno de servicios de ti
+asesoría técnica
+proponer evaluar
+sistemas operativos
+arquitectura de referencia bpm/soa
+infraestructura ti
+arquitectura de software
+administrar la base de datos
+administración de base de datos
+vware vsphere
+conocimientos de sistemas operativos
+mantenimiento correctivo y/o preventivo de sistemas de tecnología
+tareas de mantenimiento y soporte de red
+velar por la seguridad informática
+redes de comunicaciones de video
+redundancia de procesadores
+tecnologías host
+estándares de desarrollo
+analizar proponer y ejecutar las mejoras continuas de los sistemas de información y las bases de datos de las aplicaciones de la empresa
+administración de equipos
+ingeniería de requerimientos
+brindar soporte técnico a servidores y equipos de comunicaciones
+asegurar el funcionamiento de las bases de datos.
+planificar diseñar e implementar una red de alta calidad
+soporte técnico de computo y sistemas
+instalación software
+definir y hacer cumplir las políticas de it
+seguridad de la información
+seguridad en infraestructuras de it
+administración de la infraestructura de servidores y soluciones de almacenamiento físicos
+definir y controlar las políticas estándares
+evaluar
+infrastructure architecture regarding storage
+administración de infraestructura
+administración y mantenimiento de servidores
+redes de comunicaciones
+planes de recuperación de desastres
+instalación de sistemas
+base de datos de la gestión de la configuración
+administrar la infraestructura informática
+gestión del suministro de servicios ti
+infraestructura de voip
+configuración
+arquitecto de sistemas
+infraestructura de ti
+tendencias digitales
+canales digitales
+configuración de red
+continuidad de negocio
+modelos de arquitectura
+reportes de disponibilidad de servicio
+proponer tecnologías
+entender los modelos lógico y físico de los sistemas
+infrastructure solution architect
+mantenimiento soporte e inventario de los equipos informáticos de la organización
+administrar la seguridad
+elaborar el plan de mantenimiento del hardware
+conocimiento de protocolo
+aplicación de estándares
+arquitectura de comunicaciones
+analizar y diseñar la herramienta traductora
+administrar y configurar los servidores y servicios
+equipos de ti
+dba
+sistema de gestión de seguridad de la información
+control y gestión de la infraestructura
+definir las interfaces entre aplicaciones
+lineamientos de seguridad
+operatividad de equipos
+plan de continuidad de negocios
+administrador de red
+soporte a aplicaciones
+administración de firewalls
+información de aplicativos
+gestión del portafolio de servicios e interfaces
+soporte técnico a servidores y equipos de comunicaciones
+seleccionar la mejor pila de aplicaciones
+asegurar la continuidad en las operaciones de los sistemas
+proponer políticas de seguridad de la información
+seleccionar las prácticas y normas adecuadas para un proyecto
+administración de redes
+desarrollo de redes estructuradas
+administrar y monitorear las bases de datos y servicios de aplicaciones.
+diseñar la arquitectura de las plataformas
+evaluar y proponer alternativas de mejoras tecnológicas a la infraestructura de comunicaciones
+arquitecturas de integración
+procesos ti
+análisis de riesgos
+mejora de procesos
+metodologías para el análisis de sistema
+gestor de proyectos ti
+controlar y mantener los equipos de comunicaciones
+reemplazo de equipos con sistema operativo
+gestión de las comunicaciones
+arquiectura de interfaces
+definición de la arquitectura de los sistemas
+configurar hardware
+mantener actualizado el backup
+hacer backup de servidores
+herramientas remotas telemáticas
+instalar y configurar software
+determinar las configuraciones óptimas
+respaldo de información
+implementación
+definición de los controles de seguridad para las comunicaciones.
+servicios soa
+documentar los proyectos procedimientos
+base de datos de topologías
+convivencia durante la migración de datos
+plan de contingencias y seguridad de información
+administrar los servicios de telecomunicaciones
+planificar ejecutar y controlar la infraestructura de red de datos y telefonía
+mantener red de apoyo a las redes de distribución
+apoyar en la implementación de nuevo software
+garantizar que las aplicaciones y dispositivos transaccionales de las oficinas mantengan una correcta operatividad
+conocimiento en redes y telecomunicaciones.
+mantener y gestionar una infraestructura de red
+estandarizacion de versiones del software
+administrar gestionar y configurar la red informática
+elaborar proponer e implementar
+asegurar la confiabilidad y operatividad de las aplicaciones
+procesos de ti
+gestión de riesgos
+conocimiento de itil
+establecer mantener
+establecimiento de políticas
+controles de seguridad de la información
+instalar y configurar los equipos de comunicaciones y de banca virtual.
+ejecutar pases a producción de aplicaciones internas.
+arquitectura empresarial
+arquitectura de sistemas
+redes de it y comunicaciones
+apoyo a los usuarios
+modelamiento de procesos

@@ -1,0 +1,13 @@
+sistemas de información-frase.txt
+sistemas de información-verbo.txt
+sistemas de información-sustantivo.txt
+ciencias de la computación-frase.txt
+ingeniería de software-frase.txt
+ingeniería de software-verbo.txt
+ingeniería de software-sustantivo.txt
+gestión-frase.txt
+gestión-verbo.txt
+gestión-sustantivo.txt
+tecnologías de información-frase.txt
+tecnologías de información-verbo.txt
+tecnologías de información-sustantivo.txt

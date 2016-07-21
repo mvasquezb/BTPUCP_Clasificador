@@ -1,0 +1,11 @@
+co
+teradata
+sap
+manejo de volumen de información
+datamining
+bi
+manejo de planes de ejecución y optimización
+datawarehouse
+erp
+oracle
+funcional

@@ -1,0 +1,56 @@
+activo: 4
+administración: 25
+administrador: 3
+administrar: 15
+atención requerimiento: 4
+auditorio: 1
+capacitar usuario: 1
+centro dato: 1
+cobit: 4
+configuración: 6
+configurar software: 2
+conocimiento itil: 4
+conocimiento red telecomunicación: 1
+continuidad: 1
+data center: 3
+disponibilidad: 21
+equipo: 47
+establecer: 37
+evaluar: 27
+gestión comunicación: 1
+gestión riesgo: 3
+gestión servicio: 1
+gestor proyecto: 5
+implementación: 55
+incidencia: 3
+incidente: 4
+información comunicación: 4
+infraestructura: 14
+infraestructura tecnológico: 1
+ingeniería requerimiento: 1
+instalación equipo: 1
+investigar: 3
+iso: 3
+itil: 14
+lan: 1
+lineamiento: 4
+mantenimiento: 23
+mejora proceso: 3
+mesa ayuda: 2
+nivel servicio: 5
+oracle: 7
+planificar: 24
+plataforma informática: 2
+problema: 22
+proceso: 69
+red: 18
+red dato: 1
+respaldo: 1
+riesgo: 19
+seguridad información: 6
+service desk: 2
+servicio: 63
+servidor: 9
+sistema operativo: 2
+soporte: 30
+soporte comunicación: 3

@@ -1,0 +1,6 @@
+control
+controlador
+lógica
+algoritmo
+PID
+monitoreo

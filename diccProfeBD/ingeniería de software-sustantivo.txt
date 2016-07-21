@@ -1,0 +1,50 @@
+certificación
+diseño
+tdd
+programación
+agile
+uml
+arquitectura
+componentes
+qa
+calidad
+git
+control de calidad
+asp.net
+soa
+implementación
+j2ee
+programmers
+c#
+eclipse
+ejecutar el plan de pruebas para las aplicaciones desarrolladas
+c++
+desarrollo
+pruebas
+java
+web services
+pruebas especiales funcionales
+rup construir e implementar los componentes
+certificador
+quality
+kanban
+rup
+php
+android sdk
+scrum
+frontend
+integraciones
+backend
+programador
+visual studio
+.net
+framework .net
+desarrollos
+mvc
+frameworks
+análisis
+mantenimiento
+integración
+android studio
+developer
+desarrollador

@@ -1,0 +1,5 @@
+sql
+administrador de servidores y redes
+modelo arquitectónico
+qa
+artefactos de software

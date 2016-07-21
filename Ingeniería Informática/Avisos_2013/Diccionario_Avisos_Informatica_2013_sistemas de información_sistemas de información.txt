@@ -1,0 +1,70 @@
+abap: 16
+analisis data: 1
+analisis proceso: 1
+analista información: 29
+analista proceso: 46
+analista sistema: 75
+analisys services: 1
+analizar información: 38
+arquitectura dato: 1
+automatizacion proceso: 1
+balance score card: 2
+base dato: 487
+bi: 87
+bpm: 30
+bpmn: 3
+bsc: 1
+business intelligence: 86
+business process management: 6
+calidad base dato: 2
+co: 14
+consolidar información: 11
+consultor junior: 17
+crm: 67
+cubo: 12
+data marts: 2
+data warehouse: 16
+datamining: 6
+datastage: 34
+datawarehouse: 45
+datawarehousing: 1
+documentar proceso: 8
+elaboracion prototipo: 1
+erp: 118
+estrategia sistema: 3
+etl: 29
+evaluar estrategia: 1
+flujo información: 14
+indicador area|área: 672
+indicador gestion: 1
+integración sistema: 10
+inteligencia comercial: 51
+inteligencia negocio: 68
+inteligencia proceso: 5
+interfaz sistema: 1
+levantamiento información: 72
+levantamiento proceso: 6
+manejo proceso: 7
+mapeo proceso: 5
+mejora proceso: 148
+modeladores proceso: 9
+modelamiento base dato: 7
+modelamiento dato: 16
+modelamiento proceso: 8
+modelar proceso: 3
+modelo proceso: 9
+monitorear indicador: 12
+olap: 14
+procesamiento información: 15
+proceso: 861
+proceso comercial: 29
+proceso negocio: 15
+relación proceso: 1
+reporting services: 27
+sap: 183
+scripting: 7
+seguimiento indicador: 28
+sistema información: 97
+solución negocio: 3
+teradata: 10
+volumen información: 15

@@ -1,0 +1,247 @@
+diseño
+certificador de software
+saas software
+diseño del sistema
+control de versiones
+calidad de los sistemas
+codificar y ejecutar pruebas unitarias
+developing ios and android
+programación de aplicaciones
+desarrollar las soluciones propuestas
+desarrollo de aplicaciones
+estándares de modelamiento uml.
+análisis y diseño de sistemas
+realizar pruebas unitarias e implementación de patrones de diseño
+validar los diseños
+estándares de construcción de componentes de software
+pruebas unitarias.
+elaboración de casos de prueba
+team foundation server
+modelo de la arquitectura
+metodologías ágiles
+implementar soluciones de software.
+objectoriented analysis and design skills
+elaborar especificaciones funcionales
+quality assurance
+software engineer
+sistema de control de versiones
+codificación
+ciclo de desarrollo del software
+casos de prueba
+pruebas técnicas y de usuario
+desarrollo de software
+análisis de elaboración de prototipos
+estandares de desarrollo
+mantenimiento de software
+define technical architecture
+team coaching
+plan de pruebas
+comunicación e interfaces
+integración continua
+pruebas unitarias automatizadas
+estandares tecnicos
+desarrollo y mantenimiento de aplicativos
+implementación de software y aplicaciones móviles.
+calidad de producto
+lenguaje de programación java o .net.
+desarrollo android
+integration server
+normas de programación
+análisis y levantamiento de requerimientos
+metodologías ágiles de desarrollo
+desarrollo y mantenimiento de los sistemas
+establecer estandares de desarrollo.
+proceso de desarrollo
+modelo de arquitectura
+support the production and testing environment
+arquitectura de sistemas
+ios
+architectural design
+análisis construcción diseño
+especificación técnica
+programación en lenguajes
+desarrollar
+functional testing based on test cases
+ing. de requerimientos
+aseguramiento de calidad
+ingeniero de software
+pruebas unitarias
+code review
+documentación de sistemas
+diseño de casos de prueba
+patrones de diseño
+ingeniería de requerimientos
+desarrollo de soluciones
+gestión de proyectos
+programador as400
+scrum
+equipos de desarrollo
+diseño y programación de base de datos
+cumplimiento de tiempos
+determine the best way to implement those requirements in code and develop it.
+despliegue de aplicativos en ambientes de producción.
+large scale platform
+metodologías de desarrollo
+técnicas de desarrollo orientadas a objetos.
+ingeniería de software
+diseño de sistemas
+programación en bases de datos
+ingenieria de software
+documentación técnica de los cambios
+performance testing tools
+subversion definición y desarrollo del ciclo de desarrollo del sofware
+programación
+estándares de desarrollo
+investigación de librerías y componentes de software.
+programación y diseño en plataformas
+programación en .net
+aplicaciones para móviles
+programación orientada a objetos
+diseño y desarrollo de soluciones
+agile/scrum methodology
+technical expertise
+gestión de pruebas
+functional/manual and regression testing
+arquitectura de software
+teammates coaching
+unit and integration testing
+systems architecture
+entender los modelos lógico y físico de los sistemas
+realizar modelado basado en uml
+algoritmos
+diseño y arquitectura de software
+improve web solutions
+java
+visual basic 6.0
+teammates codereview
+test plans
+modelado basado en uml
+construcción y testing
+plan de pruebas y corrección de defectos
+depurar el código
+functional testing
+construcción de los componentes de software
+sincronización del código
+scalable server infrastructure
+java.
+conocimiento de lenguajes
+estándares
+construcción de componentes
+realizar programas o componentes de sistemas
+pruebas de software
+arquitectura de las soluciones
+programación a tres capas
+interacts with qa engineers
+ingeniería de sofware
+estándares de construcción
+.net
+test cases
+control de calidad de los requerimientos de cambio
+verificar los componentes
+new technologies to improve existing platform
+interact with qa engineers
+analizar y desarrollar software
+programación de los desarrollos y mantenimiento de software
+validar el diseño de los casos de prueba pruebas y despliegue
+integration frameworks
+integrar el código fuente
+conocimiento en base de datos
+automatización de pruebas
+ingeniería de software php
+power builder
+control de calidad
+patrones de diseño diseño y planificación del desarrollo.
+componentes de software
+programación de páginas web
+base de datos sql server
+android
+gestión de tareas
+regression testing
+conocimientos de uml
+c++
+desarrollo
+web services
+regression scripts
+develop web applications
+implementación de aplicaciones web
+construcción y testing de software
+large scale platform componentes
+metodologías de desarrollo de software
+conocimientos de frameworks
+metodologías de desarrollo de software.
+integration testing
+total quality
+pruebas de integración
+análisis y diseño de los sistemas
+automation testing tools
+automation tools
+rup
+desarrollo de componentes
+revisión de código
+estructuras de datos
+test case management
+componentes de sistemas
+proceso de desarrollo de software
+soporte y mantenimiento
+.net.
+determines the best way to implement specifications in code and codes it
+developing and implementing test plans and test cases/scripts
+mvc
+diseño y arquitectura de sistemas
+análisis
+análisis definición y desarrollo del ciclo de desarrollo del sofware
+testing tools
+corrección de defectos
+análisis de requerimientos
+certificación
+diseño
+tdd
+programación
+agile
+uml
+arquitectura
+componentes
+qa
+calidad
+git
+control de calidad
+asp.net
+soa
+implementación
+j2ee
+programmers
+c#
+eclipse
+ejecutar el plan de pruebas para las aplicaciones desarrolladas
+c++
+desarrollo
+pruebas
+java
+web services
+pruebas especiales funcionales
+rup construir e implementar los componentes
+certificador
+quality
+kanban
+rup
+php
+android sdk
+scrum
+frontend
+integraciones
+backend
+programador
+visual studio
+.net
+framework .net
+desarrollos
+mvc
+frameworks
+análisis
+mantenimiento
+integración
+android studio
+developer
+desarrollador
+desarrollar
+implementar

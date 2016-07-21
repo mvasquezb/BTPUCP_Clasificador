@@ -1,0 +1,15 @@
+abap: 3
+bpm: 6
+cmmi: 9
+datawarehouse: 1
+erp: 23
+itil: 105
+pmbok: 4
+pmi: 19
+pmp: 20
+portafolio: 6
+proceso: 122
+rup: 3
+sap: 30
+test: 3
+testing: 2

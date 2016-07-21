@@ -1,0 +1,64 @@
+Fila: 3 Numero de Aviso: 1117 Texto B:  - Texto D: Gestión
+Fila: 26 Numero de Aviso: 1342 Texto B: Tecnologías de información - Texto D: 
+Fila: 28 Numero de Aviso: 1351 Texto B: Tecnologías de información - Texto D: Sistemas de información
+Fila: 31 Numero de Aviso: 1381 Texto B:  - Texto D: Ingeniería de software
+Fila: 33 Numero de Aviso: 1388 Texto B: Sistemas de información - Texto D: Ingeniería de software
+Fila: 35 Numero de Aviso: 1419 Texto B: Sistemas de información - Texto D: Ingeniería de software
+Fila: 37 Numero de Aviso: 1467 Texto B: Tecnologías de información - Texto D: 
+Fila: 38 Numero de Aviso: 1469 Texto B: Tecnologías de información - Texto D: Sistemas de información
+Fila: 40 Numero de Aviso: 1474 Texto B: Gestión - Texto D: Sistemas de información
+Fila: 42 Numero de Aviso: 1506 Texto B: Ingeniería de software - Texto D: Tecnologías de información
+Fila: 43 Numero de Aviso: 1508 Texto B: Sistemas de información - Texto D: 
+Fila: 49 Numero de Aviso: 1538 Texto B: Ingeniería de software - Texto D: Tecnologías de información
+Fila: 68 Numero de Aviso: 1678 Texto B: Tecnologías de información - Texto D: 
+Fila: 71 Numero de Aviso: 1686 Texto B: Sistemas de información - Texto D: Tecnologías de información
+Fila: 73 Numero de Aviso: 1708 Texto B:  - Texto D: Ingeniería de software
+Fila: 76 Numero de Aviso: 1724 Texto B:  - Texto D: Ingeniería de software
+Fila: 77 Numero de Aviso: 1726 Texto B:  - Texto D: Ingeniería de software
+Fila: 82 Numero de Aviso: 1759 Texto B: Sistemas de información - Texto D: Ingeniería de software
+Fila: 84 Numero de Aviso: 1770 Texto B:  - Texto D: Ingeniería de software
+Fila: 93 Numero de Aviso: 1796 Texto B: Ingeniería de software - Texto D: Tecnologías de información
+Fila: 103 Numero de Aviso: 1839 Texto B: Gestión - Texto D: Sistemas de información
+Fila: 107 Numero de Aviso: 1870 Texto B: Ingeniería de software - Texto D: Tecnologías de información
+Fila: 108 Numero de Aviso: 1875 Texto B: Gestión - Texto D: Sistemas de información
+Fila: 109 Numero de Aviso: 1881 Texto B: Gestión - Texto D: 
+Fila: 114 Numero de Aviso: 1902 Texto B:  - Texto D: Gestión
+Fila: 118 Numero de Aviso: 1917 Texto B: Sistemas de información - Texto D: Ingeniería de software
+Fila: 120 Numero de Aviso: 1926 Texto B: Sistemas de información - Texto D: 
+Fila: 129 Numero de Aviso: 1968 Texto B: Gestión - Texto D: Tecnologías de información
+Fila: 134 Numero de Aviso: 1983 Texto B: Sistemas de información - Texto D: Gestión
+Fila: 135 Numero de Aviso: 1984 Texto B: Tecnologías de información - Texto D: Sistemas de información
+Fila: 136 Numero de Aviso: 1989 Texto B:  - Texto D: Ingeniería de software
+Fila: 145 Numero de Aviso: 2044 Texto B: Sistemas de información - Texto D: 
+Fila: 146 Numero de Aviso: 2047 Texto B: Tecnologías de información - Texto D: Ingeniería de software
+Fila: 147 Numero de Aviso: 2059 Texto B: Ingeniería de software - Texto D: Tecnologías de información
+Fila: 149 Numero de Aviso: 2075 Texto B:  - Texto D: Ingeniería de software
+Fila: 150 Numero de Aviso: 2076 Texto B: Sistemas de información - Texto D: Ingeniería de software
+Fila: 152 Numero de Aviso: 2079 Texto B: Ingeniería de software - Texto D: Tecnologías de información
+Fila: 153 Numero de Aviso: 2099 Texto B: Sistemas de información - Texto D: Ingeniería de software
+Fila: 154 Numero de Aviso: 2102 Texto B: Gestión - Texto D: Sistemas de información
+Fila: 156 Numero de Aviso: 2109 Texto B: Sistemas de información - Texto D: Ingeniería de software
+Fila: 164 Numero de Aviso: 2139 Texto B: Tecnologías de información - Texto D: Sistemas de información
+Fila: 167 Numero de Aviso: 2145 Texto B: Tecnologías de información - Texto D: Sistemas de información
+Fila: 170 Numero de Aviso: 2161 Texto B: Ingeniería de software - Texto D: Tecnologías de información
+Fila: 173 Numero de Aviso: 2173 Texto B: Tecnologías de información - Texto D: Sistemas de información
+Fila: 174 Numero de Aviso: 2175 Texto B: Sistemas de información - Texto D: Ingeniería de software
+Fila: 175 Numero de Aviso: 2177 Texto B: Sistemas de información - Texto D: Tecnologías de información
+Fila: 177 Numero de Aviso: 2183 Texto B: Ingeniería de software - Texto D: Sistemas de información
+Fila: 180 Numero de Aviso: 2212 Texto B: Gestión - Texto D: Tecnologías de información
+Fila: 186 Numero de Aviso: 2225 Texto B:  - Texto D: Sistemas de información
+Fila: 187 Numero de Aviso: 2226 Texto B: Sistemas de información - Texto D: Ingeniería de software
+Fila: 197 Numero de Aviso: 2248 Texto B: Sistemas de información - Texto D: Ingeniería de software
+Fila: 198 Numero de Aviso: 2249 Texto B: Sistemas de información - Texto D: Ingeniería de software
+Fila: 207 Numero de Aviso: 2302 Texto B: Gestión - Texto D: Sistemas de información
+Fila: 214 Numero de Aviso: 2347 Texto B: Sistemas de información - Texto D: Ingeniería de software
+Fila: 217 Numero de Aviso: 2384 Texto B: Sistemas de información - Texto D: Gestión
+Fila: 219 Numero de Aviso: 2390 Texto B: Ingeniería de software - Texto D: Tecnologías de información
+Fila: 225 Numero de Aviso: 2428 Texto B: Sistemas de información - Texto D: Ingeniería de software
+Fila: 232 Numero de Aviso: 2501 Texto B: Gestión - Texto D: Tecnologías de información
+Fila: 233 Numero de Aviso: 2507 Texto B: Gestión - Texto D: Tecnologías de información
+Fila: 240 Numero de Aviso: 2537 Texto B: Sistemas de información - Texto D: Gestión
+Fila: 243 Numero de Aviso: 2543 Texto B:  - Texto D: Sistemas de información
+Fila: 251 Numero de Aviso: 2592 Texto B:  - Texto D: Ingeniería de software
+
+Total diferencias: 62

@@ -1,0 +1,77 @@
+analista: 86
+analista funcional: 1
+analista programador: 1
+aplicación web: 7
+arquitectura sistema: 4
+arquitectura solución: 4
+aseguramiento calidad: 6
+base dato: 116
+c: 8
+cambio plataforma: 6
+caso prueba: 1
+ciclo vida software: 2
+cliente servidor: 2
+cmmi: 21
+cobol: 1
+componente sistema: 1
+conocimiento lenguaje: 5
+control calidad: 2
+css: 5
+desarrollo: 120
+desarrollo software: 2
+desarrollo solución: 2
+despliegue aplicación: 5
+ejecutar prueba: 2
+equipo desarrollo: 9
+evaluar requerimiento: 1
+glassfish: 1
+html: 2
+iis: 17
+implementar solución: 1
+ios: 7
+itil: 98
+java: 25
+jboss: 9
+jdeveloper: 2
+json: 2
+levantamiento información: 5
+manejo base dato: 4
+mantenimiento aplicación: 2
+mantenimiento sistema: 14
+mantenimiento software: 3
+mejora plataforma: 3
+mysql: 5
+net: 15
+open source: 7
+optimization: 1
+oracle: 41
+orientar objeto: 3
+php: 3
+plan prueba: 2
+postgresql: 2
+programador: 2
+programador aplicación: 1
+recolectar dato: 2
+reporting services: 2
+requerimiento funcional: 1
+requerimiento usuario: 9
+requisito técnico: 2
+resolver incidencia: 2
+ruby: 1
+sdk: 2
+security: 10
+servidor web: 6
+soa: 8
+software: 146
+soporte aplicación: 4
+soporte sistema: 16
+soporte software: 3
+spring: 1
+sql: 73
+sql server: 36
+test: 1
+testing: 5
+tomcat: 4
+uml: 3
+visual basic: 5
+xml: 2

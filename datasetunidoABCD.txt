@@ -1,0 +1,1065 @@
+ingeniería de software 
+
+frase -control de calidad de los requerimientos de cambio -pruebas técnicas y de usuario -documentación técnica de los cambios frase -pruebas técnicas y de usuario 
+
+Categoria:ingeniería de software 
+
+frase -desarrollo de software -ing. de requerimientos -aseguramiento de calidad frase -proceso de desarrollo de software -ingeniería de requerimientos -análisis de elaboración de prototipos -aseguramiento de calidad 
+frase -ingeniería de sofware 
+Categoria:sistemas de información 
+frase -consultoría de negocio 
+frase -diseño de soluciones de negocio -sistemas de información de gestión -estrategia de sistemas frase -diseño de soluciones de negocio 
+desarrollo e implantación -desarrollo de aplicaciones 
+Categoria:ingeniería de software 
+frase -software engineer 
+sustantivo -integración frase -desarrollo de software -integración continua frase -desarrollo de software 
+sustantivo -agile -scrum frase -desarrollo de software -agile/scrum methodology 
+Categoria:sistemas de información 
+sustantivo -requerimientos frase -apoyo en las diferentes actividades del analista de sistemas 
+frase -actividades del analista de sistemas 
+
+Categoria:tecnologías de información 
+frase -procesos de ti frase -procesos de ti 
+
+
+Categoria:tecnologías de información 
+frase -administrador de red sustantivo -administrador 
+frase -infraestructura informática -centro de datos -red de datos -seguridad informática -disponibilidad de los servicios relacionados a las ti -infraestructura tecnológica frase -administrar la infraestructura informática -administrar el centro de cómputo -velar por la seguridad informática 
+sustantivo -servidor 
+Categoria:ingeniería de software 
+sustantivo -programador 
+sustantivo -calidad frase -casos de prueba frase -desarrollo de aplicaciones 
+frase -pruebas unitarias automatizadas -metodologías ágiles de desarrollo frase -pruebas unitarias automatizadas -metodologías ágiles de desarrollo 
+Categoria:ingeniería de software 
+frase -ingeniero de software 
+frase -modelo de arquitectura -sincronización del código -modelado basado en uml -pruebas unitarias -patrones de diseño frase -equipos de desarrollo -modelo de la arquitectura -codificación -pruebas unitarias -patrones de diseño 
+sustantivo -kanban -scrum -tdd -soa frase -control de versiones -integración continua -metodologías ágiles 
+Categoria:sistemas de información 
+frase -analista funcional 
+frase -administrador a nivel usuario y funcional frase -administrador de erp -manejo de base de datos 
+
+Categoria:sistemas de información 
+frase -análisis de procesos 
+frase -análisis y documentación de procesos -entrevistas con usuarios -gestión de procesos frase -modelo de negocio -elaboración de prototipos 
+frase -análisis y documentación de procesos -entrevistas con usuarios -gestión de procesos 
+Categoria:tecnologías de información 
+sustantivo -ti frase -procesos ti 
+frase -gobierno de los servicios de ti frase -gestión de gobierno de servicios de ti 
+sustantivo -itil frase -infraestructura tecnológica frase -conocimiento de itil 
+Categoria:sistemas de información 
+frase -analista funcional 
+sustantivo -análisis frase -análisis y diseño de sistemas de información 
+sustantivo -análisis 
+Categoria:sistemas de información 
+sustantivo -sap frase -sap business one 
+sustantivo -sap frase -procesos de negocio frase -sap business one 
+sustantivo -sap 
+Categoria:tecnologías de información 
+frase -continuidad de negocio frase -continuidad de negocio 
+frase -continuidad de negocio frase -continuidad de negocio 
+sustantivo -sgcn -bcp -itil -cobit frase -continuidad de negocio -gestión de crisis -iso 22301 
+Categoria:ingeniería de software 
+
+sustantivo -desarrollo -implementación frase -visual basic 6.0 -base de datos sql server 
+sustantivo -implementación frase -visual basic 6.0 -base de datos sql server 
+Categoria:ingeniería de software 
+sustantivo -programador 
+sustantivo -mvc -rup -scrum -desarrollo frase -team foundation server frase -metodologías de desarrollo 
+sustantivo -mvc -rup -scrum -desarrollo frase -team foundation server 
+Categoria:ingeniería de software 
+sustantivo -programador 
+sustantivo -desarrollo frase -documentación de sistemas sustantivo -programación -desarrollo 
+
+Categoria:ingeniería de software 
+frase -arquitectura de software frase -arquitectura de software 
+frase -estandares tecnicos -casos de prueba -pruebas de integración -arquitectura de software frase -arquitectura de software 
+frase -arquitectura de software -ingenieria de software 
+Categoria:tecnologías de información 
+sustantivo -riesgos 
+sustantivo -riesgos -equipos frase -análisis de riesgos 
+sustantivo -it frase -soporte en comunicaciones frase -mejora de procesos 
+Categoria:ingeniería de software 
+
+sustantivo -implementación frase -visual basic 6.0 -base de datos sql server 
+sustantivo -implementación frase -visual basic 6.0 -base de datos sql server 
+Categoria:ingeniería de software 
+sustantivo -calidad 
+sustantivo -pruebas 
+frase -gestión de pruebas -automatización de pruebas frase -gestión de proyectos -gestión de pruebas -pruebas de software 
+Categoria:sistemas de información 
+sustantivo -sap -analista funcional 
+frase -analista funcional -procesos de negocio -sistemas de información -nuevos requerimientos sustantivo -sap frase -analizar requerimientos 
+frase -analista sap 
+Categoria:ingeniería de software 
+sustantivo -programador 
+sustantivo -componentes -desarrollo frase -programación de páginas web 
+sustantivo -git 
+Categoria:sistemas de información 
+
+frase -reportes de datos -analizar la información 
+frase -dominio de sql y manejo de bases de datos 
+Categoria:ingeniería de software 
+sustantivo -desarrollador 
+sustantivo -desarrollo 
+sustantivo -desarrollo frase -desarrollo android 
+Categoria:tecnologías de información 
+
+sustantivo -continuidad frase -operaciones de red -capacidades de los sistemas frase -diseñar la arquitectura de las plataformas 
+frase -plataformas oss -redes ip 
+Categoria:tecnologías de información 
+
+frase -soporte técnico -data center frase -vware vsphere -conocimiento en redes y telecomunicaciones. 
+
+Categoria:tecnologías de información 
+frase -ingeniero senior de redes sustantivo -redes 
+sustantivo -voip -disponibilidad frase -redes de comunicaciones -equipos de red -infraestructura de red sustantivo -voip frase -redes de comunicaciones de video -mantener y gestionar una infraestructura de red 
+sustantivo -voip -lan -wan -tcp -asterisk frase -infraestructura de red -estándares de hardware -balanceadores de carga frase -establecimiento de políticas 
+Categoria:ingeniería de software 
+frase -ingeniero de software 
+frase -modelo de arquitectura -sincronización del código -modelado basado en uml -pruebas unitarias -patrones de diseño -integración continua -revisión de código frase -realizar modelado basado en uml -realizar pruebas unitarias e implementación de patrones de diseño 
+sustantivo -tdd -kanban -scrum frase -integración continua -pruebas unitarias 
+Categoria:ingeniería de software 
+sustantivo -programador 
+frase -pruebas unitarias -integrar el código fuente frase -codificar y ejecutar pruebas unitarias -integrar el código fuente 
+sustantivo -scrum frase -diseño de sistemas 
+Categoria:ingeniería de software 
+frase -programador as400 sustantivo -programador 
+
+sustantivo -programación 
+Categoria:tecnologías de información 
+
+frase -instalación de equipos -mantenimiento de hardware -seguridad de información frase -elaborar el plan de mantenimiento del hardware -proponer políticas de seguridad de la información 
+
+Categoria:tecnologías de información 
+frase -administrador de servidores y redes sustantivo -redes 
+frase -infraestructura de virtualización -administración de los servicios -infraestructura de networking -respaldo de información -diagnóstico y solución de incidencias -infraestructura de servidores -telefonía ip -infraestructura it sustantivo -vmware vsphere -networking cisco frase -administración de la infraestructura de servidores y soluciones de almacenamiento físicos -respaldo de información 
+sustantivo -dns -dhcp -vpn -cobit frase -administración y mantenimiento de servidores -configuración y mantenimiento de redes -seguridad informatica -plataformas de virtualización 
+Categoria:tecnologías de información 
+frase -arquitectura empresarial 
+frase -activos de ti -lineamientos de ti frase -documentar los proyectos 
+procedimientos 
+Categoria:ingeniería de software 
+sustantivo -programador 
+frase -programación de aplicaciones -conocimiento en base de datos 
+
+Categoria:sistemas de información 
+sustantivo -sap sustantivo -sap 
+
+frase -experiencia funcional -sistemas de información sustantivo -sap frase -sistemas de información 
+Categoria:tecnologías de información 
+sustantivo -oracle sustantivo -oracle 
+sustantivo -dba --mcts -oca frase -administración de base de datos frase -dba -administración de base de datos -conocimientos de sistemas operativos 
+frase -administrador de base de datos 
+Categoria:tecnologías de información 
+
+frase -soporte técnico -instalación de software frase -soporte técnico de computo y sistemas -instalación software 
+frase -soporte de hardware 
+Categoria:sistemas de información 
+
+frase -análisis funcional -analistas funcionales frase -análisis funcional -documentación de casos de prueba y prototipos de pantallas 
+frase -análisis funcional frase -análisis funcional -modelamiento de datos 
+Categoria:ingeniería de software 
+sustantivo -desarrollador sustantivo -desarrollador 
+sustantivo -componentes frase -plan de pruebas frase -desarrollar 
+sustantivo -j2ee -web services -frameworks -rup construir e implementar los componentes -ejecutar el plan de pruebas para las aplicaciones desarrolladas 
+Categoria:sistemas de información 
+frase -analista de sistemas 
+frase . requerimientos de usuarios frase -diseñar sistemas informáticos 
+sustantivo -bpmn frase -modelamiento de procesos frase -diseño de bases de datos -técnicas de desarrollo orientada a objetos 
+Categoria:sistemas de información 
+frase -analista de sistemas 
+sustantivo -sap frase -explotación de información -levantamiento de requerimientos -documentación funcional sustantivo -sap frase -levantamiento de requerimientos -elaborar documentación funcional y de procesos para la implementación 
+sustantivo -sap -abap -datawarehousing frase -modelamiento de procesos -modelamiento de datos frase -herramientas de moldeamiento de procesos -moldeamiento de datos 
+Categoria:ingeniería de software 
+sustantivo -programación 
+sustantivo -integraciones frase -control de calidad -validar los diseños -estandares de desarrollo -desarrollo sustantivo -frontend -backend frase -establecer estandares de desarrollo. 
+
+Categoria:sistemas de información 
+frase -analista de información 
+frase -analista de información -análisis de base de datos frase -ejecutar modelos de gestión -análisis de las bases de datos 
+
+Categoria:tecnologías de información 
+frase -auditor de sistemas 
+sustantivo -auditoria -cobit sustantivo -cobit 
+
+Categoria:ingeniería de software 
+
+frase -diseño sustantivo -análisis -diseño -pruebas frase -validar el diseño de los casos de prueba 
+pruebas y despliegue -diseño de casos de prueba frase -pruebas unitarias 
+Categoria:ingeniería de software 
+sustantivo -programador 
+frase -diseño frase -análisis 
+construcción diseño 
+Categoria:gestión 
+frase -administrador de proyectos sustantivo -proyectos 
+sustantivo -seguimiento -coordinar frase -planes de implementación -actividades frase -desarrollar los planes de implementacion de proyectos -realizar el seguimiento al desarrollo e implementacion de proyectos 
+responsables y tiempos sustantivo -pmbok 
+Categoria:ingeniería de software 
+frase -certificador de software 
+sustantivo -certificación -calidad -pruebas especiales funcionales sustantivo -pruebas frase -calidad de los sistemas 
+sustantivo -certificador 
+Categoria:tecnologías de información 
+
+frase -soporte a usuarios -configurar hardware -configurar software -backup de servidores -inventarios de software frase -configurar hardware -instalar y configurar software -hacer backup de servidores 
+sustantivo -redes -tcp/ip frase -sistemas operativos 
+Categoria:sistemas de información 
+frase -consultor co sustantivo -co 
+
+
+Categoria:ingeniería de software 
+
+sustantivo -desarrollos 
+frase -implementación de aplicaciones web frase -implementación de aplicaciones web 
+Categoria:sistemas de información 
+frase -analista funcional frase -analista funcional 
+frase -levantamiento de procesos frase -levantamiento de procesos -mejora de procesos 
+frase -analista funcional -procesos comerciales -levantamiento de procesos frase -analista funcional de sistemas 
+Categoria:gestión 
+sustantivo -sub gerente 
+verbo -gestionar 
+frase -gestión de proyectos frase -gestión de proyectos. 
+Categoria:tecnologías de información 
+frase -arquitectura de comunicaciones 
+frase -información de comunicaciones -arquitectura de comunicaciones frase -arquitectura de comunicaciones sustantivo -redes 
+
+Categoria:tecnologías de información 
+frase -arquitectura de comunicaciones 
+frase -información de comunicaciones -arquitectura de comunicaciones frase -arquitectura de comunicaciones sustantivo -redes 
+
+Categoria:tecnologías de información 
+frase -infraestructura ti frase -infraestructura de ti 
+frase -configurar red informática -configurar servidores y servicios -administrar los servicios -seguridad de la información -infraestructura ti frase -administrar 
+sustantivo -virtualización frase -administración de servicio correo -administración de firewall -configuración de hardware de servidores gestionar y configurar la red informática -administrar y configurar los servidores y servicios -infraestructura ti 
+Categoria:ingeniería de software 
+sustantivo -desarrollador 
+sustantivo -calidad verbo -desarrollar frase -analizar y desarrollar software 
+sustantivo -mvc frase -patrones de diseño -control de versiones frase -patrones de diseño -sistema de control de versiones 
+Categoria:tecnologías de información 
+frase -infraestructura ti frase -infraestructura de ti 
+frase -configurar red informática -configurar servidores y servicios -administrar los servicios -seguridad de la información -infraestructura ti frase -administrar 
+sustantivo -virtualización frase -administración de servicio correo -administración de firewall -configuración de hardware de servidores gestionar y configurar la red informática -administrar y configurar los servidores y servicios -infraestructura ti 
+Categoria:sistemas de información 
+
+
+sustantivo -sap sustantivo -sap 
+Categoria:tecnologías de información 
+
+sustantivo -incidencias -problemas sustantivo -configuración -atención de requerimientos 
+
+Categoria:sistemas de información 
+frase -analista de procesos 
+frase -requerimientos funcionales -procesos de negocio frase -requerimientos funcionales -levantamiento 
+sustantivo -bpm -bpmn frase -modelamiento o rediseño de procesos -modeladores de procesos diseño 
+Categoria:sistemas de información 
+frase -analista de procesos 
+sustantivo -bpm frase -procesos de negocio -analista de procesos -automatización de procesos -modelamiento de procesos frase -modelos de procesos del negocios -automatización de procesos de negocio 
+
+Categoria:sistemas de información 
+sustantivo -sap 
+
+frase -experiencia funcional sustantivo -sap 
+Categoria:gestión 
+frase -jefe de proyectos 
+verbo -gestionar frase -formulación e implementación -gestionar stakeholders -análisis de riesgos frase -formulación e implementación de los proyectos -análisis de riesgos 
+
+Categoria:ingeniería de software 
+sustantivo -programador 
+frase -soporte y mantenimiento -plan de pruebas -frase -análisis y levantamiento de requerimientos -plan de pruebas -corrección de defectos 
+sustantivo -desarrollo frase -desarrollo de software 
+Categoria:ingeniería de software 
+sustantivo -desarrollador 
+frase -arquitectura de software -construcción y testing frase -arquitectura de software -elaborar especificaciones funcionales -construcción y testing de software -diseño y programación de base de datos -despliegue de aplicativos en ambientes de producción. 
+
+Categoria:ingeniería de software 
+sustantivo -developer 
+frase -technical expertise -improve web solutions -support the production and testing environment frase -develop web applications 
+frase -large scale platform -integration frameworks 
+Categoria:ingeniería de software 
+sustantivo -quality 
+frase -integration testing -test cases -regression scripts -functional testing frase -unit and integration testing -functional testing based on test cases 
+sustantivo -agile frase -quality assurance -automation tools 
+Categoria:ingeniería de software 
+sustantivo -programador 
+frase -control de versiones 
+frase -desarrollo de componentes -comunicación e interfaces frase -desarrollo de componentes 
+Categoria:ingeniería de software 
+sustantivo -qa 
+frase -total quality -test plans -test cases frase -developing and implementing test plans and test cases/scripts 
+frase -regression testing -testing tools frase -functional/manual and regression testing -test case management -automation testing tools -performance testing tools 
+Categoria:gestión 
+
+frase -team work definition -plan sustantivo -management frase -administrate the project plan execution 
+coordinate and follow up the team activities -motivate the team members -obtain and manage the necessary resources -update and administrate the project plan execution 
+Categoria:tecnologías de información 
+frase -continuidad operativa 
+sustantivo -itil frase -gestión de servicios ti -continuidad operativa. -continuidad de negocio sustantivo -ti -itil frase -continuidad de negocio 
+sustantivo -itil sustantivo -itil 
+Categoria:sistemas de información 
+
+frase -análisis de indicadores -mining de datos -potenciales problemas que pueda enfrentar el negocio frase -análisis de indicadores -mining de datos 
+sustantivo -datamining frase -business intelligence sustantivo -datamining 
+Categoria:ingeniería de software 
+sustantivo -developer 
+frase -new technologies to improve existing platform frase -develop web applications 
+frase -large scale platform componentes -saas software -scalable server infrastructure -integration frameworks frase -objectoriented analysis and design skills 
+Categoria:tecnologías de información 
+frase -soporte técnico 
+frase -configuración 
+mantenimiento frase -administración y mantenimiento de servidores 
+Categoria:sistemas de información 
+frase -analista sap sustantivo -sap -co 
+sustantivo -sap frase -experiencia funcional -sistemas de información. frase -implementación de sap co -experiencia funcional -sistemas de información 
+frase -sistemas de información.. frase -sistemas de información 
+Categoria:sistemas de información 
+frase -proyectos bi frase -proyectos bi 
+frase -modelos lógico y físico 
+sustantivo -datawarehouse frase -business intelligence -arquitectura de datos frase -business intelligence -arquitectura de datos 
+Categoria:sistemas de información 
+
+frase -mapeo de procesos -monitoreo de indicadores -sistema documentario frase -mejora de procesos -monitoreo de indicadores. 
+frase -análisis y mejora de procesos -modelado de procesos frase -modelado de procesos 
+Categoria:ingeniería de software 
+sustantivo -programador 
+verbo -desarrollar -implementar frase -pruebas unitarias -cumplimiento de tiempos frase -desarrollar las soluciones propuestas -implementar soluciones de software. -desarrollo y mantenimiento de aplicativos -pruebas unitarias. 
+frase -integration server 
+Categoria:ingeniería de software 
+sustantivo -programador 
+frase -desarrollo y mantenimiento de los sistemas -casos de prueba frase -proceso de desarrollo -análisis y diseño de los sistemas -programación -elaboración de casos de prueba 
+
+Categoria:gestión 
+sustantivo -supervisor frase -gestión de procesos 
+sustantivo -planificación verbo -gestionar -organizar -liderar frase -portafolio de proyectos verbo -gestionar -organizar frase -herramientas de gestión -modelamiento de procesos de negocio 
+
+Categoria:sistemas de información 
+frase -consultor junior oracle sustantivo -oracle 
+sustantivo -oracle frase -herramientas oracle 
+
+Categoria:gestión 
+frase -jefe de proyectos 
+frase -dirigir verbo -gestionar -dirigir -supervisar 
+gestionar y ejecutar proyectos -elaborar y supervisar el cumplimiento del plan de trabajo frase -project management professional -cmmi -jefe de proyectos 
+Categoria:tecnologías de información 
+
+frase -redes de ti -servidores y comunicaciones . mantenimiento de hardware frase -redes de it y comunicaciones -soporte técnico a servidores y equipos de comunicaciones 
+software 
+Categoria:tecnologías de información 
+frase -administrador de red frase -administrador de red 
+frase -administrar la seguridad 
+sustantivo -firewalls -vpn -proxy -switches -wifi -ccna frase -administración de redes -monitoreo de red frase -administración de redes -administración de firewalls 
+Categoria:sistemas de información 
+
+frase -procesos automatizables -sistema de administración documentaria 
+frase -mejora de procesos -procesamiento de información -volúmenes de información frase -mejora de procesos -procesamiento de información 
+Categoria:tecnologías de información 
+frase -seguridad inform -continuidad operacional 
+sustantivo -sgsi frase -sistema de gestión de seguridad de información -continuidad operacional -ntpiso iec 27001. -controles de seguridad de información frase -sistema de gestión de seguridad de la información -controles de seguridad de la información 
+sustantivo -itil -cobit frase -estándares iso 27001 frase -gestión de riesgos 
+Categoria:sistemas de información 
+sustantivo -teradata sustantivo -teradata 
+
+sustantivo -teradata -bi frase -implementación de sistemas 
+Categoria:gestión 
+frase -project manager 
+verbo -gestionar -pmp frase -formulación e implementaciones de los proyectos -gestionar stakeholders -análisis de riesgos frase -gestionar la formulación e implementaciones de los proyectos -manejo de modelos de negocio 
+frase -desarrollo de proyectos 
+Categoria:gestión 
+frase -project leader 
+sustantivo -planificación frase -control del proyecto. -dirección y coordinación de todos los recursos -coordinación e interlocución con equipos y personas -responsable del cumplimiento de los objetivos establecidos. frase -planificación y control del proyecto -coordinación de recursos empleados -coordinación e interlocución con equipos 
+frase -liderando equipos 
+Categoria:sistemas de información 
+sustantivo -teradata sustantivo -teradata 
+
+sustantivo -teradata -bi frase -implementación de sistemas 
+Categoria:tecnologías de información 
+frase -oficial de seguridad 
+sustantivo -datacenter -sgsi -auditoria frase -políticas de seguridad -sistema de gestión de seguridad de información (sgsi). -iso 27000 -investigación en tecnología y procesos frase -establecer 
+sustantivo -itil -iso 27001 -iso 20000. mantener 
+Categoria:tecnologías de información 
+frase -soporte de ti 
+frase -help desk -mantenimiento frase -mantenimiento 
+soporte e inventario de los equipos informáticos soporte e inventario de los equipos informáticos de la organización 
+Categoria:sistemas de información 
+frase -business intelligence frase -business intelligence 
+frase -análisis de datos -analizar la información -indicadores de gestión frase -levantamiento de información de proceso 
+frase -manejo de procesos -inteligencia de negocios funcionalidades -procesos de aseguramiento de calidad de la información 
+Categoria:sistemas de información 
+
+frase -evaluar los requerimientos -especificar los requerimientos frase -especificar los requerimientos a nivel funcional y/o técnico 
+sustantivo -crm frase -conocimiento en banca -productos y servicios financieros frase -proyectos de sistemas 
+Categoria:gestión 
+frase -gestión de proyectos 
+frase -informes de gestión . mantenimiento del bsc -coordinar reuniones -elaborara actas frase -elaboración de informes de gestión sustantivo -bsc 
+
+Categoria:tecnologías de información 
+sustantivo -infraestructura 
+frase -administración de infraestructura. -gestión de las comunicaciones. -administración de equipos frase -administración de infraestructura -gestión de las comunicaciones -administración de equipos 
+cuentas y servicios de cómputo. -mantenimiento de hardware. -habilitación de plataforma de comunicaciones y servicios. 
+Categoria:sistemas de información 
+
+
+frase -sistemas de información -sistemas de gestión frase -sistemas de información. 
+Categoria:sistemas de información 
+
+frase -listado de requerimientos -listado de casos de uso -especificación de casos de uso frase -análisis 
+diseño 
+Categoria:tecnologías de información 
+sustantivo -infraestructura frase -continuidad de ti 
+sustantivo -drp -auditoria frase -disaster recovery plan -continuidad de negocios -nivel de servicio frase -plan de continuidad de negocios 
+sustantivo -infraestructura frase -continuidad de negocio -seguridad de la información -continuidad de negocio -recuperación en casos de desastres. frase -continuidad de negocio -seguridad de la información 
+Categoria:tecnologías de información 
+
+frase -capacitar a los usuarios -administrar la base de datos frase -apoyar en la implementación de nuevo software -administrar la base de datos 
+
+Categoria:tecnologías de información 
+
+frase -iniciativas de negocio que incluyen participación de ti 
+frase -plataformas informáticas frase -gestor de proyectos ti -metodologías para el análisis de sistema -ingeniería de requerimientos -gestión del suministro de servicios ti -modelamiento de procesos 
+Categoria:tecnologías de información 
+
+sustantivo -helpdesk frase -redes y comunicaciones -mesa de ayuda -confiabilidad y operatividad de las aplicaciones -soporte a usuarios frase -administrar los servicios de telecomunicaciones -asegurar la confiabilidad y operatividad de las aplicaciones 
+sustantivo -backup -helpdesk -itil frase -configuración de equipos de comunicaciones 
+Categoria:sistemas de información 
+frase -inteligencia comercial 
+frase -explotación de información frase -explotación de información de los sistemas 
+
+Categoria:ingeniería de software 
+
+sustantivo -arquitectura -control de calidad -scrum frase -diseño y arquitectura de sistemas -programación en lenguajes sustantivo -uml -rup -scrum 
+
+Categoria:gestión 
+
+sustantivo -pmbok frase -gestión del proyecto -seguimiento y control -indicadores de gestión frase -seguimiento y control -gestión del proyecto -indicadores de gestión -aseguramiento de la calidad 
+sustantivo -pmbok frase -gestión del proyecto 
+Categoria:tecnologías de información 
+sustantivo -infrastructure frase -infrastructure solution architect 
+frase infrastructure solution architec 
+frase -infrastructure architecture -tuning and optimization of cloudbased implementations frase -infrastructure architecture regarding storage 
+Categoria:tecnologías de información 
+frase -ingeniero senior de redes sustantivo -redes 
+sustantivo -disponibilidad -soporte frase -ingeniero senior de redes -infraestructura de voip -red de alta calidad -equipos de red -redes de comunicación -infraestructura de red -entornos de red frase -mantener red de apoyo a las redes de distribución -infraestructura de voip -redes de comunicaciones de video -planificar 
+sustantivo -redes -tcp / ip -vpn -voip -asterisk -sniffer frase -tecnologías lan / wan -estándares de hardware -balanceadores de carga diseñar e implementar una red de alta calidad -evaluar 
+Categoria:ingeniería de software 
+frase -software engineer 
+sustantivo -componentes frase -diseño del sistema -plan de pruebas frase -análisis y levantamiento de requerimientos -diseño del sistema -plan de pruebas y corrección de defectos 
+sustantivo -frameworks frase -desarrollo de software -algoritmos -estructuras de datos -programación orientada a objetos 
+Categoria:tecnologías de información 
+frase -administrador de base de datos 
+frase -administrar y monitorear la base de datos frase -asegurar el funcionamiento de las bases de datos. -asegurar el funcionamiento del oracle. -administrar y monitorear las bases de datos y servicios de aplicaciones. -ejecutar pases a producción de aplicaciones internas. 
+frase -administrador de base de datos 
+Categoria:tecnologías de información 
+sustantivo -infrastructure 
+sustantivo -soporte -redes -servidores frase -equipos de comunicaciones . mantenimiento de hardware frase -soporte administrativo de redes de it y comunicaciones -brindar soporte técnico a servidores y equipos de comunicaciones 
+software 
+Categoria:ingeniería de software 
+
+frase -ciclo de desarrollo del software frase -análisis 
+frase -pruebas unitarias -gestión de tareas -subversion definición y desarrollo del ciclo de desarrollo del sofware 
+Categoria:ingeniería de software 
+
+frase -ciclo de desarrollo del software frase -análisis 
+definición y desarrollo del ciclo de desarrollo del sofware -implementación de software y aplicaciones móviles. 
+Categoria:ingeniería de software 
+
+frase -diseño y arquitectura de software -control de calidad -rup -scrum frase -programación en lenguajes -programación en bases de datos -control de calidad 
+
+Categoria:ingeniería de software 
+frase -ingeniería de software 
+frase -control de calidad -componentes de software frase -investigación de librerías y componentes de software. -programación en .net 
+frase -ingeniería de software php 
+Categoria:sistemas de información 
+sustantivo -bi sustantivo -funcional 
+frase -levantamiento de información -análisis funcional frase -levantamiento de información -modelos del negocio -análisis funcional de los procesos 
+sustantivo -bi frase -minería y análisis de datos 
+Categoria:ingeniería de software 
+sustantivo -programador 
+sustantivo -mantenimiento frase -normas de programación -estándares frase -power builder -.net. -java. -técnicas de desarrollo orientadas a objetos. -estándares de modelamiento uml. 
+
+Categoria:tecnologías de información 
+
+frase -administración frase -administración 
+soporte y delivery de sistema soporte y delivery de sistema 
+Categoria:sistemas de información 
+
+frase -business intelligence frase -business intelligence -documentación de sistemas. 
+frase -business intelligence 
+Categoria:sistemas de información 
+
+frase -planeamiento de sistemas -modelamiento de procesos -indicadores de gestión frase -modelamiento de procesos -relevamiento 
+generación y seguimiento de indicadores de gestión bsc 
+Categoria:tecnologías de información 
+frase -soporte a usuarios 
+frase -reemplazo de equipos -renovación de equipos -estandarización de versiones de software frase -reemplazo de equipos con sistema operativo -estandarización de versiones del software 
+
+Categoria:ingeniería de software 
+sustantivo -programador 
+frase -patrones de diseño -web services frase -aplicaciones para móviles -patrones de diseño 
+
+Categoria:tecnologías de información 
+frase -soporte de comunicaciones 
+sustantivo -disponibilidad -respaldo -continuidad frase -servicios de ti -infraestructura de red de datos -infraestructura de comunicaciones -niveles de servicio -plan de contingencia -centros de cómputo frase -planificar 
+frase -hardware y software de comunicaciones -redes y comunicaciones -red de datos ejecutar y controlar la infraestructura de red de datos y telefonía -instalar y configurar los equipos de comunicaciones y de banca virtual. -controlar y mantener los equipos de comunicaciones -evaluar y proponer alternativas de mejoras tecnológicas a la infraestructura de comunicaciones 
+Categoria:ingeniería de software 
+
+frase -arquitectura de software -construcción de componentes -calidad de producto -estándares de desarrollo -estándares de construcción -especificación técnica frase -construcción de los componentes de software -entender los modelos lógico y físico de los sistemas -estándares de construcción de componentes de software 
+frase -metodologías de desarrollo de software frase -metodologías de desarrollo de software. -lenguaje de programación java o .net. -conocimientos de uml 
+Categoria:tecnologías de información 
+
+sustantivo -infraestructura frase -soporte a aplicaciones -instalar frase -control y gestión de la infraestructura -soporte a aplicaciones -proponer 
+configurar y proveer soluciones tecnológicas -servicios informáticos evaluar 
+Categoria:ingeniería de software 
+
+sustantivo -rup -scrum frase -análisis y diseño de sistemas -programación en lenguajes -programación en bases de datos sustantivo -uml -rup -scrum 
+
+Categoria:ingeniería de software 
+
+sustantivo -rup -scrum frase -diseño y arquitectura de sistemas -control de calidad frase -diseño y arquitectura de sistemas -programación en lenguajes -programación en bases de datos -control de calidad -documentación de sistemas sustantivo -uml -rup -scrum 
+
+Categoria:tecnologías de información 
+
+frase -configuración de red -redundancia de procesadores -mensajería via ethernet frase -configuración de red -redundancia de procesadores -conocimiento de protocolo 
+
+Categoria:sistemas de información 
+
+frase -indicadores del área -generación de reportes frase -registro de los indicadores del área -generación de reportes -auditoría mensual 
+
+Categoria:gestión 
+
+frase -marco lógico -planificación estratégica -coordinar las etapas de los proyectos -avances de los proyectos verbo -gestionar frase -gestionar el desarrollo de proyectos -planificación estratégica de proyectos. -coordinar las etapas de los proyectos 
+
+Categoria:ingeniería de software 
+
+sustantivo -rup -scrum frase -diseño y arquitectura de sistemas -control de calidad frase -diseño y arquitectura de sistemas -programación en lenguajes -programación en bases de datos -control de calidad -documentación de sistemas sustantivo -uml -rup -scrum 
+
+Categoria:ingeniería de software 
+
+sustantivo -rup -scrum frase -análisis y diseño de sistemas -programación en lenguajes -programación en bases de datos sustantivo -uml -rup -scrum 
+
+Categoria:tecnologías de información 
+
+sustantivo -infraestructura frase -apoyo en todos los sistemas sustantivo -itil 
+
+Categoria:sistemas de información 
+
+
+sustantivo -bi -datastage -volumen de información sustantivo -bi -manejo de volumen de información -manejo de planes de ejecución y optimización 
+Categoria:gestión 
+frase -project leader 
+frase -planificación y control del proyecto -dirección y coordinación de todos los recursos -responsable del cumplimiento de los objetivos frase -planificación y control del proyecto a cargo -dirección y coordinación de todos los recursos 
+frase -dirigiendo equipos 
+Categoria:ingeniería de software 
+sustantivo -programador 
+sustantivo -calidad frase -mantenimiento de software frase -programación de los desarrollos y mantenimiento de software 
+sustantivo -mvc -frameworks frase -patrones de diseño -web services frase -java -.net -c++ -android -ios -patrones de diseño -programación a tres capas -mvc -conocimientos de frameworks 
+Categoria:gestión 
+frase -jefe de proyectos 
+sustantivo -planificación frase -alcance del proyecto -definir las actividades del proyecto -requerimientos de los recursos -planes de trabajo -coordinar el equipo de proyecto -administrar el presupuesto -seguimiento del proyecto -avance del proyecto -administrar los riesgos verbo -liderar frase -cierre de negocios -planificación e implementación de proyectos -definición del alcance de proyecto 
+frase -administración de proyectos objetivos 
+Categoria:sistemas de información 
+
+
+frase -modelación de datos frase -modelación de datos 
+Categoria:sistemas de información 
+frase -inteligencia de negocios frase -inteligencia de negocios 
+frase -sistemas de gestión financiera -análisis financiero 
+sustantivo -bi -cubos frase -analisys services sustantivo -bi 
+Categoria:gestión 
+
+frase -marco lógico -planificación estratégica -coordinar las etapas de los proyectos -avances de los proyectos verbo -gestionar frase -gestionar el desarrollo de nuevos proyectos -planificación estratégica de proyectos -coordinar las etapas de los proyectos 
+
+Categoria:tecnologías de información 
+
+frase -tendencias digitales -canales digitales frase -canales digitales -tendencias digitales 
+
+Categoria:ingeniería de software 
+sustantivo -desarrollador 
+frase -arquitectura de las soluciones frase -diseño y desarrollo de soluciones -análisis de requerimientos 
+frase -patrones de diseño diseño y planificación del desarrollo. 
+Categoria:sistemas de información 
+frase -inteligencia de procesos 
+sustantivo -datawarehouse -modelos de simulación de servicios -análisis de la información -consolidar la información sustantivo -datawarehouse frase -análisis de la información 
+frase -sistemas de información -gestión de procesos -inteligencia de negocios frase -sistemas de información -gestión de procesos 
+Categoria:ingeniería de software 
+
+sustantivo -rup -scrum frase -arquitectura de sistemas -control de calidad frase -diseño de sistemas -programación y diseño en plataformas --programación en lenguajes -programación en bases de datos sustantivo -java -.net -c++ -php -uml -rup -scrum 
+
+Categoria:sistemas de información 
+frase -business intelligence frase -business intelligence 
+sustantivo -etl -bi frase -procesos etl -modelado de las solución bi 
+frase -analisys services -reporting services frase -modelamiento 
+Categoria:gestión 
+frase -jefe de proyecto 
+frase -planificación frase -planificación 
+seguimiento y control de los proyectos. -gestión de cambios y riesgos. -supervisión y guía de su equipo de proyecto. -preparación y actualización del cronograma de proyecto. -reuniones de seguimiento -actualización de planes. seguimiento y control de los proyectos -gestión de cambios y riesgos -supervisión y guía de su equipo 
+Categoria:sistemas de información 
+
+frase -especificaciones funcionales -levantamiento de información -análisis funcional frase -levantamiento de información -análisis funcional. -diseño de sistemas. 
+
+Categoria:tecnologías de información 
+sustantivo -soporte 
+frase -mantenimiento correctivo y/o preventivo de sistemas de tecnología. -servicios de instalación de sistemas -cableado estructurado frase -mantenimiento correctivo y/o preventivo de sistemas de tecnología -instalación de sistemas 
+frase -soporte de sistemas -cableado de red 
+Categoria:sistemas de información 
+
+frase -especificaciones funcionales frase -especificaciones funcionales 
+frase -herramienta de análisis 
+Categoria:gestión 
+frase -gerente de proyecto frase -gerente de proyecto 
+
+frase -metodología pm -liderazgo de proyecto frase -liderazgo de proyecto 
+Categoria:tecnologías de información 
+frase -analista de redes 
+frase -red de comunicación -controles de seguridad para comunicaciones frase -definición de los controles de seguridad para las comunicaciones. 
+sustantivo -switches -routers -firewalls -mcsa -mcse -ccna -ccsa -proxy frase -configuración frase -configuración 
+Categoria:sistemas de información 
+frase -business intelligence 
+sustantivo -bi sustantivo -bi 
+sustantivo -bi -etl -data warehouses -olap frase -extracción frase -procesos de etl. -diseño de data warehouses o data marts. -modelos olap multidimensionales o tabulares. 
+Categoria:gestión 
+sustantivo -jefe 
+frase -cumplir los objetivos de los servicios en términos de costo verbo -planificar -dirigir -controlar -gestionar 
+tiempo sustantivo -cmmi 
+Categoria:sistemas de información 
+frase -inteligencia comercial 
+frase -análisis de data -calidad de bases de datos -sistemas de gestión de ventas 
+frase -business intelligence -data analytics frase -business intelligence -data analytics 
+Categoria:tecnologías de información 
+
+sustantivo -topologías -soporte remoto -reportes de disponibilidad frase -base de datos de topologías -reportes de disponibilidad de servicio 
+
+Categoria:gestión 
+
+frase -gestionar proyectos de desarrollo -proponer la elaboración y/o modificación de políticas -presupuesto del área frase -elaborar flujos de procesos de negocio -gestionar proyectos de desarrollo de aplicaciones -proponer la elaboración y/o modificación de políticas 
+sustantivo -pmbok frase -gestión de proyectos procedimientos y estándares de operación 
+Categoria:tecnologías de información 
+sustantivo -soporte 
+frase -soporte google apps -investigar sustantivo -configuración -soporte 
+analizar frase -implementación 
+Categoria:tecnologías de información 
+
+frase -asesoría técnica frase -asesoría técnica 
+frase -tecnologías host frase -tecnologías host 
+Categoria:tecnologías de información 
+
+frase -información de aplicativos -interfaces batch -portafolio de servicios frase -información de aplicativos -gestión del portafolio de servicios e interfaces -aplicación de estándares 
+frase -infraestructura tecnológica 
+Categoria:sistemas de información 
+
+frase -procesos de negocio. frase -análisis de procesos de negocio -elaboración de flujogramas 
+frase -análisis de procesos -mapeo de procesos -business process management 
+Categoria:tecnologías de información 
+
+frase -garantizar que las aplicaciones y dispositivos transaccionales de las oficinas mantengan una correcta operatividad frase -garantizar que las aplicaciones y dispositivos transaccionales de las oficinas mantengan una correcta operatividad 
+
+Categoria:tecnologías de información 
+sustantivo -soporte 
+sustantivo -incidentes frase -tipos de incidentes y problemas -continuidad en las operaciones frase -base de datos de la gestión de la configuración -asegurar la continuidad en las operaciones de los sistemas -tareas de mantenimiento y soporte de red 
+mantenimiento y soporte de red 
+Categoria:ingeniería de software 
+sustantivo -programador 
+frase -componentes de sistemas -verificar los componentes -depurar el código frase -realizar programas o componentes de sistemas -depurar el código 
+frase -conocimiento de lenguajes 
+Categoria:ingeniería de software 
+sustantivo -programmers 
+frase -interact with qa engineers -define technical architecture -team coaching -code review frase -determine the best way to implement those requirements in code and develop it. 
+sustantivo -soa sustantivo -c# -framework .net -visual studio -asp.net 
+Categoria:ingeniería de software 
+
+frase -interacts with qa engineers -architectural design -teammates coaching -teammates codereview frase -determines the best way to implement specifications in code and codes it 
+frase -systems architecture -web services frase -developing ios and android sustantivo -java -android sdk -eclipse -android studio 
+Categoria:ingeniería de software 
+sustantivo -desarrollador 
+frase -arquitectura de las soluciones frase -desarrollo de soluciones -análisis de requerimientos 
+frase -patrones de diseño diseño y planificación del desarrollo. 
+Categoria:sistemas de información 
+
+
+frase -modelación de datos frase -modelación de datos 
+Categoria:tecnologías de información 
+frase -service desk 
+frase -apoyo a los usuarios -operatividad de sus equipos -servicio de correo electrónico -soporte técnico frase -apoyo a los usuarios -operatividad de equipos 
+frase -service desk 
+Categoria:tecnologías de información 
+sustantivo -auditoria sustantivo -auditoria 
+
+
+Categoria:sistemas de información 
+
+frase -procesos de negocio frase -analizar la información 
+frase -modeladores de procesos frase -alta capacidad de análisis y comunicación 
+Categoria:ingeniería de software 
+frase -aseguramiento de calidad frase -aseguramiento de calidad 
+frase -aseguramiento de calidad -qa sustantivo -qa 
+frase -control de calidad sustantivo -certificación istqb 
+Categoria:tecnologías de información 
+frase -tecnología de la información 
+frase -organizar mantener actualizado y ordenar debidamente el inventario de equipos de cómputo -asegurar el mantenimiento y conservación de los equipos y suministros de cómputo 
+verbo -programar 
+Categoria:sistemas de información 
+
+frase -analistas senior frase -racle developer con forms y reports 
+pl sql 
+Categoria:gestión 
+frase -jefe de proyecto 
+frase -gestión y diseño de proyectos 
+sustantivo -sistemas 
+Categoria:ingeniería de software 
+sustantivo -desarrollador 
+frase -desarrollar y dar soporte -complejidad de los requerimientos frase -desarrollar y dar soporte a los requerimientos asignados -conocimientos en lenguaje de programación -conocimientos en diseño y manejo de base de datos 
+
+Categoria:tecnologías de información 
+
+frase -seguimiento -control y mantenimiento a la plataforma tecnológica frase -seguimiento 
+control y mantenimiento a la plataforma tecnológica verbo -soportar 
+Categoria:ingeniería de software 
+frase -ingeniero senior de software frase -software 
+sustantivo -artefactos de software frase -administración y gestión del repertorio de código fuente 
+
+Categoria:ingeniería de software 
+frase -ingeniero de software 
+frase -buenas prácticas frase -soporte a sistemas verbo -analizar y producir 
+frase -tdd -scrum 
+Categoria:ingeniería de software 
+
+frase -desarrollo de aplicaciones sustantivo -programadores 
+frase -manejo de herramientas java 
+Categoria:sistemas de información 
+
+frase -bpm frase -unidad bpm 
+frase -base de datos 
+Categoria:ingeniería de software 
+frase -programador web 
+sustantivo -js 
+
+Categoria:ingeniería de software 
+frase -analista programador java frase -analista programador 
+frase -programación y desarrollo 
+
+Categoria:sistemas de información 
+
+frase -sistemas de información frase -información 
+desarrollo 
+Categoria:ingeniería de software 
+
+frase -analisis de requerimientos -diseño de soluciones frase -analisis de requerimientos y diseño de soluciones de desarrollo sustantivo -programador 
+frase -análisis de requerimientos y diseño de soluciones de desarrollo 
+Categoria:ingeniería de software 
+
+frase -analisis de requerimientos -diseño de soluciones frase -análisis de requerimientos y diseño de soluciones de desarrollo e implementación 
+frase -el analisis de requerimientos 
+Categoria:sistemas de información 
+
+frase -interacción constante con el negocio para evaluar estrategias frase -manejo de base de datos -administración de la herramienta de crm 
+
+Categoria:ingeniería de software 
+frase -desarrollo de software 
+frase -temas de desarrollo 
+
+Categoria:ingeniería de software 
+frase -analista programador 
+frase -análisis y diseño 
+frase -desarrollos de software 
+Categoria:ingeniería de software 
+frase -programador java 
+sustantivo -análisis -desarrollo -pruebas 
+
+Categoria:sistemas de información 
+
+frase -validación de bases de datos 
+frase -orientación a manejo de bases de datos y datamining o inteligencia de negocios 
+Categoria:ingeniería de software 
+frase -desarrollador web php 
+sustantivo -programación 
+frase -interés y conocimientos por metodologías ágiles 
+Categoria:tecnologías de información 
+
+frase -tecnología de información -técnicas de auditoría frase -revisión de controles generales de tecnología de información 
+frase -cobit -itil 
+Categoria:tecnologías de información 
+frase -auditoría de sistemas 
+
+frase -seguridad de infraestructura -plataformas de ti 
+Categoria:ingeniería de software 
+
+frase -requerimientos funcionales -diseños técnicos frase -análisis de requerimientos funcionales y elaboración de diseños técnicos 
+verbo -programar -analizar 
+Categoria:ingeniería de software 
+
+diseño técnico -análisis de requerimientos frase -elaboración del diseño técnico y documentación 
+análisis de requerimientos y programación 
+Categoria:tecnologías de información 
+frase -it engineer 
+frase -implementing 
+configuring and administering windows server infrastructure -it project management experience 
+Categoria:ingeniería de software 
+
+frase -ingeniería de software -ingeniería de software frase -artefactos de software con alta calidad y bajo defecto -administración y gestión del repertorio de código fuente de los proyectos -implementación de los proyectos de software según especificaciones del área de ingeniería de software 
+
+Categoria:tecnologías de información 
+sustantivo -soporte 
+frase -identificación de soluciones tecnológicas frase -visualización de las plataformas de servicio -monitoreo de los servicios 
+
+Categoria:ingeniería de software 
+
+frase -evaluar las solicitudes de proyecto -estimar tiempos frase -desarrollar los programas -documentos funcionales y técnicos 
+
+Categoria:ingeniería de software 
+
+frase -evaluar las solicitudes de proyecto -estimar tiempos frase -desarrollar los programas -documentos funcionales y técnicos 
+
+Categoria:tecnologías de información 
+sustantivo -soporte 
+frase -visualización de las plataformas de servicio -monitoreo de los servicios 
+frase -redes de telecomunicaciones -gestión de redes 
+Categoria:ingeniería de software 
+frase -desarrollador web 
+frase -implementar los requerimientos en código 
+frase -metodologías ágiles 
+Categoria:ingeniería de software 
+
+frase -análisis de requerimientos -diseño de soluciones frase -análisis de requerimientos y diseño de soluciones de desarrollo e implementación 
+
+Categoria:ingeniería de software 
+
+frase -arquitectura cliente/servidor -pruebas unitarias frase -analizar 
+diseñar e implementar sistemas de información -ejecutar pruebas unitarias 
+Categoria:ingeniería de software 
+
+frase -design patterns -architecture -cms frase -experience with php frameworks -advanced knowledge of design patterns and architecture 
+
+Categoria:sistemas de información 
+
+frase -diagnóstico de procesos -mejora de procesos frase -análisis y definición funcional de proyectos de tecnología 
+
+Categoria:ingeniería de software 
+frase -desarrollo web 
+frase -mejoras y cambios -tests frase -desarrollo de nuevas funcionalidades 
+
+Categoria:ingeniería de software 
+
+frase -uml -rup frase -programar aplicaciones web verbo -analizar y diseñar 
+
+Categoria:ingeniería de software 
+sustantivo -analista programador 
+frase -especificaciones funcionales -técnicas -pruebas unitarias frase -análisis de requerimientos -elaborar especificaciones funcionales y técnicas 
+
+Categoria:ingeniería de software 
+frase -analista programador sustantivo -analista programador 
+frase -análisis y programación de sistemas en lenguaje de programación 
+
+Categoria:ingeniería de software 
+sustantivo -developer 
+frase -unit test -design patterns -architecture frase -php frameworks 
+unit test and documentation 
+Categoria:ingeniería de software 
+frase -analista programador sustantivo -analista programador 
+sustantivo -programación 
+
+Categoria:gestión 
+
+frase -gestionar el equipo de programadores -asignar las tareas de programación -realizar las estimaciones de tiempo frase -gestionar el equipo de programadores -asignar las tareas de programación 
+
+Categoria:ingeniería de software 
+frase -analista programador sustantivo -analista programador 
+
+
+Categoria:ingeniería de software 
+frase -developer sustantivo -developer 
+frase -análisis y diseño -desarrollo de aplicativos 
+
+Categoria:sistemas de información 
+
+frase -automatización y optimización -documentar los procesos 
+frase -flujos de información -etl. 
+Categoria:gestión 
+frase -gerente frase -gerente de desarrollo de negocios ti 
+
+
+Categoria:sistemas de información 
+frase -analista senior de procesos 
+frase -identificar las relaciones entre procesos e interfaces entre los sistemas 
+
+Categoria:tecnologías de información 
+
+frase -gestión de datos -resolución de incidentes frase -administrar la herramienta -brindar soporte 
+sustantivo -infraestructura 
+Categoria:gestión 
+frase -gestor de proyecto frase -gestor de proyecto sistemas 
+
+
+Categoria:tecnologías de información 
+frase -analista de administración de sistemas y seguridad de la información frase -administración de sistemas y seguridad de la información 
+frase -mantener 
+administrar 
+Categoria:ingeniería de software 
+frase -programador 
+frase -programadores en aplicaciones 
+
+Categoria:ingeniería de software 
+frase -programador 
+frase -programadores en aplicaciones -diseño 
+código 
+Categoria:tecnologías de información 
+sustantivo -infraestructura tic 
+frase -modelo de gobierno -frase -servicios de infraestructura 
+frase -itil -cobit 
+Categoria:ingeniería de software 
+frase -analista programador 
+frase -diseño y ejecución de los proyectos de ti -desarrollo de nuevas aplicaciones 
+
+Categoria:ingeniería de software 
+frase -analista programador 
+verbo -programar -analizar 
+
+Categoria:ingeniería de software 
+frase -analista programador 
+sustantivo -análisis y diseño -programación e implementación de sistemas 
+
+Categoria:ingeniería de software 
+
+frase -desarrollar software frase -desarrollar software -desarrollo tecnologico 
+
+Categoria:ingeniería de software 
+
+frase -desarrollo de software -pruebas de stress -qa frase -mantenimiento y desarrollo de software -apoyo en las pruebas de stress y qa de los sistemas 
+
+Categoria:ingeniería de software 
+frase -developer 
+frase -all phases of the development effort 
+including design 
+Categoria:ingeniería de software 
+frase -programador java 
+frase -análisis y diseño de requerimientos -diseño e implementación de productos de software - 
+
+Categoria:ingeniería de software 
+frase -analista programador sustantivo -analista programado 
+frase -análisis de requerimientos -desarrollo de programas -documentación 
+
+Categoria:ingeniería de software 
+frase -analista programador sustantivo -analista programado 
+frase -documentación del código y algoritmos -realiza pruebas unitarias 
+
+Categoria:gestión 
+frase -jefe de proyecto 
+
+frase -análisis 
+Categoria:ingeniería de software 
+frase -analista programador 
+
+frase -desarrollo de sistemas informáticos -desarrollo de soluciones web 
+Categoria:ingeniería de software 
+frase -programador 
+frase -análisis y diseño de la arquitectura -diseño detallado e implementación de productos de software multiplataforma 
+
+Categoria:ingeniería de software 
+frase -arquitecto de software 
+
+frase -experiencia en desarrollo multiplataforma y multicapa real -conocimientos de uml 
+Categoria:tecnologías de información 
+frase -soluciones en la nube 
+
+frase -administrador de redes 
+Categoria:ingeniería de software 
+frase -analista programador sustantivo -analista programador 
+frase -análisis y programación 
+frase -lenguaje de programación 
+Categoria:tecnologías de información 
+
+frase -mantenimiento preventivo -licencias de software frase -soporte tecnológico a usuarios 
+frase -instalación y configuración de sistemas operativos 
+Categoria:sistemas de información 
+frase -analista bi 
+frase -análisis de los procesos -solución de los requerimientos 
+frase -mineria de datos 
+Categoria:ingeniería de software 
+frase -analista programador sustantivo -analista programador de sistemas 
+frase -desarrollar las aplicaciones -análisis de requerimientos -programación de sistemas 
+
+Categoria:gestión 
+frase -project manager 
+verbo -gestionar -asegurar -preparar 
+frase -implementación de sistemas 
+Categoria:ingeniería de software 
+
+frase -análisis -programación frase -análisis y programación -ejecutar análisis y especificación de requerimientos 
+
+Categoria:sistemas de información 
+frase -especialista bi 
+frase -análisis y diseño lógico y físico y diseño de arquitectura de soluciones de business intelligence 
+frase -conocimientos en big data 
+Categoria:gestión 
+
+frase -levantar la información -supervisar -frase -levantar la información de los requerimientos -supervisar las funciones de programación 
+
+Categoria:ingeniería de software 
+
+frase -aplicaciones web -cliente/servidor frase -desarrollo de aplicaciones 
+
+Categoria:ingeniería de software 
+
+frase -recolectar datos -analizar -diseñar -desarrollar e implementar soluciones frase -implementación y operación de despliegue -elaboración de documentos -recolectar datos 
+analizar 
+Categoria:tecnologías de información 
+frase -infraestructura tecnológica 
+frase -infraestructura tecnológica -soporte técnico 
+
+Categoria:sistemas de información 
+frase -bi 
+frase -gestión de base de datos -análisis de mercado 
+sustantivo -sql 
+Categoria:tecnologías de información 
+frase -sharepoint 
+frase -instalación y configuración -coordinar con el equipo de desarrolladores 
+
+Categoria:ingeniería de software 
+
+frase -analizar requerimientos frase -analizar requerimientos de sistematización -desarrollar la solución de software 
+frase -analizar 
+Categoria:ingeniería de software 
+
+frase -desarrollo -pase a producción frase -análisis -documentación técnica -apoyo en el desarrollo 
+
+Categoria:ingeniería de software 
+
+frase -desarrollo -pase a producción frase -análisis -documentación técnica -apoyo en el desarrollo 
+
+Categoria:ingeniería de software 
+frase -programador sustantivo -programador 
+
+frase -programación algún lenguaje 
+Categoria:ingeniería de software 
+frase -programador sustantivo -analista programador 
+frase -desarrollo de aplicaciones -planteamiento y elaboración de arquitecturas 
+
+Categoria:ingeniería de software 
+frase -programador sustantivo -programador 
+
+frase -desarrollo de aplicaciones 
+Categoria:ingeniería de software 
+frase -desarrollador web 
+frase -requerimientos específicos -desarrollo y modificación de módulos 
+
+Categoria:ingeniería de software 
+frase -programador sustantivo -pogramador 
+
+frase -desarrollo de software 
+Categoria:ingeniería de software 
+frase -programador sustantivo -pogramador 
+frase -desarrollo de soluciones 
+
+Categoria:ingeniería de software 
+
+frase -analizar de requerimientos -diseño de soluciones de desarrollo e implementación frase -analizar de requerimientos 
+diseño de soluciones de desarrollo e implementación 
+Categoria:ingeniería de software 
+
+frase -requerimientos -análisis y programación frase -análisis -programación -ejecutar análisis -especificación de requerimientos 
+
+Categoria:ingeniería de software 
+frase -ingenieria de software 
+frase -diseño 
+documentación e implementación de bases de datos -programación 
+Categoria:tecnologías de información 
+frase -ti sustantivo -administrador ti 
+frase -monitorear y mantener la salud de la red de datos -brindar soporte 
+
+Categoria:

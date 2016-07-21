@@ -1,0 +1,62 @@
+agile: 1
+análisis: 50
+análisis diseño sistema: 4
+análisis requerimiento: 5
+arquitectura: 14
+arquitectura software: 1
+aseguramiento calidad: 2
+c: 6
+calidad: 85
+calidad producto: 3
+certificación: 80
+certificador: 1
+certificador software: 1
+codificación: 2
+componente: 5
+conocimiento base dato: 1
+conocimiento lenguaje: 2
+control calidad: 12
+cumplimiento tiempo: 2
+desarrollar: 40
+desarrollo: 125
+desarrollo aplicación: 4
+desarrollo mantenimiento sistema: 2
+desarrollo software: 14
+desarrollo solución: 3
+developer: 1
+diseño: 42
+diseño sistema: 6
+equipo desarrollo: 5
+especificación técnico: 2
+gestión proyecto: 100
+implementación: 97
+implementación aplicación web: 2
+implementar: 46
+ingeniería software: 6
+integración: 11
+integration server: 1
+java: 10
+jee: 1
+lenguaje programación java net: 1
+mantenimiento: 31
+mantenimiento software: 2
+metodología desarrollo: 12
+metodología desarrollo software: 1
+mvc: 1
+net: 10
+power builder: 1
+proceso desarrollo: 10
+proceso desarrollo software: 1
+programación: 24
+programador: 5
+prueba: 16
+prueba integración: 1
+quality: 4
+rup: 8
+scrum: 7
+soa: 4
+soporte mantenimiento: 3
+standard: 46
+uml: 5
+visual basic: 2
+web services: 1

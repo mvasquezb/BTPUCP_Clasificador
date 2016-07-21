@@ -1,0 +1,68 @@
+activo: 3
+administración: 40
+administración base dato: 2
+administrador: 10
+administrador base dato: 5
+administrar: 18
+administrar base dato: 2
+análisis riesgo: 1
+aplicación standard: 5
+arquitectura empresarial: 1
+atención requerimiento: 1
+auditorio: 1
+bcp: 1
+capacitar usuario: 4
+cobit: 4
+configuración: 15
+conocimiento sistema operativo: 4
+continuidad: 3
+dBA: 3
+data center: 5
+disponibilidad: 28
+equipo: 226
+establecer: 36
+evaluar: 19
+gestión comunicación: 1
+gestión gobernar servicio: 4
+gestión riesgo: 5
+gestión servicio: 1
+gestor proyecto: 1
+implementación: 273
+incidencia: 9
+incidente: 14
+información comunicación: 6
+infraestructura: 19
+infraestructura comunicación: 1
+infraestructura informática: 1
+infraestructura servidor: 1
+infraestructura tecnológico: 5
+instalar: 1
+investigar: 11
+iso: 10
+itil: 12
+lineamiento: 11
+mantenimiento: 54
+mejora proceso: 67
+mesa ayuda: 2
+modelamiento proceso: 16
+nivel servicio: 4
+oracle: 102
+plan contingencia: 2
+planificar: 25
+problema: 108
+proceso: 312
+red: 8
+renovación equipo: 1
+riesgo: 40
+seguridad información: 2
+seguridad informática: 1
+service desk: 2
+servicio: 209
+servidor: 11
+sistema operativo: 11
+soporte: 131
+soporte aplicación: 13
+soporte sistema: 9
+soporte técnico: 4
+soporte usuario: 8
+virtualización: 1

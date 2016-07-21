@@ -1,0 +1,27 @@
+abap
+bpm
+análisis de la información
+etl
+cubos
+oracle
+datawarehousing
+analista funcional
+olap
+co
+funcional
+manejo de volumen de información
+modelos de simulación de servicios
+requerimientos
+bpmn
+datastage
+consolidar la información
+crm
+manejo de planes de ejecución y optimización
+sap
+teradata
+datamining
+análisis
+data warehouses
+bi
+volumen de información
+datawarehouse

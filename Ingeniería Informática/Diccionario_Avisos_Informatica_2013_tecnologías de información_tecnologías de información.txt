@@ -1,0 +1,164 @@
+activo: 53
+administración: 212
+administración base dato: 33
+administración equipo: 8
+administración equipo cuenta servicio cómputo: 1
+administración firewall: 2
+administración infraestructura: 10
+administración infraestructura servidor solución almacenamiento físico: 3
+administración mantenimiento servidor: 3
+administración red: 45
+administración servicio: 13
+administrador: 80
+administrador base dato: 33
+administrador red: 14
+administrador servidor red: 3
+administrar: 118
+administrar base dato: 16
+administrar seguridad: 3
+administrar servicio: 5
+analista red: 8
+análisis riesgo: 6
+apoyo usuario: 2
+arquitectura empresarial: 1
+asterisk: 26
+atención requerimiento: 7
+auditor sistema: 1
+auditorio: 6
+backup: 20
+balanceadores carga: 4
+bcp: 3
+cableado estructurar: 1
+capacidad sistema: 1
+capacitar usuario: 5
+ccna: 33
+centro cómputo: 13
+centro dato: 9
+cobit: 49
+configuración: 93
+configuración mantenimiento: 11
+configuración mantenimiento red: 3
+configuración red: 5
+conocimiento itil: 19
+conocimiento protocolo: 9
+conocimiento red telecomunicación: 4
+conocimiento sistema operativo: 23
+continuidad: 46
+continuidad negocio: 9
+continuidad operacional: 3
+continuidad operación: 3
+continuidad operativo: 6
+control seguridad información: 3
+dBA: 10
+data center: 14
+datacenter: 5
+dhcp: 14
+diagnóstico solución incidencia: 3
+disponibilidad: 120
+dns: 17
+drp: 2
+entorno red: 8
+equipo: 183
+equipo red: 16
+establecer: 74
+establecimiento político: 4
+evaluar: 55
+firewalls: 17
+gestión comunicación: 3
+gestión crisis: 1
+gestión riesgo: 15
+gestión servicio: 14
+gestor proyecto: 1
+habilitación plataforma comunicación servicio: 1
+hardware software comunicación: 2
+help desk: 26
+helpdesk: 17
+implementación: 130
+incidencia: 39
+incidente: 51
+información comunicación: 19
+infraestructura: 141
+infraestructura comunicación: 9
+infraestructura informática: 5
+infraestructura networking: 4
+infraestructura red: 23
+infraestructura servidor: 6
+infraestructura tecnológico: 45
+infraestructura virtualización: 4
+infraestructura voip: 4
+infrastructure: 6
+ingeniero senior red: 4
+instalación equipo: 5
+instalación sistema: 6
+instalación software: 7
+instalar: 20
+inventario software: 3
+investigar: 15
+iso: 45
+itil: 93
+lan: 47
+lineamiento: 10
+mantener gestionar infraestructura red: 4
+mantenimiento: 122
+mantenimiento hardware: 2
+mcsa: 6
+mcse: 9
+mcts: 3
+mejora proceso: 11
+mesa ayuda: 22
+modelamiento proceso: 1
+monitorear red: 9
+networking cisco: 1
+nivel servicio: 20
+oca: 1
+operación red: 2
+oracle: 40
+plan contingencia: 18
+plan continuidad negocio: 5
+planificar: 43
+plataforma informática: 2
+plataforma virtualización: 3
+problema: 70
+proceso: 134
+proxy: 19
+recuperación caso desastre: 2
+red: 223
+red alto calidad: 4
+red comunicación: 56
+red comunicación video: 4
+red dato: 18
+respaldo: 39
+respaldo información: 11
+riesgo: 53
+routers: 28
+seguridad información: 74
+seguridad informática: 21
+service desk: 10
+servicio: 211
+servidor: 148
+sgcn: 2
+sgsi: 9
+sistema gestión seguridad información: 8
+sistema gestión seguridad información sgsi: 5
+sistema operativo: 109
+sniffer: 4
+soporte: 199
+soporte aplicación: 5
+soporte hardware: 5
+soporte remoto: 2
+soporte sistema: 17
+soporte técnico: 59
+soporte usuario: 35
+standard hardware: 4
+switches: 27
+tcp: 31
+tcp ip: 27
+tecnología lan wan: 4
+telefonía ip: 31
+topología: 6
+virtualización: 24
+vmware vsphere: 3
+voip: 24
+vpn: 32
+wan: 41
+wifi: 6

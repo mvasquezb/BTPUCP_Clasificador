@@ -1,0 +1,124 @@
+
+desarrollo
+service oriented architecture
+software engineer
+integrar el código fuente
+calidad del producto
+sistemas web complejos
+arquitectura de sistemas
+tdd
+gestión de tareas
+integration frameworks
+desarrollo de componentes
+arquitecto
+desarrollo y mantenimiento de los sistemas
+soporte y mantenimiento
+code review
+definición técnica del proyecto
+technical expertise
+revisión de código sutantivos
+diseño y arquitectura de sistemas
+arquitectura de las soluciones
+new technologies to improve exoisting platforms
+metodologías ágiles de desarrollo
+ingeniería de software
+validar los diseños
+rup
+message broker
+testing tools
+large scale platforms
+mantenimiento de software
+pruebas de integración
+gesstión de pruebas
+large scale platform componentes
+administración de las versiones sutantivos
+ing. de requerimientos
+arquitectura de software
+metodologías ágiles
+total quality
+arquitectura
+test plans
+estándares
+diseño y arquitectura de software
+estandares tecnicos
+comunicación e interfaces
+construcción de componentes
+control de calidad
+regression scripts
+certificador de software
+functional testing
+componentes de software
+ciclo de proyectos . metodologías de ciclo de vida
+web services
+diseño del sistema
+integration testing
+pruebas unitarias automatizadas
+interact with qa engineers
+plan de pruebas
+scalable server infrastructure
+automation tools
+documentación técnica de los cambios
+estándares de construcción
+pruebas técnicas y de usuario
+patrones de diseño
+comprender a profundidads los requisitos no funcionales
+saas software
+quality assurance
+regression testing
+modelo de arquitectura
+automatización de pruebas
+componentes de sistemas
+ingeneiría de software
+estándares de desarrollo
+aseguramiento de calidad
+interacts with qa engineers
+arquitectura de interfaces
+team foundation server
+test cases
+diseño pruebas y despliegue
+kanbam
+arquitectura de los sistemas
+ingeniero de software
+integracion continua
+depurar el código
+ingeniería de sofware
+documentación de sistemas
+diseño construcción
+casos de prueba
+especificación técnica
+define technical architecture
+equipos de desarrollo
+metodologías de desarrollo
+support the production and testing environment
+calidad de producto
+implementación de aplicaciones web
+arquitectura de integración
+team coaching
+architectural design
+control de calidad de los requerimientos de cambio
+pruebas unitarias sutantivo
+metodologías de desarrollo de software
+control de versiones
+sincronización del código
+desarrollo de software
+diseño de casos de prueba
+ciclo de desarrollo del software
+normas de programación
+estandares de desarrollo
+pruebas unitarias
+modelado basado en uml
+construcción y testing
+ingenieria de software
+subversion
+integración continua
+teammates codereview
+programador as400
+servicios soa
+teammates coaching
+ingtegration server frase:
+cumplimiento de tiempos
+systems architecture
+scrum
+verificar los componentes
+improve web solutions
+interfaces entre aplicaciones

@@ -1,0 +1,266 @@
+1003,Ingeniería de software
+1137,Ingeniería de software
+1193,Sistemas de información
+1197,Ingeniería de software
+1203,Sistemas de información
+1207,Tecnologías de información
+1226,Tecnologías de información
+1237,Ingeniería de software
+1254,Ingeniería de software
+1268,Sistemas de información
+1270,Sistemas de información
+1286,Tecnologías de información
+1296,Sistemas de información
+1301,Sistemas de información
+1303,Tecnologías de información
+1308,Ingeniería de software
+1327,Ingeniería de software
+1337,Ingeniería de software
+1338,Ingeniería de software
+1350,Tecnologías de información
+1363,Ingeniería de software
+1371,Ingeniería de software
+1401,Sistemas de información
+1438,Ingeniería de software
+1470,Sistemas de información
+1481,Ingeniería de software
+1524,Tecnologías de información
+1529,Tecnologías de información
+1531,Tecnologías de información
+1532,Ingeniería de software
+1541,Ingeniería de software
+1545,Ingeniería de software
+1554,Tecnologías de información
+1557,Tecnologías de información
+1568,Tecnologías de información
+1598,Ingeniería de software
+1600,Sistemas de información
+1640,Tecnologías de información
+1643,Tecnologías de información
+1644,Sistemas de información
+1651,Ingeniería de software
+1652,Sistemas de información
+1660,Sistemas de información
+1662,Ingeniería de software
+1677,Sistemas de información
+1681,Tecnologías de información
+1685,Ingeniería de software
+1688,Ingeniería de software
+1718,Gestión
+1721,Ingeniería de software
+1734,Tecnologías de información
+1747,Sistemas de información
+1752,Ingeniería de software
+1766,Sistemas de información
+1781,Gestión
+1784,Tecnologías de información
+1785,Tecnologías de información
+1786,Tecnologías de información
+1793,Ingeniería de software
+1794,Tecnologías de información
+1798,Sistemas de información
+1799,Tecnologías de información
+1801,Sistemas de información
+1807,Sistemas de información
+1817,Sistemas de información
+1820,Gestión
+1824,Ingeniería de software
+1831,Ingeniería de software
+1856,Ingeniería de software
+1857,Ingeniería de software
+1860,Ingeniería de software
+1886,Ingeniería de software
+1888,Gestión
+1889,Tecnologías de información
+1898,Sistemas de información
+1904,Ingeniería de software
+1907,Tecnologías de información
+1924,Sistemas de información
+1927,Sistemas de información
+1931,Sistemas de información
+1934,Ingeniería de software
+1939,Ingeniería de software
+1952,Gestión
+1957,Sistemas de información
+1959,Gestión
+1971,Tecnologías de información
+1972,Tecnologías de información
+1977,Sistemas de información
+1982,Tecnologías de información
+2004,Sistemas de información
+2012,Gestión
+2014,Gestión
+2024,Sistemas de información
+2033,Tecnologías de información
+2035,Tecnologías de información
+2066,Sistemas de información
+2077,Sistemas de información
+2103,Gestión
+2110,Tecnologías de información
+2111,Sistemas de información
+2114,Sistemas de información
+2122,Tecnologías de información
+2129,Tecnologías de información
+2130,Tecnologías de información
+2141,Tecnologías de información
+2153,Sistemas de información
+2157,Ingeniería de software
+2178,Gestión
+2185,Tecnologías de información
+2211,Tecnologías de información
+2213,Ingeniería de software
+2214,Tecnologías de información
+2217,Tecnologías de información
+2218,Ingeniería de software
+2219,Ingeniería de software
+2229,Ingeniería de software
+2230,Ingeniería de software
+2232,Sistemas de información
+2238,Ingeniería de software
+2239,Tecnologías de información
+2240,Sistemas de información
+2242,Sistemas de información
+2244,Tecnologías de información
+2246,Ingeniería de software
+2256,Tecnologías de información
+2265,Ingeniería de software
+2266,Tecnologías de información
+2271,Ingeniería de software
+2273,Ingeniería de software
+2282,Tecnologías de información
+2283,Sistemas de información
+2309,Gestión
+2316,Ingeniería de software
+2317,Ingeniería de software
+2328,Tecnologías de información
+2331,Sistemas de información
+2333,Gestión
+2363,Ingeniería de software
+2366,Gestión
+2385,Sistemas de información
+2392,Sistemas de información
+2397,Gestión
+2403,Tecnologías de información
+2415,Ingeniería de software
+2420,Sistemas de información
+2429,Ingeniería de software
+2432,Sistemas de información
+2491,Gestión
+2493,Sistemas de información
+2499,Tecnologías de información
+2509,Sistemas de información
+2510,Gestión
+2512,Tecnologías de información
+2525,Sistemas de información
+2531,Gestión
+2539,Sistemas de información
+2541,Tecnologías de información
+2560,Gestión
+2567,Tecnologías de información
+2568,Tecnologías de información
+2569,Tecnologías de información
+2572,Sistemas de información
+2580,Tecnologías de información
+2654,Tecnologías de información
+2662,Ingeniería de software
+2669,Ingeniería de software
+2670,Ingeniería de software
+2691,Ingeniería de software
+2725,Sistemas de información
+2742,Tecnologías de información
+2809,Tecnologías de información
+7,Sistemas de información
+9,Ingeniería de software
+18,Tecnologías de información
+24,Sistemas de información
+28,Gestión
+32,Ingeniería de software
+34,Tecnologías de información
+59,Ingeniería de software
+63,Ingeniería de software
+68,Ingeniería de software
+70,Sistemas de información
+88,Ingeniería de software
+103,Ingeniería de software
+105,Sistemas de información
+118,Ingeniería de software
+119,Ingeniería de software
+137,Sistemas de información
+139,Ingeniería de software
+146,Ingeniería de software
+153,Ingeniería de software
+189,Sistemas de información
+198,Ingeniería de software
+218,Tecnologías de información
+220,Tecnologías de información
+239,Ingeniería de software
+242,Ingeniería de software
+274,Tecnologías de información
+280,Ingeniería de software
+282,Tecnologías de información
+286,Ingeniería de software
+287,Ingeniería de software
+289,Tecnologías de información
+293,Ingeniería de software
+307,Ingeniería de software
+318,Ingeniería de software
+332,Ingeniería de software
+342,Sistemas de información
+366,Ingeniería de software
+374,Ingeniería de software
+387,Ingeniería de software
+391,Ingeniería de software
+393,Ingeniería de software
+404,Ingeniería de software
+437,Gestión
+441,Ingeniería de software
+449,Ingeniería de software
+451,Sistemas de información
+452,Gestión
+457,Sistemas de información
+458,Tecnologías de información
+474,Gestión
+480,Tecnologías de información
+490,Ingeniería de software
+491,Ingeniería de software
+508,Tecnologías de información
+525,Ingeniería de software
+527,Ingeniería de software
+530,Ingeniería de software
+539,Ingeniería de software
+551,Ingeniería de software
+583,Ingeniería de software
+601,Ingeniería de software
+616,Ingeniería de software
+618,Ingeniería de software
+622,Gestión
+625,Ingeniería de software
+626,Ingeniería de software
+630,Ingeniería de software
+635,Tecnologías de información
+719,Ingeniería de software
+733,Tecnologías de información
+739,Sistemas de información
+750,Ingeniería de software
+752,Gestión
+786,Ingeniería de software
+830,Sistemas de información
+885,Gestión
+929,Ingeniería de software
+988,Ingeniería de software
+991,Tecnologías de información
+993,Sistemas de información
+1305,Tecnologías de información
+1453,Ingeniería de software
+1476,Ingeniería de software
+1477,Ingeniería de software
+1494,Ingeniería de software
+1547,Ingeniería de software
+1584,Ingeniería de software
+1719,Ingeniería de software
+1824,Ingeniería de software
+1829,Ingeniería de software
+1834,Ingeniería de software
+1864,Ingeniería de software
+2056,Ingeniería de software
+2062,Tecnologías de información

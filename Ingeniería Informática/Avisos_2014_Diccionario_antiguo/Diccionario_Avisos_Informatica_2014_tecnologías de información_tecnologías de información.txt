@@ -1,0 +1,232 @@
+activo: 46
+administración: 207
+administración base dato: 21
+administración equipo: 10
+administración equipo cuenta servicio cómputo: 1
+administración firewall: 2
+administración firewalls: 5
+administración infraestructura: 10
+administración infraestructura servidor solución almacenamiento físico: 3
+administración mantenimiento servidor: 7
+administración red: 49
+administración servicio: 14
+administrador: 66
+administrador base dato: 13
+administrador red: 16
+administrador servidor red: 3
+administrar: 114
+administrar base dato: 6
+administrar centro cómputo: 2
+administrar configurar servidor servicio: 5
+administrar infraestructura informática: 2
+administrar monitorear base dato: 2
+administrar monitorear base dato servicio aplicación: 2
+administrar seguridad: 4
+administrar servicio: 12
+administrar servicio telecomunicación: 1
+analista red: 7
+análisis riesgo: 11
+aplicación standard: 1
+apoyar implementación nuevo software: 2
+apoyo sistema: 3
+apoyo usuario: 4
+arquitectura comunicación: 3
+arquitectura empresarial: 4
+asegurar confiabilidad operatividad aplicación: 3
+asegurar continuidad operación sistema: 1
+asegurar funcionamiento oracle: 2
+asterisk: 19
+atención requerimiento: 23
+auditor sistema: 2
+auditorio: 24
+backup: 24
+backup servidor: 2
+balanceadores carga: 6
+base dato gestión configuración: 1
+base dato topología: 1
+bcp: 13
+capacidad sistema: 1
+capacitar usuario: 3
+ccna: 45
+ccsa: 2
+centro cómputo: 16
+centro dato: 11
+cobit: 56
+confiabilidad operatividad aplicación: 3
+configuración: 132
+configuración equipo comunicación: 5
+configuración mantenimiento: 6
+configuración mantenimiento red: 3
+configuración red: 15
+configurar hardware: 1
+configurar red informática: 5
+configurar servidor servicio: 5
+configurar software: 1
+conocimiento itil: 8
+conocimiento protocolo: 2
+conocimiento red telecomunicación: 1
+conocimiento sistema operativo: 37
+continuidad: 77
+continuidad negocio: 23
+continuidad operacional: 4
+continuidad operación: 7
+continuidad operativo: 11
+control gestión infraestructura: 1
+control seguridad comunicación: 2
+control seguridad información: 12
+controlar mantener equipo comunicación: 2
+dBA: 8
+data center: 16
+datacenter: 6
+definición control seguridad comunicación: 2
+dhcp: 18
+diagnóstico solución incidencia: 3
+disaster recovery plan: 6
+diseñar arquitectura plataforma: 1
+disponibilidad: 110
+disponibilidad servicio relacionar: 3
+dns: 20
+drp: 13
+ejecutar pasar producción aplicación interno: 2
+elaborar plan mantenimiento hardware: 1
+entorno red: 7
+equipo: 243
+equipo red: 18
+establecer: 93
+establecimiento político: 10
+evaluar: 74
+evaluar proponer alternativo mejora tecnológico infraestructura comunicación: 2
+firewalls: 25
+gestión comunicación: 3
+gestión crisis: 4
+gestión portafolio servicio interfaz: 1
+gestión riesgo: 16
+gestión servicio: 10
+gestión suministro servicio: 1
+gestor proyecto: 2
+habilitación plataforma comunicación servicio: 1
+hacer backup servidor: 1
+hardware software comunicación: 4
+help desk: 27
+helpdesk: 4
+implementación: 150
+incidencia: 49
+incidente: 67
+información aplicativos: 2
+información comunicación: 7
+infraestructura: 186
+infraestructura comunicación: 18
+infraestructura informática: 3
+infraestructura networking: 3
+infraestructura red: 18
+infraestructura red dato: 3
+infraestructura servidor: 12
+infraestructura tecnológico: 44
+infraestructura virtualización: 4
+infraestructura voip: 5
+infrastructure: 5
+ingeniero senior red: 5
+ingeniería requerimiento: 2
+instalación equipo: 9
+instalación sistema: 4
+instalación software: 15
+instalar: 30
+instalar configurar equipo comunicación banca virtual: 2
+instalar configurar software: 1
+interfaz batch: 1
+inventario software: 5
+investigación tecnología proceso: 1
+investigar: 9
+iso: 75
+itil: 118
+lan: 61
+lineamiento: 17
+mantener gestionar infraestructura red: 5
+mantenimiento: 153
+mantenimiento correctivo preventivo sistema tecnología: 1
+mantenimiento hardware: 8
+mcsa: 3
+mcse: 7
+mcts: 3
+mejora proceso: 13
+mensajería vía ethernet: 1
+mesa ayuda: 33
+metodología análisis sistema: 3
+modelamiento proceso: 7
+monitorear red: 10
+networking cisco: 3
+nivel servicio: 32
+oca: 4
+oficial seguridad: 5
+operación red: 5
+operatividad equipo: 2
+oracle: 55
+plan contingencia: 23
+plan continuidad negocio: 12
+planificar: 40
+plataforma informática: 3
+plataforma oss: 1
+plataforma virtualización: 5
+portafolio servicio: 2
+problema: 89
+proceso: 152
+proponer político seguridad información: 1
+proxy: 22
+recuperación caso desastre: 4
+red: 283
+red alto calidad: 5
+red comunicación: 62
+red comunicación video: 5
+red dato: 39
+red ip: 5
+redundancia procesador: 1
+reemplazo equipo: 1
+reemplazo equipo sistema operativo: 1
+renovación equipo: 2
+reportar disponibilidad servicio: 3
+respaldo: 50
+respaldo información: 12
+riesgo: 68
+routers: 27
+seguridad inform: 1
+seguridad información: 117
+seguridad informatica: 2
+seguridad informática: 46
+service desk: 3
+servicio: 266
+servicio instalación sistema: 1
+servidor: 162
+sgcn: 3
+sgsi: 12
+sistema gestión seguridad información: 24
+sistema gestión seguridad información sgsi: 9
+sistema operativo: 123
+sniffer: 5
+soporte: 232
+soporte administrativo red comunicación: 3
+soporte aplicación: 8
+soporte comunicación: 4
+soporte google apps: 1
+soporte hardware: 3
+soporte remoto: 1
+soporte sistema: 8
+soporte técnico: 73
+soporte técnico computar sistema: 1
+soporte usuario: 34
+standard hardware: 5
+standard iso: 12
+switches: 32
+tcp: 31
+tcp ip: 24
+tecnología lan wan: 5
+telefonía ip: 10
+tipo incidente problema: 1
+topología: 10
+velar seguridad informática: 4
+virtualización: 41
+vmware vsphere: 4
+voip: 11
+vpn: 27
+vware vsphere: 1
+wan: 39
+wifi: 8

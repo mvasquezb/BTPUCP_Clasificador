@@ -1,0 +1,60 @@
+equipos
+asterisk
+ti
+dns
+itil
+tcp / ip
+dhcp
+infrastructure
+lan
+ccna
+administración y la optimización de la base de datos
+respaldo
+incidentes
+iso 27001
+routers
+servidores
+cobit
+voip
+sgsi
+mcts
+soporte remoto
+switches
+vpn
+continuidad
+problemas
+oca
+redes
+oracle
+proxy
+helpdesk
+infraestructura
+drp
+dba
+plataforma de infraestructura
+bcp
+disponibilidad
+auditoria
+backup
+mcsa
+mcse
+datacenter
+tcp
+planes de contingencia
+iso 20000.
+virtualización
+sgcn
+servidor
+soporte
+tcp/ip
+firewalls
+wifi
+it
+incidencias
+reportes de disponibilidad
+coordinar de cerca con los proveedores de sistemas
+topologías
+ccsa
+wan
+sniffer
+riesgos
