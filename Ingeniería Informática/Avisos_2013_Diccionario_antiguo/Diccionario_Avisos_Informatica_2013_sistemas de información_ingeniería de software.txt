@@ -1,0 +1,83 @@
+análisis: 534
+análisis diseño sistema: 15
+análisis requerimiento: 5
+aplicación móvil: 1
+arquitectura: 34
+arquitectura sistema: 1
+arquitectura solución: 6
+aseguramiento calidad: 5
+asp net: 10
+base dato sql server: 15
+c: 23
+calidad: 151
+calidad sistema: 5
+caso prueba: 9
+certificación: 48
+codificación: 1
+componente: 5
+componente sistema: 2
+conocimiento base dato: 16
+conocimiento lenguaje: 13
+control calidad: 11
+control versión: 1
+cumplimiento tiempo: 1
+desarrollador: 10
+desarrollar: 168
+desarrollo: 305
+desarrollo aplicación: 23
+desarrollo mantenimiento aplicativos: 4
+desarrollo mantenimiento sistema: 2
+desarrollo software: 3
+desarrollo solución: 4
+developer: 10
+diseño: 183
+diseño sistema: 17
+documentación sistema: 7
+equipo desarrollo: 9
+especificación técnico: 2
+estructura dato: 1
+frameworks: 1
+gestión proyecto: 132
+implementación: 277
+implementar: 129
+ing requerimiento: 1
+ingeniería requerimiento: 2
+ingeniería software: 2
+integración: 29
+java: 39
+jee: 3
+lenguaje programación java net: 1
+mantenimiento: 160
+mantenimiento software: 1
+metodología desarrollo: 9
+metodología ágil: 1
+metodología ágil desarrollo: 1
+net: 58
+php: 1
+plan prueba: 3
+power builder: 5
+proceso desarrollo: 7
+proceso desarrollo software: 1
+programación: 135
+programación aplicación: 3
+programación base dato: 2
+programación lenguaje: 5
+programación net: 5
+programación orientar objeto: 4
+programador: 21
+prueba: 81
+prueba unitario: 2
+qa: 5
+quality: 8
+quality assurance: 1
+revisión código: 1
+rup: 6
+scrum: 1
+soa: 5
+soporte mantenimiento: 6
+standard: 45
+team foundation server: 1
+uml: 17
+visual basic: 21
+visual studio: 20
+web services: 8

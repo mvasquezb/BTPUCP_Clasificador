@@ -1,0 +1,142 @@
+abap: 11
+actividad analista sistema: 3
+administrador nivel usuario funcional: 1
+analista funcional: 72
+analista funcional sistema: 7
+analista información: 9
+analista proceso: 28
+analista sap: 64
+analista sistema: 27
+analisys services: 2
+analizar información: 13
+analizar requerimiento: 27
+análisis: 271
+análisis base dato: 17
+análisis data: 3
+análisis dato: 15
+análisis diseño: 24
+análisis documentación proceso: 2
+análisis financiero: 3
+análisis funcional: 26
+análisis funcional proceso: 1
+análisis indicador: 5
+análisis información: 47
+análisis mejora proceso: 9
+análisis proceso: 19
+análisis proceso negocio: 1
+apoyo diferente actividad analista sistema: 3
+auditoría mensual: 1
+automatización proceso: 11
+bi: 93
+bpm: 32
+bpmn: 14
+business intelligence: 51
+business process management: 4
+calidad base dato: 1
+co: 47
+conocimiento banca: 5
+consolidar información: 10
+consultor co: 2
+consultor junior oracle: 1
+consultoría negocio: 3
+crm: 82
+cubo: 8
+data analytics: 1
+data warehouses: 6
+datamining: 4
+datastage: 32
+datawarehouse: 26
+datawarehousing: 2
+desarrollo aplicación: 23
+diseñar sistema informático: 1
+diseño base dato: 4
+diseño data warehouses data marts: 3
+diseño sistema: 17
+diseño solución negociar desarrollo implantación: 3
+documentación caso prueba prototipo pantalla: 3
+documentación funcional: 6
+documentación sistema: 17
+dominio sql manejo base dato: 1
+ejecutar modelo gestión: 1
+elaboración flujogramas: 1
+elaboración prototipo: 2
+elaborar documentación funcional proceso implementación: 1
+especificación caso uso: 2
+especificación funcional: 14
+especificar requerimiento: 6
+especificar requerimiento nivel funcional técnico: 4
+estrategia sistema: 3
+etl: 55
+evaluar requerimiento: 5
+experiencia funcional: 89
+explotación información: 11
+extracción: 19
+funcional: 258
+gestión proceso: 32
+herramienta análisis: 9
+herramienta moldeamiento proceso: 1
+herramienta oracle: 3
+implementación sap co: 25
+implementación sistema: 42
+indicador gestión: 41
+indicador área: 4
+inteligencia comercial: 28
+inteligencia negocio: 61
+inteligencia proceso: 9
+levantamiento: 73
+levantamiento información: 30
+levantamiento información proceso: 3
+levantamiento proceso: 11
+levantamiento requerimiento: 3
+listado caso uso: 2
+listado requerimiento: 2
+manejo base dato: 64
+manejo plan ejecución optimización: 1
+manejo proceso: 4
+manejo volumen información: 2
+mapeo proceso: 14
+mejora proceso: 67
+minería análisis dato: 1
+mining dato: 1
+modelamiento: 68
+modelamiento dato: 17
+modelamiento proceso: 16
+modelamiento rediseño proceso: 9
+modelar proceso: 3
+modelar solución bi: 3
+modelo lógico físico: 2
+modelo negocio: 1
+modelo olap multidimensionales tabulares: 3
+modelo proceso negocio: 1
+modelo simulación servicio: 9
+moldeamiento dato: 1
+monitorear indicador: 3
+nuevo requerimiento: 9
+olap: 9
+oracle: 102
+planeamiento sistema: 1
+procesamiento información: 5
+proceso aseguramiento calidad información: 2
+proceso automatizables: 2
+proceso comercial: 7
+proceso etl: 26
+proceso negocio: 13
+producto servicio financiero: 5
+proyecto bi: 6
+proyecto sistema: 14
+registro indicador área: 2
+relevamiento generación seguimiento indicador gestión bsc: 1
+reporting services: 11
+requerimiento: 132
+requerimiento funcional: 44
+sap: 157
+sap business one: 6
+sistema administración documentaria: 2
+sistema documentario: 4
+sistema gestión: 20
+sistema gestión financiero: 1
+sistema gestión venta: 1
+sistema información: 123
+sistema información gestión: 8
+teradata: 15
+volumen información: 6

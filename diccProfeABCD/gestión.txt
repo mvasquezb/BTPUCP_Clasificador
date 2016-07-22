@@ -1,169 +1,121 @@
-activities
-elaboración
-equipos
-estratégica
-administrate
-pm
-recursos
-riesgos.
-cronograma
-las
-pmbok
-gestión
-coordinación
-planes
-necessary
-proyecto
-aplicaciones
-marco
-términos
-y/o
-pmp
-supervisar
-desarrollo
-responsables
-dirigir
-dirección
-cambios
-preparación
-management
-trabajo
-elaborara
-liderar
-controlar
-establecidos.
-riesgos
-members
+actividades del proyecto
+actualizacion de planes
+actualizacion del cronograma
+administracion de proyectos
+administrador de proyectos
+administrar el presupuesto
+administrar los riesgos
+administrate the project
+alcance del proyecto
+analisis de riesgos
+aseguramiento de calidad
+asignar tareas
+balance scorecard
+cierre de negocios
+control de proyectos
+controlar la ejecucion del proyecto
+coordinacion con equipos
+coordinacion con personas
+coordinacion de los recursos
+coordinador de proyectos
+coordinar el equipo de proyecto
+coordinar las etapas del proyecto
+coordinar reuniones
+coordinate team activities
+cumplimiento de los objetivos
+decisions making
+definicion de entregables
+definicion de objetivos
+definicion del alcance
+desarrollo de nuevos proyectos
+desarrollo de proyectos
+direccion de los recursos
+dirigiendo equipos
+dirigir la ejecucion del proyecto
+dirigir proyectos
+diseño de proyecto
+ejecutar proyectos
+elaboracion de estandares
+elaboracion de politicas
+elaboracion de procedimientos
+elaboracion del plan anual de proyectos
+elaborar el plan de trabajo
+follow up team activities
+formulacion de proyectos
+gerente de proyectos
+gestion de cambios
+gestion de procesos
+gestion de proyectos
+gestion de riesgos
+gestionar el equipo
+gestionar proyectos
+gestionar recursos
+gestionar stakeholders
+gestor de proyectos
+guia del equipo
+herramientas de gestion
+implementacion de proyectos
+indicadores de gestion
+informes de gestion
+interlocucion con equipos
+interlocucion con equipos
+interlocucion con personas
+jefe de proyecto
+levantar la informacion
+liderando equipos
+liderando proyectos
+liderar proyectos
+liderazgo de proyecto
+manage the neccesary resources
+managing people
+mantenimiento del bsc
+modelamiento de procesos
+modelos de negocio
+modificacion de estandares
+modificacion de politicas
+modificacion de procedimientos
+motivate the team members
+plan team activities
+planes de trabajo
+planificacion de proyectos
+planificacion estrategica
+planificar la ejecucion del proyecto
+portafolio de proyectos
+preparacion del cronograma
+procesos de negocio
+project leader
+project management professional
+project manager
+realizar estimaciones
+requerimientos de los recursos
+reuniones de seguimiento
+seguimiento de proyectos
+seguimiento del proyecto
+supervisar el cumplimiento
+supervision del equipo
+team work definition
+toma de decisiones
+update the project plan
 bsc
-liderazgo
-responsable
-control
-calidad
-negocios
-dirigiendo
-empleados
-tiempos
-aseguramiento
-reuniones
-work
-the
-team
-actualización
-proyecto.
-en
-follow
-negocio
-execution
-gestionar
-proyectos
-alcance
-definición
-asignar
-manager
-project
-avance
-diseño
-coordinar
-proponer
-coordinate
-objetivos
-planificación
-informes
-modificación
-análisis
-professional
-flujos
-requerimientos
-su
-desarrollar
-herramientas
-definir
-lógico
-update
-programación
-personas
-cumplimiento
-y
-ejecutar
-manejo
-elaborar
-and
-información
-actividades
-del
 cmmi
-ti
-levantar
-procesos
-la
-cargo
-tareas
-supervisor
-administración
-manage
-leader
-sistemas
-avances
-al
-operación
-gestor
-interlocución
-metodología
-preparar
-funciones
-planificar
-área
-seguimiento
-cierre
-portafolio
-los
-.
-todos
-plan
-obtain
-modelos
-presupuesto
-administrar
-modelamiento
-realizar
-el
-equipo
-con
-implementacion
-sub
-proyectos.
-actas
-procedimientos
-supervisión
-etapas
-estimaciones
-cumplir
-e
-guía
-estándares
-a
-políticas
-jefe
-motivate
-frase
+control
 gerente
-planes.
-de
-servicios
-up
-resources
-indicadores
-implementación
-liderando
-administrador
-programadores
-formulación
-nuevos
+jefe
+management
+planificacion
+pmbok
+pmi
+pmp
+subgerente
+supervisor
+portafolio
+pki
+controlar
+coordinar
+dirigir
+gestionar
+liderar
 organizar
-implementaciones
-mantenimiento
-costo
-definition
-asegurar
-tiempo
-stakeholders
+planificar
+supervisar
+supervise

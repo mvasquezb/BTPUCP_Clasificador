@@ -1,0 +1,103 @@
+abap: 9
+analista funcional: 55
+analista funcional sistema: 3
+analista información: 27
+analista proceso: 41
+analista sap: 7
+analista sistema: 50
+analisys services: 1
+analizar información: 31
+analizar requerimiento: 6
+análisis: 401
+análisis base dato: 12
+análisis data: 2
+análisis dato: 25
+análisis diseño: 40
+análisis diseño sistema información: 2
+análisis documentación proceso: 2
+análisis financiero: 4
+análisis funcional: 31
+análisis funcional proceso: 2
+análisis indicador: 5
+análisis información: 42
+análisis mejora proceso: 5
+análisis proceso: 30
+análisis proceso negocio: 1
+auditoría mensual: 1
+automatización proceso: 17
+bi: 65
+bpm: 28
+bpmn: 3
+business intelligence: 68
+business process management: 4
+co: 10
+conocimiento banca: 3
+consolidar información: 8
+consultoría negocio: 5
+crm: 47
+cubo: 5
+datamining: 6
+datastage: 20
+datawarehouse: 38
+datawarehousing: 1
+desarrollo aplicación: 14
+diseño base dato: 1
+diseño sistema: 14
+diseño solución negociar desarrollo implantación: 1
+documentación funcional: 4
+documentación sistema: 7
+elaborar documentación funcional proceso implementación: 2
+especificación funcional: 17
+especificar requerimiento: 2
+estrategia sistema: 1
+etl: 21
+evaluar requerimiento: 3
+experiencia funcional: 5
+explotación información: 17
+explotación información sistema: 1
+extracción: 26
+funcional: 147
+gestión proceso: 26
+herramienta análisis: 2
+herramienta oracle: 2
+implementación sistema: 31
+indicador gestión: 55
+indicador área: 10
+inteligencia comercial: 39
+inteligencia negocio: 44
+inteligencia proceso: 2
+levantamiento: 71
+levantamiento información: 44
+levantamiento información proceso: 4
+levantamiento proceso: 4
+levantamiento requerimiento: 9
+manejo base dato: 55
+manejo proceso: 5
+manejo volumen información: 1
+mapeo proceso: 2
+mejora proceso: 99
+modelamiento: 32
+modelamiento dato: 9
+modelamiento proceso: 5
+modelar proceso: 2
+modelo simulación servicio: 2
+monitorear indicador: 9
+nuevo requerimiento: 23
+olap: 11
+oracle: 101
+procesamiento información: 9
+proceso comercial: 11
+proceso etl: 4
+proceso negocio: 8
+proyecto bi: 3
+proyecto sistema: 16
+reporting services: 18
+requerimiento: 180
+requerimiento funcional: 8
+sap: 127
+sap business one: 4
+sistema gestión: 34
+sistema información: 57
+sistema información gestión: 3
+teradata: 9
+volumen información: 9

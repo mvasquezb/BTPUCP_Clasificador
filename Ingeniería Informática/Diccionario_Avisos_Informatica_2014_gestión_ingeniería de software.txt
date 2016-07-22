@@ -1,0 +1,93 @@
+agile: 16
+android: 1
+análisis: 391
+análisis diseño sistema: 3
+análisis requerimiento: 11
+aplicación móvil: 2
+arquitectura: 63
+arquitectura sistema: 1
+arquitectura software: 4
+arquitectura solución: 5
+aseguramiento calidad: 9
+asp net: 1
+base dato sql server: 23
+c: 39
+calidad: 190
+calidad producto: 4
+calidad sistema: 3
+caso prueba: 9
+certificación: 131
+certificador: 2
+certificador software: 2
+codificación: 3
+componente: 34
+componente sistema: 27
+conocimiento base dato: 19
+conocimiento lenguaje: 18
+control calidad: 24
+cumplimiento tiempo: 6
+desarrollador: 5
+desarrollar: 175
+desarrollo: 482
+desarrollo aplicación: 14
+desarrollo mantenimiento sistema: 2
+desarrollo software: 25
+desarrollo solución: 4
+developer: 14
+diseño: 187
+diseño sistema: 8
+documentación sistema: 1
+eclipsar: 1
+equipo desarrollo: 7
+especificación técnico: 14
+gestión proyecto: 190
+gestión prueba: 2
+gestión tarea: 1
+implementación: 373
+implementación aplicación web: 2
+implementar: 155
+ingeniería requerimiento: 1
+ingeniería software: 31
+integración: 72
+integration server: 1
+interacts qa engineers: 1
+ios: 1
+java: 64
+lenguaje programación java net: 1
+mantenimiento: 166
+mantenimiento software: 1
+metodología desarrollo: 14
+metodología desarrollo software: 2
+mvc: 4
+net: 58
+php: 24
+power builder: 6
+proceso desarrollo: 25
+proceso desarrollo software: 1
+programación: 209
+programación aplicación: 1
+programación base dato: 2
+programación net: 1
+programación orientar objeto: 1
+programador: 57
+prueba: 90
+prueba especial funcional: 1
+prueba software: 4
+prueba unitario: 4
+qa: 13
+quality: 27
+quality assurance: 6
+rup: 14
+scrum: 15
+soa: 7
+software engineer: 3
+soporte mantenimiento: 12
+standard: 91
+standard desarrollo: 1
+systems architecture: 1
+test casar: 3
+test plans: 2
+uml: 14
+visual basic: 62
+visual studio: 11
+web services: 3

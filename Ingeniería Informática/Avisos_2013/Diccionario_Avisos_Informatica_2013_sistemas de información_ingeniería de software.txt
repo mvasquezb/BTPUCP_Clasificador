@@ -1,0 +1,120 @@
+analisis aplicación: 1
+analisis requerimiento: 1
+analista: 632
+analista funcional: 63
+analista programador: 14
+analizar requerimiento: 11
+aplicación web: 8
+arquitectura sistema: 4
+arquitectura solución: 8
+aseguramiento calidad: 24
+asp net: 16
+atencion requerimiento: 1
+base dato: 487
+c: 43
+calidad sistema: 11
+cambio plataforma: 1
+caso prueba: 34
+caso uso: 1
+ciclo vida software: 3
+cliente servidor: 9
+cmmi: 19
+cobol: 9
+componente sistema: 2
+componente software: 1
+conocimiento lenguaje: 38
+control calidad: 42
+control versión: 2
+coordinación areas: 1
+css: 3
+database: 14
+desarrollar programa: 4
+desarrollar solución: 8
+desarrollo: 563
+desarrollo aplicación: 39
+desarrollo componente: 2
+desarrollo software: 21
+desarrollo solución: 11
+desarrollo web: 7
+documento funcional: 4
+documento técnico: 6
+ejecucion proyecto: 2
+ejecutar prueba: 13
+equipo desarrollo: 16
+erwin: 10
+especificación funcional: 19
+especificación tecnicas: 1
+especificar requerimiento: 4
+estructura dato: 2
+evaluar requerimiento: 3
+frameworks: 4
+html: 8
+implement requirements: 1
+implementacion sistema: 1
+implementar requerimiento: 9
+implementar sistema información: 1
+implementar solución: 31
+ing requerimiento: 1
+ios: 1
+istqb: 3
+itil: 36
+java: 92
+javascript: 2
+jdeveloper: 1
+jee: 6
+js: 2
+jsp: 2
+levantamiento información: 72
+levantamiento requerimiento: 11
+manejo base dato: 93
+mantenimiento aplicación: 25
+mantenimiento sistema: 42
+mantenimiento software: 1
+mysql: 12
+net: 118
+optimization: 2
+oracle: 209
+orientar objeto: 11
+php: 13
+plan prueba: 21
+plsql: 11
+postgresql: 5
+power builder: 11
+proceso desarrollo: 16
+proceso despliegue: 1
+programacion: 3
+programador: 42
+programar aplicación: 1
+proyecto software: 7
+prueba aplicación: 1
+prueba aplicativos: 2
+prueba sistema: 1
+prueba unitario: 25
+python: 3
+realizar programa: 3
+reporting services: 27
+requerimiento funcional: 16
+requerimiento usuario: 29
+requisito técnico: 3
+rpg: 3
+rup: 18
+scrum: 7
+sdk: 1
+security: 5
+servidor web: 1
+soa: 6
+software: 228
+solucion requerimiento: 1
+soporte aplicación: 12
+soporte sistema: 13
+spring: 1
+sql: 439
+sql server: 149
+test: 9
+test casar: 1
+testing: 16
+ui: 2
+uml: 32
+vb net: 1
+visual basic: 51
+xml: 1

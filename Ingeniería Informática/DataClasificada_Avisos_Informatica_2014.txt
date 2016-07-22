@@ -1,81 +1,81 @@
 44119949: ingeniería de software
-44119961: sistemas de información
+44119961: gestión
 44119963: ingeniería de software
 44119966: ingeniería de software
 44119968: ingeniería de software
-44119971: sistemas de información
+44119971: gestión
 44119974: sistemas de información
-44119975: sistemas de información
-44119977: sistemas de información
+44119975: gestión
+44119977: gestión
 44119981: gestión
 44119992: sistemas de información
-44119996: sistemas de información
+44119996: gestión
 44120019: ingeniería de software
-44120020: tecnologías de información
+44120020: gestión
 44120024: ingeniería de software
 44120025: ingeniería de software
-44120026: sistemas de información
+44120026: gestión
 44120027: ingeniería de software
 44120028: ingeniería de software
-44120043: sistemas de información
-44120046: sistemas de información
-44120049: sistemas de información
+44120043: gestión
+44120046: gestión
+44120049: gestión
 44120056: ingeniería de software
 44120058: ingeniería de software
-44120062: sistemas de información
-44120068: tecnologías de información
-44120069: sistemas de información
-44120070: sistemas de información
-44120082: tecnologías de información
-44120103: tecnologías de información
-44120107: sistemas de información
-44120114: sistemas de información
+44120062: gestión
+44120068: gestión
+44120069: ingeniería de software
+44120070: gestión
+44120082: gestión
+44120103: gestión
+44120107: gestión
+44120114: gestión
 44120119: ingeniería de software
 44120123: sistemas de información
 44120125: ingeniería de software
 44120127: ingeniería de software
-44120128: sistemas de información
+44120128: gestión
 44120129: ingeniería de software
 44120130: ingeniería de software
 44120131: sistemas de información
 44120144: sistemas de información
-44120146: sistemas de información
+44120146: gestión
 44120160: ingeniería de software
-44120162: sistemas de información
-44120164: sistemas de información
+44120162: gestión
+44120164: gestión
 44120165: tecnologías de información
-44120167: ingeniería de software
+44120167: gestión
 44120169: ingeniería de software
-44120170: ingeniería de software
+44120170: gestión
 44120174: ingeniería de software
-44120189: sistemas de información
+44120189: gestión
 44120209: tecnologías de información
-44120213: gestión
-44120220: tecnologías de información
-44120227: sistemas de información
-44120232: sistemas de información
-44120233: tecnologías de información
+44120213: tecnologías de información
+44120220: gestión
+44120227: gestión
+44120232: gestión
+44120233: gestión
 44120253: gestión
-44120255: sistemas de información
+44120255: gestión
 44120265: ingeniería de software
-44120268: sistemas de información
-44120271: tecnologías de información
-44120278: sistemas de información
-44120280: gestión
+44120268: gestión
+44120271: gestión
+44120278: gestión
+44120280: ingeniería de software
 44120282: ingeniería de software
 44120284: gestión
 44120286: sistemas de información
 44120302: ingeniería de software
-44120320: sistemas de información
-44120322: tecnologías de información
-44120330: tecnologías de información
+44120320: gestión
+44120322: gestión
+44120330: gestión
 44120342: sistemas de información
-44120351: sistemas de información
-44120359: sistemas de información
+44120351: gestión
+44120359: gestión
 44120364: ingeniería de software
 44120366: gestión
 44120376: ingeniería de software
-44120386: sistemas de información
+44120386: gestión
 44120402: gestión
 44120403: gestión
 44120404: tecnologías de información
@@ -83,72 +83,72 @@
 44120434: ingeniería de software
 44120435: tecnologías de información
 44120436: tecnologías de información
-44120437: gestión
+44120437: ingeniería de software
 44120438: ingeniería de software
 44120447: sistemas de información
-44120470: sistemas de información
-44120485: ingeniería de software
+44120470: gestión
+44120485: gestión
 44120487: sistemas de información
 44120488: ingeniería de software
-44120491: sistemas de información
+44120491: gestión
 44120493: ingeniería de software
 44120502: tecnologías de información
-44120511: sistemas de información
-44120520: sistemas de información
-44120522: sistemas de información
-44120526: tecnologías de información
+44120511: gestión
+44120520: gestión
+44120522: gestión
+44120526: gestión
 44120537: ingeniería de software
-44120540: tecnologías de información
+44120540: gestión
 44120542: sistemas de información
 44120545: ingeniería de software
 44120547: ingeniería de software
 44120548: ingeniería de software
-44120549: sistemas de información
-44120579: sistemas de información
-44120584: sistemas de información
+44120549: gestión
+44120579: gestión
+44120584: gestión
 44120586: sistemas de información
 44120587: tecnologías de información
 44120596: gestión
-44120613: tecnologías de información
-44120617: sistemas de información
-44120621: sistemas de información
+44120613: gestión
+44120617: gestión
+44120621: gestión
 44120630: tecnologías de información
-44120654: sistemas de información
+44120654: gestión
 44120665: ingeniería de software
-44120679: sistemas de información
-44120684: ingeniería de software
-44120704: sistemas de información
+44120679: gestión
+44120684: gestión
+44120704: gestión
 44120710: ingeniería de software
 44120716: tecnologías de información
 44120720: ingeniería de software
 44120732: gestión
 44120739: ingeniería de software
-44120744: tecnologías de información
+44120744: sistemas de información
 44120745: ingeniería de software
-44120749: tecnologías de información
+44120749: gestión
 44120751: gestión
 44120770: ingeniería de software
-44120778: ingeniería de software
+44120778: gestión
 44120791: sistemas de información
-44120794: sistemas de información
-44120806: ingeniería de software
+44120794: gestión
+44120806: gestión
 44120808: ingeniería de software
 44120810: ingeniería de software
-44120818: ingeniería de software
-44120834: sistemas de información
-44120835: sistemas de información
+44120818: gestión
+44120834: ingeniería de software
+44120835: gestión
 44120836: sistemas de información
-44120837: tecnologías de información
+44120837: sistemas de información
 44120842: tecnologías de información
 44120844: ingeniería de software
 44120872: ingeniería de software
 44120876: tecnologías de información
-44120887: tecnologías de información
-44120895: ingeniería de software
-44120898: sistemas de información
-44120908: ingeniería de software
+44120887: sistemas de información
+44120895: gestión
+44120898: gestión
+44120908: gestión
 44120909: sistemas de información
-44120914: tecnologías de información
+44120914: gestión
 44120919: ingeniería de software
 44120921: ingeniería de software
 44120924: ingeniería de software
@@ -157,85 +157,85 @@
 44120932: ingeniería de software
 44120935: ingeniería de software
 44120937: ingeniería de software
-44120950: ingeniería de software
-44120952: sistemas de información
-44120956: sistemas de información
+44120950: gestión
+44120952: ingeniería de software
+44120956: gestión
 44120967: ingeniería de software
 44120977: ingeniería de software
 44120978: ingeniería de software
-44120980: ingeniería de software
-44120994: ingeniería de software
-44120996: sistemas de información
+44120980: gestión
+44120994: gestión
+44120996: gestión
 44120999: tecnologías de información
 44121005: sistemas de información
 44121007: ingeniería de software
 44121008: ingeniería de software
 44121009: ingeniería de software
 44121010: ingeniería de software
-44121011: sistemas de información
-44121023: sistemas de información
+44121011: gestión
+44121023: gestión
 44121028: gestión
 44121037: ingeniería de software
 44121043: ingeniería de software
 44121049: sistemas de información
 44121059: tecnologías de información
-44121063: sistemas de información
-44121078: ingeniería de software
+44121063: gestión
+44121078: gestión
 44121084: tecnologías de información
-44121089: sistemas de información
-44121096: ingeniería de software
-44121125: sistemas de información
-44121127: gestión
-44121130: sistemas de información
+44121089: gestión
+44121096: gestión
+44121125: gestión
+44121127: sistemas de información
+44121130: gestión
 44121139: sistemas de información
 44121150: tecnologías de información
 44121182: ingeniería de software
-44121185: sistemas de información
-44121186: sistemas de información
+44121185: gestión
+44121186: gestión
 44121188: sistemas de información
-44121189: sistemas de información
+44121189: gestión
 44121190: ingeniería de software
 44121193: ingeniería de software
 44121194: sistemas de información
 44121195: sistemas de información
 44121196: ingeniería de software
 44121211: ingeniería de software
-44121230: sistemas de información
-44121232: sistemas de información
-44121233: sistemas de información
+44121230: gestión
+44121232: gestión
+44121233: gestión
 44121243: ingeniería de software
-44121254: sistemas de información
+44121254: gestión
 44121255: sistemas de información
-44121257: tecnologías de información
+44121257: gestión
 44121258: ingeniería de software
 44121262: tecnologías de información
-44121273: tecnologías de información
+44121273: gestión
 44121275: sistemas de información
-44121282: sistemas de información
+44121282: gestión
 44121284: ingeniería de software
-44121288: sistemas de información
-44121299: sistemas de información
+44121288: gestión
+44121299: gestión
 44121323: ingeniería de software
 44121326: ingeniería de software
 44121332: ingeniería de software
 44121347: tecnologías de información
 44121348: sistemas de información
-44121350: sistemas de información
+44121350: tecnologías de información
 44121351: ingeniería de software
 44121354: tecnologías de información
 44121355: tecnologías de información
 44121359: ingeniería de software
-44121361: sistemas de información
+44121361: gestión
 44121375: tecnologías de información
 44121378: tecnologías de información
-44121385: sistemas de información
-44121391: sistemas de información
+44121385: gestión
+44121391: gestión
 44121393: ingeniería de software
 44121399: ingeniería de software
 44121401: ingeniería de software
 44121402: ingeniería de software
 44121403: ingeniería de software
-44121405: sistemas de información
+44121405: gestión
 44121407: ingeniería de software
 44121408: ingeniería de software
 44121409: ingeniería de software
@@ -245,36 +245,36 @@
 44121420: tecnologías de información
 44121426: ingeniería de software
 44121438: tecnologías de información
-44121446: sistemas de información
+44121446: gestión
 44121454: tecnologías de información
 44121460: tecnologías de información
-44121477: sistemas de información
+44121477: gestión
 44121490: tecnologías de información
 44121494: tecnologías de información
-44121496: gestión
+44121496: ingeniería de software
 44121501: tecnologías de información
 44121512: sistemas de información
 44121516: tecnologías de información
 44121518: ingeniería de software
-44121522: sistemas de información
-44121528: tecnologías de información
-44121541: tecnologías de información
-44121544: sistemas de información
-44121545: ingeniería de software
+44121522: gestión
+44121528: gestión
+44121541: ingeniería de software
+44121544: gestión
+44121545: gestión
 44121552: sistemas de información
 44121572: tecnologías de información
 44121579: ingeniería de software
-44121580: sistemas de información
-44121583: ingeniería de software
-44121586: tecnologías de información
+44121580: gestión
+44121583: gestión
+44121586: gestión
 44121587: ingeniería de software
 44121597: tecnologías de información
 44121618: gestión
 44121621: sistemas de información
-44121624: ingeniería de software
+44121624: gestión
 44121626: ingeniería de software
-44121679: ingeniería de software
-44121696: sistemas de información
+44121679: gestión
+44121696: ingeniería de software
 44121731: sistemas de información
 44121749: ingeniería de software
 44121750: ingeniería de software
@@ -285,119 +285,119 @@
 44121771: tecnologías de información
 44121782: tecnologías de información
 44121785: ingeniería de software
-44121788: sistemas de información
-44121790: sistemas de información
-44121793: sistemas de información
-44121816: sistemas de información
-44121835: sistemas de información
-44121839: gestión
+44121788: gestión
+44121790: gestión
+44121793: gestión
+44121816: gestión
+44121835: gestión
+44121839: sistemas de información
 44121851: ingeniería de software
-44121853: ingeniería de software
+44121853: sistemas de información
 44121854: ingeniería de software
 44121855: ingeniería de software
 44121856: ingeniería de software
 44121870: ingeniería de software
-44121882: sistemas de información
-44121883: sistemas de información
-44121888: sistemas de información
-44121902: ingeniería de software
-44121906: ingeniería de software
+44121882: gestión
+44121883: gestión
+44121888: gestión
+44121902: gestión
+44121906: gestión
 44121911: tecnologías de información
-44121912: tecnologías de información
+44121912: gestión
 44121913: ingeniería de software
-44121924: sistemas de información
-44121926: tecnologías de información
-44121927: tecnologías de información
-44121929: tecnologías de información
+44121924: gestión
+44121926: gestión
+44121927: gestión
+44121929: gestión
 44121942: ingeniería de software
-44121952: sistemas de información
+44121952: gestión
 44121960: ingeniería de software
 44121964: ingeniería de software
 44121980: ingeniería de software
-44122006: sistemas de información
-44122016: sistemas de información
+44122006: gestión
+44122016: gestión
 44122017: ingeniería de software
 44122025: ingeniería de software
-44122030: sistemas de información
-44122033: ingeniería de software
-44122034: sistemas de información
-44122047: tecnologías de información
-44122049: tecnologías de información
-44122054: tecnologías de información
-44122066: sistemas de información
-44122069: sistemas de información
-44122072: ingeniería de software
+44122030: gestión
+44122033: gestión
+44122034: gestión
+44122047: gestión
+44122049: gestión
+44122054: gestión
+44122066: gestión
+44122069: gestión
+44122072: gestión
 44122074: ingeniería de software
 44122111: sistemas de información
 44122112: ingeniería de software
-44122128: ingeniería de software
+44122128: gestión
 44122130: sistemas de información
 44122134: ingeniería de software
-44122146: tecnologías de información
+44122146: sistemas de información
 44122162: tecnologías de información
-44122166: sistemas de información
+44122166: gestión
 44122176: ingeniería de software
 44122196: ingeniería de software
-44122201: sistemas de información
-44122208: sistemas de información
+44122201: gestión
+44122208: gestión
 44122211: gestión
 44122213: ingeniería de software
-44122223: sistemas de información
+44122223: gestión
 44122230: ingeniería de software
 44122231: tecnologías de información
-44122259: sistemas de información
-44122265: sistemas de información
-44122289: sistemas de información
+44122259: gestión
+44122265: gestión
+44122289: ingeniería de software
 44122293: sistemas de información
-44122300: ingeniería de software
-44122304: ingeniería de software
+44122300: gestión
+44122304: sistemas de información
 44122305: ingeniería de software
-44122308: sistemas de información
+44122308: gestión
 44122311: ingeniería de software
 44122312: ingeniería de software
 44122313: ingeniería de software
 44122314: ingeniería de software
 44122316: ingeniería de software
 44122330: ingeniería de software
-44122339: sistemas de información
+44122339: gestión
 44122342: gestión
 44122345: ingeniería de software
 44122352: tecnologías de información
 44122372: ingeniería de software
-44122378: sistemas de información
+44122378: gestión
 44122383: gestión
 44122393: ingeniería de software
 44122397: sistemas de información
 44122405: gestión
-44122406: ingeniería de software
-44122407: gestión
+44122406: gestión
+44122407: sistemas de información
 44122451: ingeniería de software
 44122465: ingeniería de software
-44122466: ingeniería de software
-44122467: tecnologías de información
-44122469: sistemas de información
-44122471: sistemas de información
-44122472: tecnologías de información
+44122466: sistemas de información
+44122467: gestión
+44122469: gestión
+44122471: ingeniería de software
+44122472: gestión
 44122476: sistemas de información
 44122480: tecnologías de información
 44122494: ingeniería de software
-44122505: sistemas de información
-44122508: sistemas de información
+44122505: gestión
+44122508: gestión
 44122541: ingeniería de software
 44122544: tecnologías de información
 44122546: tecnologías de información
 44122547: ingeniería de software
 44122548: ingeniería de software
-44122550: sistemas de información
+44122550: gestión
 44122558: ingeniería de software
 44122559: ingeniería de software
 44122567: tecnologías de información
-44122579: ingeniería de software
-44122585: sistemas de información
-44122600: sistemas de información
+44122579: gestión
+44122585: gestión
+44122600: gestión
 44122601: tecnologías de información
 44122602: sistemas de información
-44122603: gestión
+44122603: ingeniería de software
 44122604: ingeniería de software
 44122623: tecnologías de información
 44122633: tecnologías de información
@@ -405,43 +405,43 @@
 44122639: sistemas de información
 44122644: tecnologías de información
 44122674: gestión
-44122686: sistemas de información
-44122687: sistemas de información
+44122686: ingeniería de software
+44122687: ingeniería de software
 44122688: tecnologías de información
-44122694: sistemas de información
+44122694: gestión
 44122697: tecnologías de información
 44122698: tecnologías de información
 44122703: gestión
-44122715: sistemas de información
+44122715: gestión
 44122718: ingeniería de software
 44122722: tecnologías de información
-44122724: sistemas de información
-44122726: tecnologías de información
+44122724: gestión
+44122726: gestión
 44122727: ingeniería de software
-44122733: tecnologías de información
-44122737: ingeniería de software
+44122733: ingeniería de software
+44122737: gestión
 44122751: tecnologías de información
 44122773: ingeniería de software
 44122784: ingeniería de software
-44122790: sistemas de información
-44122806: sistemas de información
+44122790: gestión
+44122806: gestión
 44122811: gestión
-44122819: sistemas de información
+44122819: gestión
 44122831: ingeniería de software
 44122834: ingeniería de software
 44122835: ingeniería de software
-44122837: ingeniería de software
+44122837: sistemas de información
 44122838: ingeniería de software
 44122839: ingeniería de software
 44122840: ingeniería de software
-44122845: sistemas de información
+44122845: gestión
 44122848: ingeniería de software
-44122856: sistemas de información
+44122856: gestión
 44122867: sistemas de información
 44122872: tecnologías de información
-44122873: ingeniería de software
+44122873: gestión
 44122874: tecnologías de información
-44122885: tecnologías de información
+44122885: gestión
 44122893: ingeniería de software
 44122894: ingeniería de software
 44122895: ingeniería de software
@@ -449,9 +449,9 @@
 44122939: tecnologías de información
 44122964: ingeniería de software
 44122966: sistemas de información
-44123000: sistemas de información
-44123004: sistemas de información
-44123005: sistemas de información
+44123000: gestión
+44123004: gestión
+44123005: gestión
 44123013: tecnologías de información
 44123016: ingeniería de software
 44123017: sistemas de información
@@ -463,8 +463,8 @@
 44123097: sistemas de información
 44123099: tecnologías de información
 44123101: ingeniería de software
-44123129: sistemas de información
-44123140: sistemas de información
+44123129: gestión
+44123140: gestión
 44123152: ingeniería de software
 44123156: ingeniería de software
 44123157: ingeniería de software
@@ -473,183 +473,183 @@
 44123162: ingeniería de software
 44123163: sistemas de información
 44123167: ingeniería de software
-44123169: sistemas de información
+44123169: gestión
 44123178: ingeniería de software
-44123181: tecnologías de información
-44123195: tecnologías de información
+44123181: gestión
+44123195: gestión
 44123196: ingeniería de software
 44123200: ingeniería de software
 44123208: sistemas de información
 44123226: gestión
-44123230: sistemas de información
-44123234: sistemas de información
+44123230: gestión
+44123234: gestión
 44123245: tecnologías de información
 44123248: ingeniería de software
-44123256: sistemas de información
-44123268: ingeniería de software
+44123256: gestión
+44123268: tecnologías de información
 44123280: ingeniería de software
 44123283: ingeniería de software
 44123287: gestión
 44123289: ingeniería de software
-44123297: sistemas de información
+44123297: gestión
 44123320: ingeniería de software
-44123322: ingeniería de software
+44123322: gestión
 44123334: ingeniería de software
 44123335: gestión
-44123341: sistemas de información
-44123346: sistemas de información
-44123347: sistemas de información
+44123341: gestión
+44123346: gestión
+44123347: gestión
 44123358: sistemas de información
-44123382: sistemas de información
+44123382: gestión
 44123386: tecnologías de información
-44123388: tecnologías de información
+44123388: gestión
 44123391: ingeniería de software
 44123392: ingeniería de software
-44123394: ingeniería de software
+44123394: sistemas de información
 44123399: ingeniería de software
 44123400: ingeniería de software
-44123401: sistemas de información
+44123401: gestión
 44123416: ingeniería de software
-44123418: gestión
-44123442: ingeniería de software
+44123418: tecnologías de información
+44123442: gestión
 44123450: ingeniería de software
-44123478: sistemas de información
-44123479: tecnologías de información
-44123488: sistemas de información
-44123491: tecnologías de información
-44123494: tecnologías de información
-44123497: sistemas de información
+44123478: ingeniería de software
+44123479: gestión
+44123488: gestión
+44123491: sistemas de información
+44123494: gestión
+44123497: gestión
 44123502: gestión
-44123518: sistemas de información
+44123518: gestión
 44123554: gestión
-44123555: sistemas de información
-44123562: ingeniería de software
+44123555: gestión
+44123562: sistemas de información
 44123576: tecnologías de información
 44123601: ingeniería de software
 44123602: ingeniería de software
-44123621: tecnologías de información
+44123621: gestión
 44123627: ingeniería de software
 44123629: ingeniería de software
-44123630: ingeniería de software
+44123630: sistemas de información
 44123632: ingeniería de software
 44123633: ingeniería de software
-44123635: sistemas de información
+44123635: gestión
 44123637: ingeniería de software
 44123638: ingeniería de software
-44123653: sistemas de información
+44123653: gestión
 44123656: ingeniería de software
-44123677: sistemas de información
+44123677: gestión
 44123680: ingeniería de software
-44123698: sistemas de información
+44123698: gestión
 44123699: ingeniería de software
-44123718: tecnologías de información
-44123727: ingeniería de software
+44123718: gestión
+44123727: tecnologías de información
 44123734: ingeniería de software
-44123746: ingeniería de software
-44123750: sistemas de información
+44123746: gestión
+44123750: gestión
 44123754: ingeniería de software
-44123776: sistemas de información
+44123776: gestión
 44123778: ingeniería de software
-44123785: sistemas de información
+44123785: gestión
 44123828: ingeniería de software
-44123832: sistemas de información
+44123832: gestión
 44123835: ingeniería de software
-44123837: sistemas de información
+44123837: gestión
 44123848: sistemas de información
-44123864: sistemas de información
-44123866: sistemas de información
+44123864: gestión
+44123866: gestión
 44123881: ingeniería de software
 44123887: sistemas de información
 44123892: gestión
-44123902: sistemas de información
+44123902: gestión
 44123909: tecnologías de información
 44123914: gestión
-44123915: sistemas de información
-44123916: sistemas de información
+44123915: ingeniería de software
+44123916: gestión
 44123917: gestión
 44123919: ingeniería de software
 44123926: tecnologías de información
 44123928: sistemas de información
 44123929: tecnologías de información
-44123930: sistemas de información
+44123930: tecnologías de información
 44123936: ingeniería de software
 44123938: ingeniería de software
-44123940: ingeniería de software
+44123940: gestión
 44123942: ingeniería de software
 44123944: ingeniería de software
-44123959: sistemas de información
-44123961: ingeniería de software
+44123959: gestión
+44123961: gestión
 44123963: tecnologías de información
-44123974: sistemas de información
-44123983: gestión
-44123985: sistemas de información
+44123974: gestión
+44123983: sistemas de información
+44123985: gestión
 44123988: sistemas de información
 44123989: ingeniería de software
-44123995: sistemas de información
-44124024: sistemas de información
+44123995: gestión
+44124024: gestión
 44124028: tecnologías de información
 44124040: ingeniería de software
 44124048: gestión
 44124050: ingeniería de software
 44124056: tecnologías de información
-44124064: sistemas de información
-44124068: sistemas de información
-44124085: sistemas de información
-44124098: sistemas de información
+44124064: gestión
+44124068: gestión
+44124085: gestión
+44124098: gestión
 44124100: ingeniería de software
 44124102: ingeniería de software
 44124103: ingeniería de software
-44124104: ingeniería de software
+44124104: sistemas de información
 44124106: ingeniería de software
 44124107: ingeniería de software
 44124108: ingeniería de software
-44124110: sistemas de información
-44124134: sistemas de información
-44124166: sistemas de información
+44124110: gestión
+44124134: gestión
+44124166: gestión
 44124180: tecnologías de información
-44124181: sistemas de información
+44124181: ingeniería de software
 44124182: ingeniería de software
-44124186: sistemas de información
-44124191: tecnologías de información
-44124199: tecnologías de información
+44124186: gestión
+44124191: gestión
+44124199: gestión
 44124204: ingeniería de software
-44124221: sistemas de información
+44124221: gestión
 44124265: tecnologías de información
 44124266: ingeniería de software
 44124268: ingeniería de software
 44124277: sistemas de información
-44124283: sistemas de información
-44124286: tecnologías de información
-44124288: tecnologías de información
+44124283: gestión
+44124286: gestión
+44124288: gestión
 44124289: ingeniería de software
 44124290: ingeniería de software
-44124291: sistemas de información
+44124291: gestión
 44124296: ingeniería de software
-44124302: sistemas de información
-44124309: sistemas de información
+44124302: gestión
+44124309: gestión
 44124319: gestión
-44124323: sistemas de información
+44124323: gestión
 44124324: sistemas de información
-44124333: tecnologías de información
-44124349: sistemas de información
+44124333: gestión
+44124349: gestión
 44124350: sistemas de información
-44124355: sistemas de información
-44124357: sistemas de información
-44124371: tecnologías de información
-44124374: sistemas de información
+44124355: gestión
+44124357: gestión
+44124371: gestión
+44124374: gestión
 44124377: ingeniería de software
 44124379: ingeniería de software
 44124380: ingeniería de software
-44124381: ingeniería de software
+44124381: sistemas de información
 44124383: ingeniería de software
 44124384: ingeniería de software
 44124385: ingeniería de software
-44124411: sistemas de información
-44124422: ingeniería de software
-44124433: sistemas de información
+44124411: gestión
+44124422: gestión
+44124433: gestión
 44124434: gestión
-44124435: sistemas de información
-44124436: sistemas de información
+44124435: tecnologías de información
+44124436: gestión
 44124438: tecnologías de información
 44124439: gestión
 44124442: ingeniería de software
@@ -658,340 +658,340 @@
 44124484: sistemas de información
 44124501: gestión
 44124534: ingeniería de software
-44124540: sistemas de información
+44124540: gestión
 44124546: tecnologías de información
-44124554: sistemas de información
+44124554: gestión
 44124555: sistemas de información
-44124561: tecnologías de información
-44124573: ingeniería de software
+44124561: gestión
+44124573: gestión
 44124577: tecnologías de información
 44124582: tecnologías de información
 44124589: ingeniería de software
 44124598: sistemas de información
-44124601: sistemas de información
+44124601: gestión
 44124604: ingeniería de software
 44124606: ingeniería de software
 44124621: ingeniería de software
 44124624: sistemas de información
 44124626: ingeniería de software
 44124640: tecnologías de información
-44124643: sistemas de información
-44124649: sistemas de información
-44124650: sistemas de información
+44124643: gestión
+44124649: gestión
+44124650: gestión
 44124665: ingeniería de software
 44124667: sistemas de información
-44124670: sistemas de información
-44124694: ingeniería de software
-44124695: ingeniería de software
+44124670: gestión
+44124694: gestión
+44124695: gestión
 44124700: ingeniería de software
 44124701: gestión
 44124716: gestión
-44124723: sistemas de información
-44124729: sistemas de información
+44124723: gestión
+44124729: gestión
 44124730: sistemas de información
 44124735: tecnologías de información
 44124736: tecnologías de información
-44124737: tecnologías de información
-44124744: sistemas de información
+44124737: gestión
+44124744: gestión
 44124747: gestión
-44124761: sistemas de información
-44124771: sistemas de información
+44124761: gestión
+44124771: ingeniería de software
 44124783: ingeniería de software
-44124788: sistemas de información
-44124791: sistemas de información
+44124788: gestión
+44124791: gestión
 44124807: gestión
-44124810: sistemas de información
+44124810: gestión
 44124815: ingeniería de software
 44124817: ingeniería de software
-44124818: sistemas de información
+44124818: gestión
 44124819: ingeniería de software
-44124820: ingeniería de software
+44124820: sistemas de información
 44124822: ingeniería de software
 44124823: ingeniería de software
 44124824: ingeniería de software
-44124843: sistemas de información
+44124843: gestión
 44124863: sistemas de información
 44124876: sistemas de información
 44124888: tecnologías de información
 44124889: ingeniería de software
-44124890: ingeniería de software
+44124890: gestión
 44124892: ingeniería de software
-44124906: sistemas de información
+44124906: gestión
 44124909: tecnologías de información
 44124914: ingeniería de software
-44124922: sistemas de información
-44124925: sistemas de información
-44124926: sistemas de información
-44124943: tecnologías de información
+44124922: gestión
+44124925: gestión
+44124926: gestión
+44124943: gestión
 44124949: tecnologías de información
-44124950: sistemas de información
+44124950: gestión
 44124960: gestión
 44124962: sistemas de información
-44124969: sistemas de información
-44124973: sistemas de información
-44124976: sistemas de información
-44124988: sistemas de información
+44124969: gestión
+44124973: gestión
+44124976: gestión
+44124988: gestión
 44125008: ingeniería de software
 44125011: tecnologías de información
 44125018: gestión
 44125027: sistemas de información
 44125083: ingeniería de software
-44125088: tecnologías de información
-44125100: sistemas de información
-44125120: sistemas de información
-44125135: sistemas de información
+44125088: gestión
+44125100: gestión
+44125120: gestión
+44125135: gestión
 44125160: sistemas de información
-44125166: sistemas de información
-44125174: tecnologías de información
+44125166: gestión
+44125174: gestión
 44125187: ingeniería de software
 44125194: ingeniería de software
 44125219: gestión
 44125239: ingeniería de software
 44125271: ingeniería de software
-44125288: tecnologías de información
+44125288: gestión
 44125290: ingeniería de software
-44125297: sistemas de información
+44125297: gestión
 44125298: ingeniería de software
 44125310: ingeniería de software
-44125311: sistemas de información
+44125311: gestión
 44125312: sistemas de información
 44125313: ingeniería de software
 44125315: gestión
 44125316: gestión
-44125317: sistemas de información
-44125318: sistemas de información
+44125317: gestión
+44125318: gestión
 44125320: ingeniería de software
 44125322: ingeniería de software
 44125323: ingeniería de software
-44125324: ingeniería de software
+44125324: sistemas de información
 44125372: gestión
-44125376: sistemas de información
-44125399: sistemas de información
+44125376: gestión
+44125399: gestión
 44125424: ingeniería de software
 44125427: sistemas de información
-44125428: sistemas de información
-44125431: tecnologías de información
+44125428: gestión
+44125431: gestión
 44125434: ingeniería de software
 44125436: sistemas de información
-44125453: ingeniería de software
-44125454: ingeniería de software
-44125465: ingeniería de software
-44125466: sistemas de información
-44125472: ingeniería de software
+44125453: gestión
+44125454: gestión
+44125465: gestión
+44125466: gestión
+44125472: gestión
 44125482: tecnologías de información
-44125483: gestión
-44125484: ingeniería de software
+44125483: ingeniería de software
+44125484: gestión
 44125486: ingeniería de software
 44125488: ingeniería de software
-44125490: ingeniería de software
-44125493: tecnologías de información
+44125490: gestión
+44125493: gestión
 44125499: tecnologías de información
-44125500: sistemas de información
-44125501: tecnologías de información
-44125505: ingeniería de software
+44125500: gestión
+44125501: gestión
+44125505: gestión
 44125516: ingeniería de software
 44125518: ingeniería de software
 44125522: ingeniería de software
-44125535: sistemas de información
+44125535: gestión
 44125556: ingeniería de software
 44125557: ingeniería de software
 44125568: ingeniería de software
-44125572: sistemas de información
-44125579: sistemas de información
+44125572: gestión
+44125579: gestión
 44125583: ingeniería de software
 44125584: sistemas de información
 44125586: ingeniería de software
-44125591: sistemas de información
-44125606: tecnologías de información
+44125591: gestión
+44125606: gestión
 44125610: ingeniería de software
 44125612: ingeniería de software
-44125613: sistemas de información
+44125613: gestión
 44125621: ingeniería de software
-44125626: sistemas de información
+44125626: gestión
 44125634: tecnologías de información
-44125649: sistemas de información
+44125649: gestión
 44125670: ingeniería de software
 44125673: ingeniería de software
 44125676: ingeniería de software
 44125690: sistemas de información
-44125692: ingeniería de software
+44125692: gestión
 44125694: sistemas de información
 44125708: gestión
-44125710: sistemas de información
-44125718: tecnologías de información
+44125710: ingeniería de software
+44125718: gestión
 44125736: tecnologías de información
-44125737: ingeniería de software
-44125756: sistemas de información
-44125763: sistemas de información
+44125737: gestión
+44125756: gestión
+44125763: gestión
 44125766: gestión
-44125768: sistemas de información
+44125768: gestión
 44125778: tecnologías de información
-44125794: tecnologías de información
-44125797: ingeniería de software
+44125794: gestión
+44125797: gestión
 44125798: ingeniería de software
 44125801: ingeniería de software
-44125809: tecnologías de información
-44125827: ingeniería de software
-44125828: ingeniería de software
-44125829: ingeniería de software
+44125809: gestión
+44125827: gestión
+44125828: gestión
+44125829: gestión
 44125830: gestión
 44125839: gestión
-44125842: sistemas de información
+44125842: gestión
 44125847: tecnologías de información
 44125885: ingeniería de software
-44125889: sistemas de información
+44125889: gestión
 44125890: ingeniería de software
 44125893: ingeniería de software
 44125899: ingeniería de software
-44125905: sistemas de información
+44125905: gestión
 44125907: ingeniería de software
 44125909: ingeniería de software
-44125911: sistemas de información
+44125911: gestión
 44125930: sistemas de información
-44125946: sistemas de información
+44125946: gestión
 44125954: sistemas de información
 44125990: sistemas de información
-44125994: tecnologías de información
+44125994: gestión
 44125997: tecnologías de información
 44126008: tecnologías de información
 44126013: gestión
 44126029: ingeniería de software
 44126036: ingeniería de software
-44126041: gestión
-44126065: sistemas de información
+44126041: tecnologías de información
+44126065: gestión
 44126068: ingeniería de software
 44126071: gestión
-44126081: sistemas de información
-44126086: sistemas de información
-44126094: sistemas de información
+44126081: gestión
+44126086: gestión
+44126094: gestión
 44126102: ingeniería de software
 44126106: ingeniería de software
-44126107: sistemas de información
+44126107: gestión
 44126119: tecnologías de información
 44126127: tecnologías de información
 44126128: tecnologías de información
-44126138: sistemas de información
+44126138: gestión
 44126148: gestión
-44126149: sistemas de información
-44126157: sistemas de información
+44126149: gestión
+44126157: gestión
 44126162: gestión
 44126163: ingeniería de software
 44126202: ingeniería de software
 44126208: sistemas de información
 44126220: ingeniería de software
 44126221: ingeniería de software
-44126225: sistemas de información
-44126233: sistemas de información
+44126225: ingeniería de software
+44126233: gestión
 44126240: ingeniería de software
-44126243: sistemas de información
-44126244: ingeniería de software
-44126247: sistemas de información
-44126249: sistemas de información
-44126250: sistemas de información
+44126243: gestión
+44126244: sistemas de información
+44126247: gestión
+44126249: gestión
+44126250: gestión
 44126251: ingeniería de software
-44126252: ingeniería de software
-44126253: sistemas de información
-44126254: sistemas de información
-44126258: tecnologías de información
-44126259: sistemas de información
+44126252: gestión
+44126253: gestión
+44126254: gestión
+44126258: gestión
+44126259: gestión
 44126260: ingeniería de software
-44126264: ingeniería de software
-44126265: sistemas de información
+44126264: gestión
+44126265: ingeniería de software
 44126283: sistemas de información
-44126288: tecnologías de información
-44126300: sistemas de información
+44126288: gestión
+44126300: ingeniería de software
 44126305: ingeniería de software
 44126310: ingeniería de software
 44126311: gestión
-44126321: sistemas de información
+44126321: gestión
 44126333: sistemas de información
-44126334: tecnologías de información
+44126334: gestión
 44126345: gestión
 44126346: gestión
 44126356: tecnologías de información
-44126357: ingeniería de software
+44126357: gestión
 44126358: ingeniería de software
 44126359: ingeniería de software
-44126366: sistemas de información
-44126368: tecnologías de información
+44126366: gestión
+44126368: gestión
 44126370: gestión
 44126371: sistemas de información
 44126375: ingeniería de software
-44126404: sistemas de información
-44126414: sistemas de información
+44126404: gestión
+44126414: gestión
 44126419: gestión
 44126428: tecnologías de información
 44126430: sistemas de información
 44126431: ingeniería de software
 44126437: ingeniería de software
-44126438: ingeniería de software
+44126438: gestión
 44126439: ingeniería de software
 44126443: ingeniería de software
-44126451: sistemas de información
+44126451: gestión
 44126470: ingeniería de software
-44126476: sistemas de información
-44126484: sistemas de información
+44126476: gestión
+44126484: gestión
 44126494: ingeniería de software
 44126496: gestión
-44126497: sistemas de información
+44126497: gestión
 44126505: ingeniería de software
-44126520: tecnologías de información
+44126520: ingeniería de software
 44126560: tecnologías de información
-44126564: sistemas de información
+44126564: gestión
 44126565: sistemas de información
 44126573: tecnologías de información
-44126591: tecnologías de información
+44126591: gestión
 44126593: ingeniería de software
-44126603: sistemas de información
+44126603: gestión
 44126619: ingeniería de software
-44126625: tecnologías de información
+44126625: gestión
 44126628: tecnologías de información
-44126636: sistemas de información
+44126636: ingeniería de software
 44126669: ingeniería de software
 44126673: ingeniería de software
 44126679: tecnologías de información
 44126681: tecnologías de información
-44126682: sistemas de información
+44126682: gestión
 44126685: ingeniería de software
 44126696: sistemas de información
 44126698: sistemas de información
-44126700: sistemas de información
+44126700: gestión
 44126702: ingeniería de software
 44126704: ingeniería de software
 44126705: ingeniería de software
 44126708: ingeniería de software
-44126710: ingeniería de software
+44126710: gestión
 44126712: ingeniería de software
 44126718: ingeniería de software
 44126719: ingeniería de software
-44126720: ingeniería de software
-44126749: sistemas de información
-44126750: sistemas de información
+44126720: gestión
+44126749: gestión
+44126750: gestión
 44126751: tecnologías de información
-44126752: ingeniería de software
-44126759: tecnologías de información
+44126752: gestión
+44126759: gestión
 44126771: ingeniería de software
 44126777: tecnologías de información
-44126780: sistemas de información
+44126780: gestión
 44126781: tecnologías de información
 44126782: ingeniería de software
 44126784: tecnologías de información
 44126787: ingeniería de software
-44126792: sistemas de información
+44126792: gestión
 44126794: gestión
 44126795: sistemas de información
-44126796: sistemas de información
-44126797: sistemas de información
-44126798: sistemas de información
-44126802: sistemas de información
-44126803: sistemas de información
+44126796: ingeniería de software
+44126797: gestión
+44126798: gestión
+44126802: gestión
+44126803: gestión
 44126804: tecnologías de información
 44126806: ingeniería de software
 44126807: ingeniería de software
-44126817: tecnologías de información
+44126817: gestión
 44126818: ingeniería de software
 44126820: gestión
-44126822: ingeniería de software
+44126822: gestión
 44126825: ingeniería de software
 44126827: ingeniería de software
 44126828: ingeniería de software
@@ -1003,106 +1003,106 @@
 44126870: ingeniería de software
 44126894: tecnologías de información
 44126895: tecnologías de información
-44126897: sistemas de información
+44126897: gestión
 44126901: gestión
 44126906: gestión
-44126914: sistemas de información
-44126917: sistemas de información
-44126919: sistemas de información
+44126914: gestión
+44126917: gestión
+44126919: gestión
 44126927: sistemas de información
-44126928: sistemas de información
-44126940: gestión
-44126957: sistemas de información
-44126959: sistemas de información
-44127016: tecnologías de información
+44126928: gestión
+44126940: sistemas de información
+44126957: gestión
+44126959: gestión
+44127016: gestión
 44127018: sistemas de información
-44127025: gestión
+44127025: ingeniería de software
 44127037: tecnologías de información
 44127039: ingeniería de software
 44127046: tecnologías de información
 44127057: ingeniería de software
 44127059: sistemas de información
-44127060: sistemas de información
-44127061: sistemas de información
-44127062: sistemas de información
-44127063: sistemas de información
-44127065: sistemas de información
-44127072: sistemas de información
-44127073: sistemas de información
+44127060: gestión
+44127061: gestión
+44127062: gestión
+44127063: ingeniería de software
+44127065: gestión
+44127072: gestión
+44127073: gestión
 44127076: ingeniería de software
-44127077: sistemas de información
+44127077: gestión
 44127084: ingeniería de software
 44127096: tecnologías de información
 44127114: sistemas de información
 44127115: ingeniería de software
 44127117: gestión
-44127118: ingeniería de software
-44127123: sistemas de información
-44127147: sistemas de información
+44127118: gestión
+44127123: gestión
+44127147: gestión
 44127154: ingeniería de software
 44127155: ingeniería de software
 44127192: tecnologías de información
-44127227: tecnologías de información
-44127248: sistemas de información
+44127227: gestión
+44127248: gestión
 44127257: ingeniería de software
 44127259: ingeniería de software
 44127260: gestión
 44127262: gestión
-44127263: ingeniería de software
-44127271: sistemas de información
+44127263: gestión
+44127271: ingeniería de software
 44127278: ingeniería de software
-44127281: sistemas de información
+44127281: gestión
 44127282: sistemas de información
 44127283: ingeniería de software
 44127293: ingeniería de software
 44127294: ingeniería de software
 44127303: ingeniería de software
 44127308: sistemas de información
-44127318: sistemas de información
+44127318: gestión
 44127319: tecnologías de información
 44127320: tecnologías de información
 44127322: gestión
-44127337: sistemas de información
+44127337: gestión
 44127358: ingeniería de software
 44127362: ingeniería de software
 44127369: ingeniería de software
-44127374: sistemas de información
-44127384: sistemas de información
-44127410: sistemas de información
+44127374: gestión
+44127384: gestión
+44127410: gestión
 44127416: gestión
 44127424: ingeniería de software
 44127428: ingeniería de software
 44127431: ingeniería de software
-44127432: ingeniería de software
+44127432: sistemas de información
 44127433: sistemas de información
-44127435: sistemas de información
-44127436: sistemas de información
-44127437: sistemas de información
+44127435: ingeniería de software
+44127436: gestión
+44127437: gestión
 44127440: ingeniería de software
 44127447: ingeniería de software
 44127456: gestión
 44127458: ingeniería de software
-44127463: tecnologías de información
-44127472: sistemas de información
-44127475: sistemas de información
-44127479: sistemas de información
+44127463: gestión
+44127472: gestión
+44127475: gestión
+44127479: gestión
 44127495: tecnologías de información
 44127508: ingeniería de software
-44127512: sistemas de información
-44127513: sistemas de información
-44127514: sistemas de información
+44127512: gestión
+44127513: gestión
+44127514: gestión
 44127521: ingeniería de software
 44127522: sistemas de información
 44127523: ingeniería de software
 44127524: ingeniería de software
-44127525: sistemas de información
-44127527: sistemas de información
-44127529: sistemas de información
+44127525: gestión
+44127527: ingeniería de software
+44127529: gestión
 44127543: ingeniería de software
 44127548: sistemas de información
 44127553: sistemas de información
-44127565: tecnologías de información
-44127602: sistemas de información
+44127565: gestión
+44127602: gestión
 44127629: sistemas de información
 44127634: sistemas de información
 44127652: sistemas de información
@@ -1111,166 +1111,166 @@
 44127680: ingeniería de software
 44127683: sistemas de información
 44127687: gestión
-44127689: sistemas de información
+44127689: gestión
 44127691: sistemas de información
 44127692: ingeniería de software
 44127714: tecnologías de información
-44127718: tecnologías de información
-44127728: sistemas de información
-44127736: sistemas de información
-44127737: tecnologías de información
+44127718: ingeniería de software
+44127728: gestión
+44127736: gestión
+44127737: gestión
 44127753: ingeniería de software
 44127758: ingeniería de software
 44127761: ingeniería de software
-44127777: tecnologías de información
-44127784: sistemas de información
-44127785: ingeniería de software
-44127796: sistemas de información
+44127777: gestión
+44127784: gestión
+44127785: gestión
+44127796: gestión
 44127804: sistemas de información
 44127811: ingeniería de software
 44127812: ingeniería de software
 44127820: ingeniería de software
 44127822: sistemas de información
 44127823: ingeniería de software
-44127824: sistemas de información
-44127826: sistemas de información
-44127834: sistemas de información
-44127840: sistemas de información
-44127850: tecnologías de información
-44127889: sistemas de información
-44127911: sistemas de información
-44127916: sistemas de información
+44127824: gestión
+44127826: gestión
+44127834: gestión
+44127840: gestión
+44127850: gestión
+44127889: gestión
+44127911: gestión
+44127916: gestión
 44127941: ingeniería de software
-44127951: ingeniería de software
+44127951: gestión
 44127994: tecnologías de información
-44128014: sistemas de información
+44128014: gestión
 44128017: tecnologías de información
 44128020: tecnologías de información
-44128068: sistemas de información
+44128068: gestión
 44128073: tecnologías de información
 44128086: gestión
 44128087: gestión
-44128112: sistemas de información
-44128119: tecnologías de información
+44128112: gestión
+44128119: gestión
 44128134: gestión
 44128143: ingeniería de software
-44128164: sistemas de información
-44128169: sistemas de información
+44128164: gestión
+44128169: gestión
 44128178: sistemas de información
 44128181: gestión
 44128187: ingeniería de software
-44128191: sistemas de información
-44128199: sistemas de información
+44128191: gestión
+44128199: gestión
 44128201: tecnologías de información
 44128224: sistemas de información
 44128226: ingeniería de software
-44128227: sistemas de información
-44128228: sistemas de información
-44128229: sistemas de información
-44128230: sistemas de información
-44128231: sistemas de información
+44128227: gestión
+44128228: gestión
+44128229: gestión
+44128230: ingeniería de software
+44128231: gestión
 44128232: ingeniería de software
 44128233: ingeniería de software
-44128234: sistemas de información
-44128236: sistemas de información
+44128234: gestión
+44128236: gestión
 44128238: sistemas de información
 44128243: sistemas de información
 44128247: sistemas de información
 44128249: sistemas de información
 44128262: ingeniería de software
-44128264: sistemas de información
-44128283: ingeniería de software
-44128293: sistemas de información
+44128264: gestión
+44128283: gestión
+44128293: gestión
 44128297: sistemas de información
-44128311: sistemas de información
-44128315: sistemas de información
+44128311: gestión
+44128315: gestión
 44128327: sistemas de información
 44128332: tecnologías de información
 44128335: tecnologías de información
 44128342: ingeniería de software
 44128353: sistemas de información
 44128355: ingeniería de software
-44128356: sistemas de información
+44128356: gestión
 44128359: ingeniería de software
 44128360: ingeniería de software
-44128363: sistemas de información
+44128363: gestión
 44128366: ingeniería de software
 44128367: ingeniería de software
 44128368: ingeniería de software
-44128369: sistemas de información
+44128369: gestión
 44128379: ingeniería de software
 44128391: ingeniería de software
 44128397: ingeniería de software
 44128398: sistemas de información
-44128399: ingeniería de software
+44128399: sistemas de información
 44128400: sistemas de información
 44128401: sistemas de información
 44128402: sistemas de información
 44128403: ingeniería de software
-44128404: sistemas de información
+44128404: gestión
 44128405: ingeniería de software
 44128406: sistemas de información
-44128407: sistemas de información
-44128412: sistemas de información
-44128413: sistemas de información
-44128414: sistemas de información
-44128415: sistemas de información
-44128417: sistemas de información
+44128407: gestión
+44128412: gestión
+44128413: gestión
+44128414: gestión
+44128415: ingeniería de software
+44128417: gestión
 44128419: ingeniería de software
 44128422: ingeniería de software
 44128423: sistemas de información
 44128424: sistemas de información
-44128426: tecnologías de información
+44128426: ingeniería de software
 44128436: ingeniería de software
 44128438: ingeniería de software
-44128442: sistemas de información
-44128446: sistemas de información
-44128452: ingeniería de software
+44128442: gestión
+44128446: gestión
+44128452: gestión
 44128454: ingeniería de software
 44128457: ingeniería de software
-44128464: sistemas de información
+44128464: gestión
 44128521: sistemas de información
-44128522: sistemas de información
+44128522: gestión
 44128523: sistemas de información
-44128547: sistemas de información
+44128547: ingeniería de software
 44128557: sistemas de información
 44128571: sistemas de información
-44128578: tecnologías de información
-44128582: ingeniería de software
-44128601: sistemas de información
+44128578: ingeniería de software
+44128582: gestión
+44128601: gestión
 44128606: gestión
 44128609: ingeniería de software
-44128627: sistemas de información
+44128627: gestión
 44128629: ingeniería de software
 44128631: ingeniería de software
 44128633: ingeniería de software
-44128664: ingeniería de software
-44128670: sistemas de información
+44128664: sistemas de información
+44128670: gestión
 44128677: ingeniería de software
 44128694: tecnologías de información
 44128704: ingeniería de software
 44128708: gestión
-44128718: sistemas de información
-44128736: sistemas de información
-44128748: tecnologías de información
+44128718: ingeniería de software
+44128736: ingeniería de software
+44128748: gestión
 44128754: sistemas de información
 44128755: ingeniería de software
-44128758: sistemas de información
-44128759: sistemas de información
-44128760: sistemas de información
+44128758: gestión
+44128759: gestión
+44128760: gestión
 44128773: sistemas de información
 44128795: sistemas de información
-44128797: sistemas de información
-44128810: ingeniería de software
-44128820: sistemas de información
-44128829: tecnologías de información
+44128797: gestión
+44128810: gestión
+44128820: gestión
+44128829: gestión
 44128833: sistemas de información
 44128842: ingeniería de software
 44128843: ingeniería de software
-44128852: tecnologías de información
+44128852: sistemas de información
 44128858: ingeniería de software
 44128859: sistemas de información
-44128860: ingeniería de software
+44128860: sistemas de información
 44128861: sistemas de información
 44128862: sistemas de información
 44128864: sistemas de información
@@ -1278,24 +1278,24 @@
 44128866: sistemas de información
 44128867: sistemas de información
 44128868: ingeniería de software
-44128869: sistemas de información
+44128869: gestión
 44128870: ingeniería de software
 44128871: sistemas de información
-44128872: sistemas de información
-44128879: sistemas de información
-44128880: sistemas de información
-44128881: sistemas de información
+44128872: gestión
+44128879: gestión
+44128880: gestión
+44128881: gestión
 44128882: sistemas de información
-44128883: sistemas de información
-44128886: sistemas de información
+44128883: ingeniería de software
+44128886: gestión
 44128889: ingeniería de software
 44128892: ingeniería de software
-44128893: ingeniería de software
-44128896: ingeniería de software
-44128901: sistemas de información
-44128902: tecnologías de información
+44128893: gestión
+44128896: gestión
+44128901: gestión
+44128902: gestión
 44128904: tecnologías de información
-44128906: sistemas de información
+44128906: gestión
 44128913: sistemas de información
 44128916: ingeniería de software
 44128918: ingeniería de software
@@ -1305,232 +1305,232 @@
 44128949: ingeniería de software
 44128952: sistemas de información
 44128959: tecnologías de información
-44128967: sistemas de información
+44128967: gestión
 44128982: sistemas de información
-44128990: sistemas de información
+44128990: gestión
 44128994: tecnologías de información
-44129003: sistemas de información
-44129009: ingeniería de software
+44129003: gestión
+44129009: gestión
 44129011: ingeniería de software
 44129020: ingeniería de software
-44129023: tecnologías de información
-44129033: sistemas de información
+44129023: gestión
+44129033: gestión
 44129034: ingeniería de software
-44129035: sistemas de información
+44129035: gestión
 44129040: ingeniería de software
-44129042: ingeniería de software
+44129042: gestión
 44129049: sistemas de información
-44129050: sistemas de información
-44129053: sistemas de información
-44129057: sistemas de información
-44129066: sistemas de información
+44129050: gestión
+44129053: gestión
+44129057: gestión
+44129066: gestión
 44129067: ingeniería de software
 44129070: tecnologías de información
 44129075: gestión
-44129076: tecnologías de información
-44129079: sistemas de información
+44129076: gestión
+44129079: gestión
 44129083: ingeniería de software
 44129087: ingeniería de software
 44129105: gestión
-44129111: tecnologías de información
+44129111: gestión
 44129119: ingeniería de software
 44129122: tecnologías de información
 44129124: ingeniería de software
-44129141: sistemas de información
-44129151: sistemas de información
-44129154: sistemas de información
+44129141: gestión
+44129151: gestión
+44129154: gestión
 44129155: gestión
 44129168: sistemas de información
-44129174: sistemas de información
-44129190: tecnologías de información
-44129203: tecnologías de información
-44129204: tecnologías de información
-44129207: tecnologías de información
-44129209: tecnologías de información
-44129211: tecnologías de información
-44129244: ingeniería de software
+44129174: gestión
+44129190: gestión
+44129203: gestión
+44129204: gestión
+44129207: gestión
+44129209: gestión
+44129211: gestión
+44129244: gestión
 44129252: ingeniería de software
-44129257: tecnologías de información
+44129257: gestión
 44129269: ingeniería de software
 44129270: ingeniería de software
-44129271: sistemas de información
+44129271: gestión
 44129278: ingeniería de software
 44129279: ingeniería de software
-44129281: tecnologías de información
+44129281: gestión
 44129296: ingeniería de software
 44129297: sistemas de información
-44129298: ingeniería de software
+44129298: sistemas de información
 44129300: sistemas de información
 44129302: sistemas de información
 44129303: sistemas de información
 44129304: sistemas de información
 44129305: ingeniería de software
-44129306: sistemas de información
+44129306: gestión
 44129307: ingeniería de software
 44129314: sistemas de información
-44129315: sistemas de información
-44129317: sistemas de información
-44129318: sistemas de información
-44129319: sistemas de información
+44129315: gestión
+44129317: gestión
+44129318: gestión
+44129319: gestión
 44129320: sistemas de información
-44129321: sistemas de información
-44129324: sistemas de información
+44129321: ingeniería de software
+44129324: gestión
 44129326: ingeniería de software
-44129327: ingeniería de software
+44129327: gestión
 44129330: ingeniería de software
 44129334: sistemas de información
-44129336: sistemas de información
+44129336: gestión
 44129337: sistemas de información
 44129339: ingeniería de software
 44129340: tecnologías de información
 44129353: sistemas de información
-44129371: sistemas de información
-44129376: tecnologías de información
+44129371: gestión
+44129376: gestión
 44129377: tecnologías de información
-44129385: sistemas de información
-44129388: gestión
+44129385: gestión
+44129388: tecnologías de información
 44129393: ingeniería de software
-44129394: sistemas de información
+44129394: gestión
 44129451: sistemas de información
 44129467: sistemas de información
 44129468: ingeniería de software
-44129482: sistemas de información
+44129482: gestión
 44129499: tecnologías de información
-44129500: sistemas de información
-44129522: sistemas de información
-44129524: ingeniería de software
-44129533: tecnologías de información
-44129538: sistemas de información
+44129500: gestión
+44129522: gestión
+44129524: gestión
+44129533: ingeniería de software
+44129538: gestión
 44129547: gestión
 44129548: tecnologías de información
-44129564: tecnologías de información
+44129564: gestión
 44129572: gestión
 44129604: sistemas de información
-44129612: tecnologías de información
-44129634: sistemas de información
-44129645: ingeniería de software
+44129612: gestión
+44129634: gestión
+44129645: gestión
 44129665: sistemas de información
 44129666: tecnologías de información
-44129683: sistemas de información
+44129683: gestión
 44129708: ingeniería de software
-44129729: sistemas de información
+44129729: gestión
 44129730: ingeniería de software
 44129741: sistemas de información
-44129748: sistemas de información
+44129748: gestión
 44129750: sistemas de información
-44129751: ingeniería de software
+44129751: sistemas de información
 44129752: sistemas de información
 44129757: tecnologías de información
 44129758: ingeniería de software
 44129763: ingeniería de software
 44129764: ingeniería de software
-44129780: sistemas de información
+44129780: gestión
 44129791: sistemas de información
-44129796: ingeniería de software
-44129807: sistemas de información
-44129809: sistemas de información
-44129815: ingeniería de software
+44129796: gestión
+44129807: gestión
+44129809: gestión
+44129815: gestión
 44129820: tecnologías de información
 44129825: ingeniería de software
-44129827: sistemas de información
+44129827: gestión
 44129829: tecnologías de información
 44129836: tecnologías de información
-44129852: sistemas de información
+44129852: gestión
 44129858: ingeniería de software
-44129859: sistemas de información
+44129859: gestión
 44129873: ingeniería de software
 44129874: ingeniería de software
 44129875: ingeniería de software
 44129876: gestión
-44129882: ingeniería de software
+44129882: gestión
 44129883: sistemas de información
-44129898: sistemas de información
-44129900: sistemas de información
-44129901: sistemas de información
+44129898: gestión
+44129900: ingeniería de software
+44129901: gestión
 44129921: tecnologías de información
 44129926: ingeniería de software
-44129943: gestión
+44129943: ingeniería de software
 44129945: ingeniería de software
 44129948: tecnologías de información
 44129950: ingeniería de software
 44129952: tecnologías de información
-44129955: ingeniería de software
+44129955: gestión
 44129967: gestión
-44129974: sistemas de información
-44129984: sistemas de información
+44129974: gestión
+44129984: gestión
 44129986: ingeniería de software
 44130001: ingeniería de software
-44130002: ingeniería de software
+44130002: sistemas de información
 44130003: sistemas de información
 44130005: ingeniería de software
-44130006: sistemas de información
-44130008: sistemas de información
-44130009: sistemas de información
-44130015: sistemas de información
+44130006: gestión
+44130008: gestión
+44130009: gestión
+44130015: gestión
 44130019: ingeniería de software
-44130020: ingeniería de software
-44130022: sistemas de información
+44130020: gestión
+44130022: gestión
 44130023: sistemas de información
-44130024: ingeniería de software
-44130025: sistemas de información
-44130026: ingeniería de software
-44130029: sistemas de información
-44130030: sistemas de información
+44130024: gestión
+44130025: gestión
+44130026: gestión
+44130029: gestión
+44130030: ingeniería de software
 44130055: tecnologías de información
-44130061: ingeniería de software
+44130061: gestión
 44130075: ingeniería de software
 44130076: sistemas de información
 44130079: sistemas de información
 44130106: ingeniería de software
 44130108: sistemas de información
-44130113: ingeniería de software
+44130113: sistemas de información
 44130120: ingeniería de software
-44130138: sistemas de información
-44130140: sistemas de información
+44130138: gestión
+44130140: gestión
 44130142: sistemas de información
 44130149: tecnologías de información
 44130150: gestión
-44130152: sistemas de información
-44130160: sistemas de información
+44130152: gestión
+44130160: ingeniería de software
 44130161: gestión
 44130162: ingeniería de software
-44130163: sistemas de información
-44130183: ingeniería de software
+44130163: gestión
+44130183: gestión
 44130188: tecnologías de información
 44130192: ingeniería de software
-44130195: tecnologías de información
-44130196: tecnologías de información
-44130202: tecnologías de información
-44130203: sistemas de información
-44130206: sistemas de información
+44130195: gestión
+44130196: gestión
+44130202: gestión
+44130203: gestión
+44130206: gestión
 44130226: tecnologías de información
-44130232: ingeniería de software
+44130232: gestión
 44130242: ingeniería de software
 44130255: ingeniería de software
 44130256: sistemas de información
 44130268: tecnologías de información
 44130288: ingeniería de software
-44130300: sistemas de información
-44130307: sistemas de información
-44130311: sistemas de información
-44130312: sistemas de información
-44130313: tecnologías de información
+44130300: gestión
+44130307: gestión
+44130311: gestión
+44130312: gestión
+44130313: gestión
 44130323: ingeniería de software
 44130324: ingeniería de software
 44130326: ingeniería de software
 44130328: sistemas de información
-44130349: ingeniería de software
-44130361: sistemas de información
+44130349: gestión
+44130361: gestión
 44130364: tecnologías de información
 44130385: tecnologías de información
-44130388: sistemas de información
+44130388: gestión
 44130392: tecnologías de información
-44130393: sistemas de información
+44130393: gestión
 44130402: ingeniería de software
 44130409: tecnologías de información
 44130414: gestión
-44130432: ingeniería de software
-44130440: sistemas de información
+44130432: gestión
+44130440: gestión
 44130443: tecnologías de información
 44130445: tecnologías de información
 44130446: tecnologías de información
@@ -1539,134 +1539,134 @@
 44130487: tecnologías de información
 44130497: ingeniería de software
 44130498: ingeniería de software
-44130504: tecnologías de información
+44130504: gestión
 44130508: tecnologías de información
-44130513: sistemas de información
-44130515: sistemas de información
-44130516: ingeniería de software
-44130525: tecnologías de información
+44130513: gestión
+44130515: ingeniería de software
+44130516: gestión
+44130525: gestión
 44130542: ingeniería de software
 44130543: sistemas de información
-44130544: ingeniería de software
-44130548: sistemas de información
-44130553: sistemas de información
-44130554: sistemas de información
-44130556: sistemas de información
+44130544: sistemas de información
+44130548: gestión
+44130553: gestión
+44130554: gestión
+44130556: gestión
 44130557: sistemas de información
-44130558: sistemas de información
+44130558: gestión
 44130559: ingeniería de software
 44130572: ingeniería de software
 44130579: sistemas de información
-44130581: sistemas de información
-44130582: ingeniería de software
-44130583: ingeniería de software
+44130581: gestión
+44130582: gestión
+44130583: gestión
 44130589: ingeniería de software
-44130594: sistemas de información
+44130594: gestión
 44130598: sistemas de información
-44130599: sistemas de información
+44130599: gestión
 44130612: sistemas de información
-44130615: sistemas de información
+44130615: gestión
 44130619: ingeniería de software
 44130631: ingeniería de software
 44130632: sistemas de información
 44130640: sistemas de información
-44130660: tecnologías de información
-44130661: gestión
-44130672: ingeniería de software
+44130660: gestión
+44130661: tecnologías de información
+44130672: gestión
 44130675: ingeniería de software
 44130678: ingeniería de software
-44130679: ingeniería de software
-44130681: sistemas de información
+44130679: gestión
+44130681: gestión
 44130682: gestión
 44130704: ingeniería de software
 44130723: tecnologías de información
-44130732: ingeniería de software
+44130732: sistemas de información
 44130756: gestión
 44130764: ingeniería de software
 44130765: ingeniería de software
-44130766: sistemas de información
+44130766: gestión
 44130769: gestión
-44130770: gestión
-44130773: tecnologías de información
-44130774: tecnologías de información
+44130770: ingeniería de software
+44130773: gestión
+44130774: gestión
 44130775: sistemas de información
 44130777: ingeniería de software
 44130779: ingeniería de software
-44130785: tecnologías de información
+44130785: gestión
 44130786: ingeniería de software
-44130787: sistemas de información
+44130787: gestión
 44130811: tecnologías de información
 44130822: tecnologías de información
-44130826: ingeniería de software
+44130826: gestión
 44130839: gestión
 44130840: tecnologías de información
 44130841: tecnologías de información
-44130842: tecnologías de información
-44130847: sistemas de información
-44130849: sistemas de información
+44130842: sistemas de información
+44130847: gestión
+44130849: gestión
 44130856: ingeniería de software
 44130860: gestión
 44130862: ingeniería de software
 44130863: tecnologías de información
-44130871: sistemas de información
+44130871: gestión
 44130872: ingeniería de software
 44130885: tecnologías de información
 44130892: ingeniería de software
 44130894: ingeniería de software
 44130903: ingeniería de software
 44130904: sistemas de información
-44130905: sistemas de información
+44130905: ingeniería de software
 44130910: sistemas de información
 44130912: ingeniería de software
-44130915: ingeniería de software
-44130918: sistemas de información
-44130934: sistemas de información
+44130915: sistemas de información
+44130918: gestión
+44130934: gestión
 44130977: ingeniería de software
-44130981: sistemas de información
+44130981: gestión
 44130990: ingeniería de software
-44130992: tecnologías de información
+44130992: gestión
 44130997: ingeniería de software
-44130998: tecnologías de información
-44131000: gestión
+44130998: gestión
+44131000: ingeniería de software
 44131001: ingeniería de software
 44131003: ingeniería de software
-44131011: gestión
+44131011: sistemas de información
 44131028: ingeniería de software
 44131029: ingeniería de software
 44131030: tecnologías de información
-44131044: ingeniería de software
+44131044: sistemas de información
 44131046: gestión
-44131051: sistemas de información
+44131051: gestión
 44131054: sistemas de información
 44131056: ingeniería de software
 44131061: tecnologías de información
 44131066: sistemas de información
-44131087: sistemas de información
-44131099: sistemas de información
+44131087: gestión
+44131099: gestión
 44131100: tecnologías de información
-44131101: gestión
+44131101: ingeniería de software
 44131103: ingeniería de software
 44131106: ingeniería de software
 44131107: ingeniería de software
-44131108: ingeniería de software
+44131108: gestión
 44131109: ingeniería de software
-44131110: ingeniería de software
-44131111: ingeniería de software
-44131112: ingeniería de software
+44131110: gestión
+44131111: sistemas de información
+44131112: sistemas de información
 44131113: sistemas de información
-44131130: tecnologías de información
-44131134: sistemas de información
-44131136: sistemas de información
+44131130: gestión
+44131134: gestión
+44131136: gestión
 44131143: ingeniería de software
 44131146: sistemas de información
-44131165: sistemas de información
+44131165: gestión
 44131171: tecnologías de información
 44131178: ingeniería de software
 44131184: ingeniería de software
-44131193: sistemas de información
+44131193: gestión
 44131194: ingeniería de software
 44131197: sistemas de información
-44131216: tecnologías de información
+44131216: gestión
 44131246: sistemas de información
 44131248: ingeniería de software
 44131254: ingeniería de software
@@ -1676,33 +1676,33 @@
 44131276: sistemas de información
 44131278: ingeniería de software
 44131279: ingeniería de software
-44131283: sistemas de información
-44131301: sistemas de información
+44131283: gestión
+44131301: gestión
 44131303: tecnologías de información
 44131306: ingeniería de software
-44131323: sistemas de información
-44131328: tecnologías de información
-44131346: sistemas de información
+44131323: gestión
+44131328: gestión
+44131346: gestión
 44131348: ingeniería de software
 44131349: sistemas de información
 44131351: ingeniería de software
 44131398: gestión
 44131405: sistemas de información
 44131425: tecnologías de información
-44131426: tecnologías de información
-44131435: sistemas de información
+44131426: sistemas de información
+44131435: ingeniería de software
 44131438: ingeniería de software
-44131443: ingeniería de software
-44131445: tecnologías de información
+44131443: gestión
+44131445: sistemas de información
 44131447: sistemas de información
-44131448: ingeniería de software
-44131452: ingeniería de software
-44131456: sistemas de información
-44131462: tecnologías de información
-44131469: sistemas de información
-44131488: sistemas de información
+44131448: gestión
+44131452: gestión
+44131456: gestión
+44131462: sistemas de información
+44131469: gestión
+44131488: gestión
 44131492: sistemas de información
-44131495: ingeniería de software
+44131495: gestión
 44131498: gestión
 44131499: ingeniería de software
 44131500: gestión
@@ -1712,36 +1712,36 @@
 44131508: ingeniería de software
 44131515: sistemas de información
 44131517: sistemas de información
-44131520: sistemas de información
+44131520: gestión
 44131524: sistemas de información
 44131527: tecnologías de información
 44131528: sistemas de información
 44131542: ingeniería de software
 44131547: ingeniería de software
-44131548: ingeniería de software
-44131555: ingeniería de software
-44131556: ingeniería de software
+44131548: gestión
+44131555: gestión
+44131556: gestión
 44131559: ingeniería de software
 44131563: ingeniería de software
 44131565: sistemas de información
-44131569: sistemas de información
-44131570: sistemas de información
-44131577: sistemas de información
-44131579: sistemas de información
-44131582: sistemas de información
-44131583: sistemas de información
-44131584: ingeniería de software
-44131585: ingeniería de software
+44131569: gestión
+44131570: gestión
+44131577: gestión
+44131579: gestión
+44131582: gestión
+44131583: gestión
+44131584: gestión
+44131585: gestión
 44131586: gestión
-44131588: sistemas de información
-44131592: ingeniería de software
+44131588: gestión
+44131592: gestión
 44131594: ingeniería de software
-44131596: sistemas de información
-44131597: sistemas de información
-44131599: sistemas de información
-44131601: ingeniería de software
+44131596: gestión
+44131597: gestión
+44131599: gestión
+44131601: gestión
 44131603: ingeniería de software
-44131608: sistemas de información
+44131608: gestión
 44131621: ingeniería de software
 44131633: ingeniería de software
 44131637: tecnologías de información
@@ -1749,289 +1749,289 @@
 44131649: ingeniería de software
 44131651: ingeniería de software
 44131654: tecnologías de información
-44131664: tecnologías de información
-44131670: ingeniería de software
-44131672: sistemas de información
-44131673: sistemas de información
+44131664: gestión
+44131670: gestión
+44131672: gestión
+44131673: ingeniería de software
 44131675: ingeniería de software
-44131688: gestión
+44131688: sistemas de información
 44131689: ingeniería de software
-44131691: sistemas de información
-44131698: sistemas de información
-44131712: sistemas de información
-44131735: sistemas de información
-44131739: tecnologías de información
+44131691: gestión
+44131698: gestión
+44131712: gestión
+44131735: gestión
+44131739: gestión
 44131747: ingeniería de software
 44131770: sistemas de información
-44131778: ingeniería de software
-44131792: sistemas de información
+44131778: gestión
+44131792: ingeniería de software
 44131795: ingeniería de software
 44131796: sistemas de información
-44131798: sistemas de información
+44131798: gestión
 44131802: ingeniería de software
 44131808: ingeniería de software
 44131812: ingeniería de software
 44131813: ingeniería de software
-44131820: sistemas de información
-44131821: sistemas de información
-44131823: sistemas de información
-44131825: sistemas de información
-44131831: sistemas de información
-44131861: sistemas de información
+44131820: gestión
+44131821: gestión
+44131823: gestión
+44131825: gestión
+44131831: gestión
+44131861: gestión
 44131863: tecnologías de información
-44131871: sistemas de información
+44131871: gestión
 44131874: ingeniería de software
 44131876: tecnologías de información
 44131877: tecnologías de información
 44131878: tecnologías de información
-44131891: ingeniería de software
-44131893: sistemas de información
-44131914: sistemas de información
-44131923: sistemas de información
+44131891: gestión
+44131893: gestión
+44131914: gestión
+44131923: gestión
 44131953: tecnologías de información
 44131954: tecnologías de información
 44131960: tecnologías de información
-44131995: sistemas de información
+44131995: gestión
 44132002: ingeniería de software
-44132010: sistemas de información
-44132045: sistemas de información
-44132048: sistemas de información
+44132010: gestión
+44132045: gestión
+44132048: gestión
 44132055: sistemas de información
-44132071: ingeniería de software
-44132072: ingeniería de software
+44132071: gestión
+44132072: sistemas de información
 44132074: sistemas de información
-44132078: ingeniería de software
-44132079: ingeniería de software
+44132078: gestión
+44132079: gestión
 44132080: ingeniería de software
 44132081: ingeniería de software
 44132082: sistemas de información
-44132083: sistemas de información
-44132090: sistemas de información
-44132091: sistemas de información
-44132092: ingeniería de software
+44132083: gestión
+44132090: gestión
+44132091: gestión
+44132092: gestión
 44132093: sistemas de información
 44132095: ingeniería de software
-44132096: ingeniería de software
-44132097: ingeniería de software
+44132096: gestión
+44132097: gestión
 44132098: ingeniería de software
 44132099: ingeniería de software
 44132100: ingeniería de software
 44132103: ingeniería de software
 44132104: ingeniería de software
-44132107: sistemas de información
-44132115: sistemas de información
-44132118: sistemas de información
-44132125: sistemas de información
+44132107: gestión
+44132115: gestión
+44132118: gestión
+44132125: gestión
 44132128: ingeniería de software
 44132134: ingeniería de software
-44132142: ingeniería de software
-44132143: sistemas de información
+44132142: gestión
+44132143: gestión
 44132152: tecnologías de información
 44132159: gestión
-44132171: tecnologías de información
+44132171: gestión
 44132174: ingeniería de software
 44132175: ingeniería de software
-44132190: sistemas de información
+44132190: gestión
 44132199: sistemas de información
 44132204: tecnologías de información
-44132209: ingeniería de software
-44132210: sistemas de información
-44132211: sistemas de información
-44132214: sistemas de información
+44132209: gestión
+44132210: gestión
+44132211: gestión
+44132214: ingeniería de software
 44132215: tecnologías de información
-44132230: sistemas de información
-44132239: gestión
+44132230: gestión
+44132239: sistemas de información
 44132241: ingeniería de software
 44132249: ingeniería de software
 44132254: gestión
 44132257: ingeniería de software
 44132260: sistemas de información
-44132266: tecnologías de información
+44132266: gestión
 44132268: ingeniería de software
 44132269: sistemas de información
 44132287: tecnologías de información
 44132310: tecnologías de información
-44132311: tecnologías de información
+44132311: sistemas de información
 44132318: gestión
 44132319: gestión
 44132320: gestión
 44132326: ingeniería de software
-44132328: sistemas de información
+44132328: gestión
 44132329: ingeniería de software
 44132335: ingeniería de software
-44132337: sistemas de información
+44132337: gestión
 44132338: sistemas de información
-44132339: tecnologías de información
+44132339: gestión
 44132341: sistemas de información
 44132346: ingeniería de software
-44132348: sistemas de información
+44132348: gestión
 44132352: tecnologías de información
 44132360: tecnologías de información
 44132372: sistemas de información
 44132378: gestión
-44132380: tecnologías de información
-44132389: sistemas de información
-44132396: sistemas de información
+44132380: gestión
+44132389: gestión
+44132396: ingeniería de software
 44132423: tecnologías de información
 44132451: gestión
-44132463: sistemas de información
-44132464: tecnologías de información
+44132463: gestión
+44132464: gestión
 44132466: gestión
 44132478: gestión
 44132481: ingeniería de software
-44132482: ingeniería de software
-44132486: sistemas de información
-44132492: sistemas de información
-44132494: ingeniería de software
-44132505: sistemas de información
+44132482: gestión
+44132486: gestión
+44132492: gestión
+44132494: gestión
+44132505: gestión
 44132512: tecnologías de información
 44132522: gestión
-44132523: sistemas de información
-44132526: sistemas de información
+44132523: gestión
+44132526: gestión
 44132535: ingeniería de software
-44132538: tecnologías de información
-44132539: ingeniería de software
+44132538: gestión
+44132539: gestión
 44132555: sistemas de información
 44132559: ingeniería de software
-44132560: sistemas de información
+44132560: gestión
 44132564: ingeniería de software
-44132594: tecnologías de información
-44132595: sistemas de información
+44132594: gestión
+44132595: gestión
 44132598: ingeniería de software
 44132600: tecnologías de información
-44132615: sistemas de información
-44132617: sistemas de información
+44132615: gestión
+44132617: gestión
 44132618: ingeniería de software
 44132619: ingeniería de software
 44132620: sistemas de información
-44132621: ingeniería de software
+44132621: gestión
 44132622: gestión
-44132624: sistemas de información
+44132624: gestión
 44132638: ingeniería de software
-44132641: sistemas de información
+44132641: ingeniería de software
 44132642: ingeniería de software
 44132646: ingeniería de software
 44132647: ingeniería de software
 44132651: sistemas de información
 44132652: ingeniería de software
-44132653: ingeniería de software
+44132653: gestión
 44132658: ingeniería de software
 44132665: gestión
-44132666: sistemas de información
+44132666: ingeniería de software
 44132670: ingeniería de software
-44132671: ingeniería de software
-44132678: sistemas de información
-44132680: ingeniería de software
+44132671: tecnologías de información
+44132678: gestión
+44132680: gestión
 44132681: ingeniería de software
-44132686: tecnologías de información
-44132711: sistemas de información
-44132719: sistemas de información
-44132720: sistemas de información
-44132724: sistemas de información
+44132686: gestión
+44132711: gestión
+44132719: gestión
+44132720: gestión
+44132724: gestión
 44132725: ingeniería de software
 44132726: ingeniería de software
 44132728: ingeniería de software
 44132729: tecnologías de información
 44132733: ingeniería de software
-44132738: tecnologías de información
-44132740: sistemas de información
-44132747: sistemas de información
+44132738: gestión
+44132740: gestión
+44132747: gestión
 44132749: ingeniería de software
-44132755: tecnologías de información
-44132785: sistemas de información
-44132817: sistemas de información
+44132755: gestión
+44132785: tecnologías de información
+44132817: gestión
 44132818: ingeniería de software
-44132819: sistemas de información
-44132830: sistemas de información
-44132839: sistemas de información
-44132854: sistemas de información
-44132857: ingeniería de software
+44132819: gestión
+44132830: gestión
+44132839: gestión
+44132854: gestión
+44132857: gestión
 44132859: tecnologías de información
 44132867: ingeniería de software
 44132909: tecnologías de información
-44132910: tecnologías de información
+44132910: sistemas de información
 44132915: tecnologías de información
-44132916: tecnologías de información
+44132916: sistemas de información
 44132917: gestión
 44132919: gestión
-44132924: sistemas de información
+44132924: gestión
 44132942: ingeniería de software
-44132943: sistemas de información
-44132954: sistemas de información
-44132959: sistemas de información
+44132943: gestión
+44132954: gestión
+44132959: gestión
 44132971: ingeniería de software
 44132987: tecnologías de información
 44133000: sistemas de información
-44133002: sistemas de información
-44133003: ingeniería de software
-44133032: sistemas de información
-44133035: sistemas de información
-44133041: sistemas de información
-44133042: ingeniería de software
-44133044: ingeniería de software
+44133002: ingeniería de software
+44133003: gestión
+44133032: gestión
+44133035: gestión
+44133041: ingeniería de software
+44133042: gestión
+44133044: gestión
 44133046: ingeniería de software
 44133048: ingeniería de software
 44133060: ingeniería de software
-44133061: sistemas de información
+44133061: gestión
 44133063: ingeniería de software
-44133073: sistemas de información
+44133073: ingeniería de software
 44133080: ingeniería de software
 44133087: tecnologías de información
-44133088: tecnologías de información
-44133089: gestión
-44133092: tecnologías de información
-44133094: sistemas de información
-44133096: sistemas de información
+44133088: sistemas de información
+44133089: sistemas de información
+44133092: gestión
+44133094: gestión
+44133096: gestión
 44133119: gestión
-44133121: sistemas de información
-44133123: tecnologías de información
-44133127: sistemas de información
+44133121: gestión
+44133123: gestión
+44133127: gestión
 44133130: tecnologías de información
 44133133: ingeniería de software
 44133145: sistemas de información
 44133162: tecnologías de información
 44133167: ingeniería de software
 44133168: ingeniería de software
-44133169: sistemas de información
-44133171: ingeniería de software
-44133182: sistemas de información
+44133169: gestión
+44133171: gestión
+44133182: gestión
 44133194: ingeniería de software
 44133207: gestión
 44133218: sistemas de información
-44133223: sistemas de información
-44133228: gestión
+44133223: gestión
+44133228: ingeniería de software
 44133238: ingeniería de software
-44133260: sistemas de información
-44133276: tecnologías de información
+44133260: gestión
+44133276: gestión
 44133282: ingeniería de software
-44133289: sistemas de información
-44133301: sistemas de información
+44133289: gestión
+44133301: gestión
 44133302: ingeniería de software
 44133312: ingeniería de software
 44133315: ingeniería de software
-44133322: tecnologías de información
+44133322: gestión
 44133334: gestión
-44133336: sistemas de información
+44133336: ingeniería de software
 44133353: tecnologías de información
 44133358: ingeniería de software
-44133364: sistemas de información
+44133364: gestión
 44133388: sistemas de información
 44133413: sistemas de información
 44133414: ingeniería de software
 44133426: sistemas de información
 44133431: ingeniería de software
-44133442: tecnologías de información
+44133442: gestión
 44133450: sistemas de información
-44133451: tecnologías de información
-44133466: ingeniería de software
-44133472: sistemas de información
-44133475: gestión
+44133451: gestión
+44133466: gestión
+44133472: tecnologías de información
+44133475: ingeniería de software
 44133477: tecnologías de información
-44133484: sistemas de información
-44133487: ingeniería de software
-44133488: gestión
+44133484: gestión
+44133487: gestión
+44133488: ingeniería de software
 44133489: ingeniería de software
-44133490: tecnologías de información
+44133490: gestión
 44133494: tecnologías de información
 44133497: tecnologías de información
 44133498: tecnologías de información
@@ -2039,7 +2039,7 @@
 44133506: ingeniería de software
 44133507: ingeniería de software
 44133508: ingeniería de software
-44133509: sistemas de información
+44133509: gestión
 44133511: gestión
 44133512: sistemas de información
 44133513: ingeniería de software
@@ -2048,70 +2048,70 @@
 44133523: ingeniería de software
 44133524: sistemas de información
 44133528: ingeniería de software
-44133530: sistemas de información
+44133530: gestión
 44133532: ingeniería de software
 44133533: ingeniería de software
-44133534: ingeniería de software
+44133534: gestión
 44133535: ingeniería de software
 44133547: ingeniería de software
 44133572: ingeniería de software
-44133581: sistemas de información
+44133581: tecnologías de información
 44133585: ingeniería de software
 44133599: ingeniería de software
-44133600: sistemas de información
+44133600: gestión
 44133624: sistemas de información
 44133631: gestión
-44133640: sistemas de información
+44133640: gestión
 44133647: sistemas de información
 44133648: tecnologías de información
 44133651: ingeniería de software
 44133655: sistemas de información
 44133669: tecnologías de información
 44133695: ingeniería de software
-44133696: tecnologías de información
+44133696: gestión
 44133697: ingeniería de software
-44133704: gestión
-44133707: sistemas de información
-44133709: tecnologías de información
-44133715: gestión
+44133704: sistemas de información
+44133707: gestión
+44133709: gestión
+44133715: ingeniería de software
 44133716: tecnologías de información
 44133719: ingeniería de software
-44133732: sistemas de información
-44133752: sistemas de información
+44133732: gestión
+44133752: gestión
 44133761: gestión
-44133764: sistemas de información
-44133767: sistemas de información
-44133769: sistemas de información
+44133764: gestión
+44133767: gestión
+44133769: gestión
 44133785: ingeniería de software
-44133786: sistemas de información
+44133786: gestión
 44133788: gestión
-44133792: sistemas de información
-44133804: gestión
+44133792: gestión
+44133804: tecnologías de información
 44133809: tecnologías de información
 44133810: tecnologías de información
 44133815: sistemas de información
-44133822: sistemas de información
+44133822: gestión
 44133826: sistemas de información
-44133829: ingeniería de software
-44133833: sistemas de información
+44133829: gestión
+44133833: gestión
 44133843: sistemas de información
 44133860: ingeniería de software
-44133868: ingeniería de software
-44133871: ingeniería de software
+44133868: gestión
+44133871: gestión
 44133872: ingeniería de software
 44133873: ingeniería de software
 44133874: ingeniería de software
 44133876: ingeniería de software
 44133877: ingeniería de software
 44133878: tecnologías de información
-44133879: sistemas de información
-44133881: sistemas de información
-44133882: sistemas de información
+44133879: gestión
+44133881: gestión
+44133882: gestión
 44133883: ingeniería de software
 44133887: gestión
-44133899: ingeniería de software
-44133900: ingeniería de software
-44133914: gestión
+44133899: gestión
+44133900: gestión
+44133914: ingeniería de software
 44133920: ingeniería de software
 44133921: sistemas de información
 44133922: sistemas de información
@@ -2119,48 +2119,48 @@
 44133924: sistemas de información
 44133928: ingeniería de software
 44133929: ingeniería de software
-44133933: tecnologías de información
+44133933: gestión
 44133943: ingeniería de software
-44133947: sistemas de información
-44133948: sistemas de información
-44133970: sistemas de información
-44133977: sistemas de información
-44133979: sistemas de información
-44133991: sistemas de información
-44134001: sistemas de información
+44133947: gestión
+44133948: gestión
+44133970: gestión
+44133977: gestión
+44133979: gestión
+44133991: gestión
+44134001: gestión
 44134003: gestión
-44134009: tecnologías de información
+44134009: gestión
 44134013: sistemas de información
 44134015: sistemas de información
-44134021: sistemas de información
-44134022: tecnologías de información
-44134023: sistemas de información
-44134025: sistemas de información
-44134053: tecnologías de información
+44134021: gestión
+44134022: gestión
+44134023: gestión
+44134025: gestión
+44134053: gestión
 44134070: ingeniería de software
-44134071: sistemas de información
-44134101: sistemas de información
-44134104: tecnologías de información
-44134105: tecnologías de información
-44134106: tecnologías de información
+44134071: gestión
+44134101: gestión
+44134104: sistemas de información
+44134105: sistemas de información
+44134106: sistemas de información
 44134107: tecnologías de información
 44134108: tecnologías de información
 44134116: tecnologías de información
-44134117: sistemas de información
-44134121: sistemas de información
-44134123: tecnologías de información
+44134117: ingeniería de software
+44134121: gestión
+44134123: gestión
 44134124: sistemas de información
 44134132: sistemas de información
-44134139: sistemas de información
-44134153: gestión
-44134154: sistemas de información
-44134155: ingeniería de software
+44134139: gestión
+44134153: sistemas de información
+44134154: gestión
+44134155: tecnologías de información
 44134157: ingeniería de software
 44134169: sistemas de información
 44134172: ingeniería de software
 44134178: tecnologías de información
 44134179: ingeniería de software
-44134180: sistemas de información
+44134180: gestión
 44134186: sistemas de información
 44134187: ingeniería de software
 44134188: ingeniería de software
@@ -2169,146 +2169,146 @@
 44134192: ingeniería de software
 44134193: ingeniería de software
 44134194: gestión
-44134195: sistemas de información
+44134195: ingeniería de software
 44134198: ingeniería de software
-44134205: tecnologías de información
-44134216: ingeniería de software
-44134218: ingeniería de software
+44134205: gestión
+44134216: tecnologías de información
+44134218: sistemas de información
 44134219: ingeniería de software
 44134225: ingeniería de software
 44134226: ingeniería de software
-44134227: sistemas de información
+44134227: ingeniería de software
 44134229: ingeniería de software
 44134236: tecnologías de información
 44134238: sistemas de información
-44134254: ingeniería de software
+44134254: tecnologías de información
 44134258: sistemas de información
 44134260: ingeniería de software
 44134266: ingeniería de software
 44134281: tecnologías de información
-44134285: sistemas de información
+44134285: gestión
 44134288: gestión
 44134290: gestión
 44134309: ingeniería de software
-44134317: ingeniería de software
+44134317: sistemas de información
 44134336: tecnologías de información
-44134352: gestión
-44134355: tecnologías de información
+44134352: ingeniería de software
+44134355: gestión
 44134356: ingeniería de software
-44134357: ingeniería de software
-44134369: tecnologías de información
-44134383: tecnologías de información
-44134386: sistemas de información
+44134357: gestión
+44134369: ingeniería de software
+44134383: gestión
+44134386: gestión
 44134409: ingeniería de software
 44134417: sistemas de información
-44134429: ingeniería de software
+44134429: gestión
 44134430: ingeniería de software
-44134436: tecnologías de información
-44134452: tecnologías de información
-44134455: sistemas de información
+44134436: sistemas de información
+44134452: gestión
+44134455: gestión
 44134456: ingeniería de software
 44134458: ingeniería de software
 44134463: tecnologías de información
-44134465: sistemas de información
-44134469: sistemas de información
+44134465: gestión
+44134469: tecnologías de información
 44134470: gestión
 44134482: ingeniería de software
 44134494: gestión
-44134502: sistemas de información
-44134531: sistemas de información
+44134502: gestión
+44134531: gestión
 44134535: ingeniería de software
-44134554: sistemas de información
-44134588: ingeniería de software
+44134554: gestión
+44134588: gestión
 44134590: tecnologías de información
-44134605: sistemas de información
-44134606: sistemas de información
-44134608: tecnologías de información
+44134605: gestión
+44134606: gestión
+44134608: gestión
 44134612: tecnologías de información
 44134614: sistemas de información
-44134615: sistemas de información
+44134615: gestión
 44134623: gestión
 44134627: ingeniería de software
-44134652: tecnologías de información
+44134652: sistemas de información
 44134662: tecnologías de información
 44134665: ingeniería de software
 44134666: ingeniería de software
 44134667: ingeniería de software
-44134670: sistemas de información
+44134670: gestión
 44134677: ingeniería de software
 44134694: ingeniería de software
-44134696: sistemas de información
+44134696: gestión
 44134700: tecnologías de información
 44134701: ingeniería de software
 44134702: sistemas de información
 44134703: ingeniería de software
-44134706: sistemas de información
+44134706: gestión
 44134724: gestión
-44134725: ingeniería de software
-44134785: ingeniería de software
+44134725: gestión
+44134785: gestión
 44134787: ingeniería de software
 44134788: ingeniería de software
-44134789: ingeniería de software
-44134791: sistemas de información
-44134792: ingeniería de software
-44134793: sistemas de información
-44134794: sistemas de información
+44134789: sistemas de información
+44134791: gestión
+44134792: gestión
+44134793: gestión
+44134794: gestión
 44134795: ingeniería de software
 44134796: ingeniería de software
 44134797: ingeniería de software
-44134800: sistemas de información
+44134800: gestión
 44134802: ingeniería de software
-44134804: sistemas de información
-44134805: ingeniería de software
+44134804: gestión
+44134805: gestión
 44134806: tecnologías de información
-44134841: ingeniería de software
-44134843: sistemas de información
-44134844: sistemas de información
+44134841: gestión
+44134843: gestión
+44134844: gestión
 44134853: ingeniería de software
-44134856: sistemas de información
+44134856: gestión
 44134857: gestión
-44134858: sistemas de información
-44134859: tecnologías de información
+44134858: gestión
+44134859: gestión
 44134861: ingeniería de software
 44134862: gestión
 44134868: ingeniería de software
 44134873: sistemas de información
-44134877: sistemas de información
-44134887: gestión
+44134877: gestión
+44134887: sistemas de información
 44134892: ingeniería de software
 44134893: ingeniería de software
 44134894: ingeniería de software
-44134895: ingeniería de software
-44134896: ingeniería de software
-44134897: sistemas de información
-44134899: sistemas de información
-44134905: sistemas de información
-44134906: sistemas de información
-44134911: sistemas de información
+44134895: gestión
+44134896: gestión
+44134897: gestión
+44134899: gestión
+44134905: gestión
+44134906: gestión
+44134911: gestión
 44134915: ingeniería de software
 44134926: ingeniería de software
 44134927: ingeniería de software
 44134948: tecnologías de información
-44134955: tecnologías de información
-44134961: tecnologías de información
+44134955: gestión
+44134961: gestión
 44134973: sistemas de información
 44134974: tecnologías de información
 44134976: ingeniería de software
-44134996: ingeniería de software
+44134996: gestión
 44134998: ingeniería de software
-44135011: sistemas de información
-44135014: sistemas de información
+44135011: gestión
+44135014: gestión
 44135024: tecnologías de información
-44135030: sistemas de información
-44135033: sistemas de información
-44135050: ingeniería de software
+44135030: gestión
+44135033: gestión
+44135050: gestión
 44135058: tecnologías de información
-44135061: ingeniería de software
+44135061: gestión
 44135063: tecnologías de información
-44135075: sistemas de información
-44135103: tecnologías de información
+44135075: gestión
+44135103: gestión
 44135112: ingeniería de software
 44135114: sistemas de información
-44135130: sistemas de información
+44135130: gestión
 44135131: tecnologías de información
 44135142: ingeniería de software
 44135143: ingeniería de software
@@ -2316,79 +2316,79 @@
 44135149: ingeniería de software
 44135151: ingeniería de software
 44135152: ingeniería de software
-44135163: sistemas de información
+44135163: gestión
 44135171: ingeniería de software
-44135173: sistemas de información
-44135176: sistemas de información
+44135173: gestión
+44135176: gestión
 44135190: tecnologías de información
-44135192: tecnologías de información
-44135193: sistemas de información
-44135199: ingeniería de software
+44135192: gestión
+44135193: gestión
+44135199: gestión
 44135203: gestión
 44135207: ingeniería de software
-44135210: ingeniería de software
-44135211: sistemas de información
-44135216: sistemas de información
-44135218: tecnologías de información
-44135247: sistemas de información
+44135210: gestión
+44135211: gestión
+44135216: gestión
+44135218: gestión
+44135247: gestión
 44135248: ingeniería de software
 44135250: gestión
 44135265: ingeniería de software
-44135266: gestión
+44135266: sistemas de información
 44135268: sistemas de información
 44135270: ingeniería de software
 44135271: ingeniería de software
 44135272: ingeniería de software
 44135273: ingeniería de software
 44135275: ingeniería de software
-44135278: sistemas de información
-44135280: sistemas de información
-44135281: sistemas de información
-44135282: ingeniería de software
-44135284: ingeniería de software
-44135305: sistemas de información
+44135278: gestión
+44135280: gestión
+44135281: gestión
+44135282: gestión
+44135284: gestión
+44135305: gestión
 44135309: sistemas de información
 44135313: gestión
-44135317: tecnologías de información
-44135322: tecnologías de información
+44135317: gestión
+44135322: gestión
 44135326: gestión
-44135327: sistemas de información
+44135327: gestión
 44135338: gestión
-44135343: sistemas de información
+44135343: gestión
 44135344: tecnologías de información
 44135348: tecnologías de información
-44135359: sistemas de información
-44135363: sistemas de información
+44135359: gestión
+44135363: gestión
 44135367: gestión
-44135370: gestión
-44135371: sistemas de información
-44135374: sistemas de información
-44135386: sistemas de información
+44135370: ingeniería de software
+44135371: gestión
+44135374: gestión
+44135386: ingeniería de software
 44135398: ingeniería de software
 44135403: tecnologías de información
 44135409: sistemas de información
-44135412: sistemas de información
+44135412: ingeniería de software
 44135414: ingeniería de software
-44135416: gestión
-44135423: sistemas de información
-44135439: sistemas de información
+44135416: sistemas de información
+44135423: gestión
+44135439: gestión
 44135446: sistemas de información
-44135458: tecnologías de información
-44135459: sistemas de información
+44135458: gestión
+44135459: gestión
 44135460: sistemas de información
 44135462: gestión
 44135467: tecnologías de información
 44135470: sistemas de información
-44135489: tecnologías de información
+44135489: gestión
 44135491: sistemas de información
-44135492: sistemas de información
+44135492: gestión
 44135500: sistemas de información
 44135502: ingeniería de software
-44135517: sistemas de información
-44135519: sistemas de información
-44135520: ingeniería de software
+44135517: gestión
+44135519: gestión
+44135520: gestión
 44135521: ingeniería de software
-44135522: sistemas de información
+44135522: gestión
 44135540: ingeniería de software
 44135541: ingeniería de software
 44135544: sistemas de información
@@ -2398,51 +2398,51 @@
 44135549: sistemas de información
 44135550: sistemas de información
 44135551: sistemas de información
-44135560: sistemas de información
-44135564: ingeniería de software
+44135560: gestión
+44135564: gestión
 44135569: gestión
 44135572: tecnologías de información
-44135583: sistemas de información
-44135586: sistemas de información
+44135583: gestión
+44135586: gestión
 44135600: ingeniería de software
 44135610: tecnologías de información
 44135612: sistemas de información
-44135613: sistemas de información
-44135614: sistemas de información
-44135621: sistemas de información
+44135613: gestión
+44135614: gestión
+44135621: gestión
 44135624: tecnologías de información
 44135639: gestión
 44135677: ingeniería de software
-44135686: gestión
+44135686: sistemas de información
 44135693: tecnologías de información
 44135705: ingeniería de software
 44135706: ingeniería de software
 44135714: ingeniería de software
-44135715: sistemas de información
+44135715: gestión
 44135716: ingeniería de software
-44135718: ingeniería de software
+44135718: gestión
 44135720: gestión
-44135721: sistemas de información
+44135721: gestión
 44135722: sistemas de información
 44135723: sistemas de información
 44135724: sistemas de información
-44135725: sistemas de información
-44135726: sistemas de información
+44135725: gestión
+44135726: gestión
 44135727: sistemas de información
 44135728: sistemas de información
 44135730: sistemas de información
 44135732: sistemas de información
 44135736: sistemas de información
-44135742: sistemas de información
+44135742: gestión
 44135767: sistemas de información
 44135769: gestión
-44135773: sistemas de información
-44135776: sistemas de información
-44135778: sistemas de información
-44135804: tecnologías de información
+44135773: gestión
+44135776: gestión
+44135778: gestión
+44135804: gestión
 44135806: tecnologías de información
-44135810: sistemas de información
-44135811: tecnologías de información
+44135810: gestión
+44135811: sistemas de información
 44135812: ingeniería de software
 44135817: sistemas de información
 44135821: ingeniería de software
@@ -2453,24 +2453,24 @@
 44135838: ingeniería de software
 44135843: ingeniería de software
 44135844: ingeniería de software
-44135847: ingeniería de software
-44135848: ingeniería de software
+44135847: gestión
+44135848: gestión
 44135850: ingeniería de software
-44135851: ingeniería de software
+44135851: gestión
 44135853: gestión
 44135854: ingeniería de software
-44135855: sistemas de información
+44135855: ingeniería de software
 44135856: sistemas de información
 44135857: ingeniería de software
-44135858: ingeniería de software
+44135858: gestión
 44135859: sistemas de información
-44135861: sistemas de información
+44135861: gestión
 44135862: sistemas de información
 44135863: sistemas de información
 44135864: sistemas de información
 44135867: sistemas de información
 44135869: sistemas de información
-44135872: tecnologías de información
+44135872: gestión
 44135874: ingeniería de software
 44135875: sistemas de información
 44135881: ingeniería de software
@@ -2478,33 +2478,33 @@
 44135883: ingeniería de software
 44135884: ingeniería de software
 44135886: ingeniería de software
-44135887: sistemas de información
+44135887: gestión
 44135888: gestión
 44135897: tecnologías de información
 44135912: ingeniería de software
 44135913: ingeniería de software
-44135915: sistemas de información
-44135930: sistemas de información
-44135932: tecnologías de información
+44135915: gestión
+44135930: gestión
+44135932: gestión
 44135944: gestión
 44135952: ingeniería de software
-44135966: sistemas de información
-44135969: sistemas de información
-44135970: sistemas de información
-44135986: sistemas de información
-44136006: sistemas de información
+44135966: gestión
+44135969: gestión
+44135970: gestión
+44135986: gestión
+44136006: gestión
 44136011: tecnologías de información
-44136046: sistemas de información
+44136046: gestión
 44136059: sistemas de información
-44136086: sistemas de información
+44136086: gestión
 44136112: ingeniería de software
 44136124: gestión
 44136126: ingeniería de software
-44136127: tecnologías de información
-44136129: ingeniería de software
+44136127: gestión
+44136129: gestión
 44136132: sistemas de información
-44136143: sistemas de información
-44136150: sistemas de información
+44136143: gestión
+44136150: gestión
 44136155: ingeniería de software
 44136161: ingeniería de software
 44136165: tecnologías de información
@@ -2512,20 +2512,20 @@
 44136196: sistemas de información
 44136197: ingeniería de software
 44136199: sistemas de información
-44136201: sistemas de información
+44136201: gestión
 44136208: ingeniería de software
 44136221: sistemas de información
 44136234: ingeniería de software
-44136236: sistemas de información
+44136236: gestión
 44136240: sistemas de información
 44136252: ingeniería de software
 44136253: ingeniería de software
-44136255: sistemas de información
-44136256: sistemas de información
+44136255: gestión
+44136256: gestión
 44136257: ingeniería de software
-44136258: tecnologías de información
+44136258: gestión
 44136262: ingeniería de software
-44136263: sistemas de información
+44136263: gestión
 44136265: gestión
 44136266: sistemas de información
 44136271: sistemas de información
@@ -2533,118 +2533,118 @@
 44136273: sistemas de información
 44136275: sistemas de información
 44136277: sistemas de información
-44136288: sistemas de información
+44136288: ingeniería de software
 44136289: ingeniería de software
-44136290: tecnologías de información
-44136299: sistemas de información
+44136290: gestión
+44136299: gestión
 44136302: sistemas de información
 44136315: gestión
-44136341: ingeniería de software
+44136341: gestión
 44136343: ingeniería de software
 44136344: ingeniería de software
 44136346: ingeniería de software
 44136347: ingeniería de software
-44136350: sistemas de información
-44136366: sistemas de información
+44136350: gestión
+44136366: gestión
 44136367: sistemas de información
 44136368: ingeniería de software
-44136370: sistemas de información
-44136371: tecnologías de información
+44136370: gestión
+44136371: gestión
 44136393: gestión
 44136400: ingeniería de software
 44136401: ingeniería de software
-44136406: ingeniería de software
+44136406: gestión
 44136407: gestión
 44136411: ingeniería de software
 44136415: sistemas de información
 44136417: sistemas de información
 44136419: sistemas de información
 44136421: sistemas de información
-44136433: ingeniería de software
-44136439: sistemas de información
+44136433: gestión
+44136439: gestión
 44136441: gestión
 44136445: tecnologías de información
-44136448: sistemas de información
+44136448: gestión
 44136467: sistemas de información
-44136473: tecnologías de información
-44136474: ingeniería de software
+44136473: gestión
+44136474: sistemas de información
 44136485: ingeniería de software
 44136492: ingeniería de software
-44136493: sistemas de información
+44136493: gestión
 44136497: ingeniería de software
 44136499: ingeniería de software
 44136503: ingeniería de software
 44136505: gestión
 44136514: tecnologías de información
-44136516: sistemas de información
+44136516: gestión
 44136519: ingeniería de software
 44136520: ingeniería de software
-44136529: tecnologías de información
+44136529: gestión
 44136531: ingeniería de software
 44136536: sistemas de información
-44136546: ingeniería de software
+44136546: sistemas de información
 44136551: tecnologías de información
-44136559: sistemas de información
-44136560: tecnologías de información
+44136559: ingeniería de software
+44136560: gestión
 44136561: tecnologías de información
 44136566: tecnologías de información
-44136569: sistemas de información
+44136569: gestión
 44136570: tecnologías de información
-44136573: sistemas de información
+44136573: gestión
 44136575: tecnologías de información
 44136577: tecnologías de información
 44136578: sistemas de información
-44136583: ingeniería de software
+44136583: gestión
 44136588: ingeniería de software
 44136595: sistemas de información
-44136598: sistemas de información
+44136598: ingeniería de software
 44136607: tecnologías de información
 44136621: ingeniería de software
 44136626: ingeniería de software
 44136643: tecnologías de información
-44136651: tecnologías de información
-44136660: sistemas de información
-44136663: sistemas de información
-44136675: sistemas de información
-44136678: tecnologías de información
+44136651: gestión
+44136660: ingeniería de software
+44136663: gestión
+44136675: gestión
+44136678: gestión
 44136682: ingeniería de software
 44136707: ingeniería de software
-44136716: sistemas de información
+44136716: gestión
 44136722: ingeniería de software
-44136726: tecnologías de información
+44136726: gestión
 44136729: gestión
 44136735: ingeniería de software
 44136738: sistemas de información
-44136740: sistemas de información
+44136740: gestión
 44136743: tecnologías de información
 44136747: ingeniería de software
 44136755: ingeniería de software
 44136765: ingeniería de software
 44136767: ingeniería de software
-44136768: sistemas de información
-44136769: ingeniería de software
+44136768: gestión
+44136769: gestión
 44136770: gestión
 44136776: sistemas de información
 44136777: sistemas de información
 44136778: sistemas de información
 44136779: sistemas de información
 44136781: sistemas de información
-44136797: sistemas de información
-44136800: tecnologías de información
-44136801: tecnologías de información
-44136803: tecnologías de información
-44136804: tecnologías de información
-44136810: sistemas de información
+44136797: gestión
+44136800: gestión
+44136801: gestión
+44136803: gestión
+44136804: gestión
+44136810: gestión
 44136830: ingeniería de software
 44136838: gestión
-44136868: sistemas de información
+44136868: gestión
 44136869: gestión
 44136870: gestión
 44136872: ingeniería de software
 44136885: tecnologías de información
 44136887: ingeniería de software
 44136888: ingeniería de software
-44136889: ingeniería de software
+44136889: gestión
 44136890: gestión
 44136891: sistemas de información
 44136896: sistemas de información
@@ -2654,267 +2654,267 @@
 44136906: tecnologías de información
 44136908: ingeniería de software
 44136909: gestión
-44136910: sistemas de información
+44136910: gestión
 44136916: tecnologías de información
 44136927: ingeniería de software
 44136928: ingeniería de software
 44136943: tecnologías de información
 44136956: tecnologías de información
 44136969: tecnologías de información
-44136985: ingeniería de software
+44136985: gestión
 44136990: tecnologías de información
 44136994: ingeniería de software
 44136997: ingeniería de software
 44137006: sistemas de información
-44137007: sistemas de información
-44137010: sistemas de información
-44137011: sistemas de información
+44137007: gestión
+44137010: gestión
+44137011: gestión
 44137013: sistemas de información
-44137053: sistemas de información
-44137056: sistemas de información
-44137058: sistemas de información
-44137059: sistemas de información
+44137053: gestión
+44137056: gestión
+44137058: gestión
+44137059: gestión
 44137066: ingeniería de software
 44137088: ingeniería de software
 44137089: sistemas de información
-44137090: tecnologías de información
+44137090: ingeniería de software
 44137099: ingeniería de software
-44137114: sistemas de información
+44137114: gestión
 44137116: ingeniería de software
-44137124: ingeniería de software
+44137124: gestión
 44137129: ingeniería de software
-44137139: sistemas de información
+44137139: gestión
 44137141: sistemas de información
-44137144: sistemas de información
-44137145: ingeniería de software
+44137144: gestión
+44137145: gestión
 44137147: tecnologías de información
-44137148: sistemas de información
+44137148: gestión
 44137152: ingeniería de software
 44137153: ingeniería de software
-44137154: tecnologías de información
-44137157: ingeniería de software
+44137154: gestión
+44137157: gestión
 44137158: ingeniería de software
-44137162: tecnologías de información
-44137164: sistemas de información
-44137166: sistemas de información
+44137162: ingeniería de software
+44137164: gestión
+44137166: gestión
 44137170: tecnologías de información
-44137191: tecnologías de información
+44137191: gestión
 44137194: sistemas de información
 44137196: tecnologías de información
 44137209: tecnologías de información
-44137212: tecnologías de información
+44137212: gestión
 44137216: tecnologías de información
 44137225: sistemas de información
-44137230: sistemas de información
+44137230: gestión
 44137231: tecnologías de información
 44137233: tecnologías de información
-44137263: ingeniería de software
+44137263: gestión
 44137278: sistemas de información
 44137280: sistemas de información
-44137282: ingeniería de software
+44137282: gestión
 44137285: gestión
-44137286: sistemas de información
+44137286: gestión
 44137290: sistemas de información
-44137291: sistemas de información
+44137291: gestión
 44137298: ingeniería de software
 44137310: ingeniería de software
 44137317: sistemas de información
 44137322: ingeniería de software
-44137325: sistemas de información
-44137329: sistemas de información
-44137332: sistemas de información
-44137335: sistemas de información
-44137362: tecnologías de información
-44137364: tecnologías de información
+44137325: gestión
+44137329: gestión
+44137332: gestión
+44137335: gestión
+44137362: gestión
+44137364: gestión
 44137367: gestión
-44137370: sistemas de información
+44137370: gestión
 44137372: sistemas de información
 44137373: sistemas de información
-44137374: ingeniería de software
-44137376: sistemas de información
-44137379: sistemas de información
+44137374: gestión
+44137376: gestión
+44137379: gestión
 44137380: sistemas de información
 44137381: gestión
-44137382: ingeniería de software
-44137385: sistemas de información
-44137389: sistemas de información
+44137382: gestión
+44137385: gestión
+44137389: gestión
 44137391: gestión
-44137392: sistemas de información
-44137407: sistemas de información
+44137392: gestión
+44137407: gestión
 44137412: ingeniería de software
 44137414: ingeniería de software
 44137415: ingeniería de software
-44137425: sistemas de información
+44137425: gestión
 44137427: sistemas de información
 44137430: ingeniería de software
-44137432: tecnologías de información
+44137432: gestión
 44137434: ingeniería de software
 44137436: ingeniería de software
-44137438: sistemas de información
-44137448: tecnologías de información
+44137438: gestión
+44137448: gestión
 44137449: sistemas de información
-44137453: sistemas de información
-44137459: sistemas de información
+44137453: gestión
+44137459: gestión
 44137467: tecnologías de información
 44137468: tecnologías de información
-44137469: ingeniería de software
-44137472: ingeniería de software
-44137474: sistemas de información
+44137469: gestión
+44137472: gestión
+44137474: gestión
 44137479: sistemas de información
 44137487: tecnologías de información
 44137488: ingeniería de software
-44137495: sistemas de información
+44137495: gestión
 44137496: ingeniería de software
 44137502: tecnologías de información
 44137514: ingeniería de software
 44137524: tecnologías de información
 44137526: ingeniería de software
-44137541: sistemas de información
-44137554: sistemas de información
+44137541: gestión
+44137554: gestión
 44137556: tecnologías de información
-44137565: sistemas de información
-44137573: gestión
-44137574: tecnologías de información
+44137565: gestión
+44137573: sistemas de información
+44137574: gestión
 44137575: sistemas de información
-44137579: sistemas de información
+44137579: gestión
 44137582: ingeniería de software
-44137586: sistemas de información
+44137586: gestión
 44137588: sistemas de información
-44137590: sistemas de información
+44137590: gestión
 44137632: sistemas de información
 44137648: ingeniería de software
 44137650: tecnologías de información
 44137651: ingeniería de software
-44137652: sistemas de información
-44137656: sistemas de información
-44137659: sistemas de información
-44137661: sistemas de información
-44137673: tecnologías de información
+44137652: gestión
+44137656: gestión
+44137659: gestión
+44137661: gestión
+44137673: gestión
 44137691: sistemas de información
-44137694: sistemas de información
+44137694: gestión
 44137709: tecnologías de información
 44137723: sistemas de información
 44137725: sistemas de información
 44137726: sistemas de información
-44137729: sistemas de información
-44137732: sistemas de información
-44137747: sistemas de información
-44137751: tecnologías de información
-44137753: sistemas de información
-44137756: tecnologías de información
+44137729: gestión
+44137732: gestión
+44137747: gestión
+44137751: gestión
+44137753: gestión
+44137756: gestión
 44137772: gestión
-44137779: sistemas de información
-44137792: sistemas de información
-44137796: tecnologías de información
+44137779: gestión
+44137792: gestión
+44137796: gestión
 44137797: tecnologías de información
 44137799: sistemas de información
-44137814: sistemas de información
+44137814: gestión
 44137824: ingeniería de software
 44137825: ingeniería de software
-44137828: sistemas de información
-44137829: sistemas de información
-44137832: tecnologías de información
-44137833: tecnologías de información
+44137828: gestión
+44137829: ingeniería de software
+44137832: sistemas de información
+44137833: ingeniería de software
 44137835: tecnologías de información
-44137837: ingeniería de software
-44137839: gestión
-44137843: sistemas de información
+44137837: gestión
+44137839: ingeniería de software
+44137843: gestión
 44137852: sistemas de información
-44137853: sistemas de información
-44137857: sistemas de información
+44137853: ingeniería de software
+44137857: gestión
 44137858: sistemas de información
 44137864: ingeniería de software
-44137872: sistemas de información
+44137872: gestión
 44137875: ingeniería de software
 44137876: ingeniería de software
 44137879: ingeniería de software
-44137892: sistemas de información
+44137892: gestión
 44137893: gestión
 44137900: sistemas de información
 44137905: ingeniería de software
 44137907: ingeniería de software
-44137911: sistemas de información
+44137911: gestión
 44137916: ingeniería de software
-44137917: tecnologías de información
+44137917: gestión
 44137925: ingeniería de software
-44137930: sistemas de información
-44137937: sistemas de información
+44137930: gestión
+44137937: gestión
 44137945: ingeniería de software
 44137946: ingeniería de software
 44137951: gestión
 44137952: sistemas de información
 44137956: ingeniería de software
 44137970: ingeniería de software
-44137972: sistemas de información
-44137977: sistemas de información
-44137978: tecnologías de información
-44137984: sistemas de información
-44137987: sistemas de información
-44137999: sistemas de información
-44138006: sistemas de información
-44138013: tecnologías de información
-44138014: sistemas de información
+44137972: gestión
+44137977: ingeniería de software
+44137978: gestión
+44137984: gestión
+44137987: gestión
+44137999: gestión
+44138006: gestión
+44138013: ingeniería de software
+44138014: gestión
 44138015: gestión
 44138017: tecnologías de información
 44138018: tecnologías de información
-44138019: sistemas de información
+44138019: gestión
 44138020: gestión
 44138024: gestión
-44138030: tecnologías de información
+44138030: sistemas de información
 44138032: tecnologías de información
 44138033: ingeniería de software
-44138037: sistemas de información
-44138038: tecnologías de información
+44138037: ingeniería de software
+44138038: ingeniería de software
 44138048: ingeniería de software
-44138049: ingeniería de software
-44138058: tecnologías de información
+44138049: gestión
+44138058: gestión
 44138062: ingeniería de software
-44138067: sistemas de información
-44138069: tecnologías de información
+44138067: gestión
+44138069: ingeniería de software
 44138100: sistemas de información
 44138101: ingeniería de software
 44138106: ingeniería de software
 44138109: sistemas de información
 44138113: sistemas de información
-44138122: ingeniería de software
-44138124: tecnologías de información
-44138129: ingeniería de software
-44138130: ingeniería de software
-44138132: sistemas de información
+44138122: gestión
+44138124: gestión
+44138129: gestión
+44138130: gestión
+44138132: gestión
 44138144: sistemas de información
 44138145: sistemas de información
 44138148: gestión
-44138151: tecnologías de información
-44138154: ingeniería de software
+44138151: gestión
+44138154: gestión
 44138159: ingeniería de software
 44138160: ingeniería de software
-44138164: sistemas de información
-44138165: tecnologías de información
+44138164: ingeniería de software
+44138165: gestión
 44138167: sistemas de información
 44138178: ingeniería de software
-44138180: gestión
+44138180: ingeniería de software
 44138181: ingeniería de software
 44138182: sistemas de información
 44138183: ingeniería de software
 44138186: ingeniería de software
-44138188: sistemas de información
+44138188: ingeniería de software
 44138189: ingeniería de software
 44138192: gestión
 44138193: ingeniería de software
 44138199: ingeniería de software
-44138207: sistemas de información
+44138207: gestión
 44138219: tecnologías de información
 44138220: gestión
 44138224: gestión
 44138235: tecnologías de información
 44138238: ingeniería de software
-44138241: ingeniería de software
+44138241: gestión
 44138245: tecnologías de información
 44138246: tecnologías de información
-44138263: sistemas de información
+44138263: gestión
 44138280: gestión
 44138286: ingeniería de software
-44138291: ingeniería de software
+44138291: tecnologías de información
 44138292: ingeniería de software
 44138298: tecnologías de información
 44138305: sistemas de información
@@ -2922,51 +2922,51 @@
 44138311: ingeniería de software
 44138312: ingeniería de software
 44138314: sistemas de información
-44138315: sistemas de información
-44138320: tecnologías de información
+44138315: gestión
+44138320: gestión
 44138321: sistemas de información
-44138323: sistemas de información
-44138324: sistemas de información
+44138323: gestión
+44138324: gestión
 44138344: ingeniería de software
 44138345: ingeniería de software
 44138359: sistemas de información
 44138374: ingeniería de software
 44138375: ingeniería de software
-44138376: sistemas de información
+44138376: gestión
 44138377: sistemas de información
-44138405: sistemas de información
-44138406: ingeniería de software
-44138409: tecnologías de información
-44138412: sistemas de información
+44138405: gestión
+44138406: gestión
+44138409: gestión
+44138412: gestión
 44138415: ingeniería de software
 44138419: ingeniería de software
-44138432: sistemas de información
+44138432: ingeniería de software
 44138434: sistemas de información
-44138435: sistemas de información
-44138448: tecnologías de información
+44138435: ingeniería de software
+44138448: gestión
 44138449: sistemas de información
-44138450: sistemas de información
+44138450: gestión
 44138451: tecnologías de información
 44138452: tecnologías de información
 44138466: ingeniería de software
 44138468: tecnologías de información
 44138469: ingeniería de software
-44138476: sistemas de información
-44138479: ingeniería de software
+44138476: gestión
+44138479: gestión
 44138480: sistemas de información
 44138481: ingeniería de software
 44138498: ingeniería de software
-44138500: sistemas de información
-44138503: sistemas de información
-44138505: sistemas de información
-44138507: sistemas de información
-44138508: sistemas de información
+44138500: tecnologías de información
+44138503: gestión
+44138505: gestión
+44138507: gestión
+44138508: gestión
 44138509: tecnologías de información
-44138517: sistemas de información
-44138527: sistemas de información
+44138517: gestión
+44138527: gestión
 44138533: ingeniería de software
-44138536: sistemas de información
-44138538: sistemas de información
+44138536: gestión
+44138538: gestión
 44138550: ingeniería de software
 44138552: tecnologías de información
 44138560: sistemas de información
@@ -2976,22 +2976,22 @@
 44138587: tecnologías de información
 44138588: tecnologías de información
 44138601: ingeniería de software
-44138605: gestión
+44138605: sistemas de información
 44138626: ingeniería de software
 44138629: ingeniería de software
 44138634: ingeniería de software
 44138635: ingeniería de software
-44138647: tecnologías de información
-44138692: tecnologías de información
+44138647: gestión
+44138692: gestión
 44138693: sistemas de información
 44138694: ingeniería de software
 44138695: ingeniería de software
-44138701: sistemas de información
-44138703: sistemas de información
-44138706: sistemas de información
-44138707: sistemas de información
+44138701: gestión
+44138703: gestión
+44138706: gestión
+44138707: gestión
 44138718: ingeniería de software
-44138747: sistemas de información
+44138747: gestión
 44138780: tecnologías de información
 44138787: sistemas de información
 44138789: sistemas de información
@@ -2999,57 +2999,57 @@
 44138795: ingeniería de software
 44138796: ingeniería de software
 44138805: sistemas de información
-44138816: sistemas de información
+44138816: gestión
 44138819: ingeniería de software
-44138822: sistemas de información
+44138822: gestión
 44138839: sistemas de información
 44138862: ingeniería de software
-44138874: sistemas de información
+44138874: gestión
 44138882: ingeniería de software
-44138887: ingeniería de software
-44138906: sistemas de información
+44138887: gestión
+44138906: gestión
 44138907: tecnologías de información
-44138908: tecnologías de información
-44138912: tecnologías de información
-44138914: ingeniería de software
-44138917: tecnologías de información
-44138919: sistemas de información
-44138920: sistemas de información
+44138908: gestión
+44138912: gestión
+44138914: gestión
+44138917: sistemas de información
+44138919: gestión
+44138920: gestión
 44138922: sistemas de información
-44138924: sistemas de información
-44138941: tecnologías de información
-44138948: tecnologías de información
+44138924: gestión
+44138941: gestión
+44138948: gestión
 44138956: ingeniería de software
 44138959: ingeniería de software
-44138960: ingeniería de software
+44138960: sistemas de información
 44138963: ingeniería de software
 44138964: sistemas de información
 44138965: gestión
 44138966: gestión
 44138967: ingeniería de software
-44138980: sistemas de información
+44138980: gestión
 44138990: gestión
-44138992: tecnologías de información
+44138992: gestión
 44138994: gestión
 44138995: gestión
-44138997: ingeniería de software
+44138997: gestión
 44139009: tecnologías de información
 44139015: ingeniería de software
 44139037: ingeniería de software
 44139059: ingeniería de software
-44139064: ingeniería de software
-44139075: gestión
-44139083: sistemas de información
+44139064: gestión
+44139075: sistemas de información
+44139083: ingeniería de software
 44139084: ingeniería de software
 44139085: ingeniería de software
 44139086: ingeniería de software
 44139088: gestión
-44139098: sistemas de información
-44139101: sistemas de información
-44139104: sistemas de información
-44139106: sistemas de información
+44139098: gestión
+44139101: gestión
+44139104: gestión
+44139106: gestión
 44139116: ingeniería de software
-44139124: tecnologías de información
+44139124: gestión
 44139125: ingeniería de software
 44139126: sistemas de información
 44139132: gestión
@@ -3057,7 +3057,7 @@
 44139134: gestión
 44139136: ingeniería de software
 44139137: tecnologías de información
-44139140: sistemas de información
+44139140: gestión
 44139155: tecnologías de información
 44139157: gestión
 44139158: gestión
@@ -3067,217 +3067,217 @@
 44139171: ingeniería de software
 44139209: ingeniería de software
 44139212: gestión
-44139219: tecnologías de información
-44139222: sistemas de información
+44139219: gestión
+44139222: gestión
 44139223: ingeniería de software
-44139230: ingeniería de software
-44139234: sistemas de información
+44139230: gestión
+44139234: gestión
 44139239: ingeniería de software
 44139240: ingeniería de software
 44139241: ingeniería de software
-44139244: sistemas de información
-44139256: gestión
+44139244: gestión
+44139256: ingeniería de software
 44139260: ingeniería de software
 44139275: tecnologías de información
 44139276: ingeniería de software
-44139284: tecnologías de información
-44139285: sistemas de información
+44139284: gestión
+44139285: gestión
 44139286: ingeniería de software
-44139303: sistemas de información
+44139303: gestión
 44139311: ingeniería de software
 44139318: tecnologías de información
-44139325: ingeniería de software
-44139329: sistemas de información
+44139325: gestión
+44139329: gestión
 44139343: sistemas de información
 44139349: ingeniería de software
 44139352: ingeniería de software
 44139354: tecnologías de información
 44139356: tecnologías de información
 44139385: sistemas de información
-44139387: ingeniería de software
-44139399: sistemas de información
+44139387: gestión
+44139399: gestión
 44139401: ingeniería de software
 44139402: ingeniería de software
 44139403: ingeniería de software
 44139404: ingeniería de software
 44139405: tecnologías de información
-44139410: sistemas de información
+44139410: gestión
 44139414: ingeniería de software
-44139420: sistemas de información
-44139428: tecnologías de información
+44139420: ingeniería de software
+44139428: gestión
 44139432: ingeniería de software
 44139433: gestión
 44139434: gestión
-44139435: sistemas de información
-44139436: sistemas de información
+44139435: gestión
+44139436: gestión
 44139437: ingeniería de software
-44139439: sistemas de información
-44139440: tecnologías de información
-44139442: sistemas de información
-44139444: sistemas de información
-44139446: sistemas de información
-44139447: sistemas de información
-44139451: sistemas de información
+44139439: gestión
+44139440: ingeniería de software
+44139442: gestión
+44139444: gestión
+44139446: gestión
+44139447: gestión
+44139451: gestión
 44139455: tecnologías de información
-44139458: tecnologías de información
-44139468: sistemas de información
+44139458: gestión
+44139468: gestión
 44139477: gestión
-44139487: gestión
-44139492: sistemas de información
+44139487: ingeniería de software
+44139492: gestión
 44139506: ingeniería de software
 44139514: tecnologías de información
 44139525: ingeniería de software
-44139532: tecnologías de información
-44139547: sistemas de información
-44139557: ingeniería de software
-44139588: sistemas de información
+44139532: gestión
+44139547: gestión
+44139557: gestión
+44139588: gestión
 44139594: ingeniería de software
-44139600: sistemas de información
+44139600: ingeniería de software
 44139609: ingeniería de software
 44139612: ingeniería de software
-44139616: sistemas de información
+44139616: gestión
 44139617: tecnologías de información
-44139619: ingeniería de software
+44139619: gestión
 44139620: ingeniería de software
-44139622: ingeniería de software
+44139622: gestión
 44139623: ingeniería de software
-44139625: tecnologías de información
-44139636: sistemas de información
-44139637: ingeniería de software
+44139625: sistemas de información
+44139636: gestión
+44139637: gestión
 44139639: sistemas de información
 44139640: sistemas de información
-44139644: sistemas de información
+44139644: gestión
 44139645: gestión
 44139649: sistemas de información
-44139651: sistemas de información
+44139651: gestión
 44139657: tecnologías de información
 44139684: sistemas de información
-44139698: tecnologías de información
+44139698: gestión
 44139704: ingeniería de software
-44139705: sistemas de información
+44139705: ingeniería de software
 44139706: ingeniería de software
 44139707: ingeniería de software
-44139721: gestión
+44139721: ingeniería de software
 44139723: tecnologías de información
 44139757: ingeniería de software
 44139763: gestión
-44139764: sistemas de información
+44139764: gestión
 44139765: ingeniería de software
-44139766: sistemas de información
+44139766: gestión
 44139783: sistemas de información
 44139786: sistemas de información
 44139787: gestión
-44139788: sistemas de información
+44139788: gestión
 44139789: sistemas de información
 44139790: sistemas de información
 44139791: sistemas de información
 44139792: sistemas de información
-44139793: sistemas de información
-44139804: sistemas de información
-44139808: ingeniería de software
+44139793: gestión
+44139804: gestión
+44139808: gestión
 44139830: ingeniería de software
 44139868: ingeniería de software
 44139869: tecnologías de información
-44139870: tecnologías de información
+44139870: gestión
 44139904: gestión
 44139912: gestión
-44139916: ingeniería de software
+44139916: gestión
 44139948: sistemas de información
-44139955: ingeniería de software
+44139955: tecnologías de información
 44139959: ingeniería de software
 44139965: tecnologías de información
-44139968: sistemas de información
+44139968: ingeniería de software
 44139975: tecnologías de información
 44139979: sistemas de información
 44139980: sistemas de información
 44139986: ingeniería de software
 44139987: ingeniería de software
-44139999: sistemas de información
+44139999: gestión
 44140022: sistemas de información
 44140037: ingeniería de software
-44140038: sistemas de información
+44140038: ingeniería de software
 44140040: ingeniería de software
 44140054: sistemas de información
-44140056: tecnologías de información
-44140058: sistemas de información
-44140063: ingeniería de software
+44140056: gestión
+44140058: gestión
+44140063: gestión
 44140075: gestión
 44140076: gestión
 44140077: tecnologías de información
-44140081: sistemas de información
+44140081: gestión
 44140106: ingeniería de software
 44140114: ingeniería de software
 44140115: sistemas de información
-44140125: sistemas de información
+44140125: gestión
 44140126: ingeniería de software
 44140127: gestión
 44140128: sistemas de información
 44140129: sistemas de información
 44140130: sistemas de información
-44140131: sistemas de información
+44140131: gestión
 44140132: sistemas de información
 44140133: sistemas de información
 44140134: sistemas de información
-44140135: sistemas de información
-44140139: sistemas de información
-44140140: sistemas de información
-44140145: tecnologías de información
+44140135: ingeniería de software
+44140139: gestión
+44140140: gestión
+44140145: gestión
 44140178: sistemas de información
 44140179: sistemas de información
 44140180: sistemas de información
-44140181: sistemas de información
+44140181: gestión
 44140182: sistemas de información
 44140183: sistemas de información
 44140184: sistemas de información
 44140185: gestión
 44140186: ingeniería de software
-44140187: sistemas de información
+44140187: gestión
 44140196: tecnologías de información
-44140206: sistemas de información
+44140206: gestión
 44140208: ingeniería de software
-44140209: sistemas de información
+44140209: gestión
 44140216: ingeniería de software
 44140217: sistemas de información
-44140229: sistemas de información
+44140229: gestión
 44140248: sistemas de información
 44140260: ingeniería de software
-44140263: sistemas de información
+44140263: gestión
 44140266: ingeniería de software
-44140267: sistemas de información
+44140267: ingeniería de software
 44140268: ingeniería de software
-44140276: sistemas de información
-44140279: sistemas de información
-44140280: sistemas de información
+44140276: gestión
+44140279: gestión
+44140280: ingeniería de software
 44140311: gestión
-44140316: sistemas de información
-44140325: sistemas de información
-44140330: sistemas de información
-44140339: sistemas de información
+44140316: gestión
+44140325: gestión
+44140330: gestión
+44140339: gestión
 44140341: ingeniería de software
 44140348: ingeniería de software
-44140350: sistemas de información
-44140390: sistemas de información
-44140391: tecnologías de información
-44140393: sistemas de información
+44140350: gestión
+44140390: gestión
+44140391: gestión
+44140393: ingeniería de software
 44140395: sistemas de información
 44140408: ingeniería de software
 44140413: ingeniería de software
 44140414: ingeniería de software
 44140431: ingeniería de software
-44140439: ingeniería de software
-44140445: tecnologías de información
-44140450: sistemas de información
-44140451: sistemas de información
-44140466: tecnologías de información
-44140467: sistemas de información
-44140487: sistemas de información
-44140495: sistemas de información
-44140497: tecnologías de información
-44140498: sistemas de información
+44140439: gestión
+44140445: gestión
+44140450: tecnologías de información
+44140451: gestión
+44140466: gestión
+44140467: gestión
+44140487: gestión
+44140495: gestión
+44140497: gestión
+44140498: gestión
 44140502: tecnologías de información
 44140503: ingeniería de software
 44140513: sistemas de información
-44140525: sistemas de información
+44140525: gestión
 44140526: ingeniería de software
 44140527: gestión
 44140528: sistemas de información
@@ -3286,20 +3286,20 @@
 44140532: sistemas de información
 44140533: sistemas de información
 44140534: sistemas de información
-44140535: sistemas de información
-44140536: sistemas de información
+44140535: gestión
+44140536: gestión
 44140543: sistemas de información
-44140549: sistemas de información
+44140549: ingeniería de software
 44140578: sistemas de información
-44140585: sistemas de información
+44140585: gestión
 44140589: ingeniería de software
 44140591: tecnologías de información
-44140605: sistemas de información
-44140609: sistemas de información
+44140605: gestión
+44140609: gestión
 44140610: ingeniería de software
 44140611: gestión
 44140618: tecnologías de información
-44140620: ingeniería de software
+44140620: gestión
 44140628: ingeniería de software
 44140630: sistemas de información
 44140635: ingeniería de software
@@ -3308,44 +3308,44 @@
 44140642: ingeniería de software
 44140643: sistemas de información
 44140645: ingeniería de software
-44140646: ingeniería de software
+44140646: gestión
 44140660: sistemas de información
 44140661: ingeniería de software
 44140662: ingeniería de software
-44140668: sistemas de información
-44140675: sistemas de información
+44140668: gestión
+44140675: gestión
 44140680: gestión
 44140691: tecnologías de información
 44140704: ingeniería de software
-44140708: sistemas de información
+44140708: gestión
 44140711: tecnologías de información
-44140713: sistemas de información
+44140713: gestión
 44140726: tecnologías de información
-44140745: ingeniería de software
+44140745: gestión
 44140751: ingeniería de software
 44140804: sistemas de información
-44140808: tecnologías de información
-44140828: tecnologías de información
-44140829: sistemas de información
-44140837: sistemas de información
-44140841: sistemas de información
+44140808: gestión
+44140828: gestión
+44140829: gestión
+44140837: gestión
+44140841: gestión
 44140845: ingeniería de software
 44140875: gestión
 44140879: ingeniería de software
-44140899: sistemas de información
+44140899: gestión
 44140916: tecnologías de información
-44140940: sistemas de información
+44140940: ingeniería de software
 44140949: sistemas de información
 44140950: sistemas de información
-44140958: ingeniería de software
-44140972: gestión
+44140958: gestión
+44140972: sistemas de información
 44140973: sistemas de información
-44140975: sistemas de información
+44140975: gestión
 44140981: ingeniería de software
-44141003: tecnologías de información
+44141003: sistemas de información
 44141012: tecnologías de información
-44141013: sistemas de información
-44141021: ingeniería de software
+44141013: gestión
+44141021: gestión
 44141027: sistemas de información
 44141028: sistemas de información
 44141030: sistemas de información
@@ -3353,170 +3353,170 @@
 44141057: ingeniería de software
 44141058: sistemas de información
 44141059: sistemas de información
-44141067: sistemas de información
-44141068: ingeniería de software
+44141067: gestión
+44141068: gestión
 44141130: gestión
 44141139: sistemas de información
-44141142: sistemas de información
-44141144: sistemas de información
+44141142: gestión
+44141144: gestión
 44141145: sistemas de información
-44141146: sistemas de información
+44141146: gestión
 44141163: ingeniería de software
-44141170: ingeniería de software
-44141177: ingeniería de software
+44141170: gestión
+44141177: gestión
 44141182: sistemas de información
-44141184: sistemas de información
-44141186: sistemas de información
+44141184: gestión
+44141186: gestión
 44141187: tecnologías de información
-44141190: sistemas de información
-44141192: tecnologías de información
-44141196: sistemas de información
-44141199: sistemas de información
-44141212: sistemas de información
+44141190: gestión
+44141192: gestión
+44141196: gestión
+44141199: gestión
+44141212: gestión
 44141213: tecnologías de información
-44141220: sistemas de información
+44141220: gestión
 44141221: gestión
-44141231: sistemas de información
-44141234: tecnologías de información
-44141258: sistemas de información
+44141231: gestión
+44141234: gestión
+44141258: gestión
 44141271: ingeniería de software
 44141278: ingeniería de software
 44141279: tecnologías de información
 44141290: ingeniería de software
-44141318: sistemas de información
-44141321: sistemas de información
-44141323: ingeniería de software
-44141336: sistemas de información
+44141318: gestión
+44141321: gestión
+44141323: gestión
+44141336: gestión
 44141341: ingeniería de software
-44141366: tecnologías de información
+44141366: gestión
 44141375: ingeniería de software
-44141379: sistemas de información
-44141384: ingeniería de software
+44141379: gestión
+44141384: gestión
 44141386: ingeniería de software
-44141409: ingeniería de software
+44141409: gestión
 44141415: gestión
 44141417: tecnologías de información
 44141422: ingeniería de software
-44141427: sistemas de información
+44141427: gestión
 44141428: ingeniería de software
-44141429: tecnologías de información
+44141429: gestión
 44141430: gestión
 44141432: ingeniería de software
-44141433: sistemas de información
+44141433: gestión
 44141435: sistemas de información
 44141437: tecnologías de información
-44141441: ingeniería de software
+44141441: gestión
 44141446: tecnologías de información
-44141461: sistemas de información
+44141461: gestión
 44141475: ingeniería de software
 44141485: ingeniería de software
 44141486: sistemas de información
-44141487: sistemas de información
+44141487: gestión
 44141489: gestión
-44141492: sistemas de información
-44141494: ingeniería de software
+44141492: gestión
+44141494: gestión
 44141512: ingeniería de software
 44141516: ingeniería de software
-44141522: tecnologías de información
+44141522: gestión
 44141525: ingeniería de software
 44141526: tecnologías de información
-44141558: sistemas de información
+44141558: gestión
 44141561: ingeniería de software
 44141563: ingeniería de software
 44141564: ingeniería de software
 44141567: gestión
 44141574: ingeniería de software
-44141575: ingeniería de software
+44141575: gestión
 44141576: ingeniería de software
 44141577: sistemas de información
-44141578: sistemas de información
+44141578: gestión
 44141579: gestión
 44141580: ingeniería de software
-44141581: sistemas de información
+44141581: gestión
 44141582: ingeniería de software
-44141583: ingeniería de software
-44141587: ingeniería de software
+44141583: gestión
+44141587: gestión
 44141603: ingeniería de software
 44141631: tecnologías de información
 44141632: ingeniería de software
 44141636: ingeniería de software
 44141637: ingeniería de software
-44141645: gestión
-44141646: sistemas de información
+44141645: sistemas de información
+44141646: gestión
 44141647: sistemas de información
 44141648: sistemas de información
 44141654: sistemas de información
-44141667: sistemas de información
-44141669: sistemas de información
-44141670: sistemas de información
+44141667: gestión
+44141669: gestión
+44141670: gestión
 44141687: ingeniería de software
 44141688: ingeniería de software
 44141689: ingeniería de software
 44141692: ingeniería de software
 44141702: tecnologías de información
 44141704: tecnologías de información
-44141706: sistemas de información
-44141709: ingeniería de software
-44141712: ingeniería de software
-44141726: sistemas de información
+44141706: gestión
+44141709: gestión
+44141712: gestión
+44141726: gestión
 44141734: tecnologías de información
-44141736: sistemas de información
-44141739: sistemas de información
+44141736: gestión
+44141739: gestión
 44141744: ingeniería de software
 44141745: ingeniería de software
 44141757: sistemas de información
 44141766: ingeniería de software
 44141777: gestión
 44141782: sistemas de información
-44141795: sistemas de información
-44141798: tecnologías de información
+44141795: ingeniería de software
+44141798: gestión
 44141802: tecnologías de información
 44141822: sistemas de información
-44141884: tecnologías de información
-44141887: tecnologías de información
+44141884: gestión
+44141887: gestión
 44141899: tecnologías de información
 44141913: ingeniería de software
 44141914: sistemas de información
-44141915: sistemas de información
+44141915: gestión
 44141916: gestión
 44141917: ingeniería de software
-44141918: sistemas de información
-44141919: sistemas de información
+44141918: gestión
+44141919: gestión
 44141920: ingeniería de software
 44141921: ingeniería de software
-44141934: sistemas de información
-44141936: tecnologías de información
+44141934: gestión
+44141936: gestión
 44141940: tecnologías de información
-44141946: sistemas de información
+44141946: gestión
 44141950: ingeniería de software
-44141965: sistemas de información
-44141978: sistemas de información
+44141965: gestión
+44141978: gestión
 44141984: sistemas de información
-44141985: tecnologías de información
-44141995: ingeniería de software
-44141999: ingeniería de software
-44142015: tecnologías de información
-44142025: tecnologías de información
-44142059: ingeniería de software
-44142064: sistemas de información
+44141985: gestión
+44141995: gestión
+44141999: gestión
+44142015: gestión
+44142025: gestión
+44142059: gestión
+44142064: gestión
 44142074: ingeniería de software
 44142075: ingeniería de software
 44142090: ingeniería de software
 44142092: gestión
-44142107: sistemas de información
+44142107: gestión
 44142108: ingeniería de software
 44142109: gestión
-44142110: sistemas de información
+44142110: gestión
 44142111: ingeniería de software
-44142112: sistemas de información
+44142112: gestión
 44142113: sistemas de información
 44142123: gestión
-44142149: sistemas de información
+44142149: gestión
 44142153: gestión
 44142156: ingeniería de software
 44142157: ingeniería de software
 44142160: tecnologías de información
-44142166: sistemas de información
+44142166: gestión
 44142167: tecnologías de información
 44142170: ingeniería de software
 44142172: ingeniería de software
@@ -3527,40 +3527,40 @@
 44142198: ingeniería de software
 44142199: ingeniería de software
 44142208: tecnologías de información
-44142214: sistemas de información
-44142233: sistemas de información
-44142268: sistemas de información
-44142270: sistemas de información
+44142214: gestión
+44142233: ingeniería de software
+44142268: gestión
+44142270: gestión
 44142272: gestión
 44142273: gestión
 44142297: tecnologías de información
 44142300: ingeniería de software
 44142301: ingeniería de software
-44142302: gestión
-44142304: tecnologías de información
-44142305: tecnologías de información
+44142302: ingeniería de software
+44142304: gestión
+44142305: gestión
 44142319: sistemas de información
 44142320: sistemas de información
 44142324: tecnologías de información
-44142348: sistemas de información
-44142352: sistemas de información
-44142353: sistemas de información
-44142354: sistemas de información
-44142355: sistemas de información
+44142348: ingeniería de software
+44142352: gestión
+44142353: gestión
+44142354: gestión
+44142355: gestión
 44142357: sistemas de información
 44142359: ingeniería de software
-44142367: sistemas de información
+44142367: gestión
 44142369: gestión
 44142386: ingeniería de software
 44142391: ingeniería de software
 44142392: sistemas de información
-44142393: sistemas de información
+44142393: gestión
 44142394: gestión
-44142395: sistemas de información
+44142395: gestión
 44142396: ingeniería de software
-44142397: sistemas de información
-44142402: sistemas de información
-44142407: sistemas de información
+44142397: gestión
+44142402: gestión
+44142407: gestión
 44142417: ingeniería de software
 44142423: gestión
 44142430: tecnologías de información
@@ -3568,93 +3568,93 @@
 44142443: sistemas de información
 44142453: ingeniería de software
 44142454: ingeniería de software
-44142475: sistemas de información
+44142475: gestión
 44142479: ingeniería de software
-44142485: tecnologías de información
-44142490: tecnologías de información
-44142503: tecnologías de información
+44142485: gestión
+44142490: gestión
+44142503: gestión
 44142515: tecnologías de información
 44142516: tecnologías de información
 44142517: ingeniería de software
 44142518: tecnologías de información
 44142531: ingeniería de software
 44142536: gestión
-44142541: sistemas de información
+44142541: gestión
 44142543: tecnologías de información
 44142565: ingeniería de software
 44142568: ingeniería de software
 44142570: ingeniería de software
-44142571: ingeniería de software
+44142571: gestión
 44142573: sistemas de información
 44142593: ingeniería de software
-44142596: sistemas de información
+44142596: ingeniería de software
 44142599: ingeniería de software
 44142601: ingeniería de software
 44142620: gestión
-44142631: sistemas de información
-44142632: sistemas de información
-44142636: tecnologías de información
+44142631: gestión
+44142632: gestión
+44142636: gestión
 44142651: ingeniería de software
 44142662: ingeniería de software
-44142663: sistemas de información
+44142663: gestión
 44142679: tecnologías de información
 44142680: tecnologías de información
-44142683: sistemas de información
+44142683: gestión
 44142689: tecnologías de información
 44142699: ingeniería de software
 44142703: ingeniería de software
 44142704: ingeniería de software
 44142705: tecnologías de información
 44142706: tecnologías de información
-44142717: sistemas de información
+44142717: gestión
 44142718: ingeniería de software
 44142720: gestión
 44142722: ingeniería de software
 44142723: ingeniería de software
-44142724: sistemas de información
+44142724: gestión
 44142726: sistemas de información
-44142727: sistemas de información
-44142728: sistemas de información
+44142727: gestión
+44142728: gestión
 44142729: ingeniería de software
 44142730: gestión
-44142736: tecnologías de información
+44142736: gestión
 44142738: gestión
-44142756: sistemas de información
+44142756: gestión
 44142783: sistemas de información
 44142788: ingeniería de software
 44142791: ingeniería de software
 44142797: ingeniería de software
-44142801: sistemas de información
-44142803: sistemas de información
+44142801: gestión
+44142803: gestión
 44142807: ingeniería de software
 44142808: gestión
 44142809: sistemas de información
-44142810: sistemas de información
+44142810: gestión
 44142811: ingeniería de software
-44142812: sistemas de información
+44142812: gestión
 44142814: sistemas de información
 44142822: ingeniería de software
-44142825: sistemas de información
-44142826: sistemas de información
+44142825: gestión
+44142826: gestión
 44142828: ingeniería de software
 44142832: gestión
 44142851: tecnologías de información
 44142852: tecnologías de información
 44142873: tecnologías de información
-44142874: gestión
+44142874: ingeniería de software
 44142887: gestión
 44142918: ingeniería de software
-44142938: sistemas de información
+44142938: ingeniería de software
 44142945: tecnologías de información
 44142947: gestión
-44142949: tecnologías de información
-44142952: sistemas de información
-44142958: sistemas de información
+44142949: gestión
+44142952: gestión
+44142958: gestión
 44142962: ingeniería de software
 44142963: sistemas de información
 44142964: ingeniería de software
 44142968: sistemas de información
-44142999: ingeniería de software
+44142999: gestión
 44143015: gestión
 44143024: ingeniería de software
 44143025: sistemas de información
@@ -3664,70 +3664,70 @@
 44143031: ingeniería de software
 44143032: gestión
 44143037: ingeniería de software
-44143039: sistemas de información
+44143039: gestión
 44143052: ingeniería de software
 44143065: gestión
 44143079: ingeniería de software
 44143082: gestión
-44143093: sistemas de información
+44143093: gestión
 44143094: ingeniería de software
 44143095: sistemas de información
 44143096: ingeniería de software
 44143109: ingeniería de software
-44143139: sistemas de información
+44143139: gestión
 44143154: sistemas de información
 44143157: ingeniería de software
-44143160: sistemas de información
-44143166: sistemas de información
+44143160: gestión
+44143166: gestión
 44143167: ingeniería de software
 44143168: sistemas de información
 44143169: gestión
-44143170: sistemas de información
+44143170: gestión
 44143171: gestión
-44143172: sistemas de información
+44143172: gestión
 44143174: ingeniería de software
 44143175: sistemas de información
 44143204: ingeniería de software
 44143205: sistemas de información
 44143206: ingeniería de software
-44143208: gestión
+44143208: sistemas de información
 44143225: tecnologías de información
-44143227: sistemas de información
+44143227: gestión
 44143232: ingeniería de software
-44143240: gestión
+44143240: ingeniería de software
 44143241: ingeniería de software
 44143271: gestión
 44143274: ingeniería de software
 44143278: tecnologías de información
-44143280: tecnologías de información
-44143289: sistemas de información
+44143280: sistemas de información
+44143289: gestión
 44143302: tecnologías de información
 44143303: ingeniería de software
-44143336: sistemas de información
-44143340: ingeniería de software
+44143336: gestión
+44143340: gestión
 44143343: gestión
 44143346: tecnologías de información
 44143350: sistemas de información
-44143361: ingeniería de software
-44143363: ingeniería de software
+44143361: gestión
+44143363: gestión
 44143364: ingeniería de software
 44143365: gestión
-44143374: tecnologías de información
+44143374: gestión
 44143382: tecnologías de información
-44143386: sistemas de información
-44143397: ingeniería de software
-44143401: sistemas de información
+44143386: ingeniería de software
+44143397: gestión
+44143401: gestión
 44143402: tecnologías de información
-44143404: sistemas de información
+44143404: tecnologías de información
 44143412: tecnologías de información
 44143419: sistemas de información
-44143424: sistemas de información
-44143430: sistemas de información
-44143432: tecnologías de información
-44143435: ingeniería de software
-44143436: tecnologías de información
+44143424: gestión
+44143430: gestión
+44143432: gestión
+44143435: gestión
+44143436: gestión
 44143437: gestión
-44143443: ingeniería de software
+44143443: gestión
 44143451: ingeniería de software
 44143460: tecnologías de información
 44143463: tecnologías de información
@@ -3735,73 +3735,73 @@
 44143465: sistemas de información
 44143466: ingeniería de software
 44143471: tecnologías de información
-44143485: sistemas de información
+44143485: gestión
 44143486: gestión
 44143487: ingeniería de software
-44143488: sistemas de información
+44143488: gestión
 44143489: sistemas de información
-44143490: sistemas de información
+44143490: gestión
 44143491: ingeniería de software
 44143493: gestión
-44143494: sistemas de información
+44143494: gestión
 44143526: tecnologías de información
-44143536: tecnologías de información
+44143536: gestión
 44143541: tecnologías de información
-44143557: sistemas de información
-44143561: tecnologías de información
+44143557: gestión
+44143561: gestión
 44143564: tecnologías de información
-44143568: tecnologías de información
-44143582: sistemas de información
+44143568: gestión
+44143582: ingeniería de software
 44143607: ingeniería de software
 44143612: sistemas de información
 44143619: ingeniería de software
 44143620: sistemas de información
 44143621: ingeniería de software
-44143622: tecnologías de información
+44143622: gestión
 44143626: tecnologías de información
-44143643: sistemas de información
-44143645: gestión
+44143643: gestión
+44143645: tecnologías de información
 44143651: ingeniería de software
 44143663: sistemas de información
-44143676: ingeniería de software
+44143676: sistemas de información
 44143683: tecnologías de información
-44143692: sistemas de información
-44143697: ingeniería de software
-44143702: sistemas de información
+44143692: gestión
+44143697: gestión
+44143702: gestión
 44143713: ingeniería de software
 44143714: ingeniería de software
 44143724: sistemas de información
-44143729: sistemas de información
+44143729: gestión
 44143736: sistemas de información
 44143737: tecnologías de información
 44143739: ingeniería de software
 44143742: ingeniería de software
-44143745: sistemas de información
+44143745: gestión
 44143746: ingeniería de software
-44143747: ingeniería de software
-44143749: sistemas de información
+44143747: gestión
+44143749: ingeniería de software
 44143750: tecnologías de información
 44143767: sistemas de información
 44143768: tecnologías de información
 44143773: sistemas de información
 44143778: ingeniería de software
-44143783: sistemas de información
-44143821: sistemas de información
+44143783: gestión
+44143821: gestión
 44143834: ingeniería de software
 44143835: sistemas de información
 44143836: ingeniería de software
 44143839: ingeniería de software
-44143840: sistemas de información
-44143858: sistemas de información
-44143861: sistemas de información
-44143883: tecnologías de información
+44143840: gestión
+44143858: gestión
+44143861: gestión
+44143883: gestión
 44143893: gestión
-44143905: sistemas de información
-44143916: tecnologías de información
-44143919: sistemas de información
+44143905: gestión
+44143916: gestión
+44143919: gestión
 44143925: ingeniería de software
 44143926: ingeniería de software
-44143927: sistemas de información
+44143927: gestión
 44143928: ingeniería de software
 44143929: ingeniería de software
 44143931: ingeniería de software

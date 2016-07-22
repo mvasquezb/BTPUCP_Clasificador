@@ -1,0 +1,26 @@
+abap: 1
+analista sistema: 11
+base dato: 116
+bi: 1
+bpm: 1
+business intelligence: 1
+consultor junior: 4
+crm: 1
+datawarehouse: 1
+erp: 18
+etl: 1
+indicador area|área: 139
+levantamiento información: 5
+mapeo proceso: 1
+mejora proceso: 7
+modelamiento proceso: 1
+monitorear indicador: 1
+procesamiento información: 2
+proceso: 114
+proceso negocio: 2
+reporting services: 2
+sap: 30
+scripting: 5
+seguimiento indicador: 2
+sistema gestion: 1
+sistema información: 38

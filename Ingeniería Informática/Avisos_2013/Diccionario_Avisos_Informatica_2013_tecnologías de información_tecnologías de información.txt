@@ -1,0 +1,132 @@
+activo: 70
+administrador: 61
+administrador red: 15
+administrar base dato: 9
+administrar herramienta: 2
+administrar red: 9
+administrar seguridad: 1
+administrar servicio: 5
+administrar servidor: 7
+analista red: 7
+apoyo usuario: 2
+arquitectura empresarial: 1
+asegurar confiabilidad: 2
+asegurar operatividad: 1
+asterisk: 24
+auditorio: 9
+auditorio sistema: 5
+backups: 22
+balanceadores carga: 4
+bcp: 5
+bottlenecks: 4
+brindar soporte: 45
+cableado estructurar: 1
+capacidad sistema: 1
+capacitar usuario: 3
+ccna: 34
+centro dato: 9
+cisco: 46
+cobit: 64
+configurar servidor: 1
+conocimiento red: 40
+conocimiento sistema operativo: 30
+continuidad: 52
+continuidad negocio: 10
+continuidad operación: 3
+continuidad operativo: 5
+control seguridad: 10
+dBA: 5
+data center: 18
+datacenter: 5
+dhcp: 15
+dns: 18
+engineer: 3
+entorno red: 7
+equipo: 192
+equipo red: 16
+firewalls: 20
+gestionar infraestructura: 5
+gestionar red: 1
+hardware comunicación: 8
+help desk: 27
+helpdesk: 15
+implementar red: 4
+información comunicación: 17
+infraestructura: 160
+infraestructura comunicación: 10
+infraestructura networking: 4
+infraestructura red: 26
+infraestructura servidor: 7
+ingeniero senior red: 4
+instalar software: 4
+inventario equipo: 8
+inventario software: 4
+iso: 53
+itil: 98
+lan: 60
+licencia software: 10
+lineamiento: 12
+mantenimiento equipo: 11
+mantenimiento hardware: 1
+mantenimiento preventivo: 20
+mantenimiento red: 10
+mantenimiento servidor: 5
+mcsa: 6
+mcse: 9
+mcts: 2
+monitorear red: 9
+monitorear servicio: 7
+nivel servicio: 18
+oca: 1
+operación red: 2
+plan contingencia: 22
+plataforma: 139
+plataforma comunicación: 10
+plataforma tecnologica: 3
+proceso: 114
+proponer solución: 3
+proveer solución: 4
+proxy: 20
+red: 278
+red comunicación: 61
+red dato: 20
+red ip: 2
+red telecomunicación: 16
+respaldo información: 12
+riesgo: 61
+routers: 31
+seguridad información: 91
+seguridad infraestructura: 4
+seleccionar equipo: 4
+service desk: 6
+servicio: 219
+servicio relacionar: 4
+servidor: 161
+sgcn: 2
+sgsi: 13
+sharepoint: 10
+sistema operativo: 121
+software comunicación: 4
+software red: 5
+soporte: 210
+soporte aplicación: 4
+soporte equipo: 1
+soporte hardware: 5
+soporte red: 10
+soporte remoto: 3
+soporte sistema: 16
+soporte tecnico: 2
+soporte usuario: 33
+soporte usuario final: 6
+switches: 29
+tcp: 31
+tcp ip: 27
+tecnología información: 68
+telefonia ip: 2
+tic: 16
+versión software: 3
+voip: 23
+vpn: 36
+vsphere: 3
+wan: 49
+wifi: 6

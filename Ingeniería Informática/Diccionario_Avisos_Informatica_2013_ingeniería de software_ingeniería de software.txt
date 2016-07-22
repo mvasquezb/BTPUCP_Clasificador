@@ -1,0 +1,162 @@
+agile: 29
+algoritmo: 10
+analizar desarrollar software: 1
+android: 30
+android sdk: 1
+análisis: 445
+análisis diseño sistema: 40
+análisis levantamiento requerimiento: 5
+análisis requerimiento: 45
+aplicación móvil: 17
+arquitectura: 127
+arquitectura sistema: 16
+arquitectura software: 18
+arquitectura solución: 7
+aseguramiento calidad: 41
+asp net: 71
+automation tools: 3
+automatización prueba: 17
+backend: 2
+base dato sql server: 46
+c: 161
+calidad: 224
+calidad producto: 17
+calidad sistema: 21
+caso prueba: 72
+certificación: 119
+ciclo desarrollo software: 14
+codificación: 33
+codificar ejecutar prueba unitario: 8
+componente: 49
+componente sistema: 4
+componente software: 13
+conocimiento base dato: 51
+conocimiento frameworks: 12
+conocimiento lenguaje: 70
+conocimiento uml: 8
+construcción componente: 2
+construcción componente software: 1
+construcción testing: 9
+construcción testing software: 9
+control calidad: 75
+control calidad requerimiento cambio: 3
+control versión: 21
+corrección defecto: 5
+depurar código: 4
+desarrollador: 128
+desarrollar: 270
+desarrollo: 686
+desarrollo aplicación: 167
+desarrollo componente: 3
+desarrollo mantenimiento aplicativos: 2
+desarrollo mantenimiento sistema: 17
+desarrollo software: 101
+desarrollo solución: 41
+develop web applications: 1
+developer: 54
+diseño: 409
+diseño arquitectura sistema: 2
+diseño arquitectura software: 4
+diseño caso prueba: 10
+diseño desarrollo solución: 13
+diseño programación base dato: 8
+diseño sistema: 70
+documentación sistema: 19
+documentación técnico cambio: 3
+eclipsar: 58
+ejecutar plan prueba aplicación desarrollar: 1
+elaboración caso prueba: 3
+elaborar especificación funcional: 9
+equipo desarrollo: 50
+especificación técnico: 18
+estructura dato: 8
+framework net: 1
+frameworks: 82
+frontend: 3
+functional testing: 2
+functional testing based test casar: 2
+gestión proyecto: 74
+gestión prueba: 1
+git: 3
+implementación: 304
+implementación aplicación web: 2
+implementar: 107
+implementar solución software: 6
+ingeniero software: 40
+ingeniería software: 54
+integración: 122
+integración continuo: 35
+integrar código fuente: 8
+integration frameworks: 1
+integration testing: 3
+interacts qa engineers: 1
+investigación librería componente software: 2
+ios: 17
+java: 431
+jee: 106
+kanban: 30
+large scale platform: 1
+lenguaje programación java net: 2
+mantenimiento: 188
+mantenimiento software: 4
+metodología desarrollo: 34
+metodología desarrollo software: 12
+metodología ágil: 13
+modelar basar uml: 6
+modelo arquitectura: 6
+mvc: 56
+net: 316
+new technologies improve existing platform: 1
+norma programación: 1
+patrón diseño: 25
+php: 111
+plan prueba: 52
+plan prueba corrección defecto: 5
+power builder: 42
+proceso desarrollo: 14
+proceso desarrollo software: 7
+programación: 429
+programación aplicación: 12
+programación base dato: 21
+programación lenguaje: 9
+programación net: 27
+programación orientar objeto: 41
+programación página web: 2
+programador: 396
+prueba: 347
+prueba integración: 20
+prueba software: 13
+prueba técnico usuario: 3
+prueba unitario: 94
+qa: 66
+quality: 19
+quality assurance: 5
+realizar modelar basar uml: 6
+realizar programa componente sistema: 3
+realizar prueba unitario implementación patrón diseño: 3
+regression scripts: 2
+regression testing: 2
+revisión código: 9
+rup: 82
+saas software: 1
+scalable server infrastructure: 1
+scrum: 64
+sincronización código: 6
+soa: 77
+software engineer: 9
+soporte mantenimiento: 19
+standard: 127
+standard construcción: 1
+standard construcción componente software: 1
+standard desarrollo: 11
+standard modelamiento uml: 1
+systems architecture: 1
+tdd: 15
+team foundation server: 6
+test casar: 6
+testing tools: 2
+uml: 143
+verificar componente: 3
+visual basic: 80
+visual studio: 77
+web services: 58

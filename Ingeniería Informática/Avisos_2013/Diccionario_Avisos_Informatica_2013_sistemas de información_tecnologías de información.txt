@@ -1,0 +1,85 @@
+activo: 58
+administrador: 38
+administrar base dato: 16
+administrar herramienta: 4
+administrar seguridad: 2
+analista red: 1
+apoyo usuario: 1
+asegurar confiabilidad: 6
+asegurar operatividad: 1
+asterisk: 2
+auditorio: 23
+auditorio sistema: 5
+backups: 4
+bcp: 15
+brindar soporte: 93
+canal digital: 1
+capacitar usuario: 13
+ccna: 7
+cisco: 6
+cobit: 23
+configurar servicio: 1
+conocimiento sistema operativo: 11
+conocimiento telecomunicación: 1
+continuidad: 14
+continuidad operación: 1
+continuidad operativo: 2
+control seguridad: 2
+dBA: 13
+data center: 6
+datacenter: 5
+engineer: 18
+entorno red: 1
+equipo: 320
+firewalls: 2
+gestionar red: 1
+help desk: 8
+helpdesk: 8
+información comunicación: 1
+infraestructura: 33
+instalar software: 1
+instalar solución: 1
+inventario equipo: 4
+inventario software: 1
+iso: 55
+itil: 36
+lan: 4
+lineamiento: 25
+mantenimiento equipo: 6
+mantenimiento preventivo: 11
+mantenimiento red: 2
+mantenimiento servidor: 5
+mcts: 1
+monitorear base dato: 3
+monitorear servicio: 1
+nivel servicio: 24
+operación red: 1
+plataforma: 131
+portafolio servicio: 1
+proceso: 861
+proponer solución: 29
+proveer solución: 1
+red: 77
+red dato: 1
+riesgo: 162
+seguridad información: 33
+service desk: 13
+servicio: 428
+servicio relacionar: 3
+servidor: 55
+sgsi: 1
+sharepoint: 26
+sistema operativo: 41
+software comunicación: 1
+soporte: 357
+soporte aplicación: 12
+soporte equipo: 3
+soporte sistema: 13
+soporte usuario: 34
+tecnología información: 90
+tendencia digital: 1
+tic: 8
+voip: 2
+vpn: 1
+wan: 1
+wifi: 1

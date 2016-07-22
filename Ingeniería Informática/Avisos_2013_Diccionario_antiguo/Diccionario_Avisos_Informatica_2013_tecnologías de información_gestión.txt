@@ -1,0 +1,34 @@
+Jefe: 67
+actividad: 81
+administrar riesgo: 3
+análisis riesgo: 9
+cmmi: 15
+controlar: 53
+coordinar: 91
+coordinar equipo proyecto: 3
+desarrollo proyecto: 19
+dirigir: 21
+gerente proyecto: 1
+gestionar: 98
+gestionar desarrollo proyecto: 3
+gestión proceso: 1
+gestión proyecto: 35
+herramienta gestión: 4
+indicador gestión: 4
+liderando equipo: 5
+liderar: 12
+management: 15
+organizar: 15
+plan: 86
+plan trabajo: 3
+planificación: 14
+planificar: 45
+pmbok: 6
+pmp: 11
+portafolio proyecto: 1
+presupuestar área: 3
+proyecto: 178
+seguimiento: 82
+seguimiento proyecto: 7
+sub gerente: 6
+supervisor: 21

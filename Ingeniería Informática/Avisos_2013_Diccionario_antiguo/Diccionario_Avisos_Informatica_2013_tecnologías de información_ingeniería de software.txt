@@ -1,0 +1,66 @@
+android: 4
+android sdk: 2
+análisis: 73
+análisis requerimiento: 1
+aplicación móvil: 3
+arquitectura: 33
+arquitectura sistema: 2
+aseguramiento calidad: 4
+base dato sql server: 8
+c: 11
+calidad: 55
+calidad sistema: 1
+certificación: 101
+codificación: 2
+componente: 11
+componente sistema: 1
+conocimiento base dato: 5
+conocimiento lenguaje: 5
+control calidad: 2
+desarrollador: 6
+desarrollar: 53
+desarrollo: 141
+desarrollo aplicación: 3
+desarrollo componente: 1
+desarrollo mantenimiento sistema: 5
+desarrollo software: 5
+desarrollo solución: 2
+developer: 3
+diseño: 66
+diseño arquitectura sistema: 1
+documentación sistema: 8
+documentación técnico cambio: 1
+equipo desarrollo: 9
+especificación técnico: 1
+gestión proyecto: 35
+gestión tarea: 1
+implementación: 146
+implementar: 69
+ingeniero software: 1
+integración: 5
+ios: 5
+java: 21
+mantenimiento: 148
+mantenimiento software: 3
+metodología desarrollo: 5
+net: 9
+php: 9
+plan prueba: 2
+programación: 53
+programación aplicación: 1
+programación base dato: 5
+programación lenguaje: 4
+programación orientar objeto: 2
+programación página web: 1
+programador: 3
+prueba: 47
+qa: 1
+quality: 1
+rup: 1
+soa: 3
+soporte mantenimiento: 15
+standard: 89
+standard desarrollo: 1
+uml: 4
+visual basic: 10
+web services: 1

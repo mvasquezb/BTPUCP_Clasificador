@@ -1,0 +1,78 @@
+abap: 5
+analista funcional: 26
+analista información: 1
+analista proceso: 2
+analista sistema: 64
+analizar información: 1
+analizar requerimiento: 17
+análisis: 551
+análisis base dato: 1
+análisis dato: 7
+análisis diseño: 286
+análisis diseño sistema información: 6
+análisis documentación proceso: 1
+análisis funcional: 5
+análisis información: 2
+análisis mejora proceso: 2
+análisis proceso: 6
+automatización proceso: 2
+bi: 4
+bpm: 29
+bpmn: 4
+business intelligence: 7
+business process management: 5
+calidad base dato: 1
+co: 8
+consultor junior oracle: 1
+crm: 6
+cubo: 2
+datastage: 22
+datawarehouse: 1
+desarrollo aplicación: 221
+diseñar sistema informático: 1
+diseño base dato: 13
+diseño sistema: 84
+documentación funcional: 28
+documentación sistema: 28
+elaboración prototipo: 5
+especificación caso uso: 5
+especificación funcional: 53
+especificar requerimiento: 1
+etl: 2
+explotación información: 1
+extracción: 6
+funcional: 225
+gestión proceso: 1
+herramienta análisis: 5
+herramienta oracle: 17
+implementación sistema: 66
+indicador gestión: 6
+indicador área: 1
+inteligencia comercial: 2
+inteligencia negocio: 7
+levantamiento: 40
+levantamiento información: 20
+levantamiento proceso: 2
+levantamiento requerimiento: 13
+manejo base dato: 46
+manejo proceso: 2
+mapeo proceso: 1
+mejora proceso: 24
+modelamiento: 40
+modelamiento dato: 3
+modelamiento proceso: 4
+modelar proceso: 12
+modelo lógico físico: 3
+nuevo requerimiento: 13
+olap: 1
+oracle: 433
+procesamiento información: 3
+proceso negocio: 3
+proyecto sistema: 21
+reporting services: 17
+requerimiento: 437
+requerimiento funcional: 23
+sap: 18
+sap business one: 2
+sistema gestión: 15
+sistema información: 75

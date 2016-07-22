@@ -1,0 +1,209 @@
+agile: 56
+agile scrum methodology: 3
+algoritmo: 14
+analizar desarrollar software: 2
+android: 102
+android sdk: 3
+android studio: 1
+análisis: 533
+análisis definición desarrollo ciclo desarrollo sofware: 1
+análisis diseño sistema: 53
+análisis elaboración prototipo: 1
+análisis levantamiento requerimiento: 8
+análisis requerimiento: 89
+aplicación móvil: 39
+architectural design: 4
+arquitectura: 216
+arquitectura sistema: 74
+arquitectura software: 25
+arquitectura solución: 39
+aseguramiento calidad: 37
+asp net: 92
+automation testing tools: 7
+automation tools: 3
+automatización prueba: 27
+backend: 15
+base dato sql server: 118
+c: 282
+calidad: 365
+calidad producto: 21
+calidad sistema: 46
+caso prueba: 57
+certificación: 112
+certificador: 2
+certificador software: 1
+ciclo desarrollo software: 5
+code review: 5
+codificación: 30
+codificar ejecutar prueba unitario: 2
+componente: 156
+componente sistema: 15
+componente software: 44
+comunicación interfaz: 1
+conocimiento base dato: 53
+conocimiento frameworks: 24
+conocimiento lenguaje: 84
+conocimiento uml: 70
+construcción componente: 6
+construcción componente software: 5
+construcción testing: 6
+construcción testing software: 6
+control calidad: 153
+control calidad requerimiento cambio: 2
+control versión: 15
+corrección defecto: 8
+cumplimiento tiempo: 3
+definir technical architecture: 1
+depurar código: 5
+desarrollador: 103
+desarrollar: 322
+desarrollar solución propuesta: 1
+desarrollo: 933
+desarrollo android: 3
+desarrollo aplicación: 210
+desarrollo componente: 1
+desarrollo mantenimiento aplicativos: 6
+desarrollo mantenimiento sistema: 13
+desarrollo software: 152
+desarrollo solución: 41
+despliegue aplicativos ambiente producción: 4
+determines best way implement specifications code codes: 1
+develop web applications: 2
+developer: 76
+developing implementing test plans test casar scripts: 8
+developing ios android: 1
+diseño: 671
+diseño arquitectura sistema: 17
+diseño arquitectura software: 1
+diseño caso prueba: 12
+diseño desarrollo solución: 6
+diseño programación base dato: 6
+diseño sistema: 103
+documentación sistema: 52
+documentación técnico cambio: 2
+eclipsar: 68
+ejecutar plan prueba aplicación desarrollar: 1
+elaboración caso prueba: 2
+elaborar especificación funcional: 24
+entender modelo lógico físico sistema: 3
+equipo desarrollo: 34
+especificación técnico: 15
+establecer estandares desarrollo: 2
+estandares desarrollo: 2
+estructura dato: 8
+framework net: 1
+frameworks: 161
+frontend: 19
+functional manual regression testing: 7
+functional testing: 3
+functional testing based test casar: 3
+gestión proyecto: 96
+gestión prueba: 6
+gestión tarea: 3
+git: 24
+implementación: 316
+implementación aplicación web: 2
+implementación software aplicación móvil: 1
+implementar: 111
+implementar solución software: 4
+improve web solutions: 1
+ing requerimiento: 1
+ingenieria software: 14
+ingeniero software: 26
+ingeniería requerimiento: 1
+ingeniería software: 76
+ingeniería sofware: 1
+integración: 168
+integración continuo: 17
+integrar código fuente: 2
+integration frameworks: 2
+integration server: 2
+integration testing: 3
+interact qa engineers: 1
+interacts qa engineers: 5
+investigación librería componente software: 28
+ios: 60
+java: 610
+jee: 118
+kanban: 11
+large scale platform: 2
+lenguaje programación java net: 22
+mantenimiento: 188
+mantenimiento software: 15
+metodología desarrollo: 55
+metodología desarrollo software: 25
+metodología ágil: 28
+metodología ágil desarrollo: 4
+modelar basar uml: 2
+modelo arquitectura: 4
+mvc: 98
+net: 537
+new technologies improve existing platform: 2
+norma programación: 1
+patrón diseño: 56
+performance testing tools: 7
+php: 256
+plan prueba: 42
+plan prueba corrección defecto: 8
+power builder: 50
+proceso desarrollo: 42
+proceso desarrollo software: 8
+programación: 687
+programación aplicación: 8
+programación base dato: 56
+programación diseño plataforma: 8
+programación lenguaje: 43
+programación net: 63
+programación orientar objeto: 48
+programación página web: 3
+programación tres capa: 9
+programador: 610
+programmers: 1
+prueba: 414
+prueba especial funcional: 1
+prueba integración: 9
+prueba software: 20
+prueba técnico usuario: 2
+prueba unitario: 97
+prueba unitario automatizar: 3
+qa: 77
+quality: 50
+quality assurance: 14
+realizar modelar basar uml: 2
+realizar programa componente sistema: 8
+realizar prueba unitario implementación patrón diseño: 1
+regression scripts: 3
+regression testing: 10
+revisión código: 10
+rup: 148
+saas software: 2
+scalable server infrastructure: 2
+scrum: 115
+sincronización código: 2
+sistema control versión: 2
+soa: 59
+software engineer: 31
+soporte mantenimiento: 17
+standard: 115
+standard construcción: 5
+standard construcción componente software: 5
+standard desarrollo: 14
+standard modelamiento uml: 1
+systems architecture: 6
+tdd: 12
+team coaching: 1
+team foundation server: 9
+teammates coaching: 1
+technical expertise: 1
+test casar: 19
+test case management: 7
+test plans: 13
+testing tools: 11
+total quality: 8
+uml: 218
+unit integration testing: 3
+validar diseño: 4
+verificar componente: 5
+visual basic: 140
+visual studio: 91
+web services: 121
