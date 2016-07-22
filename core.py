@@ -29,12 +29,12 @@ class Core():
     def __init__(self,carrera):
         self.carrera=carrera
 
-    def strip_numbers(self, text):
+    def _remove_numbers(self, text):
         "Elimina los números del texto"
 
         return ''.join([letter for letter in text if not letter.isdigit()])
 
-    def strip_punctuation(self,text):
+    def _remove_punctuation(self, text):
         "Elimina los signos de puntuacion del texto"
 
         return re.sub('[%s]]' % re.escape(string.punctuation),' ',text)
@@ -76,8 +76,8 @@ class Core():
         for oferta in dataset:
             for atributo in range(1,len(oferta)):
                 oferta[atributo] = oferta[atributo].lower()            
-                oferta[atributo] = self.strip_punctuation(oferta[atributo])
-                oferta[atributo] = self.strip_numbers(oferta[atributo])
+                oferta[atributo] = self._remove_punctuation(oferta[atributo])
+                oferta[atributo] = self._remove_numbers(oferta[atributo])
 
         stopEnglish = stopwords.words('english')
         stopSpanish = stopwords.words('spanish')    
@@ -173,11 +173,13 @@ class Core():
                         #se agrega la cantidad en la posición correspondiente
                 max_frec[Id][cat]=maximo
 
+
         for Id in TF_IDF.keys():
             for cat in diccionario.keys():
                 for indWord in range(len(TF_IDF[Id][cat])):
                     if max_frec[Id][cat]>0:
                         TF_IDF[Id][cat][indWord]/=max_frec[Id][cat]
+
         return TF_IDF
 
 
@@ -253,25 +255,25 @@ class Core():
         #data contiene [[[],[],[],...,[]],[[],[],[],...,[]],...,[[],[],[],...,[]]]
         #Siendo el primer indice, la oferta, el segundo indice la categoria, y el tercer indice el TF_IDF
         predicted=cross_validation.cross_val_predict(clasificador,data,expected,cv=10)
-        
+
         reporte,matriz_confusion=self.mostrarResultados(clasificador,expected,predicted)
 
         return clasificador,reporte,matriz_confusion        
 
 
-    def predecir(self,clasificador, ofertas,carrera):        
+    def predecir(self,clasificador, ofertas,carrera):
 
         diccionario = rec_dicc(carrera)
         categorias=self.obtenerCategorias(self.carrera)
         self.categorias=categorias
-        TF_IDF=self.calcularTF_IDF(diccionario,ofertas,categorias)  
-        
+        TF_IDF=self.calcularTF_IDF(diccionario,ofertas,categorias)
+
         data=self.obtenerData(TF_IDF,categorias)
         predicted,matrizConocimientos,matrizSimilitudes=clasificador.predecir(data)
         return predicted,matrizConocimientos,matrizSimilitudes  
 
 
-    def obtenerDatasetClas(self,filename):
+    def obtenerDatasetAClasificar(self,filename):
         "Se lee un archivo Excel con las ofertas a clasificar"
 
         dataset=[]
@@ -307,12 +309,17 @@ class Core():
         TF_IDF=self.calcularTF_IDF(diccionario,dataset,categorias)
         clasificador,res1,res2=self.entrenamiento(TF_IDF,dataEtiquetada,categorias)
         print("termino entrenamiento")
-        datasetClas=self.obtenerDatasetClas(filename)
-        predicted,mat_con,mat_sim=self.predecir(clasificador,datasetClas,self.carrera)        
-        self.imprimir(datasetClas,predicted)
+        datasetAClasificar=self.obtenerDatasetAClasificar(filename)
+        predicted,mat_con,mat_sim=self.predecir(clasificador,datasetAClasificar,self.carrera)
+        self.imprimir(datasetAClasificar,predicted,filename)
         return mat_con,mat_sim
 
-    def imprimir(self,datasetClas,predicted):
-        with open(self.carrera+"/DataClasificada_2014_BTPUCP.txt",'w') as f:
-            for i in range(len(datasetClas)):
-                f.write("%s: %s\n"%(datasetClas[i][0],predicted[i]))
+    def imprimir(self,datasetClasificado,predicted,filename):
+        division_Carpetas=filename.split("/")
+        nombArchivo_Extension=division_Carpetas[len(division_Carpetas)-1]
+        firstElement=0
+        nombArchivo=nombArchivo_Extension.split(".")[firstElement]
+
+        with open(self.carrera+"/DataClasificada_"+nombArchivo+".txt",'w') as f:
+            for i in range(len(datasetClasificado)):
+                f.write("%s: %s\n"%(datasetClasificado[i][0],predicted[i]))
