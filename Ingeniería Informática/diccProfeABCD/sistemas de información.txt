@@ -1,169 +1,210 @@
-requerimientos funcionales
-an醠isis funcional
-desarrollo de aplicaciones
-nuevos requerimientos
-consultor co
-inteligencia de procesos
-herramienta de an醠isis
-an醠isis de las bases de datos
-proyectos de sistemas
-mejora de procesos
-modelado de procesos
-modelamiento de procesos
-data analytics
-procesos de negocio
-herramientas de moldeamiento de procesos
-administrador a nivel usuario y funcional
-reportes de datos
-sistemas de gesti髇 de ventas
-sistemas de informaci髇 de gesti髇
-explotaci髇 de informaci髇
-dise駉 de soluciones de negocio desarrollo e implantaci髇
-extracci髇
-business intelligence
-dise駉 de bases de datos
-an醠isis dise駉
-administrador de erp
-analista funcional de sistemas
-registro de los indicadores del 醨ea
-especificaci髇 de casos de uso
-ejecutar modelos de gesti髇
-dise駉 de data warehouses o data marts.
-modelamiento de datos
-an醠isis de data
-implementaci髇 de sistemas
-documentaci髇 funcional
-vol鷐enes de informaci髇
-levantamiento
-inteligencia de negocios funcionalidades
-analisys services
-indicadores de gesti髇
-elaboraci髇 de flujogramas
-gesti髇 de procesos
-consultor韆 de negocio
-sistemas de informaci髇..
-apoyo en las diferentes actividades del analista de sistemas
-an醠isis financiero
-documentaci髇 de sistemas.
-an醠isis de procesos de negocio
-modelamiento o redise駉 de procesos
-mapeo de procesos
-analista de sistemas
-levantamiento de informaci髇
-procesos etl
-monitoreo de indicadores.
-analista de informaci髇
-analistas funcionales
-analizar requerimientos
-sistemas de gesti髇 financiera
-experiencia funcional
-levantamiento de informaci髇 de proceso
-monitoreo de indicadores
-generaci髇 de reportes
-indicadores del 醨ea
-estrategia de sistemas
-sistema documentario
-entrevistas con usuarios
-reporting services
-sistema de administraci髇 documentaria
-an醠isis funcional de los procesos
-calidad de bases de datos
-dise駉 de soluciones de negocio
-moldeamiento de datos
-dominio de sql y manejo de bases de datos
-listado de casos de uso
-analizar la informaci髇
-an醠isis de la informaci髇
-mining de datos
-analista de procesos
-an醠isis de indicadores
-proyectos bi
-analista funcional
-conocimiento en banca
-modeladores de procesos dise駉
-especificar los requerimientos
-inteligencia comercial
-an醠isis y documentaci髇 de procesos
-an醠isis y dise駉 de sistemas de informaci髇
-evaluar los requerimientos
-explotaci髇 de informaci髇 de los sistemas
-modelos olap multidimensionales o tabulares.
-arquitectura de datos
-dise馻r sistemas inform醫icos
-analista sap
-auditor韆 mensual
-relevamiento generaci髇 y seguimiento de indicadores de gesti髇 bsc
-modelamiento
-an醠isis de base de datos
-levantamiento de procesos
-especificar los requerimientos a nivel funcional y/o t閏nico
-automatizaci髇 de procesos
-herramientas oracle
-procesos automatizables
-especificaciones funcionales
-potenciales problemas que pueda enfrentar el negocio
-sistemas de gesti髇
-analista de sistemas . requerimientos de usuarios
-manejo de procesos
-an醠isis de procesos
-implementaci髇 de sap co
-an醠isis de datos
-elaborar documentaci髇 funcional y de procesos para la implementaci髇
-levantamiento de requerimientos
-modelos l骻ico y f韘ico
-modelado de las soluci髇 bi
-procesamiento de informaci髇
-t閏nicas de desarrollo orientada a objetos
-dise駉 de sistemas.
-modelo de negocio
-modelos de procesos del negocios
-an醠isis y mejora de procesos
-inteligencia de negocios
-manejo de base de datos
-planeamiento de sistemas
-procesos comerciales
-business process management
-sap business one
-procesos de negocio.
-modelos del negocio
-modelaci髇 de datos
-automatizaci髇 de procesos de negocio
-elaboraci髇 de prototipos
-consultor junior oracle
-procesos de aseguramiento de calidad de la informaci髇
-listado de requerimientos
-sistemas de informaci髇.
-an醠isis funcional.
-actividades del analista de sistemas
-productos y servicios financieros
-sistemas de informaci髇
-miner韆 y an醠isis de datos
-procesos de etl.
-documentaci髇 de casos de prueba y prototipos de pantallas
-abap
-bpm
-an醠isis de la informaci髇
-etl
-cubos
-oracle
-datawarehousing
-analista funcional
-olap
-co
-funcional
-manejo de volumen de informaci髇
-modelos de simulaci髇 de servicios
-requerimientos
-bpmn
-datastage
-consolidar la informaci髇
-crm
-manejo de planes de ejecuci髇 y optimizaci髇
-sap
-teradata
-datamining
-an醠isis
-data warehouses
+mensual
+validaci贸n
+prototipos
+productos
+banca
+elaboraci贸n
 bi
-volumen de informaci髇
+experiencia
+etl.
+dominio
+proceso
+t茅cnicas
+datastage
+comerciales
+extracci贸n
+prueba
+intelligence
+process
+co
+diagn贸stico
+automatizables
+las
+abap
+documentario
+funcionalidades
+gesti贸n
+optimizaci贸n
+planes
+aplicaciones
+entrevistas
+cubos
+teradata
+funcionales
+automatizaci贸n
+y/o
+generaci贸n
+tabulares.
+oracle
+estrategias
+one
+diferentes
+financieros
+flujogramas
+desarrollo
+comunicaci贸n
+redise帽o
+developer
+nivel
+management
+estrategia
+tecnolog铆a
+modeladores
+data
+usuario
+documentar
+bsc
+calidad
+negocios
+sap
+ventas
+consultor铆a
+evaluar
+bpmn
+erp
+aseguramiento
+warehouses
+olap
+potenciales
+relaciones
+reportes
+racle
+en
+modelo
+planeamiento
+junior
+capacidad
+sql
+negocio
+datawarehousing
+pantallas
+proyectos
+bases
+analytics
+especificar
+mapeo
+consultor
+analizar
+sistema
+definici贸n
+monitoreo
+alta
+modelado
+financiera
+funcional
+dise帽o
+soluci贸n
+mejora
+reports
+orientaci贸n
+interfaces
+multidimensionales
+marts.
+especificaci贸n
+datamining
+informaci贸n.
+an谩lisis
+flujos
+requerimientos
+vol煤menes
+informaci贸n..
+uso
+mineria
+identificar
+documentaci贸n
+herramientas
+l贸gico
+entre
+interacci贸n
+y
+bpm
+o
+ejecutar
+manejo
+inform谩ticos
+elaborar
+listado
+indicadores.
+unidad
+informaci贸n
+moldeamiento
+consolidar
+actividades
+constante
+senior
+del
+analistas
+especificaciones
+base
+procesos
+usuarios
+modelaci贸n
+la
+negocio.
+big
+enfrentar
+administraci贸n
+sistemas
+explotaci贸n
+herramienta
+conocimiento
+apoyo
+inteligencia
+implantaci贸n
+levantamiento
+para
+谩rea
+pueda
+seguimiento
+miner铆a
+problemas
+crm
+los
+.
+simulaci贸n
+modelos
+auditor铆a
+casos
+t茅cnico
+modelamiento
+conocimientos
+business
+soluciones
+financiero
+el
+con
+volumen
+forms
+objetos
+f铆sico
+documentaria
+reporting
+e
+mercado
+a
+orientada
+funcional.
+analisys
+arquitectura
+relevamiento
+analista
+de
+servicios
+procesamiento
+etl
+comercial
+indicadores
+registro
+implementaci贸n
+ejecuci贸n
+administrador
+datos
+sistemas.
+nuevos
+services
+pl
+que
+mining
+dise帽ar
 datawarehouse
+especialista

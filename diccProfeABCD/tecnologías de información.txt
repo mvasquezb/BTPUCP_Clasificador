@@ -1,273 +1,345 @@
-active directory
-actividades de auditoria
-activos de ti
-administracion de base de datos
-administracion de cuentas
-administracion de equipos
-administracion de firewall
-administracion de infraestructura
-administracion de los servicios
-administracion de servicio
-administracion de servidores
-administracion de sistema
-administrador de red
-administrador ti
-administrar la base de datos
-administrar la herramienta
-administrar la red
-administrar la seguridad
-administrar los servicios
-administrar politicas de seguridad
-administrar servicios
-administrar servidores
-analisis de riesgos
-analista de redes
-analizar fallas de red
-apoyo a los usuarios
-apoyo en todos los sistemas
-arquitectura de comunicaciones
-arquitectura empresarial
-asegurar la confiabilidad
-asegurar la operatividad
-asesoria tecnica
-auditoria de sistemas
-auditoria informatica
-backup de servidores
-balanceadores de carga
-brindar soporte
-cableado de red
-cableado estructurado
-canales digitales
-capacidades de sistemas
-capacitar a los usuarios
-centro de datos
-centros de computo
-configuracion de hardware
-configuracion de redes
-configuracion de sistemas
-configurar hardware
-configurar la red
-configurar servicios
-configurar servidores
-configurar software
-configurar soluciones
-conocimiento de sistemas operativos
-conocimiento en redes
-conocimiento en telecomunicaciones
-conservacion de equipos
-continuidad de negocio
-continuidad de ti
-continuidad en las operaciones
-continuidad operativa
-control de infraestructura
-controles de seguridad
-cuellos de botella
-data center
-delivery de sistema
-diagnostico de incidencias
-disaster recovery plan
-diseñar la arquitectura
-diseñar una red
-entornos de red
-equipos de comunicación
-equipos de red
-establecer politicas de seguridad
-establecimiento de politicas
-estandares de documentacion
-estandares de hardware
-evaluar los equipos
-evaluar soluciones
-gestion de comunicaciones
-gestion de crisis
-gestion de datos
-gestion de grupos
-gestion de infraestructura
-gestion de la configuracion
-gestion de las comunicaciones
-gestion de redes
-gestion de riesgos
-gestion de servicios
-gestion de usuarios
-gestion del suministro de servicios de ti
-gestionar la red
-gestionar una infraestructura
-gobierno de los servicios
-hardware de comunicaciones
-help desk
-identificacion de soluciones
-implementacion de nuevo software
-implementar politicas de seguridad
-implementar una red
-informacion de aplicativos
-informacion de comunicaciones
-infraestructura de comunicaciones
-infraestructura de networking
-infraestructura de red
-infraestructura de servidores
-infraestructura de soluciones
-infraestructura de ti
-infraestructura de virtualizacion
-infraestructura informatica
-infraestructura it
-infraestructura tecnologica
-infraestructura ti
-infrastructure architecture
-ingenieria de requerimientos
-ingeniero senior de redes
-iniciativas de negocio
-instalacion de equipos
-instalacion de sistemas
-instalacion de software
-instalacion software
-instalar software
-instalar soluciones
-interfaces batch
-interpretar politicas de seguridad
-inventario de equipos
-inventarios de software
-investigacion en tecnologia
-it engineer
-licencias de software
-lineamientos de ti
-mantener politicas de seguridad
-mantener una infraestructura
-mantenimiento de equipos
-mantenimiento de hardware
-mantenimiento de redes
-mantenimiento de servidores
-mantenimiento preventivo
-mensajeria via ethernet
-modelo de gobierno
-monitorear la base de datos
-monitoreo de los servicios
-monitoreo de red
-nivel de servicio
-normativas regulatorias
-oficial de seguridad
-operaciones de red
-operatividad de equipos
-operatividad de las aplicaciones
-optimization of cloudbased
-pases a produccion
-plan de contingencia
-plan de mantenimiento de hardware
-planificar una red
-plataforma de comunicaciones
-plataforma tecnologica
-plataformas de ti
-plataformas de virtualizacion
-plataformas informaticas
-plataformas oss
-politicas de seguridad
-portafolio de servicios
-procesos de ti
-productos cloud
-proponer soluciones
-proveer soluciones
-recomendar equipos
-recuperacion en casos de desastre
-red de comunicación
-red de datos
-redes de comunicaciones
-redes de distribucion
-redes de it
-redes de telecomunicaciones
-redes de ti
-redes ip
-redundancia de procesadores
-reemplazo de equipos
-renovacion de equipos
-reportes de disponibilidad
-resolucion de incidentes
-respaldo de informacion
-seguridad de informacion
-seguridad de infraestructura
-seguridad de la informacion
-seguridad informacion
-seguridad informatica
-seleccionar equipos
-seleccionar soluciones
-service desk
-servicio de correo electronico
-servicios de ti
-servicios informaticos
-servicios relacionados a la ti
-sistema de gestion de seguridad de informacion
-sistemas operativos
-software de comunicaciones
-software de red
-solucion de incidencias
-solucionar fallas de red
-soluciones en la nube
-soporte a aplicaciones
-soporte a usuarios
-soporte administrativo de redes
-soporte con usuarios finales
-soporte de comunicaciones
-soporte de equipos
-soporte de hardware
-soporte de red
-soporte de sistema
-soporte de ti
-soporte en comunicaciones
-soporte google apps
-soporte remoto
-soporte tecnico
-soporte tecnologico
-tecnicas de auditoria
-tecnologia de informacion
-tecnologias host
-telefonia ip
-tendencias digitales
-tickets de consulta
-topologias
-tunning of cloudbased
-versiones de software
-asterisk
-backups
-bcp
-ccna
-cobit
-dba
-dhcp
-dns
-equipos
-firewalls
-iso
-it
-itil
-lan
-mcts
-oca
-proxy
-riesgos
-servidor
-sgcn
-sharepoint
-switches
-tcp
-tcp/ip
-ti
-voip
-vpn
-vpn
-wan
-wifi
-sgsi
+oracle.
+banca
+recuperación
 ntpiso
-datacenter
-mcse
-helpdesk
-routers
+diagnóstico
+las
+metodologías
+seguridad
+velar
+comunicación
+telecomunicaciones.
+sniffer
+tecnología
+inform
 mcsa
+sus
+vmware
+generales
+reportes
+en
+organización
+balanceadores
+apoyar
+tecnológico
+alta
+tendencias
+mejoras
+interfaces
+requerimientos
+implementations
+correo
+via
+plataforma
+y
+recovery
+proveer
+información
+alternativas
 mcse
-ccna
+senior
+ti
+base
+usuarios
+experience
+confiabilidad
+transaccionales
+operativo
+herramienta
+conocimiento
+resolución
+correctivo
+help
+portafolio
+salud
+red
+infrastructure
+ip
+conocimientos
+investigar
+google
+el
+/
+incluyen
+helpdesk
+arquitectura
+servicios
+tecnologías
+implementación
+datos
+mantenimiento
+que
+diseñar
+protocolo
+capacitar
+crisis
+plataformas
+mesa
+soportar
+técnicas
+versiones
+establecimiento
+brindar
+controles
+configuración
+sharepoint
+centros
+operativa
 ccsa
-auditoria
-infraestructura
-tic
-vware
-vsphere
-cisco
+aplicaciones
+comunicaciones.
+ayuda
+programar
+dhcp
+garantizar
+oracle
+visualización
+administering
+físicos
+renovación
+estructurado
+nivel
 dba
-bottlenecks
+(sgsi).
+service
+mantengan
+controlar
+servicios.
+riesgos
+documentar
+actualizado
+implementing
+cisco
+negocios
+incidentes
+centro
+gestionar
+27001
+definición
+sistema
+analizar
+optimization
+firewall
+monitoreo
+disponibilidad
+apps
+aplicación
+project
+solución
+proponer
+delivery
+tipos
+operacional
+voip
+iec
+habilitación
+architect
+procesos
+22301
+informáticas
+computo
+inventario
+tecnológica
+hacer
+operativos
+switches
+ordenar
+instalar
+internas.
+para
+oca
+redes
+electrónico
+plan
+revisión
+auditoría
+asterisk
+técnico
+administrar
+modelamiento
+host
+empresarial
+infraestructura
+nube
+tcp
+estándares
+lan
+gobierno
+una
+políticas
+instalación
+frase
+analista
+de
+networking
+implementar
+administrador
+virtualización
+dns
+comunicaciones
+oficial
+correcta
+técnica
+firewalls
+it
+configurar
+reemplazo
+tecnología.
+soporte
+niveles
+investigación
+storage
+data
+center
+control
+almacenamiento
+evaluar
+remoto
+cómputo.
+vsphere
+batch
+backup
+ingeniería
+aplicaciones.
+modelo
+cableado
+negocio
+proyectos
+producción
+funcionamiento
+of
+iso
+coordinar
+regarding
+mantener
+canales
+relacionados
+vpn
+desk
+video
+activos
+routers
+wifi
+itil
+distribución
+del
+la
+aplicativos
+administración
+respaldo
+cuentas
+suministros
+tic
+solution
+seguimiento
+problemas
+asesoría
+.
+atención
+por
+procesadores
+casos
+estandarización
+virtual.
+equipo
+con
+desarrolladores
+desastres.
+procedimientos
+debidamente
+a
+capacidades
+suministro
+cloudbased
+drp
+software
+administrativo
+servidores
+organizar
+servidor
+auditoria
+incidencias
+equipos
+monitorear
+architec
+carga
+redundancia
+gestión
+vware
+wan
+telefonía
+tcp/ip
+ccna
+telecomunicaciones
+configuring
+y/o
+dispositivos
+management
+topologías
+20000.
+mensajería
+engineer
+tecnológicas
+architecture
+calidad
+auditor
+inventarios
+nuevo
+informática
+participación
+datacenter
+continuidad
+bases
+hardware
+bcp
+conservación
+27001.
+ethernet
+mejora
+sgcn
+análisis
+disaster
+contingencia
+licencias
+servicio
+proxy
+ejecutar
+informáticos
+elaborar
+sgsi
+windows
+and
+preventivo
+tareas
+sistemas
+datos.
+tuning
+ingeniero
+gestor
+operativa.
+infraestructura.
+apoyo
+planificar
+cobit
+entornos
+digitales
+iniciativas
+los
+todos
+operaciones
+operatividad
+27000
+oficinas
+soluciones
+server
+hardware.
+oss
+pases
+e
+lineamientos
+establecer
+identificación
+cómputo
+informatica
+mcts
+asegurar

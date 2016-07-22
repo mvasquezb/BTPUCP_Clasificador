@@ -12,17 +12,10 @@ from nltk.stem.snowball import SpanishStemmer
 tipos=["verbo","sustantivo","frase"]
 
 
-def _remove_punctuation(text):
+def strip_punctuation(text):
     """""Elimina los signos de puntuacion del texto"""
 
-    regex = re.compile('[%s]' % re.escape(string.punctuation))
-    return regex.sub(' ', text)
-
-
-def _remove_numbers(text):
-    "Elimina los números del texto"
-
-    return ''.join([letter for letter in text if not letter.isdigit()])
+    return re.sub('[%s]]' % re.escape(string.punctuation), ' ', text)
 
 def rec_dicc(carrera):
     tagger=treetaggerwrapper.TreeTagger(TAGLANG='es')
@@ -37,29 +30,16 @@ def rec_dicc(carrera):
             with open(carrera+"/diccProfeABCD/"+categoria,'r') as f2:
                 categoria=categoria.replace(".txt","")
                 if categoria not in dicc_ofertas.keys(): dicc_ofertas[categoria]=set()                
-
-                for linea in f2.read().splitlines():
-                    linea=linea.lower()
-                    linea = _remove_punctuation(linea)
-                    linea = _remove_numbers(linea)
-                    if (len(linea.split()) > 1):
-                        frase_dicc = linea.split()  # convertir el string en una lista de str
-                        frase_dicc = [x for x in frase_dicc if x not in stopSpanish]  # eliminar stopwords en la lista
-                        frase_dicc = [x for x in frase_dicc if x not in stopEnglish]
-                        lemmatizacion = tagger.tag_text(frase_dicc)
-                        cadena_lemmatizada = ""
-                        for i in range(len(lemmatizacion)):  # obtener las palabras lemmatizadas de la frase
-                            cadena_lemmatizada += lemmatizacion[i].split()[2].replace("\ufeff", "")
-                            if (i != len(lemmatizacion) - 1): cadena_lemmatizada += " "
-
-                        dicc_ofertas[categoria].add(cadena_lemmatizada)
-                    else:
-                        if (len(linea) < 1 or linea == " "): continue
-                        if linea not in stopEnglish and linea not in stopSpanish:
-                            linea = tagger.tag_text(linea)[0].split()[2]
-                            linea = linea.replace("\ufeff", "")
-                            # print(j)
-                            dicc_ofertas[categoria].add(linea)
+                for texto in f2.read().splitlines():
+                    print(texto)
+                    texto=texto.lower()
+                    texto=strip_punctuation(texto)
+                    for palabra in texto.split():
+                        if palabra not in stopEnglish and palabra not in stopSpanish:                          
+                            palabra=tagger.tag_text(palabra)[0].split()[2]
+                            #Return [[word,type of word, lemma]]
+                            palabra=palabra.replace("\ufeff","")
+                            dicc_ofertas[categoria].add(palabra)
                             
     for cat in dicc_ofertas.keys():
         dicc_ofertas[cat]=list(dicc_ofertas[cat])

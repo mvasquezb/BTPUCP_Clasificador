@@ -1,99 +1,169 @@
-gestionar el desarrollo de proyectos
-elaborar flujos de procesos de negocio
-coordinar el equipo de proyecto
-administrate the project plan execution coordinate and follow up the team activities
-gerente de proyecto
-motivate the team members
-project management professional
-metodolog韆 pm
-seguimiento del proyecto
-administrador de proyectos
-indicadores de gesti髇
-plan
-proponer la elaboraci髇 y/o modificaci髇 de pol韙icas
-actualizaci髇 de planes. seguimiento y control de los proyectos
-definici髇 del alcance de proyecto
-liderando equipos
-liderazgo de proyecto
-gesti髇 de procesos
-coordinaci髇 de recursos empleados
-reuniones de seguimiento
-planificaci髇 estrat間ica
-informes de gesti髇 . mantenimiento del bsc
-update and administrate the project plan execution
-obtain and manage the necessary resources
-formulaci髇 e implementaci髇
-avance del proyecto
-gesti髇 de proyectos
-elaboraci髇 de informes de gesti髇
-planificaci髇 y control del proyecto
-responsable del cumplimiento de los objetivos
-alcance del proyecto
-administrar los riesgos
-project leader
-dirigiendo equipos
-cierre de negocios
-planificaci髇 e implementaci髇 de proyectos
-jefe de proyecto
-manejo de modelos de negocio
-formulaci髇 e implementaci髇 de los proyectos
-supervisi髇 y gu韆 de su equipo
-project manager
-portafolio de proyectos
-requerimientos de los recursos
-marco l骻ico
-coordinar las etapas de los proyectos
-administrar el presupuesto
-gestionar el desarrollo de nuevos proyectos
-planificaci髇 y control del proyecto a cargo
-planes de trabajo
-desarrollar los planes de implementacion de proyectos
-responsable del cumplimiento de los objetivos establecidos.
-planificaci髇 estrat間ica de proyectos.
-gesti髇 de cambios y riesgos
-coordinaci髇 e interlocuci髇 con equipos
-gesti髇 de proyectos procedimientos y est醤dares de operaci髇
-cmmi
-gestionar proyectos de desarrollo de aplicaciones
-desarrollo de proyectos
-definir las actividades del proyecto
-jefe de proyectos
-modelamiento de procesos de negocio
-dirigir
-an醠isis de riesgos
-preparaci髇 y actualizaci髇 del cronograma de proyecto.
-administraci髇 de proyectos objetivos
-gestionar stakeholders
-cumplir los objetivos de los servicios en t閞minos de costo
-herramientas de gesti髇
-supervisi髇 y gu韆 de su equipo de proyecto.
-direcci髇 y coordinaci髇 de todos los recursos
-realizar el seguimiento al desarrollo e implementacion de proyectos responsables y tiempos
-presupuesto del 醨ea
-coordinar reuniones
-planificaci髇 seguimiento y control de los proyectos.
-gestionar la formulaci髇 e implementaciones de los proyectos
-actividades
-gesti髇 de proyectos.
-avances de los proyectos
-bsc
-seguimiento
-planificaci髇
+activities
+elaboraci贸n
+equipos
+estrat茅gica
+administrate
+pm
+recursos
+riesgos.
+cronograma
+las
 pmbok
-sub gerente
-cmmi
-proyectos
-jefe
-supervisor
-coordinar
-management
-gestionar
-dirigir
-organizar
-liderar
-planificar
-supervisar gestionar y ejecutar proyectos
+gesti贸n
+coordinaci贸n
+planes
+necessary
+proyecto
+aplicaciones
+marco
+t茅rminos
+y/o
 pmp
-elaborar y supervisar el cumplimiento del plan de trabajo
+supervisar
+desarrollo
+responsables
+dirigir
+direcci贸n
+cambios
+preparaci贸n
+management
+trabajo
+elaborara
+liderar
 controlar
-gestionar tiempo
+establecidos.
+riesgos
+members
+bsc
+liderazgo
+responsable
+control
+calidad
+negocios
+dirigiendo
+empleados
+tiempos
+aseguramiento
+reuniones
+work
+the
+team
+actualizaci贸n
+proyecto.
+en
+follow
+negocio
+execution
+gestionar
+proyectos
+alcance
+definici贸n
+asignar
+manager
+project
+avance
+dise帽o
+coordinar
+proponer
+coordinate
+objetivos
+planificaci贸n
+informes
+modificaci贸n
+an谩lisis
+professional
+flujos
+requerimientos
+su
+desarrollar
+herramientas
+definir
+l贸gico
+update
+programaci贸n
+personas
+cumplimiento
+y
+ejecutar
+manejo
+elaborar
+and
+informaci贸n
+actividades
+del
+cmmi
+ti
+levantar
+procesos
+la
+cargo
+tareas
+supervisor
+administraci贸n
+manage
+leader
+sistemas
+avances
+al
+operaci贸n
+gestor
+interlocuci贸n
+metodolog铆a
+preparar
+funciones
+planificar
+谩rea
+seguimiento
+cierre
+portafolio
+los
+.
+todos
+plan
+obtain
+modelos
+presupuesto
+administrar
+modelamiento
+realizar
+el
+equipo
+con
+implementacion
+sub
+proyectos.
+actas
+procedimientos
+supervisi贸n
+etapas
+estimaciones
+cumplir
+e
+gu铆a
+est谩ndares
+a
+pol铆ticas
+jefe
+motivate
+frase
+gerente
+planes.
+de
+servicios
+up
+resources
+indicadores
+implementaci贸n
+liderando
+administrador
+programadores
+formulaci贸n
+nuevos
+organizar
+implementaciones
+mantenimiento
+costo
+definition
+asegurar
+tiempo
+stakeholders

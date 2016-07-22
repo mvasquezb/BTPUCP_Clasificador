@@ -17,6 +17,8 @@ nucleo=None
 
 #carreras=["Ingeniería Informática","Matemática","Física","Ingeniería Electrónica"]
 
+
+
 def obtenerCarrera2(arg):
     global indice
     global carrera
@@ -137,33 +139,40 @@ def llenarTab1(tab1):
     '''xscrollbar=Scrollbar(tab1,orient=HORIZONTAL)
     xscrollbar.pack(side=BOTTOM,fill=X)'''
     
-def dar_formato(mat_con):
+def dar_formato(mat_con,mat_sim):
     aux1=""
-
+    aux2=""
     global categorias
     for i in mat_con:
         cad=""
         for j in i:
             cad+="%5d\t"%j
         aux1+=cad+"\n"
-
-    return aux1
+    
+    for i in range(len(mat_sim)):
+        aux2+="%s:\n"%categorias[i]
+        for j in mat_sim[i]:
+            aux2+=str(j)+"\n"
+    return aux1,aux2
 
 def clasificar(tab3,nomArch):
     nucleo=Core(carrera)
     global categorias
     
-    mat_con=nucleo.EjecutarClasificacion(nomArch)
+    mat_con,mat_sim=nucleo.EjecutarClasificacion(nomArch)
     categorias=nucleo.categorias
 
     #print(categorias)
     
-    mat_con=dar_formato(mat_con)
+    mat_con,mat_sim=dar_formato(mat_con,mat_sim)
     
     lblResultados=Label(tab3,text=str(mat_con))
     lblResultados.config(background="white")
     lblResultados.place(x=20,y=160)
 
+    lblMatriz_conf=Label(tab3,text=str(mat_sim))
+    lblMatriz_conf.config(background="white")
+    lblMatriz_conf.place(x=20,y=280)
     
 
 def entrenar(tab2):
@@ -204,7 +213,7 @@ def llenarTab2(tab2):
 
 def CargarDataClasificar(tab3,btnAceptar):
 
-    nomArch= tkinter.filedialog.askopenfilename(filetypes=(("Archivos xlsx","*.xlsx"),("All files","*.*")))
+    nomArch= tkinter.filedialog.askopenfilename(filetypes=(("Archivos txt","*.txt"),("All files","*.*")))
 
     if(nomArch!=""):
         archivo=nomArch[nomArch.rindex("/")+1:]

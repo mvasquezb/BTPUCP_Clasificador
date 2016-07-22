@@ -29,20 +29,15 @@ class Core():
     def __init__(self,carrera):
         self.carrera=carrera
 
-    def _remove_numbers(self, text):
+    def strip_numbers(self, text):
         "Elimina los números del texto"
 
         return ''.join([letter for letter in text if not letter.isdigit()])
 
-    def _remove_punctuation(self, text):
+    def strip_punctuation(self,text):
         "Elimina los signos de puntuacion del texto"
 
-        regex = re.compile('[%s]' % re.escape(string.punctuation))
-        return regex.sub(' ', text)
-
-    def _count_word(self,text,search):
-        result=re.findall('\\b'+search+'\\b',text,flags=re.IGNORECASE)
-        return len(result)
+        return re.sub('[%s]]' % re.escape(string.punctuation),' ',text)
 
     def obtenerDataEtiquetada(self,carrera):
         "Lee de un archivo la etiqueta que le corresponde a cada oferta."
@@ -51,6 +46,7 @@ class Core():
         Id=0
         categoria=1
         with open(carrera+'/dataEtiquetadaABCD.txt','r') as f:
+        #with open(carrera+'/dataEtiquetada.txt','r') as f:
             ofertas=csv.reader(f)
             for oferta in ofertas:
                 dataEtiquetada[int(oferta[Id])]=oferta[categoria].lower()            
@@ -63,6 +59,7 @@ class Core():
         Id=0
         dataset=[]
         with open(carrera+'/dataEntrenamiento.txt','r') as f:
+        #with open('ofertasCSV_completo.txt') as f:
             ofertas = csv.reader(f)
             for oferta in ofertas:
                 if int(oferta[Id]) in dataEtiquetada.keys():
@@ -79,8 +76,8 @@ class Core():
         for oferta in dataset:
             for atributo in range(1,len(oferta)):
                 oferta[atributo] = oferta[atributo].lower()            
-                oferta[atributo] = self._remove_punctuation(oferta[atributo])
-                oferta[atributo] = self._remove_numbers(oferta[atributo])
+                oferta[atributo] = self.strip_punctuation(oferta[atributo])
+                oferta[atributo] = self.strip_numbers(oferta[atributo])
 
         stopEnglish = stopwords.words('english')
         stopSpanish = stopwords.words('spanish')    
@@ -167,22 +164,20 @@ class Core():
             for cat in diccionario.keys():
                 maximo=0 #se guarda el maximo, para hacer la normalizacion luego del calculo del tf-idf
                 for palabra in diccionario[cat]:
-                    tf = self._count_word(str(oferta[titulo]),str(palabra))
-                    tf += self._count_word(str(oferta[descripcion]),str(palabra))
-                    tf += self._count_word(str(oferta[requerimientos]),str(palabra))
+                    tf = oferta[titulo].count(palabra)
+                    tf+=oferta[descripcion].count(palabra)
+                    tf+=oferta[requerimientos].count(palabra)
                     if tf > maximo:
                         maximo=tf
                     TF_IDF[Id][cat][diccionario[cat].index(palabra)]=int(tf)*idf[palabra]
                         #se agrega la cantidad en la posición correspondiente
                 max_frec[Id][cat]=maximo
 
-
         for Id in TF_IDF.keys():
             for cat in diccionario.keys():
                 for indWord in range(len(TF_IDF[Id][cat])):
                     if max_frec[Id][cat]>0:
                         TF_IDF[Id][cat][indWord]/=max_frec[Id][cat]
-
         return TF_IDF
 
 
@@ -206,6 +201,7 @@ class Core():
         categorias=[]
 
         with open(carrera+'/categorias.txt') as f:
+        #with open(carrera+'/categorias.txt') as f:
             lineas=f.readlines()        
             for categoria in lineas:
                 categoria=categoria.lower()
@@ -257,70 +253,25 @@ class Core():
         #data contiene [[[],[],[],...,[]],[[],[],[],...,[]],...,[[],[],[],...,[]]]
         #Siendo el primer indice, la oferta, el segundo indice la categoria, y el tercer indice el TF_IDF
         predicted=cross_validation.cross_val_predict(clasificador,data,expected,cv=10)
-
+        
         reporte,matriz_confusion=self.mostrarResultados(clasificador,expected,predicted)
 
         return clasificador,reporte,matriz_confusion        
 
 
-    def crearMatriz(self,diccionario,categorias,predicted,ofertas):
-
-        for categoria in categorias:
-            print("Cantidad de",categoria,":",predicted.count(categoria))
-
-        conteo_Categorias_Palabras={}
-        for categoriaEtiqueta in categorias:
-            conteo_Categorias_Palabras[categoriaEtiqueta]={}
-            for categoria in categorias:
-                conteo_Categorias_Palabras[categoriaEtiqueta][categoria] = {}
-
-        matriz_conocimientos = [[0 for x in range(len(categorias))] for x in range(len(categorias))]
-
-        titulo = 1
-        descripcion = 2
-        requerimientos = 3
-        for numOferta in range(len(predicted)):
-            categoriaEtiqueta=predicted[numOferta]
-            indCategoriaEtiquetada=categorias.index(categoriaEtiqueta)
-
-            for categoria in categorias:
-                indCategoria=categorias.index(categoria)
-                if categoriaEtiqueta != categoria:
-                    alreadyCount=False
-                else:
-                    matriz_conocimientos[indCategoriaEtiquetada][indCategoria] += 1
-                    alreadyCount = True
-
-                for palabra in diccionario[categoria]:
-                    if(self._count_word(ofertas[numOferta][titulo],palabra)>0 or self._count_word(ofertas[numOferta][descripcion],palabra)>0 or self._count_word(ofertas[numOferta][requerimientos],palabra)>0):
-                        if palabra not in conteo_Categorias_Palabras[categoriaEtiqueta][categoria].keys():
-                            conteo_Categorias_Palabras[categoriaEtiqueta][categoria][palabra] = 1
-                        else:
-                            conteo_Categorias_Palabras[categoriaEtiqueta][categoria][palabra] += 1
-                        if(not(alreadyCount)):
-                            matriz_conocimientos[indCategoriaEtiquetada][indCategoria]+=1
-                            alreadyCount=True
-
-        return matriz_conocimientos,conteo_Categorias_Palabras
-
-
-
-    def predecir(self,clasificador, ofertas,carrera):
+    def predecir(self,clasificador, ofertas,carrera):        
 
         diccionario = rec_dicc(carrera)
         categorias=self.obtenerCategorias(self.carrera)
         self.categorias=categorias
-        TF_IDF=self.calcularTF_IDF(diccionario,ofertas,categorias)
-
+        TF_IDF=self.calcularTF_IDF(diccionario,ofertas,categorias)  
+        
         data=self.obtenerData(TF_IDF,categorias)
-        predicted=clasificador.predict(data)
-
-        matrizConocimientos,conteo_Categorias_Palabras=self.crearMatriz(diccionario,categorias,predicted,ofertas)
-
-        return predicted,matrizConocimientos,conteo_Categorias_Palabras
+        predicted,matrizConocimientos,matrizSimilitudes=clasificador.predecir(data)
+        return predicted,matrizConocimientos,matrizSimilitudes  
 
 
-    def obtenerDatasetAClasificar(self,filename):
+    def obtenerDatasetClas(self,filename):
         "Se lee un archivo Excel con las ofertas a clasificar"
 
         dataset=[]
@@ -355,31 +306,13 @@ class Core():
         categorias=self.obtenerCategorias(self.carrera)
         TF_IDF=self.calcularTF_IDF(diccionario,dataset,categorias)
         clasificador,res1,res2=self.entrenamiento(TF_IDF,dataEtiquetada,categorias)
-        print("Se finalizó la etapa de entrenamiento")
-        datasetAClasificar=self.obtenerDatasetAClasificar(filename)
-        predicted,mat_con,conteo_Categorias_Palabras=self.predecir(clasificador,datasetAClasificar,self.carrera)
-        self._imprimirPredicted(datasetAClasificar,predicted,filename)
-        self._imprimirDiccionarios(conteo_Categorias_Palabras,categorias,filename)
-        return mat_con
+        print("termino entrenamiento")
+        datasetClas=self.obtenerDatasetClas(filename)
+        predicted,mat_con,mat_sim=self.predecir(clasificador,datasetClas,self.carrera)        
+        self.imprimir(datasetClas,predicted)
+        return mat_con,mat_sim
 
-    def _imprimirPredicted(self,datasetClasificado,predicted,filename):
-        division_Carpetas=filename.split("/")
-        nombArchivo_Extension=division_Carpetas[len(division_Carpetas)-1]
-        firstElement=0
-        nombArchivo=nombArchivo_Extension.split(".")[firstElement]
-        indID=0
-        with open(self.carrera+"/DataClasificada_"+nombArchivo+".txt",'w') as f:
-            for i in range(len(datasetClasificado)):
-                f.write("%s: %s\n"%(datasetClasificado[i][indID],predicted[i]))
-
-    def _imprimirDiccionarios(self,conteo_Categorias_Palabras,categorias,filename):
-        division_Carpetas = filename.split("/")
-        nombArchivo_Extension = division_Carpetas[len(division_Carpetas) - 1]
-        firstElement = 0
-        nombArchivo = nombArchivo_Extension.split(".")[firstElement]
-        for categoriaEtiqueta in categorias:
-            for categoria in categorias:
-                with open(self.carrera + "/Diccionario_" + nombArchivo + "_"+categoriaEtiqueta+"_"+categoria+".txt", 'w') as f:
-                    for palabra in sorted(conteo_Categorias_Palabras[categoriaEtiqueta][categoria].keys()):
-                        f.write("%s: %d\n"%(palabra,conteo_Categorias_Palabras[categoriaEtiqueta][categoria][palabra]))
-
+    def imprimir(self,datasetClas,predicted):
+        with open(self.carrera+"/DataClasificada_2014_BTPUCP.txt",'w') as f:
+            for i in range(len(datasetClas)):
+                f.write("%s: %s\n"%(datasetClas[i][0],predicted[i]))

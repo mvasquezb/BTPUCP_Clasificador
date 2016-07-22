@@ -1,247 +1,348 @@
-dise駉
-certificador de software
-saas software
-dise駉 del sistema
-control de versiones
-calidad de los sistemas
-codificar y ejecutar pruebas unitarias
-developing ios and android
-programaci髇 de aplicaciones
-desarrollar las soluciones propuestas
-desarrollo de aplicaciones
-est醤dares de modelamiento uml.
-an醠isis y dise駉 de sistemas
-realizar pruebas unitarias e implementaci髇 de patrones de dise駉
-validar los dise駉s
-est醤dares de construcci髇 de componentes de software
-pruebas unitarias.
-elaboraci髇 de casos de prueba
-team foundation server
-modelo de la arquitectura
-metodolog韆s 醙iles
-implementar soluciones de software.
-objectoriented analysis and design skills
-elaborar especificaciones funcionales
-quality assurance
-software engineer
-sistema de control de versiones
-codificaci髇
-ciclo de desarrollo del software
-casos de prueba
-pruebas t閏nicas y de usuario
-desarrollo de software
-an醠isis de elaboraci髇 de prototipos
-estandares de desarrollo
-mantenimiento de software
-define technical architecture
-team coaching
-plan de pruebas
-comunicaci髇 e interfaces
-integraci髇 continua
-pruebas unitarias automatizadas
-estandares tecnicos
-desarrollo y mantenimiento de aplicativos
-implementaci髇 de software y aplicaciones m髒iles.
-calidad de producto
-lenguaje de programaci髇 java o .net.
-desarrollo android
-integration server
-normas de programaci髇
-an醠isis y levantamiento de requerimientos
-metodolog韆s 醙iles de desarrollo
-desarrollo y mantenimiento de los sistemas
-establecer estandares de desarrollo.
-proceso de desarrollo
-modelo de arquitectura
-support the production and testing environment
-arquitectura de sistemas
+
+solutions
+experiencia
+temas
+depurar
+unitarias
+las
+metodolog铆as
+sincronizaci贸n
+sdk
+analysis
+comunicaci贸n
+desarrollo
+functional/manual
+implement
+cases
+correcci贸n
+propuestas
+including
+lenguajes
+studio
+istqb
+aseguramiento
+en
+certificaci贸n
+nuevas
 ios
-architectural design
-an醠isis construcci髇 dise駉
-especificaci髇 t閏nica
-programaci髇 en lenguajes
-desarrollar
-functional testing based on test cases
-ing. de requerimientos
-aseguramiento de calidad
-ingeniero de software
-pruebas unitarias
-code review
-documentaci髇 de sistemas
-dise駉 de casos de prueba
-patrones de dise駉
-ingenier韆 de requerimientos
-desarrollo de soluciones
-gesti髇 de proyectos
-programador as400
-scrum
-equipos de desarrollo
-dise駉 y programaci髇 de base de datos
-cumplimiento de tiempos
-determine the best way to implement those requirements in code and develop it.
-despliegue de aplicativos en ambientes de producci髇.
-large scale platform
-metodolog韆s de desarrollo
-t閏nicas de desarrollo orientadas a objetos.
-ingenier韆 de software
-dise駉 de sistemas
-programaci髇 en bases de datos
-ingenieria de software
-documentaci髇 t閏nica de los cambios
-performance testing tools
-subversion definici髇 y desarrollo del ciclo de desarrollo del sofware
-programaci髇
-est醤dares de desarrollo
-investigaci髇 de librer韆s y componentes de software.
-programaci髇 y dise駉 en plataformas
-programaci髇 en .net
-aplicaciones para m髒iles
-programaci髇 orientada a objetos
-dise駉 y desarrollo de soluciones
-agile/scrum methodology
-technical expertise
-gesti髇 de pruebas
-functional/manual and regression testing
-arquitectura de software
-teammates coaching
-unit and integration testing
-systems architecture
-entender los modelos l骻ico y f韘ico de los sistemas
-realizar modelado basado en uml
-algoritmos
-dise駉 y arquitectura de software
-improve web solutions
-java
-visual basic 6.0
-teammates codereview
-test plans
-modelado basado en uml
-construcci髇 y testing
-plan de pruebas y correcci髇 de defectos
-depurar el c骴igo
-functional testing
-construcci髇 de los componentes de software
-sincronizaci髇 del c骴igo
-scalable server infrastructure
-java.
-conocimiento de lenguajes
-est醤dares
-construcci髇 de componentes
-realizar programas o componentes de sistemas
-pruebas de software
-arquitectura de las soluciones
-programaci髇 a tres capas
-interacts with qa engineers
-ingenier韆 de sofware
-est醤dares de construcci髇
-.net
-test cases
-control de calidad de los requerimientos de cambio
-verificar los componentes
-new technologies to improve existing platform
-interact with qa engineers
-analizar y desarrollar software
-programaci髇 de los desarrollos y mantenimiento de software
-validar el dise駉 de los casos de prueba pruebas y despliegue
-integration frameworks
-integrar el c骴igo fuente
-conocimiento en base de datos
-automatizaci髇 de pruebas
-ingenier韆 de software php
-power builder
-control de calidad
-patrones de dise駉 dise駉 y planificaci髇 del desarrollo.
-componentes de software
-programaci髇 de p醙inas web
-base de datos sql server
+sql
 android
-gesti髇 de tareas
-regression testing
-conocimientos de uml
-c++
-desarrollo
-web services
-regression scripts
-develop web applications
-implementaci髇 de aplicaciones web
-construcci髇 y testing de software
-large scale platform componentes
-metodolog韆s de desarrollo de software
-conocimientos de frameworks
-metodolog韆s de desarrollo de software.
-integration testing
-total quality
-pruebas de integraci髇
-an醠isis y dise駉 de los sistemas
-automation testing tools
-automation tools
-rup
-desarrollo de componentes
-revisi髇 de c骴igo
-estructuras de datos
-test case management
-componentes de sistemas
-proceso de desarrollo de software
-soporte y mantenimiento
-.net.
-determines the best way to implement specifications in code and codes it
-developing and implementing test plans and test cases/scripts
-mvc
-dise駉 y arquitectura de sistemas
-an醠isis
-an醠isis definici髇 y desarrollo del ciclo de desarrollo del sofware
-testing tools
-correcci髇 de defectos
-an醠isis de requerimientos
-certificaci髇
-dise駉
-tdd
-programaci髇
-agile
-uml
-arquitectura
-componentes
-qa
-calidad
-git
-control de calidad
-asp.net
-soa
-implementaci髇
-j2ee
-programmers
-c#
-eclipse
-ejecutar el plan de pruebas para las aplicaciones desarrolladas
-c++
-desarrollo
-pruebas
-java
-web services
-pruebas especiales funcionales
-rup construir e implementar los componentes
 certificador
-quality
-kanban
-rup
+pr谩cticas
+alta
+estandares
+mejoras
+algoritmos
+interfaces
+especificaci贸n
+tres
+modificaci贸n
+requerimientos
+integraci贸n
+capas
+documentaci贸n
 php
-android sdk
-scrum
-frontend
-integraciones
-backend
-programador
-visual studio
-.net
-framework .net
-desarrollos
-mvc
-frameworks
-an醠isis
-mantenimiento
-integraci髇
-android studio
-developer
+cumplimiento
+y
+web
+dise帽os
+o
+manejo
+sistematizaci贸n
+development
+informaci贸n
+planteamiento
+senior
+ti
+base
+experience
+ingenieria
 desarrollador
-desarrollar
+as400
+effort
+conocimiento
+interact
+eclipse
+scrum
+normas
+subversion
+infrastructure
+detallado
+conocimientos
+framework
+realizar
+el
+.net.
+objetos
+unitarias.
+construir
+pase
+java.
+define
+estimar
+c#
+arquitectura
+all
+artefactos
+integrar
+documentos
+visual
+software.
+implementaci贸n
+programadores
+datos
+mantenimiento
+saas
+t茅cnicos
+dise帽ar
+test
+requirements
+prototipos
+productos
+elaboraci贸n
+plataformas
+t茅cnicas
+versiones
+knowledge
+basado
+m贸dulos
+uml.
+funcionalidades
+teammates
+aplicaciones
+programar
+tools
+p谩ginas
+patterns
+usuario
+implementing
+codes
+inter茅s
+codereview
+ambientes
+support
+definici贸n
+analizar
+sistema
+in
+desarrolladas
+uml
+soluci贸n
+soa
+construcci贸n
+producir
+frontend
+power
+qa
+seg煤n
+architectural
+sofware
+bajo
+especificaciones
+producci贸n.
+it.
+operaci贸n
+programador
+total
+levantamiento
+para
+谩rea
+improve
+plan
+revisi贸n
+modelos
+t茅cnico
+analisis
+determines
+modelamiento
+java
+systems
+review
+producto
+integration
+determine
+f铆sico
+est谩ndares
+frase
+analista
+de
 implementar
+pruebas
+scripts
+on
+entender
+c++
+prueba
+based
+desarrollos
+t茅cnica
+arquitecto
+automation
+estructuras
+expertise
+m贸viles
+multicapa
+it
+funcionales
+kanban
+programado
+cases/scripts
+coaching
+ciclo
+functional
+developer
+ing.
+integraciones
+soporte
+agile/scrum
+investigaci贸n
+design
+control
+way
+interacts
+evaluar
+tiempos
+cliente/servidor
+the
+team
+ingenier铆a
+modelo
+proyectos
+producci贸n
+of
+engineers
+mvc
+planificaci贸n
+with
+repertorio
+best
+foundation
+desarrollar
+programaci贸n
+quality
+cambio
+to
+skills
+unit
+validar
+del
+codificaci贸n
+la
+aplicativos
+administraci贸n
+arquitecturas
+componentes
+large
+testing
+por
+objectoriented
+complejidad
+casos
+those
+con
+frameworks
+lenguaje
+defectos
+scalable
+orientada
+a
+builder
+espec铆ficos
+software
+advanced
+cms
+technical
+dar
+existing
+buenas
+equipos
+phases
+proceso
+applications
+multiplataforma
+asp.net
+programas
+orientadas
+谩giles
+assurance
+gesti贸n
+proyecto
+automatizaci贸n
+regression
+cambios
+6.0
+management
+technologies
+git
+engineer
+architecture
+calidad
+fuente
+.net
+performance
+real
+pogramador
+tecnicos
+tdd
+bases
+c贸digo
+j2ee
+recolectar
+codificar
+modelado
+dise帽o
+realiza
+programmers
+an谩lisis
+tests
+objetos.
+code
+herramientas
+continua
+l贸gico
+production
+rup
+develop
+ejecutar
+inform谩ticos
+elaborar
+defecto
+and
+specifications
+platform
+tareas
+js
+sistemas
+ingeniero
+patrones
+environment
+especiales
+methodology
+apoyo
+plans
+los
+librer铆as
+m贸viles.
+verificar
+stress
+backend
+soluciones
+tecnologico
+server
+despliegue
+agile
+documentation
+e
+asignados
+automatizadas
+establecer
+new
+case
+basic
+ejecuci贸n
+services
+alg煤n
+solicitudes
+developing
+scale
+desarrollo.

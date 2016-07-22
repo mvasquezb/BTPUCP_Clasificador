@@ -1,302 +1,345 @@
-ccsa
-cobit
-wifi
-switches
-tcp
-firewalls
-iso 20000. mantener
-proxy
-reportes de disponibilidad
-sgsi
-incidentes
-wan
-auditoria
-iso 27001
-oracle
-administrador
-itil
-redes
-infraestructura
-routers
-atenci髇 de requerimientos
-ccna
-helpdesk
-mcse
-asterisk
-networking cisco
-dns
-datacenter
-tcp / ip
-equipos
-ti
-vpn
-soporte
-riesgos
-servidor
-oca
-continuidad
-incidencias
-infrastructure
-respaldo
-dba
-bcp
-sgcn
-dhcp
-it
-servidores
-problemas
-topolog韆s
-soporte analizar
-tcp/ip
-virtualizaci髇
-disponibilidad
-backup
-mcts
-configuraci髇
-drp
-mcsa
-lan
-soporte remoto
-voip
-vmware vsphere
+oracle.
+banca
+recuperaci贸n
+ntpiso
+diagn贸stico
+las
+metodolog铆as
+seguridad
+velar
+comunicaci贸n
+telecomunicaciones.
 sniffer
-configuraci髇 mantenimiento
-asegurar la confiabilidad y operatividad de las aplicaciones
-conocimiento de itil
-mantener red de apoyo a las redes de distribuci髇
-brindar soporte t閏nico a servidores y equipos de comunicaciones software
-servicio de correo electr髇ico
+tecnolog铆a
+inform
+mcsa
+sus
+vmware
+generales
+reportes
+en
+organizaci贸n
+balanceadores
+apoyar
+tecnol贸gico
+alta
+tendencias
+mejoras
+interfaces
+requerimientos
+implementations
+correo
+via
+plataforma
+y
+recovery
+proveer
+informaci贸n
+alternativas
+mcse
+senior
+ti
+base
+usuarios
+experience
+confiabilidad
+transaccionales
+operativo
+herramienta
+conocimiento
+resoluci贸n
+correctivo
+help
+portafolio
+salud
+red
+infrastructure
+ip
+conocimientos
 investigar
-iso 22301
-instalaci髇 de software
-operatividad de sus equipos
-habilitaci髇 de plataforma de comunicaciones y servicios.
-controles de seguridad de la informaci髇
-service desk
-nivel de servicio
-iniciativas de negocio que incluyen participaci髇 de ti
-asegurar la continuidad en las operaciones de los sistemas
-red de datos
-infraestructura tecnol骻ica
-ntpiso iec 27001.
-diagn髎tico y soluci髇 de incidencias
-implementaci髇
-infrastructure solution architect infrastructure solution architec
-mejora de procesos
-planificar
-modelamiento de procesos
-infraestructura de networking
-mantenimiento de hardware
-balanceadores de carga
-configurar red inform醫ica
-conocimiento en redes y telecomunicaciones.
-administraci髇
-iso 27000
-administraci髇 y mantenimiento de servidores
-ingeniero senior de redes
-controles de seguridad para comunicaciones
-redes y comunicaciones
-definici髇 de los controles de seguridad para las comunicaciones.
-administrar y monitorear la base de datos
-administraci髇 de equipos
-configuraci髇 de hardware de servidores gestionar y configurar la red inform醫ica
-soporte de comunicaciones
-continuidad en las operaciones
-balanceadores de carga dise馻r e implementar una red de alta calidad
-administrar la base de datos
-mantener y gestionar una infraestructura de red
-infraestructura de virtualizaci髇
-hacer backup de servidores
-tareas de mantenimiento y soporte de red mantenimiento y soporte de red
-sistema de gesti髇 de seguridad de informaci髇
-administraci髇 de equipos cuentas y servicios de c髆puto.
-seguridad informatica
-asegurar el funcionamiento de las bases de datos.
-gesti髇 del portafolio de servicios e interfaces
-administrador de base de datos
-administrar la seguridad
+google
+el
+/
+incluyen
+helpdesk
+arquitectura
+servicios
+tecnolog铆as
+implementaci贸n
+datos
 mantenimiento
-est醤dares de hardware
-administrar los servicios
-gesti髇 de las comunicaciones.
-continuidad de negocio
-hardware y software de comunicaciones
-servicios de instalaci髇 de sistemas
-tuning and optimization of cloudbased implementations
-metodolog韆s para el an醠isis de sistema
-telefon韆 ip
-administraci髇 de firewalls
-plataformas inform醫icas
-tecnolog韆s lan / wan
-servicios inform醫icos evaluar
-continuidad de ti
-configuraci髇 de equipos de comunicaciones
-infrastructure architecture regarding storage
-reemplazo de equipos
-portafolio de servicios
-arquitectura empresarial
-administraci髇 de servicio correo
-investigaci髇 en tecnolog韆 y procesos
-evaluar
-configuraci髇 de red
-conocimiento de protocolo
-equipos de red
-inventarios de software
-apoyo en todos los sistemas
-conocimientos de sistemas operativos
-seguridad de la informaci髇
-procesos de ti
-seguridad de informaci髇
-infraestructura de servidores
-configurar servidores y servicios
-plan de continuidad de negocios
-administrar los servicios de telecomunicaciones
-apoyo a los usuarios
-centros de c髆puto
-administraci髇 soporte y delivery de sistema soporte y delivery de sistema
-cableado de red
-asesor韆 t閏nica
-soporte de ti
-administraci髇 de la infraestructura de servidores y soluciones de almacenamiento f韘icos
-arquitectura de comunicaciones
-controles de seguridad de informaci髇
-infraestructura it
-activos de ti
-infraestructura de red
-administrador de servidores y redes
-infraestructura ti
-gesti髇 del suministro de servicios ti
-configurar hardware
-gesti髇 de las comunicaciones
-mantenimiento correctivo y/o preventivo de sistemas de tecnolog韆
-administraci髇 de firewall
-velar por la seguridad inform醫ica
-ejecutar pases a producci髇 de aplicaciones internas.
-soporte t閏nico
-recuperaci髇 en casos de desastres.
-configurar software
-estandarizaci髇 de versiones del software
-administraci髇 de infraestructura.
-dise馻r la arquitectura de las plataformas
-interfaces batch
-control y gesti髇 de la infraestructura
-redundancia de procesadores
-capacidades de los sistemas
-ingenier韆 de requerimientos
-controlar y mantener los equipos de comunicaciones
-documentar los proyectos procedimientos
-reemplazo de equipos con sistema operativo
-vware vsphere
-redes de ti
-confiabilidad y operatividad de las aplicaciones
-administrar y configurar los servidores y servicios
-soporte google apps
-operaciones de red
-continuidad operativa
-base de datos de la gesti髇 de la configuraci髇
-soporte a usuarios
-garantizar que las aplicaciones y dispositivos transaccionales de las oficinas mantengan una correcta operatividad
-soporte t閏nico de computo y sistemas
-soporte en comunicaciones
-apoyar en la implementaci髇 de nuevo software
-proponer configurar y proveer soluciones tecnol骻icas
-soporte de hardware
-gesti髇 de gobierno de servicios de ti
-configuraci髇 y mantenimiento de redes
-respaldo de informaci髇
-est醤dares iso 27001
-tipos de incidentes y problemas
-tendencias digitales
-sistema de gesti髇 de seguridad de la informaci髇
-red de alta calidad
-soporte t閏nico a servidores y equipos de comunicaciones software
-redes de comunicaciones de video
-infraestructura de red de datos
-establecer
-establecimiento de pol韙icas
-gesti髇 de riesgos
-data center
-soporte de sistemas
-instalar y configurar software
-informaci髇 de comunicaciones
-mantenimiento correctivo y/o preventivo de sistemas de tecnolog韆.
-tecnolog韆s host
-analista de redes
-elaborar el plan de mantenimiento del hardware
-administraci髇 de los servicios
-operatividad de equipos
-canales digitales
-lineamientos de ti
-sistemas operativos
-servidores y comunicaciones . mantenimiento de hardware
-red de datos ejecutar y controlar la infraestructura de red de datos y telefon韆
-servicios de ti
-mesa de ayuda
+que
+dise帽ar
+protocolo
+capacitar
+crisis
+plataformas
+mesa
+soportar
+t茅cnicas
+versiones
+establecimiento
+brindar
+controles
+configuraci贸n
+sharepoint
+centros
+operativa
+ccsa
+aplicaciones
+comunicaciones.
+ayuda
+programar
+dhcp
+garantizar
+oracle
+visualizaci贸n
+administering
+f铆sicos
+renovaci贸n
+estructurado
+nivel
 dba
-seguridad inform
-sistema de gesti髇 de seguridad de informaci髇 (sgsi).
-proponer pol韙icas de seguridad de la informaci髇
-cableado estructurado
-pol韙icas de seguridad
-plataformas oss
-gesti髇 de servicios ti
-equipos de comunicaciones . mantenimiento de hardware
-renovaci髇 de equipos
-seguridad inform醫ica
-redes de comunicaci髇
-capacitar a los usuarios
-redes de comunicaciones
-administrar el centro de c髆puto
-base de datos de topolog韆s
-help desk
-plataformas de virtualizaci髇
-infraestructura de comunicaciones
-infraestructura de ti
-continuidad operativa.
-monitoreo de red
-procesos ti
-continuidad operacional
-asegurar el funcionamiento del oracle.
-infraestructura inform醫ica
-entornos de red
-evaluar y proponer alternativas de mejoras tecnol骻icas a la infraestructura de comunicaciones
-gobierno de los servicios de ti
-administrar la infraestructura inform醫ica
-red de comunicaci髇
-niveles de servicio
-soporte administrativo de redes de it y comunicaciones
-administraci髇 de infraestructura
-gestor de proyectos ti
-infrastructure architecture
-estandarizaci髇 de versiones de software
-redes ip
-an醠isis de riesgos
-mantenimiento de hardware.
+(sgsi).
+service
+mantengan
+controlar
+servicios.
+riesgos
+documentar
+actualizado
+implementing
+cisco
+negocios
+incidentes
+centro
+gestionar
+27001
+definici贸n
+sistema
+analizar
+optimization
+firewall
+monitoreo
+disponibilidad
+apps
+aplicaci贸n
+project
+soluci贸n
+proponer
+delivery
+tipos
+operacional
+voip
+iec
+habilitaci贸n
+architect
+procesos
+22301
+inform谩ticas
+computo
+inventario
+tecnol贸gica
+hacer
+operativos
+switches
+ordenar
 instalar
-continuidad de negocios
-auditor de sistemas
-instalar y configurar los equipos de comunicaciones y de banca virtual.
-disponibilidad de los servicios relacionados a las ti
-informaci髇 de aplicativos
-reportes de disponibilidad de servicio
-soporte a aplicaciones
-backup de servidores
+internas.
+para
+oca
+redes
+electr贸nico
+plan
+revisi贸n
+auditor铆a
+asterisk
+t茅cnico
 administrar
-administraci髇 de redes
-mantenimiento soporte e inventario de los equipos inform醫icos soporte e inventario de los equipos inform醫icos de la organizaci髇
-disaster recovery plan
-administrador de red
-mensajer韆 via ethernet
-oficial de seguridad
-plan de contingencia
-instalaci髇 software
-gesti髇 de crisis
-configuraci髇
-instalaci髇 de sistemas
-centro de datos
-aplicaci髇 de est醤dares
-infraestructura de voip
-administrar y monitorear las bases de datos y servicios de aplicaciones.
-instalaci髇 de equipos
-administraci髇 de base de datos
-redes de it y comunicaciones
+modelamiento
+host
+empresarial
+infraestructura
+nube
+tcp
+est谩ndares
+lan
+gobierno
+una
+pol铆ticas
+instalaci贸n
+frase
+analista
+de
+networking
+implementar
+administrador
+virtualizaci贸n
+dns
+comunicaciones
+oficial
+correcta
+t茅cnica
+firewalls
+it
+configurar
+reemplazo
+tecnolog铆a.
+soporte
+niveles
+investigaci贸n
+storage
+data
+center
+control
+almacenamiento
+evaluar
+remoto
+c贸mputo.
+vsphere
+batch
+backup
+ingenier铆a
+aplicaciones.
+modelo
+cableado
+negocio
+proyectos
+producci贸n
+funcionamiento
+of
+iso
+coordinar
+regarding
+mantener
+canales
+relacionados
+vpn
+desk
+video
+activos
+routers
+wifi
+itil
+distribuci贸n
+del
+la
+aplicativos
+administraci贸n
+respaldo
+cuentas
+suministros
+tic
+solution
+seguimiento
+problemas
+asesor铆a
+.
+atenci贸n
+por
+procesadores
+casos
+estandarizaci贸n
+virtual.
+equipo
+con
+desarrolladores
+desastres.
+procedimientos
+debidamente
+a
+capacidades
+suministro
+cloudbased
+drp
+software
+administrativo
+servidores
+organizar
+servidor
+auditoria
+incidencias
+equipos
+monitorear
+architec
+carga
+redundancia
+gesti贸n
+vware
+wan
+telefon铆a
+tcp/ip
+ccna
+telecomunicaciones
+configuring
+y/o
+dispositivos
+management
+topolog铆as
+20000.
+mensajer铆a
+engineer
+tecnol贸gicas
+architecture
+calidad
+auditor
+inventarios
+nuevo
+inform谩tica
+participaci贸n
+datacenter
+continuidad
+bases
+hardware
+bcp
+conservaci贸n
+27001.
+ethernet
+mejora
+sgcn
+an谩lisis
+disaster
+contingencia
+licencias
+servicio
+proxy
+ejecutar
+inform谩ticos
+elaborar
+sgsi
+windows
+and
+preventivo
+tareas
+sistemas
+datos.
+tuning
+ingeniero
+gestor
+operativa.
+infraestructura.
+apoyo
+planificar
+cobit
+entornos
+digitales
+iniciativas
+los
+todos
+operaciones
+operatividad
+27000
+oficinas
+soluciones
+server
+hardware.
+oss
+pases
+e
+lineamientos
+establecer
+identificaci贸n
+c贸mputo
+informatica
+mcts
+asegurar
