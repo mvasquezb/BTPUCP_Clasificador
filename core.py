@@ -12,8 +12,6 @@ import numpy
 import warnings
 from nltk.stem.snowball import SpanishStemmer
 
-from reconst_dicc import rec_dicc 
-
 import matplotlib.pyplot as plt
 from sklearn import datasets, svm, metrics
 from sklearn.linear_model import LogisticRegression
@@ -103,8 +101,8 @@ class Input_Output:
             numAtributos = len(oferta)
             for atributo in range(1, numAtributos):
                 oferta[atributo] = self.procesadorTextos.preprocessText(oferta[atributo])
-                oferta[atributo] = self.procesadorTextos.lematizeText(oferta[atributo])
-                #oferta[atributo] = self.procesadorTextos.stemText(oferta[atributo])
+                #oferta[atributo] = self.procesadorTextos.lematizeText(oferta[atributo])
+                oferta[atributo] = self.procesadorTextos.stemText(oferta[atributo])
 
         return dataset
 
@@ -158,11 +156,9 @@ class Input_Output:
 
                     for linea in f2.read().splitlines():
                         linea = self.procesadorTextos.preprocessText(linea)
-                        cadena_lemmatizada = self.procesadorTextos.lematizeText(linea)
-                        #cadena_lemmatizada = self.procesadorTextos.stemText(linea)
-                        dicc_ofertas[categoria].add(cadena_lemmatizada)
-
-
+                        #cadena_procesada = self.procesadorTextos.lematizeText(linea)
+                        cadena_procesada = self.procesadorTextos.stemText(linea)
+                        dicc_ofertas[categoria].add(cadena_procesada)
 
         for cat in dicc_ofertas.keys():
             dicc_ofertas[cat] = list(dicc_ofertas[cat])
@@ -172,7 +168,7 @@ class Input_Output:
     def obtenerUtilidades(self,carrera):
         dataEtiquetada = self.obtenerDataEtiquetada(carrera)
         dataset = self.obtenerDataset(dataEtiquetada, carrera)
-        diccionario = rec_dicc(carrera)
+        diccionario = self.obtenerDiccionario(carrera)
         categorias = self.obtenerCategorias(carrera)
         return dataEtiquetada,dataset,diccionario,categorias
 
