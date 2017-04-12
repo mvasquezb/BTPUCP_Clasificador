@@ -1,0 +1,14 @@
+analisis: 1
+bas dat sql serv: 1
+calid: 1
+desarroll: 5
+desarroll softwar: 2
+diseñ: 1
+gestion proyect: 5
+implement: 3
+integr: 2
+manten: 1
+net: 2
+program: 2
+visual basic: 1
+visual studi: 1

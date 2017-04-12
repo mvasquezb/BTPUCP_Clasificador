@@ -1,0 +1,22 @@
+: 9
+activ: 2
+administr: 3
+dat cent: 1
+disponibil: 2
+equip: 3
+establec: 1
+evalu: 1
+gestor proyect: 2
+implement: 3
+iso: 1
+itil: 1
+lineamient: 1
+manten: 1
+planific: 1
+problem: 1
+proces: 5
+respald: 1
+servici: 3
+servidor: 1
+soport: 2
+soport aplic: 1

@@ -1,0 +1,6 @@
+automatiz: 43
+control proces: 3
+equip plant: 6
+infraestructur plant: 1
+instrument control: 1
+sistem scad: 1

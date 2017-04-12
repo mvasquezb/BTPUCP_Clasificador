@@ -1,0 +1,22 @@
+analisis: 17
+analisis diseñ sistem: 2
+analisis requer: 1
+arquitectur: 1
+asegur calid: 1
+calid: 3
+certif: 2
+desarroll: 13
+desarroll manten aplic: 1
+diseñ: 11
+diseñ sistem: 2
+estandar: 2
+gestion proyect: 2
+implement: 7
+manten: 10
+metodolog desarroll: 1
+proces desarroll: 1
+program: 8
+prueb: 1
+rup: 1
+soa: 1
+uml: 1

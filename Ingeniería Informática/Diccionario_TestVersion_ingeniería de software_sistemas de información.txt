@@ -1,0 +1,34 @@
+anal funcional: 3
+anal proces: 1
+anal sistem: 2
+analisis: 20
+analisis diseñ: 11
+analisis document proces: 1
+analisis mejor proces: 1
+analisis proces: 1
+desarroll aplic: 9
+diseñ bas dat: 2
+diseñ sistem: 7
+document funcional: 3
+especif funcional: 1
+funcional: 12
+herramient analisis: 1
+implement sistem: 4
+levant: 3
+levant inform: 3
+manej bas dat: 1
+mejor proces: 2
+model: 6
+model dat: 1
+model proces: 1
+nuev requer: 1
+olap: 1
+oracl: 15
+proces inform: 1
+proces negoci: 1
+proyect sistem: 1
+reporting servic: 1
+requer: 18
+sap: 1
+sistem gestion: 1
+sistem inform: 5

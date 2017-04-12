@@ -1,11 +1,11 @@
-automatizaci髇 y control
-automatizaci髇 y rob髏ica
-biomecatr髇ica
-dise駉 mecatr髇ico
-electricidad y electr髇ica
-energ韆
+automatizaci贸n y control
+automatizaci贸n y rob贸tica
+biomecatr贸nica
+dise帽o mecatr贸nico
+electricidad y electr贸nica
+energ铆a
 general
-gesti髇
+gesti贸n
 mantenimiento
-metrolog韆
+metrolog铆a
 operaciones

@@ -1,0 +1,16 @@
+activ: 1
+control: 4
+coordin: 5
+desarroll proyect: 1
+dirig: 2
+gestion: 4
+jef: 3
+lider: 2
+lider equip: 2
+organiz: 3
+plan: 4
+planific: 2
+portafoli proyect: 1
+proyect: 5
+seguimient: 4
+supervisor: 1

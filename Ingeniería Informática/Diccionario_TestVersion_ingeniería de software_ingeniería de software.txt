@@ -1,0 +1,62 @@
+analisis: 20
+analisis diseñ sistem: 6
+analisis requer: 1
+aplic movil: 1
+arquitectur: 6
+arquitectur sistem: 1
+arquitectur softwar: 1
+asegur calid: 1
+asp net: 7
+c: 10
+calid: 7
+calid sistem: 1
+cas prueb: 5
+certif: 13
+certif softwar: 2
+conoc bas dat: 3
+conoc frameworks: 1
+conoc lenguaj: 4
+conoc uml: 1
+control calid: 3
+desarroll: 31
+desarroll aplic: 9
+desarroll softwar: 5
+desarroll solucion: 4
+develop: 1
+diseñ: 18
+diseñ arquitectur sistem: 1
+diseñ sistem: 7
+eclips: 2
+elabor especif funcional: 1
+estandar: 6
+frameworks: 4
+gestion proyect: 4
+implement: 17
+ingeni softwar: 3
+jav: 19
+jee: 3
+lenguaj program jav net: 1
+manten: 6
+metodolog desarroll: 1
+mvc: 5
+net: 18
+patron diseñ: 1
+php: 8
+plan prueb: 1
+pow build: 2
+proces desarroll: 1
+proces desarroll softwar: 1
+program: 30
+program net: 2
+program orient objet: 1
+prueb: 14
+prueb unitari: 1
+qa: 2
+rup: 7
+soa: 3
+soport manten: 1
+uml: 11
+valid diseñ: 1
+visual basic: 4
+visual studi: 4
+web servic: 6

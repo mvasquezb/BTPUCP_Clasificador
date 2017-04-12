@@ -1,0 +1,106 @@
+: 872
+activ: 136
+administr: 89
+administr bas dat: 5
+administr equip: 1
+administr red: 4
+administr servici: 3
+analisis riesg: 4
+aplic estandar: 1
+apoy sistem: 1
+apoy usuari: 3
+arquitectur empresarial: 1
+atencion requer: 17
+auditor sistem: 2
+auditori: 7
+backup: 2
+bcp: 18
+canal digital: 1
+capacit usuari: 7
+centr dat: 1
+configur: 43
+configur manten: 2
+configur red: 1
+configur softwar: 1
+continu: 44
+continu negoci: 5
+continu oper: 7
+continu operacional: 1
+control segur inform: 3
+dat cent: 1
+dba: 5
+disponibil: 23
+drp: 1
+entorn red: 1
+equip: 158
+equip red: 1
+establec: 53
+evalu: 61
+gestion riesg: 6
+gestion servici: 2
+gestor proyect: 1
+helpdesk: 1
+implement: 170
+incident: 49
+inform aplic: 9
+inform comun: 2
+infraestructur: 24
+infraestructur comun: 2
+infraestructur red: 1
+infraestructur servidor: 1
+infraestructur tecnolog: 10
+infraestructur voip: 1
+infrastructur: 1
+instal: 32
+instal sistem: 3
+instal softwar: 4
+investig: 21
+iso: 5
+itil: 7
+lan: 6
+lineamient: 7
+manten: 104
+manten gestion infraestructur red: 1
+mejor proces: 42
+mes ayud: 4
+model proces: 3
+monitore red: 2
+nivel servici: 11
+oficial segur: 1
+oper red: 1
+oracl: 114
+plan continu negoci: 1
+planific: 33
+plataform informat: 1
+polit segur: 4
+problem: 44
+proces: 187
+red: 36
+red alta calid: 1
+red comun: 5
+red comun vide: 1
+red dat: 4
+reemplaz equip: 2
+respald: 5
+respald inform: 1
+riesg: 51
+segur inform: 24
+segur informat: 7
+servici: 108
+servidor: 26
+sgsi: 1
+sistem gestion segur inform: 4
+sistem gestion segur inform sgsi: 1
+sistem oper: 7
+soport: 170
+soport aplic: 22
+soport comun: 1
+soport sistem: 10
+soport tecnic: 11
+soport usuari: 15
+switch: 7
+telefon ip: 1
+topolog: 1
+voip: 1
+vpn: 1
+wan: 1

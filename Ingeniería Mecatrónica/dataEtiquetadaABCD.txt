@@ -1,30 +1,30 @@
 44119967,mantenimiento
-44120076,gesti髇
-44120077,gesti髇
+44120076,gesti贸n
+44120077,gesti贸n
 44120084,mantenimiento
 44120086,general
 44120098,general
 44120122,mantenimiento
-44120172,gesti髇
+44120172,gesti贸n
 44120189,general
 44120204,mantenimiento
-44120208,automatizaci髇 y control
-44120217,gesti髇
-44120228,automatizaci髇 y control
+44120208,automatizaci贸n y control
+44120217,gesti贸n
+44120228,automatizaci贸n y control
 44120229,operaciones
 44120235,operaciones
 44120250,mantenimiento
 44120274,mantenimiento
-44120275,automatizaci髇 y rob髏ica
-44120349,automatizaci髇 y rob髏ica
-44120386,gesti髇
+44120275,automatizaci贸n y rob贸tica
+44120349,automatizaci贸n y rob贸tica
+44120386,gesti贸n
 44120405,mantenimiento
-44120435,electricidad y electr髇ica
-44120436,electricidad y electr髇ica
-44120498,electricidad y electr髇ica
-44120500,gesti髇
-44120502,gesti髇
-44120518,energ韆
+44120435,electricidad y electr贸nica
+44120436,electricidad y electr贸nica
+44120498,electricidad y electr贸nica
+44120500,gesti贸n
+44120502,gesti贸n
+44120518,energ铆a
 44120528,mantenimiento
 44120577,mantenimiento
 44120618,mantenimiento
@@ -34,95 +34,95 @@
 44120691,mantenimiento
 44120712,mantenimiento
 44120725,operaciones
-44120762,electricidad y electr髇ica
+44120762,electricidad y electr贸nica
 44120784,operaciones
 44120794,general
 44120802,mantenimiento
 44120842,mantenimiento
-44120876,electricidad y electr髇ica
-44120877,metrolog韆
+44120876,electricidad y electr贸nica
+44120877,metrolog铆a
 44120880,mantenimiento
-44120890,automatizaci髇 y control
+44120890,automatizaci贸n y control
 44120891,mantenimiento
-44120918,electricidad y electr髇ica
-44120933,gesti髇
+44120918,electricidad y electr贸nica
+44120933,gesti贸n
 44120967,general
-44120980,electricidad y electr髇ica
-44120999,electricidad y electr髇ica
+44120980,electricidad y electr贸nica
+44120999,electricidad y electr贸nica
 44121020,mantenimiento
 44121045,mantenimiento
-44121059,electricidad y electr髇ica
-44121078,metrolog韆
+44121059,electricidad y electr贸nica
+44121078,metrolog铆a
 44121104,general
-44121144,electricidad y electr髇ica
-44121186,automatizaci髇 y control
+44121144,electricidad y electr贸nica
+44121186,automatizaci贸n y control
 44121191,mantenimiento
-44120347,electricidad y electr髇ica
+44120347,electricidad y electr贸nica
 44121222,mantenimiento
-44121230,electricidad y electr髇ica
+44121230,electricidad y electr贸nica
 44121254,mantenimiento
 44121257,mantenimiento
-44121309,gesti髇
+44121309,gesti贸n
 44121310,mantenimiento
-44121312,automatizaci髇 y rob髏ica
-44121315,gesti髇
-44121354,gesti髇
-44121355,electricidad y electr髇ica
+44121312,automatizaci贸n y rob贸tica
+44121315,gesti贸n
+44121354,gesti贸n
+44121355,electricidad y electr贸nica
 44121376,general
 44121446,general
 44121466,mantenimiento
-44121469,automatizaci髇 y control
+44121469,automatizaci贸n y control
 44121502,mantenimiento
 44121530,mantenimiento
 44121573,mantenimiento
-44121618,gesti髇
-44121640,electricidad y electr髇ica
+44121618,gesti贸n
+44121640,electricidad y electr贸nica
 44121670,mantenimiento
 44121676,mantenimiento
-44121688,electricidad y electr髇ica
-44121697,electricidad y electr髇ica
-44121698,electricidad y electr髇ica
-44121701,electricidad y electr髇ica
-44121778,electricidad y electr髇ica
+44121688,electricidad y electr贸nica
+44121697,electricidad y electr贸nica
+44121698,electricidad y electr贸nica
+44121701,electricidad y electr贸nica
+44121778,electricidad y electr贸nica
 44121811,mantenimiento
 44121827,operaciones
 44121869,mantenimiento
-44121882,gesti髇
+44121882,gesti贸n
 44121893,general
-44121894,electricidad y electr髇ica
-44121967,metrolog韆
+44121894,electricidad y electr贸nica
+44121967,metrolog铆a
 44121974,general
-44121996,automatizaci髇 y control
-44122047,electricidad y electr髇ica
-44122049,automatizaci髇 y control
-44122072,electricidad y electr髇ica
-44122079,electricidad y electr髇ica
+44121996,automatizaci贸n y control
+44122047,electricidad y electr贸nica
+44122049,automatizaci贸n y control
+44122072,electricidad y electr贸nica
+44122079,electricidad y electr贸nica
 44122109,operaciones
-44122122,gesti髇
-44122133,gesti髇
+44122122,gesti贸n
+44122133,gesti贸n
 44122144,mantenimiento
 44122148,operaciones
 44122156,operaciones
-44122171,electricidad y electr髇ica
-44122184,electricidad y electr髇ica
-44122201,automatizaci髇 y rob髏ica
+44122171,electricidad y electr贸nica
+44122184,electricidad y electr贸nica
+44122201,automatizaci贸n y rob贸tica
 44122204,mantenimiento
-44122209,electricidad y electr髇ica
-44122213,electricidad y electr髇ica
-44122229,automatizaci髇 y control
+44122209,electricidad y electr贸nica
+44122213,electricidad y electr贸nica
+44122229,automatizaci贸n y control
 44122231,mantenimiento
 44122410,mantenimiento
 44122418,mantenimiento
 44122419,general
-44122499,electricidad y electr髇ica
+44122499,electricidad y electr贸nica
 44122519,general
-44122546,electricidad y electr髇ica
+44122546,electricidad y electr贸nica
 44122562,mantenimiento
-44122566,biomecatr髇ica
-44122598,automatizaci髇 y control
+44122566,biomecatr贸nica
+44122598,automatizaci贸n y control
 44122600,general
-44122601,electricidad y electr髇ica
-44122608,automatizaci髇 y control
+44122601,electricidad y electr贸nica
+44122608,automatizaci贸n y control
 44122617,mantenimiento
 44122620,mantenimiento
 44122621,mantenimiento
@@ -134,19 +134,19 @@
 44122721,general
 44122722,mantenimiento
 44122723,mantenimiento
-44122806,gesti髇
+44122806,gesti贸n
 44122855,mantenimiento
-44122875,gesti髇
-44122894,electricidad y electr髇ica
-44122935,gesti髇
+44122875,gesti贸n
+44122894,electricidad y electr贸nica
+44122935,gesti贸n
 44122940,mantenimiento
 44122941,mantenimiento
 44122942,mantenimiento
 44122943,mantenimiento
 44122958,mantenimiento
-44122962,metrolog韆
+44122962,metrolog铆a
 44123011,mantenimiento
-44123013,electricidad y electr髇ica
+44123013,electricidad y electr贸nica
 44123055,general
 44123059,mantenimiento
 44123106,mantenimiento
@@ -157,130 +157,130 @@
 44123112,mantenimiento
 44123113,mantenimiento
 44123114,mantenimiento
-44123128,electricidad y electr髇ica
-44123129,electricidad y electr髇ica
+44123128,electricidad y electr贸nica
+44123129,electricidad y electr贸nica
 44123150,mantenimiento
-44123155,automatizaci髇 y control
+44123155,automatizaci贸n y control
 44123215,operaciones
 44123251,general
 44123295,mantenimiento
 44123377,general
-44123388,electricidad y electr髇ica
-44123426,gesti髇
-44123431,electricidad y electr髇ica
+44123388,electricidad y electr贸nica
+44123426,gesti贸n
+44123431,electricidad y electr贸nica
 44123507,mantenimiento
 44123515,mantenimiento
-44123522,automatizaci髇 y control
-44123523,electricidad y electr髇ica
-44123537,gesti髇
-44123547,dise駉 mecatr髇ico
-44123576,electricidad y electr髇ica
-44123693,dise駉 mecatr髇ico
-44123696,gesti髇
+44123522,automatizaci贸n y control
+44123523,electricidad y electr贸nica
+44123537,gesti贸n
+44123547,dise帽o mecatr贸nico
+44123576,electricidad y electr贸nica
+44123693,dise帽o mecatr贸nico
+44123696,gesti贸n
 44123702,mantenimiento
-44123713,automatizaci髇 y control
+44123713,automatizaci贸n y control
 44123724,operaciones
 44123730,operaciones
-44123743,electricidad y electr髇ica
+44123743,electricidad y electr贸nica
 44123774,operaciones
 44123861,general
 44123863,mantenimiento
-44123879,gesti髇
+44123879,gesti贸n
 44123960,mantenimiento
-44123969,electricidad y electr髇ica
+44123969,electricidad y electr贸nica
 44124022,mantenimiento
-44124028,electricidad y electr髇ica
-44124056,electricidad y electr髇ica
+44124028,electricidad y electr贸nica
+44124056,electricidad y electr贸nica
 44124151,mantenimiento
 44124184,mantenimiento
 44124193,mantenimiento
 44124195,mantenimiento
-44124219,electricidad y electr髇ica
-44124220,electricidad y electr髇ica
+44124219,electricidad y electr贸nica
+44124220,electricidad y electr贸nica
 44124264,general
-44124283,electricidad y electr髇ica
+44124283,electricidad y electr贸nica
 44124400,general
 44124402,mantenimiento
-44124429,automatizaci髇 y control
+44124429,automatizaci贸n y control
 44124442,mantenimiento
 44124443,mantenimiento
 44124498,mantenimiento
 44124509,mantenimiento
 44124579,mantenimiento
-44124664,biomecatr髇ica
-44124668,electricidad y electr髇ica
-44124680,automatizaci髇 y control
-44124693,automatizaci髇 y control
+44124664,biomecatr贸nica
+44124668,electricidad y electr贸nica
+44124680,automatizaci贸n y control
+44124693,automatizaci贸n y control
 44124714,mantenimiento
-44124732,automatizaci髇 y control
+44124732,automatizaci贸n y control
 44124739,mantenimiento
-44124754,gesti髇
-44124850,automatizaci髇 y control
-44124898,automatizaci髇 y control
+44124754,gesti贸n
+44124850,automatizaci贸n y control
+44124898,automatizaci贸n y control
 44124907,mantenimiento
-44124925,electricidad y electr髇ica
+44124925,electricidad y electr贸nica
 44124939,mantenimiento
-44124943,electricidad y electr髇ica
+44124943,electricidad y electr贸nica
 44124966,mantenimiento
 44124984,mantenimiento
-44125017,gesti髇
-44125043,electricidad y electr髇ica
-44125048,automatizaci髇 y control
-44125098,automatizaci髇 y control
-44125107,electricidad y electr髇ica
+44125017,gesti贸n
+44125043,electricidad y electr贸nica
+44125048,automatizaci贸n y control
+44125098,automatizaci贸n y control
+44125107,electricidad y electr贸nica
 44125109,mantenimiento
 44125217,mantenimiento
 44125263,mantenimiento
-44125274,electricidad y electr髇ica
-44125297,electricidad y electr髇ica
-44125350,automatizaci髇 y rob髏ica
+44125274,electricidad y electr贸nica
+44125297,electricidad y electr贸nica
+44125350,automatizaci贸n y rob贸tica
 44125352,general
 44125365,mantenimiento
-44125370,gesti髇
-44125396,metrolog韆
+44125370,gesti贸n
+44125396,metrolog铆a
 44125406,mantenimiento
-44125412,automatizaci髇 y rob髏ica
+44125412,automatizaci贸n y rob贸tica
 44125477,mantenimiento
-44125482,electricidad y electr髇ica
+44125482,electricidad y electr贸nica
 44125491,mantenimiento
-44125585,gesti髇
-44125590,automatizaci髇 y rob髏ica
+44125585,gesti贸n
+44125590,automatizaci贸n y rob贸tica
 44125604,mantenimiento
-44125606,dise駉 mecatr髇ico
+44125606,dise帽o mecatr贸nico
 44125607,mantenimiento
 44125640,general
 44125649,general
-44125650,gesti髇
-44126924,electricidad y electr髇ica
+44125650,gesti贸n
+44126924,electricidad y electr贸nica
 44126925,general
 44125705,mantenimiento
 44125784,mantenimiento
-44125791,metrolog韆
+44125791,metrolog铆a
 44125794,mantenimiento
 44125821,mantenimiento
 44125824,operaciones
 44125867,general
 44125911,general
-44127495,electricidad y electr髇ica
+44127495,electricidad y electr贸nica
 44125989,mantenimiento
-44126035,metrolog韆
-44126070,electricidad y electr髇ica
+44126035,metrolog铆a
+44126070,electricidad y electr贸nica
 44126120,mantenimiento
 44126156,mantenimiento
 44126167,mantenimiento
-44126189,automatizaci髇 y control
+44126189,automatizaci贸n y control
 44126204,mantenimiento
 44126213,operaciones
 44126214,mantenimiento
 44126219,mantenimiento
-44126236,automatizaci髇 y rob髏ica
+44126236,automatizaci贸n y rob贸tica
 44126292,mantenimiento
-44126311,gesti髇
-44126366,automatizaci髇 y rob髏ica
-44126368,electricidad y electr髇ica
-44126417,electricidad y electr髇ica
+44126311,gesti贸n
+44126366,automatizaci贸n y rob贸tica
+44126368,electricidad y electr贸nica
+44126417,electricidad y electr贸nica
 44126476,general
-44126497,electricidad y electr髇ica
+44126497,electricidad y electr贸nica
 44126508,mantenimiento
 44126513,mantenimiento
 44126522,mantenimiento
@@ -288,7 +288,7 @@
 44126554,mantenimiento
 44126562,operaciones
 44126589,mantenimiento
-44126610,automatizaci髇 y control
+44126610,automatizaci贸n y control
 44126623,mantenimiento
 44126650,mantenimiento
 44126654,mantenimiento
@@ -300,154 +300,154 @@
 44126861,mantenimiento
 44126865,mantenimiento
 44126866,mantenimiento
-44126867,biomecatr髇ica
+44126867,biomecatr贸nica
 44126876,mantenimiento
-44126897,automatizaci髇 y rob髏ica
-44127953,gesti髇
+44126897,automatizaci贸n y rob贸tica
+44127953,gesti贸n
 44126915,general
 44126919,general
-44128374,electricidad y electr髇ica
-44126948,electricidad y electr髇ica
-44126996,metrolog韆
+44128374,electricidad y electr贸nica
+44126948,electricidad y electr贸nica
+44126996,metrolog铆a
 44126997,mantenimiento
-44127015,gesti髇
-44127046,gesti髇
+44127015,gesti贸n
+44127046,gesti贸n
 44127080,mantenimiento
-44127086,gesti髇
+44127086,gesti贸n
 44127087,mantenimiento
-44127091,metrolog韆
-44127106,electricidad y electr髇ica
+44127091,metrolog铆a
+44127106,electricidad y electr贸nica
 44127143,general
-44127146,electricidad y electr髇ica
+44127146,electricidad y electr贸nica
 44127177,mantenimiento
 44127183,mantenimiento
-44127188,electricidad y electr髇ica
-44127192,electricidad y electr髇ica
-44127196,gesti髇
-44127232,electricidad y electr髇ica
+44127188,electricidad y electr贸nica
+44127192,electricidad y electr贸nica
+44127196,gesti贸n
+44127232,electricidad y electr贸nica
 44127234,mantenimiento
 44127239,mantenimiento
 44127300,mantenimiento
 44127301,mantenimiento
-44127337,gesti髇
+44127337,gesti贸n
 44127366,mantenimiento
 44127374,general
-44127404,electricidad y electr髇ica
-44127418,energ韆
-44129742,electricidad y electr髇ica
+44127404,electricidad y electr贸nica
+44127418,energ铆a
+44129742,electricidad y electr贸nica
 44127471,mantenimiento
-44127494,electricidad y electr髇ica
-44129892,gesti髇
+44127494,electricidad y electr贸nica
+44129892,gesti贸n
 44127580,operaciones
-44127637,automatizaci髇 y control
+44127637,automatizaci贸n y control
 44127669,operaciones
 44127689,general
-44127712,biomecatr髇ica
-44127714,electricidad y electr髇ica
+44127712,biomecatr贸nica
+44127714,electricidad y electr贸nica
 44127725,mantenimiento
 44127729,mantenimiento
-44127771,automatizaci髇 y control
+44127771,automatizaci贸n y control
 44129894,mantenimiento
-44127788,dise駉 mecatr髇ico
-44127876,gesti髇
+44127788,dise帽o mecatr贸nico
+44127876,gesti贸n
 44127878,general
 44127884,general
 44127886,operaciones
-44130011,electricidad y electr髇ica
+44130011,electricidad y electr贸nica
 44127972,general
-44127973,metrolog韆
+44127973,metrolog铆a
 44127975,operaciones
 44131712,general
 44128148,mantenimiento
 44128149,mantenimiento
-44131725,gesti髇
-44128164,automatizaci髇 y rob髏ica
+44131725,gesti贸n
+44128164,automatizaci贸n y rob贸tica
 44128165,mantenimiento
 44128195,mantenimiento
 44128199,general
-44128206,automatizaci髇 y control
+44128206,automatizaci贸n y control
 44128208,mantenimiento
 44128282,mantenimiento
-44128303,electricidad y electr髇ica
-44128351,electricidad y electr髇ica
-44131799,gesti髇
+44128303,electricidad y electr贸nica
+44128351,electricidad y electr贸nica
+44131799,gesti贸n
 44128384,mantenimiento
 44128387,mantenimiento
 44132512,mantenimiento
 44128510,operaciones
-44128567,gesti髇
-44128578,energ韆
+44128567,gesti贸n
+44128578,energ铆a
 44128589,general
-44128623,automatizaci髇 y control
+44128623,automatizaci贸n y control
 44128641,mantenimiento
 44128651,mantenimiento
-44128661,electricidad y electr髇ica
+44128661,electricidad y electr贸nica
 44128678,mantenimiento
 44128694,mantenimiento
 44128747,mantenimiento
-44128770,gesti髇
-44128811,electricidad y electr髇ica
-44128825,automatizaci髇 y rob髏ica
-44128826,automatizaci髇 y rob髏ica
-44128848,gesti髇
-44128853,electricidad y electr髇ica
+44128770,gesti贸n
+44128811,electricidad y electr贸nica
+44128825,automatizaci贸n y rob贸tica
+44128826,automatizaci贸n y rob贸tica
+44128848,gesti贸n
+44128853,electricidad y electr贸nica
 44128901,operaciones
-44128904,electricidad y electr髇ica
+44128904,electricidad y electr贸nica
 44128906,general
-44128997,automatizaci髇 y control
+44128997,automatizaci贸n y control
 44129021,mantenimiento
 44129023,mantenimiento
 44129076,operaciones
-44129100,automatizaci髇 y rob髏ica
+44129100,automatizaci贸n y rob贸tica
 44129111,mantenimiento
 44129124,mantenimiento
 44129125,operaciones
 44129149,mantenimiento
-44129155,electricidad y electr髇ica
-44129182,gesti髇
+44129155,electricidad y electr贸nica
+44129182,gesti贸n
 44129206,mantenimiento
 44129208,mantenimiento
 44129210,mantenimiento
-44129213,electricidad y electr髇ica
+44129213,electricidad y electr贸nica
 44129243,mantenimiento
-44129244,electricidad y electr髇ica
-44129256,automatizaci髇 y control
-44129257,automatizaci髇 y control
+44129244,electricidad y electr贸nica
+44129256,automatizaci贸n y control
+44129257,automatizaci贸n y control
 44129357,mantenimiento
-44129371,electricidad y electr髇ica
-44129377,gesti髇
+44129371,electricidad y electr贸nica
+44129377,gesti贸n
 44129385,general
-44129388,gesti髇
+44129388,gesti贸n
 44129406,mantenimiento
 44129429,general
-44129446,electricidad y electr髇ica
-44129449,gesti髇
-44129524,metrolog韆
+44129446,electricidad y electr贸nica
+44129449,gesti贸n
+44129524,metrolog铆a
 44129538,mantenimiento
-44129542,electricidad y electr髇ica
-44129560,electricidad y electr髇ica
+44129542,electricidad y electr贸nica
+44129560,electricidad y electr贸nica
 44129566,general
 44129601,mantenimiento
-44129616,gesti髇
-44129617,gesti髇
-44129620,gesti髇
+44129616,gesti贸n
+44129617,gesti贸n
+44129620,gesti贸n
 44129666,mantenimiento
-44129682,gesti髇
+44129682,gesti贸n
 44129707,mantenimiento
 44129725,mantenimiento
 44133130,mantenimiento
 44129773,general
 44129788,mantenimiento
 44129790,general
-44129796,electricidad y electr髇ica
-44129802,gesti髇
-44129824,gesti髇
-44129863,automatizaci髇 y control
+44129796,electricidad y electr贸nica
+44129802,gesti贸n
+44129824,gesti贸n
+44129863,automatizaci贸n y control
 44129870,mantenimiento
-44133477,dise駉 mecatr髇ico
+44133477,dise帽o mecatr贸nico
 44134675,mantenimiento
 44129916,mantenimiento
-44129948,electricidad y electr髇ica
+44129948,electricidad y electr贸nica
 44129952,mantenimiento
 44129974,general
 44129988,general
@@ -456,166 +456,166 @@
 44130059,mantenimiento
 44130063,mantenimiento
 44130109,mantenimiento
-44130117,gesti髇
-44130149,electricidad y electr髇ica
+44130117,gesti贸n
+44130149,electricidad y electr贸nica
 44130159,operaciones
-44130183,metrolog韆
-44130191,gesti髇
-44130233,metrolog韆
-44130349,electricidad y electr髇ica
+44130183,metrolog铆a
+44130191,gesti贸n
+44130233,metrolog铆a
+44130349,electricidad y electr贸nica
 44130363,mantenimiento
-44130364,gesti髇
+44130364,gesti贸n
 44130366,mantenimiento
 44130415,mantenimiento
 44137842,mantenimiento
-44130461,gesti髇
-44130487,gesti髇
-44130516,metrolog韆
-44130533,automatizaci髇 y control
-44130535,electricidad y electr髇ica
-44130537,gesti髇
-44130672,electricidad y electr髇ica
-44130700,electricidad y electr髇ica
-44130706,automatizaci髇 y rob髏ica
+44130461,gesti贸n
+44130487,gesti贸n
+44130516,metrolog铆a
+44130533,automatizaci贸n y control
+44130535,electricidad y electr贸nica
+44130537,gesti贸n
+44130672,electricidad y electr贸nica
+44130700,electricidad y electr贸nica
+44130706,automatizaci贸n y rob贸tica
 44130735,operaciones
 44130737,mantenimiento
 44130744,general
-44130747,automatizaci髇 y control
+44130747,automatizaci贸n y control
 44130775,operaciones
-44130785,electricidad y electr髇ica
-44130792,metrolog韆
-44130822,electricidad y electr髇ica
+44130785,electricidad y electr贸nica
+44130792,metrolog铆a
+44130822,electricidad y electr贸nica
 44130823,mantenimiento
-44130847,automatizaci髇 y rob髏ica
-44130859,gesti髇
+44130847,automatizaci贸n y rob贸tica
+44130859,gesti贸n
 44130875,mantenimiento
-44130879,gesti髇
+44130879,gesti贸n
 44130888,mantenimiento
 44130907,general
 44130914,operaciones
-44130919,gesti髇
-44130940,gesti髇
-44130962,electricidad y electr髇ica
-44131023,energ韆
-44131027,gesti髇
+44130919,gesti贸n
+44130940,gesti贸n
+44130962,electricidad y electr贸nica
+44131023,energ铆a
+44131027,gesti贸n
 44131041,mantenimiento
-44131059,gesti髇
+44131059,gesti贸n
 44131086,mantenimiento
-44131100,electricidad y electr髇ica
+44131100,electricidad y electr贸nica
 44131116,general
 44131140,mantenimiento
 44131159,operaciones
-44131168,automatizaci髇 y rob髏ica
+44131168,automatizaci贸n y rob贸tica
 44131193,mantenimiento
-44131197,electricidad y electr髇ica
+44131197,electricidad y electr贸nica
 44131204,mantenimiento
 44131213,mantenimiento
-44131264,gesti髇
+44131264,gesti贸n
 44131277,general
 44131281,mantenimiento
 44131295,general
-44131296,electricidad y electr髇ica
-44131315,electricidad y electr髇ica
-44131316,electricidad y electr髇ica
-44131320,automatizaci髇 y control
-44131322,gesti髇
+44131296,electricidad y electr贸nica
+44131315,electricidad y electr贸nica
+44131316,electricidad y electr贸nica
+44131320,automatizaci贸n y control
+44131322,gesti贸n
 44131345,mantenimiento
-44131357,gesti髇
-44140849,electricidad y electr髇ica
+44131357,gesti贸n
+44140849,electricidad y electr贸nica
 44131362,mantenimiento
-44131368,electricidad y electr髇ica
+44131368,electricidad y electr贸nica
 44131379,mantenimiento
-44131397,metrolog韆
-44131399,gesti髇
-44131446,automatizaci髇 y control
+44131397,metrolog铆a
+44131399,gesti贸n
+44131446,automatizaci贸n y control
 44131520,general
-44131527,gesti髇
-44131630,electricidad y electr髇ica
+44131527,gesti贸n
+44131630,electricidad y electr贸nica
 44131637,mantenimiento
-44131692,electricidad y electr髇ica
+44131692,electricidad y electr贸nica
 44131693,operaciones
-44125652,automatizaci髇 y control
-44131719,electricidad y electr髇ica
-44125653,gesti髇
+44125652,automatizaci贸n y control
+44131719,electricidad y electr贸nica
+44125653,gesti贸n
 44131738,mantenimiento
-44131782,electricidad y electr髇ica
-44128475,gesti髇
-44131826,electricidad y electr髇ica
+44131782,electricidad y electr贸nica
+44128475,gesti贸n
+44131826,electricidad y electr贸nica
 44131839,mantenimiento
 44131840,mantenimiento
 44131909,general
-44131923,electricidad y electr髇ica
-44131955,gesti髇
-44130344,gesti髇
-44131358,gesti髇
-44132004,electricidad y electr髇ica
+44131923,electricidad y electr贸nica
+44131955,gesti贸n
+44130344,gesti贸n
+44131358,gesti贸n
+44132004,electricidad y electr贸nica
 44132032,mantenimiento
-44132136,gesti髇
+44132136,gesti贸n
 44132152,mantenimiento
 44132165,mantenimiento
 44132171,mantenimiento
 44132194,mantenimiento
-44132219,gesti髇
+44132219,gesti贸n
 44132222,mantenimiento
-44132224,gesti髇
-44132256,gesti髇
+44132224,gesti贸n
+44132256,gesti贸n
 44132287,mantenimiento
 44132288,mantenimiento
-44132327,metrolog韆
-44132374,gesti髇
-44132406,gesti髇
+44132327,metrolog铆a
+44132374,gesti贸n
+44132406,gesti贸n
 44132445,general
 44132463,mantenimiento
 44132476,mantenimiento
 44132504,mantenimiento
 44131991,mantenimiento
-44132547,electricidad y electr髇ica
-44132665,gesti髇
-44132666,gesti髇
-44132670,gesti髇
-44132678,electricidad y electr髇ica
+44132547,electricidad y electr贸nica
+44132665,gesti贸n
+44132666,gesti贸n
+44132670,gesti贸n
+44132678,electricidad y electr贸nica
 44132686,mantenimiento
-44132707,electricidad y electr髇ica
+44132707,electricidad y electr贸nica
 44132708,mantenimiento
 44132719,general
 44132729,mantenimiento
 44132736,mantenimiento
 44132764,mantenimiento
-44132783,automatizaci髇 y control
-44132794,energ韆
+44132783,automatizaci贸n y control
+44132794,energ铆a
 44132834,mantenimiento
-44132859,electricidad y electr髇ica
+44132859,electricidad y electr贸nica
 44132943,general
 44132957,mantenimiento
-44132979,gesti髇
+44132979,gesti贸n
 44133019,mantenimiento
-44133073,electricidad y electr髇ica
+44133073,electricidad y electr贸nica
 44133087,general
 44131992,mantenimiento
 44131994,mantenimiento
 44133179,mantenimiento
-44133192,metrolog韆
-44133206,automatizaci髇 y rob髏ica
-44133250,electricidad y electr髇ica
+44133192,metrolog铆a
+44133206,automatizaci贸n y rob贸tica
+44133250,electricidad y electr贸nica
 44133263,mantenimiento
-44133267,biomecatr髇ica
+44133267,biomecatr贸nica
 44133276,mantenimiento
 44133340,mantenimiento
 44133344,mantenimiento
-44133353,electricidad y electr髇ica
-44133393,gesti髇
+44133353,electricidad y electr贸nica
+44133393,gesti贸n
 44133396,mantenimiento
-44133401,electricidad y electr髇ica
+44133401,electricidad y electr贸nica
 44133413,mantenimiento
 44133419,mantenimiento
-44133420,electricidad y electr髇ica
-44133424,electricidad y electr髇ica
+44133420,electricidad y electr贸nica
+44133424,electricidad y electr贸nica
 44133458,mantenimiento
 44133465,general
-44139546,gesti髇
+44139546,gesti贸n
 44133490,mantenimiento
-44133491,gesti髇
-44133504,gesti髇
+44133491,gesti贸n
+44133504,gesti贸n
 44133586,mantenimiento
 44133637,general
 44133648,mantenimiento
@@ -623,10 +623,10 @@
 44133670,operaciones
 44133686,mantenimiento
 44133687,mantenimiento
-44133697,automatizaci髇 y rob髏ica
+44133697,automatizaci贸n y rob贸tica
 44133703,general
-44133719,electricidad y electr髇ica
-44133725,automatizaci髇 y rob髏ica
+44133719,electricidad y electr贸nica
+44133725,automatizaci贸n y rob贸tica
 44133747,general
 44133757,mantenimiento
 44133779,mantenimiento
@@ -638,162 +638,162 @@
 44133852,general
 44133893,operaciones
 44133896,mantenimiento
-44133899,metrolog韆
-44133933,dise駉 mecatr髇ico
+44133899,metrolog铆a
+44133933,dise帽o mecatr贸nico
 44133978,mantenimiento
 44133980,mantenimiento
 44133992,mantenimiento
 44134067,operaciones
-44134118,energ韆
-44134139,electricidad y electr髇ica
-44134190,electricidad y electr髇ica
+44134118,energ铆a
+44134139,electricidad y electr贸nica
+44134190,electricidad y electr贸nica
 44134206,mantenimiento
 44134221,mantenimiento
 44134247,mantenimiento
 44134281,general
 44134300,mantenimiento
-44134320,electricidad y electr髇ica
-44134322,metrolog韆
-44134323,electricidad y electr髇ica
-44134328,electricidad y electr髇ica
-44134427,automatizaci髇 y control
-44134431,automatizaci髇 y rob髏ica
+44134320,electricidad y electr贸nica
+44134322,metrolog铆a
+44134323,electricidad y electr贸nica
+44134328,electricidad y electr贸nica
+44134427,automatizaci贸n y control
+44134431,automatizaci贸n y rob贸tica
 44134446,mantenimiento
 44134452,general
-44134455,gesti髇
+44134455,gesti贸n
 44134483,operaciones
 44134532,general
-44134585,biomecatr髇ica
-44134588,metrolog韆
-44134590,electricidad y electr髇ica
-44134612,gesti髇
-44134613,electricidad y electr髇ica
-44134636,gesti髇
-44141253,gesti髇
+44134585,biomecatr贸nica
+44134588,metrolog铆a
+44134590,electricidad y electr贸nica
+44134612,gesti贸n
+44134613,electricidad y electr贸nica
+44134636,gesti贸n
+44141253,gesti贸n
 44134680,mantenimiento
-44134682,electricidad y electr髇ica
-44134704,metrolog韆
-44134725,electricidad y electr髇ica
+44134682,electricidad y electr贸nica
+44134704,metrolog铆a
+44134725,electricidad y electr贸nica
 44134872,mantenimiento
-44134882,automatizaci髇 y control
+44134882,automatizaci贸n y control
 44134952,operaciones
 44134966,mantenimiento
 44134969,mantenimiento
 44134982,operaciones
-44134988,metrolog韆
-44134989,gesti髇
+44134988,metrolog铆a
+44134989,gesti贸n
 44134990,mantenimiento
-44135015,gesti髇
-44135039,electricidad y electr髇ica
+44135015,gesti贸n
+44135039,electricidad y electr贸nica
 44135046,general
 44135050,mantenimiento
-44135058,electricidad y electr髇ica
-44135061,metrolog韆
-44135063,electricidad y electr髇ica
-44135075,gesti髇
+44135058,electricidad y electr贸nica
+44135061,metrolog铆a
+44135063,electricidad y electr贸nica
+44135075,gesti贸n
 44135190,mantenimiento
 44135211,mantenimiento
-44135234,gesti髇
-44135242,gesti髇
-44135333,metrolog韆
-44135357,gesti髇
-44135366,electricidad y electr髇ica
-44135377,automatizaci髇 y rob髏ica
+44135234,gesti贸n
+44135242,gesti贸n
+44135333,metrolog铆a
+44135357,gesti贸n
+44135366,electricidad y electr贸nica
+44135377,automatizaci贸n y rob贸tica
 44135394,mantenimiento
 44135538,general
-44135576,gesti髇
-44135588,dise駉 mecatr髇ico
-44135589,automatizaci髇 y control
+44135576,gesti贸n
+44135588,dise帽o mecatr贸nico
+44135589,automatizaci贸n y control
 44135610,mantenimiento
 44135660,mantenimiento
 44135662,mantenimiento
-44135717,automatizaci髇 y control
-44135764,electricidad y electr髇ica
-44135883,electricidad y electr髇ica
-44135922,gesti髇
-44135931,gesti髇
+44135717,automatizaci贸n y control
+44135764,electricidad y electr贸nica
+44135883,electricidad y electr贸nica
+44135922,gesti贸n
+44135931,gesti贸n
 44135932,mantenimiento
 44135934,mantenimiento
 44135964,mantenimiento
-44141254,gesti髇
-44136000,electricidad y electr髇ica
-44136090,metrolog韆
-44136091,metrolog韆
-44136093,automatizaci髇 y control
+44141254,gesti贸n
+44136000,electricidad y electr贸nica
+44136090,metrolog铆a
+44136091,metrolog铆a
+44136093,automatizaci贸n y control
 44136100,mantenimiento
-44136138,metrolog韆
+44136138,metrolog铆a
 44136155,operaciones
-44136214,metrolog韆
-44136276,metrolog韆
+44136214,metrolog铆a
+44136276,metrolog铆a
 44136279,mantenimiento
-44136313,gesti髇
-44136315,gesti髇
+44136313,gesti贸n
+44136315,gesti贸n
 44136320,operaciones
 44136321,general
 44136325,operaciones
-44136382,electricidad y electr髇ica
-44136384,electricidad y electr髇ica
+44136382,electricidad y electr贸nica
+44136384,electricidad y electr贸nica
 44136458,mantenimiento
-44136476,metrolog韆
+44136476,metrolog铆a
 44136477,mantenimiento
-44136497,metrolog韆
+44136497,metrolog铆a
 44136532,mantenimiento
 44136557,general
 44136561,mantenimiento
-44136566,electricidad y electr髇ica
-44136570,electricidad y electr髇ica
-44136578,gesti髇
-44136596,automatizaci髇 y control
-44136599,gesti髇
-44136700,automatizaci髇 y rob髏ica
-44136705,automatizaci髇 y control
+44136566,electricidad y electr贸nica
+44136570,electricidad y electr贸nica
+44136578,gesti贸n
+44136596,automatizaci贸n y control
+44136599,gesti贸n
+44136700,automatizaci贸n y rob贸tica
+44136705,automatizaci贸n y control
 44136709,mantenimiento
-44136733,electricidad y electr髇ica
+44136733,electricidad y electr贸nica
 44136849,operaciones
-44136883,metrolog韆
-44136885,electricidad y electr髇ica
+44136883,metrolog铆a
+44136885,electricidad y electr贸nica
 44136906,mantenimiento
 44136914,mantenimiento
-44136917,gesti髇
-44136943,electricidad y electr髇ica
-44136950,gesti髇
+44136917,gesti贸n
+44136943,electricidad y electr贸nica
+44136950,gesti贸n
 44136960,operaciones
 44136961,operaciones
 44136990,mantenimiento
-44137029,gesti髇
+44137029,gesti贸n
 44137037,general
-44137078,automatizaci髇 y control
-44137079,automatizaci髇 y control
-44137112,metrolog韆
-44137143,gesti髇
+44137078,automatizaci贸n y control
+44137079,automatizaci贸n y control
+44137112,metrolog铆a
+44137143,gesti贸n
 44137176,mantenimiento
-44137179,electricidad y electr髇ica
+44137179,electricidad y electr贸nica
 44137187,general
 44137196,mantenimiento
 44137216,operaciones
-44137236,electricidad y electr髇ica
+44137236,electricidad y electr贸nica
 44137237,general
 44137241,general
-44137251,metrolog韆
+44137251,metrolog铆a
 44137262,general
-44137274,dise駉 mecatr髇ico
+44137274,dise帽o mecatr贸nico
 44137275,general
-44137366,gesti髇
+44137366,gesti贸n
 44137391,general
 44137392,general
-44137398,gesti髇
-44137407,gesti髇
-44137438,electricidad y electr髇ica
+44137398,gesti贸n
+44137407,gesti贸n
+44137438,electricidad y electr贸nica
 44137485,general
 44137514,mantenimiento
 44137524,mantenimiento
-44137526,energ韆
-44137597,automatizaci髇 y control
-44137615,electricidad y electr髇ica
-44137673,electricidad y electr髇ica
-44137708,gesti髇
-44137747,electricidad y electr髇ica
-44137768,automatizaci髇 y control
+44137526,energ铆a
+44137597,automatizaci贸n y control
+44137615,electricidad y electr贸nica
+44137673,electricidad y electr贸nica
+44137708,gesti贸n
+44137747,electricidad y electr贸nica
+44137768,automatizaci贸n y control
 44137814,general
 44137816,mantenimiento
 44137823,mantenimiento
@@ -801,58 +801,58 @@
 44137832,mantenimiento
 44137833,mantenimiento
 44137835,mantenimiento
-44137836,automatizaci髇 y control
-44137872,gesti髇
+44137836,automatizaci贸n y control
+44137872,gesti贸n
 44137873,mantenimiento
 44137891,operaciones
-44137892,electricidad y electr髇ica
+44137892,electricidad y electr贸nica
 44138007,operaciones
 44138030,mantenimiento
 44138037,mantenimiento
-44138038,gesti髇
-44138057,gesti髇
+44138038,gesti贸n
+44138057,gesti贸n
 44138065,mantenimiento
-44138070,gesti髇
+44138070,gesti贸n
 44138083,general
 44138122,mantenimiento
 44138123,general
-44138124,electricidad y electr髇ica
-44138127,electricidad y electr髇ica
+44138124,electricidad y electr贸nica
+44138127,electricidad y electr贸nica
 44138140,operaciones
-44138172,gesti髇
+44138172,gesti贸n
 44138175,mantenimiento
 44138216,mantenimiento
-44138244,gesti髇
-44138245,electricidad y electr髇ica
+44138244,gesti贸n
+44138245,electricidad y electr贸nica
 44138270,mantenimiento
 44138289,mantenimiento
 44138310,mantenimiento
 44138324,general
 44138331,mantenimiento
 44138332,operaciones
-44138402,electricidad y electr髇ica
+44138402,electricidad y electr贸nica
 44138409,mantenimiento
 44138436,general
-44138452,gesti髇
-44138459,automatizaci髇 y control
-44138463,electricidad y electr髇ica
-44138467,electricidad y electr髇ica
+44138452,gesti贸n
+44138459,automatizaci贸n y control
+44138463,electricidad y electr贸nica
+44138467,electricidad y electr贸nica
 44138478,general
 44138489,mantenimiento
 44138524,operaciones
 44138527,general
-44138533,automatizaci髇 y control
+44138533,automatizaci贸n y control
 44138574,general
 44138589,mantenimiento
-44138623,automatizaci髇 y rob髏ica
+44138623,automatizaci贸n y rob贸tica
 44138630,mantenimiento
 44138648,mantenimiento
-44138650,gesti髇
+44138650,gesti贸n
 44138652,mantenimiento
 44138654,mantenimiento
-44138715,metrolog韆
-44138780,dise駉 mecatr髇ico
-44138818,automatizaci髇 y control
+44138715,metrolog铆a
+44138780,dise帽o mecatr贸nico
+44138818,automatizaci贸n y control
 44138855,mantenimiento
 44138863,general
 44138869,mantenimiento
@@ -861,72 +861,72 @@
 44139009,mantenimiento
 44139050,mantenimiento
 44139052,general
-44139058,metrolog韆
-44139142,electricidad y electr髇ica
-44139143,electricidad y electr髇ica
-44139155,automatizaci髇 y control
-44139217,gesti髇
-44139237,electricidad y electr髇ica
-44139242,automatizaci髇 y control
+44139058,metrolog铆a
+44139142,electricidad y electr贸nica
+44139143,electricidad y electr贸nica
+44139155,automatizaci贸n y control
+44139217,gesti贸n
+44139237,electricidad y electr贸nica
+44139242,automatizaci贸n y control
 44139293,general
 44139302,general
 44139318,general
 44139359,mantenimiento
 44139360,mantenimiento
-44139363,gesti髇
-44139381,automatizaci髇 y control
-44139387,dise駉 mecatr髇ico
+44139363,gesti贸n
+44139381,automatizaci贸n y control
+44139387,dise帽o mecatr贸nico
 44139394,operaciones
 44139395,general
-44139400,metrolog韆
-44139409,electricidad y electr髇ica
+44139400,metrolog铆a
+44139409,electricidad y electr贸nica
 44139507,general
-44139532,electricidad y electr髇ica
+44139532,electricidad y electr贸nica
 44139547,general
 44139575,mantenimiento
 44139631,operaciones
 44139682,general
 44139687,general
 44139688,general
-44139689,gesti髇
+44139689,gesti贸n
 44139713,mantenimiento
 44139715,mantenimiento
 44139730,mantenimiento
 44139735,general
-44139744,electricidad y electr髇ica
+44139744,electricidad y electr贸nica
 44139753,mantenimiento
-44139776,electricidad y electr髇ica
+44139776,electricidad y electr贸nica
 44139813,mantenimiento
 44139823,operaciones
 44139843,mantenimiento
 44139849,general
-44139863,energ韆
-44139864,gesti髇
+44139863,energ铆a
+44139864,gesti贸n
 44139888,mantenimiento
 44139895,mantenimiento
-44139902,electricidad y electr髇ica
-44139937,gesti髇
-44139965,electricidad y electr髇ica
+44139902,electricidad y electr贸nica
+44139937,gesti贸n
+44139965,electricidad y electr贸nica
 44139967,mantenimiento
 44139994,mantenimiento
-44140004,gesti髇
+44140004,gesti贸n
 44140033,general
-44140043,electricidad y electr髇ica
-44140044,electricidad y electr髇ica
-44140108,gesti髇
-44140109,gesti髇
+44140043,electricidad y electr贸nica
+44140044,electricidad y electr贸nica
+44140108,gesti贸n
+44140109,gesti贸n
 44140166,mantenimiento
-44140195,gesti髇
-44140199,gesti髇
-44140205,automatizaci髇 y control
+44140195,gesti贸n
+44140199,gesti贸n
+44140205,automatizaci贸n y control
 44140231,mantenimiento
 44140254,mantenimiento
-44140297,metrolog韆
+44140297,metrolog铆a
 44140299,general
-44140305,electricidad y electr髇ica
+44140305,electricidad y electr贸nica
 44140306,mantenimiento
 44140345,operaciones
-44140351,electricidad y electr髇ica
+44140351,electricidad y electr贸nica
 44140356,mantenimiento
 44140390,general
 44140391,general
@@ -936,133 +936,133 @@
 44140479,general
 44140494,mantenimiento
 44140556,operaciones
-44140620,electricidad y electr髇ica
-44140645,electricidad y electr髇ica
+44140620,electricidad y electr贸nica
+44140645,electricidad y electr贸nica
 44140697,mantenimiento
-44140705,automatizaci髇 y control
-44140726,electricidad y electr髇ica
-44140757,automatizaci髇 y control
+44140705,automatizaci贸n y control
+44140726,electricidad y electr贸nica
+44140757,automatizaci贸n y control
 44140835,general
 44140861,operaciones
-44140882,gesti髇
-44140883,automatizaci髇 y control
-44140891,gesti髇
-44140909,dise駉 mecatr髇ico
-44140916,electricidad y electr髇ica
-44140917,metrolog韆
+44140882,gesti贸n
+44140883,automatizaci贸n y control
+44140891,gesti贸n
+44140909,dise帽o mecatr贸nico
+44140916,electricidad y electr贸nica
+44140917,metrolog铆a
 44140946,operaciones
 44140977,general
-44140983,electricidad y electr髇ica
-44141009,metrolog韆
-44141010,automatizaci髇 y control
+44140983,electricidad y electr贸nica
+44141009,metrolog铆a
+44141010,automatizaci贸n y control
 44141034,mantenimiento
 44141082,mantenimiento
 44141086,operaciones
 44141131,general
-44141159,dise駉 mecatr髇ico
+44141159,dise帽o mecatr贸nico
 44141191,mantenimiento
-44141200,automatizaci髇 y control
+44141200,automatizaci贸n y control
 44141227,operaciones
-44141263,automatizaci髇 y rob髏ica
-44141276,automatizaci髇 y control
-44141310,electricidad y electr髇ica
+44141263,automatizaci贸n y rob贸tica
+44141276,automatizaci贸n y control
+44141310,electricidad y electr贸nica
 44141311,general
 44141340,operaciones
 44141360,mantenimiento
 44141388,general
 44141407,general
 44141415,operaciones
-44141417,electricidad y electr髇ica
-44141420,electricidad y electr髇ica
-44141459,metrolog韆
-44141460,automatizaci髇 y control
-44141462,automatizaci髇 y control
+44141417,electricidad y electr贸nica
+44141420,electricidad y electr贸nica
+44141459,metrolog铆a
+44141460,automatizaci贸n y control
+44141462,automatizaci贸n y control
 44141519,general
 44141525,operaciones
-44141586,dise駉 mecatr髇ico
-44141587,electricidad y electr髇ica
-44141607,biomecatr髇ica
+44141586,dise帽o mecatr贸nico
+44141587,electricidad y electr贸nica
+44141607,biomecatr贸nica
 44141629,mantenimiento
-44141637,electricidad y electr髇ica
-44141659,metrolog韆
-44141680,automatizaci髇 y control
+44141637,electricidad y electr贸nica
+44141659,metrolog铆a
+44141680,automatizaci贸n y control
 44141685,operaciones
-44141691,gesti髇
-44141693,automatizaci髇 y rob髏ica
-44141705,gesti髇
+44141691,gesti贸n
+44141693,automatizaci贸n y rob贸tica
+44141705,gesti贸n
 44141752,general
-44141776,automatizaci髇 y control
-44141782,electricidad y electr髇ica
-44141785,electricidad y electr髇ica
-44141836,gesti髇
-44141861,automatizaci髇 y control
+44141776,automatizaci贸n y control
+44141782,electricidad y electr贸nica
+44141785,electricidad y electr贸nica
+44141836,gesti贸n
+44141861,automatizaci贸n y control
 44141865,mantenimiento
-44141964,automatizaci髇 y rob髏ica
+44141964,automatizaci贸n y rob贸tica
 44141967,general
-44142017,electricidad y electr髇ica
-44142030,automatizaci髇 y control
-44142035,electricidad y electr髇ica
-44142058,gesti髇
+44142017,electricidad y electr贸nica
+44142030,automatizaci贸n y control
+44142035,electricidad y electr贸nica
+44142058,gesti贸n
 44142142,mantenimiento
-44142292,electricidad y electr髇ica
+44142292,electricidad y electr贸nica
 44142374,mantenimiento
-44142414,biomecatr髇ica
-44142427,electricidad y electr髇ica
+44142414,biomecatr贸nica
+44142427,electricidad y electr贸nica
 44142436,mantenimiento
 44142491,mantenimiento
 44142495,general
 44142498,operaciones
 44142506,general
-44142515,electricidad y electr髇ica
-44142516,electricidad y electr髇ica
-44142517,metrolog韆
-44142518,dise駉 mecatr髇ico
-44142544,automatizaci髇 y rob髏ica
-44142550,biomecatr髇ica
+44142515,electricidad y electr贸nica
+44142516,electricidad y electr贸nica
+44142517,metrolog铆a
+44142518,dise帽o mecatr贸nico
+44142544,automatizaci贸n y rob贸tica
+44142550,biomecatr贸nica
 44142613,operaciones
-44142629,electricidad y electr髇ica
-44142637,metrolog韆
+44142629,electricidad y electr贸nica
+44142637,metrolog铆a
 44142665,operaciones
-44142680,gesti髇
-44142692,metrolog韆
+44142680,gesti贸n
+44142692,metrolog铆a
 44142707,mantenimiento
-44142742,automatizaci髇 y control
+44142742,automatizaci贸n y control
 44142752,general
-44142753,energ韆
+44142753,energ铆a
 44142754,mantenimiento
-44142798,gesti髇
-44142799,electricidad y electr髇ica
+44142798,gesti贸n
+44142799,electricidad y electr贸nica
 44142902,mantenimiento
 44143034,general
 44143057,mantenimiento
 44143058,mantenimiento
 44143117,mantenimiento
-44143210,electricidad y electr髇ica
-44143214,automatizaci髇 y rob髏ica
-44143252,gesti髇
-44143269,automatizaci髇 y rob髏ica
+44143210,electricidad y electr贸nica
+44143214,automatizaci贸n y rob贸tica
+44143252,gesti贸n
+44143269,automatizaci贸n y rob贸tica
 44143278,mantenimiento
-44143303,electricidad y electr髇ica
+44143303,electricidad y electr贸nica
 44143374,general
-44143382,electricidad y electr髇ica
-44143383,energ韆
+44143382,electricidad y electr贸nica
+44143383,energ铆a
 44143384,mantenimiento
-44143402,electricidad y electr髇ica
+44143402,electricidad y electr贸nica
 44143471,mantenimiento
 44143504,general
-44143541,dise駉 mecatr髇ico
+44143541,dise帽o mecatr贸nico
 44143585,operaciones
-44143626,electricidad y electr髇ica
+44143626,electricidad y electr贸nica
 44143680,mantenimiento
 44143685,mantenimiento
-44143768,electricidad y electr髇ica
-44143792,gesti髇
-44143815,electricidad y electr髇ica
+44143768,electricidad y electr贸nica
+44143792,gesti贸n
+44143815,electricidad y electr贸nica
 44143817,general
 44143818,general
 44143841,mantenimiento
-44143862,automatizaci髇 y control
+44143862,automatizaci贸n y control
 44143886,operaciones
 44143888,general
-44143914,dise駉 mecatr髇ico
-44143926,electricidad y electr髇ica
+44143914,dise帽o mecatr贸nico
+44143926,electricidad y electr贸nica

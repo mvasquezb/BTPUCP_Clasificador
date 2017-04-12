@@ -1,0 +1,21 @@
+activ: 2
+avanc proyect: 1
+cmmi: 2
+control: 4
+coordin: 6
+gerent proyect: 2
+gestion: 8
+gestion proyect: 5
+jef: 6
+jef proyect: 4
+lider: 1
+management: 1
+organiz: 2
+plan: 1
+planif: 2
+planif seguimient control proyect: 1
+planific: 1
+pmbok: 1
+pmp: 3
+proyect: 9
+seguimient: 3

@@ -1,0 +1,59 @@
+: 9
+activ: 1
+administr: 6
+administr bas dat: 1
+administr infraestructur: 1
+administr red: 2
+administr segur: 2
+auditor sistem: 1
+auditori: 1
+cabl estructur: 1
+capacit usuari: 1
+ccna: 1
+cobit: 4
+configur: 2
+continu: 3
+continu negoci: 1
+dat cent: 1
+disponibil: 4
+equip: 8
+establec: 2
+establec polit: 1
+evalu: 3
+hardwar softwar comun: 1
+help desk: 2
+implement: 7
+incident: 2
+inform comun: 1
+infraestructur: 3
+infraestructur tecnolog: 3
+instal: 1
+itil: 3
+lan: 1
+manten: 5
+mes ayud: 1
+nivel servici: 1
+oper red: 2
+oracl: 1
+plan contingent: 1
+plan continu negoci: 1
+planific: 2
+polit segur: 1
+problem: 2
+proces: 6
+red: 6
+red dat: 2
+respald: 2
+respald inform: 1
+riesg: 1
+segur inform: 2
+segur informat: 1
+servici: 7
+servidor: 4
+sistem oper: 1
+soport: 4
+soport tecnic: 1
+soport usuari: 1
+virtualiz: 1
+vpn: 1
+wan: 1

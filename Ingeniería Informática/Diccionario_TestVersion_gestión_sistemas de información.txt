@@ -1,0 +1,11 @@
+anal proces: 1
+analisis: 1
+analisis funcional: 1
+bpm: 1
+co: 1
+funcional: 5
+levant: 1
+levant requer: 1
+proces comercial: 1
+requer: 4
+requer funcional: 1

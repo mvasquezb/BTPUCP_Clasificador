@@ -1,0 +1,21 @@
+activ: 5
+cmmi: 2
+control: 7
+coordin: 15
+coordin reunion: 1
+gestion: 11
+gestion proyect: 4
+jef: 4
+jef proyect: 2
+lider: 1
+lider equip: 1
+organiz: 3
+plan: 5
+plan trabaj: 1
+planif: 2
+planific: 2
+pmp: 1
+proyect: 17
+seguimient: 7
+seguimient proyect: 3
+supervisor: 1

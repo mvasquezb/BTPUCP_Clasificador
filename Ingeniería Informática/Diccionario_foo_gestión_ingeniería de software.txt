@@ -1,0 +1,47 @@
+arquitectur: 7
+arquitectur solucion: 1
+asegur calid: 2
+c: 42
+calid: 23
+calid sistem: 1
+certif: 6
+codif: 3
+codific ejecut prueb unitari: 2
+component: 1
+control calid: 5
+control version: 2
+desarroll: 58
+desarroll manten aplic: 2
+desarroll softwar: 2
+desarroll solucion: 3
+develop: 3
+diseñ: 16
+equip desarroll: 1
+especif tecnic: 3
+establec estandar desarroll: 1
+estandar: 6
+estandar desarroll: 2
+estandar tecnic: 1
+gestion proyect: 11
+implement: 40
+ingenier softwar: 1
+integr: 15
+integr codig fuent: 2
+jav: 5
+manten: 40
+manten softwar: 8
+net: 9
+php: 4
+proces desarroll: 1
+program: 53
+program aplic: 1
+program desarroll manten softwar: 6
+program lenguaj: 1
+program net: 7
+prueb: 10
+prueb unitari: 2
+qa: 3
+quality: 2
+quality assuranc: 2
+technical expertis: 1
+visual basic: 8

@@ -1,0 +1,46 @@
+activ: 136
+administr presupuest: 1
+administr riesg: 1
+alcanc proyect: 2
+analisis riesg: 4
+avanc proyect: 6
+bsc: 1
+cierr negoci: 1
+cmmi: 5
+control: 166
+coordin: 125
+coordin reunion: 1
+desarroll proyect: 8
+dirig: 16
+dirig equip: 2
+gerent proyect: 3
+gestion: 202
+gestion proces: 13
+gestion proyect: 22
+gestion proyect desarroll aplic: 1
+herramient gestion: 6
+indic gestion: 31
+jef: 60
+jef proyect: 22
+lider: 21
+lider equip: 1
+liderazg proyect: 1
+management: 9
+model proces negoci: 1
+organiz: 52
+plan: 75
+plan trabaj: 21
+planif: 24
+planif estrateg: 2
+planific: 33
+pmbok: 1
+pmp: 1
+portafoli proyect: 3
+presupuest are: 1
+project manag: 8
+proyect: 243
+reunion seguimient: 1
+seguimient: 113
+seguimient proyect: 26
+sub gerent: 2
+supervisor: 5

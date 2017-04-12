@@ -1,0 +1,5 @@
+equip biomed: 4
+equip medic: 7
+hospital: 5
+ingeni clinic: 2
+sector salud: 4

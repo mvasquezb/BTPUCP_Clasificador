@@ -1,0 +1,40 @@
+activ: 27
+alcanc proyect: 1
+avanc proyect: 2
+cierr negoci: 1
+control: 67
+coordin: 41
+coordin recurs emple: 4
+desarroll proyect: 4
+direccion coordin recurs: 4
+dirig: 7
+gerent proyect: 4
+gestion: 74
+gestion cambi riesg: 2
+gestion desarroll proyect: 2
+gestion proyect: 11
+herramient gestion: 1
+jef: 55
+jef proyect: 41
+lider: 4
+management: 23
+organiz: 24
+plan: 39
+plan trabaj: 2
+planif: 21
+planif control proyect: 4
+planif control proyect carg: 4
+planif seguimient control proyect: 2
+planific: 10
+pmp: 6
+prepar actualiz cronogram proyect: 2
+project manag: 1
+proyect: 148
+respons cumplimient objet: 4
+respons cumplimient objet establec: 4
+reunion seguimient: 2
+seguimient: 44
+sub gerent: 1
+supervision gui equip: 2
+supervision gui equip proyect: 2
+supervisor: 2

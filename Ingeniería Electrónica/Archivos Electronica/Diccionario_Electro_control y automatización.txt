@@ -1,0 +1,9 @@
+automatiz: 8
+control automat: 1
+control automatiz: 2
+control instrument: 2
+control proces: 17
+instrument control: 5
+sistem control: 5
+sistem instrument: 2
+sistem scad: 2

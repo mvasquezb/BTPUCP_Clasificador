@@ -1,0 +1,35 @@
+: 41
+activ: 5
+administr: 2
+administr bas dat: 1
+aplic estandar: 1
+auditori: 1
+capacit usuari: 2
+configur: 2
+configur softwar: 1
+conoc sistem oper: 1
+continu: 4
+continu negoci: 1
+disponibil: 2
+equip: 12
+establec: 5
+evalu: 2
+implement: 17
+incident: 4
+instal: 3
+investig: 2
+itil: 1
+manten: 6
+mejor proces: 2
+model proces: 1
+nivel servici: 1
+oracl: 15
+plan continu negoci: 1
+planific: 2
+problem: 2
+proces: 18
+riesg: 1
+servici: 10
+servidor: 3
+sistem oper: 4
+soport: 5

@@ -1,0 +1,3 @@
+circuit impres: 4
+diseñ circuit impres: 4
+sistem digital: 3

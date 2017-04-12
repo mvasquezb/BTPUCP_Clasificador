@@ -1,0 +1,94 @@
+abap: 2
+anal funcional: 50
+anal inform: 1
+anal proces: 9
+anal sap: 1
+anal sistem: 55
+analisis: 254
+analisis bas dat: 1
+analisis dat: 7
+analisis diseñ: 16
+analisis financier: 2
+analisis funcional: 22
+analisis funcional proces: 2
+analisis indic: 2
+analisis inform: 15
+analisis proces: 12
+analisis proces negoci: 3
+analiz inform: 11
+analiz requer: 4
+automatiz proces: 14
+automatiz proces negoci: 1
+bi: 30
+bpm: 4
+bpmn: 1
+business intelligenc: 8
+business process management: 1
+co: 9
+consolid inform: 4
+consultor negoci: 4
+crm: 14
+cub: 7
+dat warehous: 3
+datastag: 1
+datawarehous: 4
+desarroll aplic: 24
+diseñ bas dat: 1
+diseñ sistem: 32
+diseñ solucion negoci: 2
+diseñ solucion negoci desarroll implant: 2
+document funcional: 5
+document sistem: 55
+elabor prototip: 1
+especif funcional: 28
+especific requer: 1
+especific requer nivel funcional tecnic: 1
+estrategi sistem: 2
+etl: 4
+evalu requer: 2
+extraccion: 8
+funcional: 205
+gener report: 22
+gestion proces: 13
+herramient analisis: 3
+herramient oracl: 5
+implement sistem: 12
+indic are: 5
+indic gestion: 31
+inteligent comercial: 14
+inteligent negoci: 17
+levant: 121
+levant inform: 94
+levant inform proces: 1
+levant proces: 2
+levant requer: 12
+manej bas dat: 13
+manej proces: 2
+mape proces: 3
+mejor proces: 42
+model: 65
+model dat: 37
+model logic fisic: 1
+model negoci: 3
+model proces: 3
+model proces negoci: 1
+monitore indic: 2
+nuev requer: 5
+oracl: 114
+proces automatiz: 3
+proces comercial: 1
+proces etl: 4
+proces inform: 9
+proces negoci: 10
+product servici financier: 2
+proyect bi: 4
+proyect sistem: 5
+reporting servic: 3
+requer: 456
+requer funcional: 57
+sap: 28
+sap business one: 1
+sistem gestion: 17
+sistem inform: 24
+sistem inform gestion: 2
+teradat: 3

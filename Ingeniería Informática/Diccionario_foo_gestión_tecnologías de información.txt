@@ -1,0 +1,81 @@
+: 278
+activ: 27
+administr: 40
+administr equip: 1
+administr red: 6
+administr servici: 1
+apoy sistem: 1
+apoy usuari: 1
+asterisk: 2
+auditor sistem: 1
+backup: 2
+bcp: 6
+capacit usuari: 1
+centr comput: 1
+configur: 16
+continu: 7
+continu oper: 1
+control segur inform: 1
+dat cent: 1
+dhcp: 1
+disponibil: 4
+dns: 1
+equip: 33
+establec: 26
+establec polit: 3
+evalu: 24
+firewalls: 1
+gestion riesg: 5
+gestor proyect: 3
+help desk: 3
+implement: 40
+incident: 7
+inform comun: 1
+infraestructur: 7
+infraestructur red: 1
+infraestructur tecnolog: 4
+infrastructur: 1
+instal: 10
+instal equip: 1
+instal sistem: 1
+investig: 5
+iso: 1
+lan: 2
+lineamient: 4
+manten: 40
+manten hardwar: 3
+nivel servici: 1
+oper red: 3
+operat equip: 1
+plan contingent: 6
+planific: 10
+plataform informat: 1
+plataform virtualiz: 1
+polit segur: 3
+problem: 7
+proces: 45
+proxy: 1
+red: 23
+red comun: 1
+reemplaz equip: 2
+respald: 6
+riesg: 21
+routers: 1
+segur inform: 9
+servic desk: 1
+servici: 61
+servici corre electron: 1
+servidor: 11
+sistem oper: 8
+soport: 41
+soport aplic: 1
+soport hardwar: 1
+soport sistem: 3
+soport tecnic: 4
+soport usuari: 1
+switch: 1
+tcp: 1
+tcp ip: 1
+telefon ip: 4
+virtualiz: 1
+wan: 2

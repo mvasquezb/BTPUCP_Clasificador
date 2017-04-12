@@ -1,0 +1,112 @@
+agil: 7
+algoritm: 2
+analisis: 254
+analisis diseñ sistem: 2
+analisis levant requer: 8
+analisis requer: 27
+aplic movil: 4
+arquitectur: 76
+arquitectur sistem: 8
+arquitectur softwar: 13
+arquitectur solucion: 4
+asegur calid: 21
+asp net: 3
+automation testing tools: 3
+backend: 1
+bas dat sql serv: 4
+c: 124
+calid: 130
+calid product: 5
+calid sistem: 3
+cas prueb: 4
+certif: 9
+certif softwar: 1
+codif: 2
+codific ejecut prueb unitari: 5
+component: 23
+component softwar: 1
+conoc bas dat: 61
+conoc frameworks: 1
+conoc lenguaj: 1
+conoc uml: 3
+construccion component: 1
+construccion component softwar: 1
+control calid: 63
+correccion defect: 5
+cumplimient tiemp: 1
+desarroll: 228
+desarroll aplic: 24
+desarroll manten aplic: 3
+desarroll softwar: 15
+desarroll solucion: 8
+develop: 3
+developing implementing test plans test cas scripts: 4
+diseñ: 198
+diseñ arquitectur softwar: 1
+diseñ sistem: 32
+document sistem: 55
+ejecut plan prueb aplic desarroll: 1
+elabor cas prueb: 1
+elabor especif funcional: 3
+entend model logic fisic sistem: 1
+equip desarroll: 4
+especif tecnic: 7
+estandar: 46
+estandar construccion: 1
+estandar construccion component softwar: 1
+estandar desarroll: 5
+estandar tecnic: 2
+estructur dat: 1
+framework net: 1
+frameworks: 3
+frontend: 1
+functional manual regression testing: 3
+gestion proyect: 22
+implement: 170
+implement aplic web: 1
+ingenier softwar: 1
+integr: 94
+integr codig fuent: 5
+jav: 125
+jee: 1
+manten: 104
+metodolog agil: 2
+metodolog desarroll: 4
+metodolog desarroll softwar: 2
+mvc: 3
+net: 64
+performanc testing tools: 3
+php: 27
+plan prueb: 8
+plan prueb correccion defect: 5
+proces desarroll: 7
+proces desarroll softwar: 2
+program: 388
+program aplic: 5
+program bas dat: 5
+program lenguaj: 20
+program net: 7
+program orient objet: 1
+prueb: 67
+prueb especial funcional: 1
+prueb integr: 1
+prueb softwar: 1
+prueb unitari: 15
+qa: 15
+quality: 4
+regression testing: 3
+revision codig: 1
+rup: 24
+scrum: 25
+soa: 2
+softwar engin: 7
+soport manten: 6
+test cas: 5
+test cas management: 3
+test plans: 4
+testing tools: 3
+total quality: 4
+uml: 25
+visual basic: 55
+visual studi: 5
+web servic: 4

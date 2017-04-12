@@ -1,0 +1,20 @@
+activ: 3
+cmmi: 3
+control: 12
+coordin: 10
+desarroll proyect: 2
+gestion: 12
+gestion proyect: 2
+indic gestion: 2
+jef: 2
+lider: 1
+lider equip: 1
+management: 1
+model proces negoci: 1
+organiz: 5
+plan: 1
+planif: 2
+planific: 1
+proyect: 8
+seguimient: 10
+supervisor: 5

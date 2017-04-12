@@ -1,0 +1,13 @@
+alta medi baj tension: 1
+banc bat: 1
+energ electr: 3
+gener electr: 2
+grup electrogen: 4
+instal electr: 5
+manten electr: 1
+red electr: 3
+sector electr: 2
+sector energ: 4
+sistem electr: 3
+solucion energ: 4
+variador veloc: 1

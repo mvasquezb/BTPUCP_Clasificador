@@ -1,0 +1,33 @@
+administr red: 14
+administr servidor: 17
+bas dat: 111
+cabl estructur: 24
+certif ccna: 11
+configur firewall: 1
+cor network project: 3
+dat centers: 2
+equip red: 9
+fibr optic: 24
+funcion red: 4
+infraestructur: 92
+infraestructur networking: 4
+instal red: 7
+nod: 6
+proyect telecomun: 19
+red acces: 1
+red dat: 20
+red lan wan: 9
+red movil: 3
+red satelital: 5
+red servici: 7
+red tcp ip: 5
+red telefon: 2
+red transport: 3
+segur informat: 18
+servici voz dat: 1
+sistem oper: 78
+solucion informat: 1
+soport red: 4
+tecnolog inform: 35
+telecomun: 109
+telefon ip: 14

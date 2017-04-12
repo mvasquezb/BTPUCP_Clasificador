@@ -1,0 +1,45 @@
+anal funcional: 1
+anal proces: 2
+anal sistem: 1
+analisis: 17
+analisis dat: 4
+analisis diseñ: 4
+analisis inform: 3
+analisis proces: 2
+analiz inform: 1
+automatiz proces: 1
+bi: 2
+bpm: 1
+bpmn: 1
+business intelligenc: 3
+consultor negoci: 1
+crm: 1
+dat warehous: 1
+datamining: 1
+datawarehous: 1
+diseñ sistem: 2
+extraccion: 2
+funcional: 5
+gener report: 4
+indic are: 1
+indic gestion: 2
+inteligent comercial: 1
+levant: 8
+levant inform: 4
+levant proces: 1
+manej bas dat: 1
+mejor proces: 2
+model: 7
+model dat: 1
+model negoci: 1
+model proces: 2
+model proces negoci: 1
+olap: 1
+proces automatiz: 1
+proces negoci: 2
+reporting servic: 1
+requer: 8
+sap: 7
+sap business one: 1
+sistem gestion: 1
+sistem inform: 1

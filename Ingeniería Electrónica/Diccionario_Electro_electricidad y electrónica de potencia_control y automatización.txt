@@ -1,0 +1,3 @@
+automatiz: 7
+control automatiz: 1
+control proces: 1

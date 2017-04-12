@@ -1,0 +1,25 @@
+: 2001
+administr: 13
+administr red: 1
+auditori: 3
+bcp: 60
+cabl estructur: 2
+disponibil: 1
+equip: 1
+helpdesk: 1
+incident: 1
+infraestructur: 2
+instal: 2
+lan: 1
+proces: 1
+red: 2
+red comun: 1
+riesg: 10
+segur inform: 12
+servici: 76
+servidor: 3
+soport: 13
+soport tecnic: 5
+soport usuari: 1
+telefon ip: 1
+wan: 1

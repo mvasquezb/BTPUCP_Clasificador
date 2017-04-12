@@ -14,7 +14,7 @@ def guardar_dicc(carrera,dicc_ofertas):
             f.write(categoria+".txt\n")
 
     for categoria in dicc_ofertas:        
-        with open(carrera+'/diccProfeABCD/'+categoria+'.txt','w',-1,'utf-8')as f:
+        with open(carrera+'/diccProfeABCD/'+categoria+'.txt','w',-1,'utf-8') as f:
             for elem in dicc_ofertas[categoria]:
                 f.write(elem)
                 f.write("\n")

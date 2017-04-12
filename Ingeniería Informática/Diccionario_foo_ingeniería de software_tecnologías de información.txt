@@ -1,0 +1,34 @@
+: 619
+administr: 5
+backup: 1
+bcp: 3
+centr dat: 1
+continu: 2
+equip: 6
+establec: 3
+evalu: 3
+helpdesk: 1
+implement: 10
+incident: 3
+infraestructur: 5
+infraestructur red: 1
+infraestructur tecnolog: 3
+investig: 1
+iso: 3
+itil: 4
+lineamient: 3
+manten: 17
+mes ayud: 2
+problem: 2
+proces: 5
+red: 4
+respald: 1
+riesg: 4
+segur inform: 4
+segur informat: 1
+servici: 11
+servidor: 1
+sistem oper: 3
+soport: 8
+soport aplic: 1
+soport usuari: 3

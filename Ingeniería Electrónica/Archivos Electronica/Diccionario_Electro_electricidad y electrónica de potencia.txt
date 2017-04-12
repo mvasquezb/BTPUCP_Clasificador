@@ -1,0 +1,26 @@
+alta medi baj tension: 1
+central hidroelectr: 5
+convertidor frecuenci: 2
+energ electr: 4
+equip electr: 2
+equip industrial: 3
+gener electr: 2
+grup electrogen: 4
+instal electr: 7
+manten electr: 5
+maquin electr: 2
+motor electr: 2
+plan electr: 7
+proyect electr: 4
+rubr electr: 3
+sector electr: 12
+sector energ: 5
+servici electr: 1
+sistem electr: 7
+sistem puest tierr: 1
+subest: 5
+subest electr: 2
+suministr electr industrial: 2
+tabler electr: 1
+turbin eolic: 1
+variador veloc: 4

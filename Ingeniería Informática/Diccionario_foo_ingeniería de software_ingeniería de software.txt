@@ -1,0 +1,49 @@
+agil: 8
+andro: 9
+architectural design: 2
+arquitectur: 1
+asegur calid: 4
+bas dat sql serv: 2
+c: 377
+calid: 5
+certif: 1
+cod review: 2
+codif: 1
+conoc frameworks: 3
+conoc lenguaj: 3
+desarroll: 32
+desarroll andro: 1
+desarroll manten sistem: 1
+desarroll softwar: 3
+develop: 14
+diseñ: 15
+eclips: 2
+estandar: 7
+framework net: 3
+frameworks: 3
+frontend: 6
+implement: 10
+integr: 1
+interacts qa engineers: 2
+ios: 2
+jav: 80
+manten: 17
+metodolog agil: 3
+metodolog desarroll: 3
+metodolog desarroll softwar: 3
+net: 41
+php: 15
+program: 178
+program aplic: 1
+program net: 12
+program orient objet: 1
+prueb: 5
+prueb softwar: 1
+qa: 10
+quality: 3
+rup: 3
+scrum: 3
+soa: 1
+softwar engin: 5
+test cas: 1
+visual basic: 20

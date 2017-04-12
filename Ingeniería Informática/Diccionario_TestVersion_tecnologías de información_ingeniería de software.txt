@@ -1,0 +1,14 @@
+analisis: 2
+calid: 2
+certif: 2
+conoc bas dat: 1
+desarroll: 6
+desarroll aplic: 1
+diseñ: 5
+implement: 7
+integr: 2
+jav: 1
+manten: 5
+php: 1
+program: 3
+visual basic: 1

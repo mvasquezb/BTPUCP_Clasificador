@@ -1,4 +1,4 @@
-ingenierÃ­a de software.txt
-gestiÃ³n.txt
-sistemas de informaciÃ³n.txt
-tecnologÃ­as de informaciÃ³n.txt
+ingeniería de software.txt
+sistemas de información.txt
+tecnologías de información.txt
+gestión.txt

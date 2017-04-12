@@ -1,0 +1,36 @@
+: 41
+activ: 3
+administr: 13
+administr bas dat: 1
+administr servici: 2
+bcp: 1
+capacit usuari: 1
+cobit: 1
+configur: 1
+continu: 1
+disponibil: 2
+equip: 6
+establec: 6
+evalu: 4
+gestion servici: 1
+implement: 7
+incident: 3
+instal: 2
+investig: 2
+iso: 3
+manten: 10
+mejor proces: 2
+model proces: 2
+planific: 1
+problem: 4
+proces: 18
+red: 2
+red dat: 1
+riesg: 4
+segur inform: 1
+segur informat: 1
+servic desk: 1
+servici: 13
+servidor: 3
+sistem oper: 2
+soport: 11

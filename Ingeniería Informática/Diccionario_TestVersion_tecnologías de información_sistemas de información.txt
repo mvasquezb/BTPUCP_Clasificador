@@ -1,0 +1,10 @@
+analisis: 2
+analisis diseñ: 1
+automatiz proces: 1
+desarroll aplic: 1
+implement sistem: 1
+oracl: 1
+proces negoci: 2
+requer: 3
+sap: 1
+sistem inform: 2
