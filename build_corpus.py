@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 import sys
 import csv
 import os
@@ -85,11 +86,12 @@ class OfferCSV:
 
 
 def usage(args, help=False):
-    if args[1] == '--tag' or help:
+    arg_num = len(args)
+    if arg_num < 2 or (args[1] == '--tag' or help):
         print("Usage: python3 {name} --tag untagged_data_file tagged_id_file tagged_out_file untagged_out_file"
-          .format(name=args[0]))
+              .format(name=args[0]))
 
-    if args[1] == '--merge' or help:
+    if arg_num < 2 or (args[1] == '--merge' or help):
         print("Usage: python3 {name} --merge in_file in_file ... out_file".format(name=args[0]))
 
 
@@ -148,11 +150,16 @@ def main(args=None):
     if args is None:
         args = sys.argv
 
+    if len(args) < 2:
+        usage(args, help=True)
+        return
+
     if args[1] not in ['--help', '-h', '--tag', '--merge']:
         usage(args, help=True)
+        return
 
     if len(args) == 2 and args[1] in ['--help', '-h']:
-        usage(args[0], help=True)
+        usage(args, help=True)
         return
 
     if args[1] == '--tag':
