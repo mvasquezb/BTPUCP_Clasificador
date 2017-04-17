@@ -4,7 +4,7 @@ import math
 import sys
 
 from sklearn import metrics
-from sklearn import cross_validation
+from sklearn import model_selection
 
 from clasificador_categorias import Maximizador
 from input_output_text import Input_Output
@@ -93,15 +93,18 @@ class Core():
                 for palabra in diccionario[cat]:
                     # print("Palabra:",palabra)
                     # print("Titulo:",oferta[titulo])
-                    tf = self._count_word(str(oferta[titulo]), str(palabra))
+                    palabra = str(palabra)
+                    tf = self._count_word(str(oferta[titulo]), palabra)
+                    tf += self._count_word(str(oferta[descripcion]), palabra)
                     tf += self._count_word(
-                        str(oferta[descripcion]), str(palabra))
-                    tf += self._count_word(
-                        str(oferta[requerimientos]), str(palabra))
+                        str(oferta[requerimientos]),
+                        palabra
+                    )
                     if tf > maximo:
                         maximo = tf
-                    TF_IDF[Id][cat][diccionario[cat].index(
-                        palabra)] = int(tf) * idf[palabra]
+                    TF_IDF[Id][cat][
+                        diccionario[cat].index(palabra)
+                    ] = int(tf) * idf[palabra]
                     # se agrega la cantidad en la posición correspondiente
                 max_frec[Id][cat] = maximo
 
@@ -161,18 +164,22 @@ class Core():
         data = self.tranformarDataALista(TF_IDF, categorias)
         expected = self.obtenerCategoriasEsperadas(TF_IDF, dataEtiquetada)
 
-        clasificador = Maximizador(0, "defaultValue", categorias)
+        clasificador = Maximizador(intValue=0, categorias=categorias)
 
         # data contiene [[[],[],[],...,[]],[[],[],[],...,[]],...,[[],[],[],...,[]]]
         # Siendo el primer indice, la oferta, el segundo indice la categoria, y
         # el tercer indice el TF_IDF
-        predicted = cross_validation.cross_val_predict(
-            clasificador, data, expected, cv=10)
+        predicted = model_selection.cross_val_predict(
+            clasificador,
+            data,
+            expected,
+            cv=10
+        )
 
-        reporte, matriz_confusion = self.mostrarResultados(
+        reporte, confusion_matrix = self.mostrarResultados(
             clasificador, expected, predicted)
 
-        return clasificador, reporte, matriz_confusion
+        return clasificador, reporte, confusion_matrix
 
     def crearMatriz(self, diccionario, categorias, predicted, ofertas):
 
@@ -231,7 +238,8 @@ class Core():
         data = self.tranformarDataALista(TF_IDF, categorias)
         predicted = clasificador.predict(data)
 
-        matrizConocimientos, conteo_Categorias_Palabras = self.crearMatriz(
+        (matrizConocimientos,
+         conteo_Categorias_Palabras) = self.crearMatriz(
             diccionario,
             categorias,
             predicted,
@@ -270,7 +278,7 @@ class Core():
         # clasificador=self.io.leerClasificador(categorias)
 
         print(clasificador.categorias)
-        print(clasificador.clasificadores.keys())
+        print(list(clasificador.clasificadores.keys()))
 
         print("Se finalizó la etapa de entrenamiento")
         unlabelled_dataset = self.io.obtenerDatasetAClasificar(filename)

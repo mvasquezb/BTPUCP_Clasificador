@@ -8,7 +8,7 @@ class Maximizador(BaseEstimator, ClassifierMixin):
 
     def __init__(self,
                  intValue=0,
-                 stringParam="defaultValue",
+                 stringParam=None,
                  categorias=list()):
         self.intValue = intValue
         self.stringParam = stringParam
