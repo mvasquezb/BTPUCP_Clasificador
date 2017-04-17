@@ -1,5 +1,6 @@
 from sklearn.base import BaseEstimator, ClassifierMixin
 from sklearn.naive_bayes import BernoulliNB
+from sklearn.neighbors import KNeighborsClassifier
 
 
 class Maximizador(BaseEstimator, ClassifierMixin):
@@ -15,7 +16,10 @@ class Maximizador(BaseEstimator, ClassifierMixin):
 
         self.categorias = categorias
         for categoria in self.categorias:
-            self.clasificadores[categoria] = BernoulliNB()
+            self.clasificadores[categoria] = KNeighborsClassifier(
+                n_neighbors=len(self.categorias)
+            )
+            # self.clasificadores[categoria] = BernoulliNB()
             # self.clasificadores[categoria]=svm.SVC(probability=True)
             # self.clasificadores[categoria]=LogisticRegression(C=1.0,penalty='l2',solver='liblinear',multi_class='ovr',n_jobs=3)
 
@@ -29,18 +33,17 @@ class Maximizador(BaseEstimator, ClassifierMixin):
         return etiquetas
 
     def create_dataXcategoria(self, data):
-        dataXcategoria = {}
-        for categoria in self.categorias:
-            dataXcategoria[categoria] = []
+        dataXcategoria = {
+            categoria: []
+            for categoria in self.categorias
+        }
 
         # data contiene [[[],[],[],...,[]],[[],[],[],...,[]],...,[[],[],[],...,[]]]
         # Siendo el primer indice, la oferta, el segundo indice, la categoria,
         # y el tercer indice el TF_IDF
         for oferta in data:
-            for indCategoria in range(len(self.categorias)):
-                dataXcategoria[self.categorias[indCategoria]].append(
-                    oferta[indCategoria]
-                )
+            for indCategoria, categoria in enumerate(self.categorias):
+                dataXcategoria[categoria].append(oferta[indCategoria])
 
         return dataXcategoria
 
@@ -58,7 +61,8 @@ class Maximizador(BaseEstimator, ClassifierMixin):
         predicted = {}
         for categoria in self.categorias:
             predicted[categoria] = self.clasificadores[
-                categoria].predict_proba(dataXcategoria[categoria])
+                categoria
+            ].predict_proba(dataXcategoria[categoria])
             # print(self.clasificadores[categoria].classes_)  #permite saber el
             # orden de las clases en el predict_proba
         return predicted
@@ -66,14 +70,15 @@ class Maximizador(BaseEstimator, ClassifierMixin):
     def clasificarData(self, data, predicted):
         dataClasificada = []
         for oferta in range(len(data)):
-            probabilidades = list()
+            probabilidades = []
             for categoria in self.categorias:
-                if(categoria < "null"):
+                if categoria < "null":
                     indice_probabilidad = 0
                 else:
                     indice_probabilidad = 1
-                probabilidades.append(predicted[categoria][
-                                      oferta][indice_probabilidad])
+                probabilidades.append(
+                    predicted[categoria][oferta][indice_probabilidad]
+                )
 
             categoria_escogida = probabilidades.index(max(probabilidades))
             dataClasificada.append(self.categorias[categoria_escogida])
