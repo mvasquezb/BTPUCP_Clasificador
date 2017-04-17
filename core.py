@@ -13,11 +13,11 @@ from input_output_text import Input_Output
 class Core():
     carrera = ""
     categorias = list()
-    input_output = None
+    io = None
 
     def __init__(self, carrera):
         self.carrera = carrera
-        self.input_output = Input_Output()
+        self.io = Input_Output()
 
     def _count_word(self, text, search):
         '''Esta funcion cuenta de manera exacta la palabra en el texto
@@ -232,7 +232,11 @@ class Core():
         predicted = clasificador.predict(data)
 
         matrizConocimientos, conteo_Categorias_Palabras = self.crearMatriz(
-            diccionario, categorias, predicted, ofertas)
+            diccionario,
+            categorias,
+            predicted,
+            ofertas
+        )
 
         return predicted, matrizConocimientos, conteo_Categorias_Palabras
 
@@ -240,14 +244,15 @@ class Core():
         (dataEtiquetada,
          dataset,
          diccionario,
-         categorias) = self.input_output.obtenerUtilidades(self.carrera)
+         categorias) = self.io.obtenerUtilidades(self.carrera)
 
         TF_IDF = self.calcularTF_IDF(diccionario, dataset, categorias)
+
         (clasificador,
          res1,
          res2) = self.entrenamiento(TF_IDF, dataEtiquetada, categorias)
 
-        # self.input_output.grabarClasificador(clasificador)
+        # self.io.grabarClasificador(clasificador)
 
         return res1, res2
 
@@ -255,27 +260,41 @@ class Core():
         (dataEtiquetada,
          dataset,
          diccionario,
-         categorias) = self.input_output.obtenerUtilidades(self.carrera)
+         categorias) = self.io.obtenerUtilidades(self.carrera)
 
         TF_IDF = self.calcularTF_IDF(diccionario, dataset, categorias)
         (clasificador,
          res1,
          res2) = self.entrenamiento(TF_IDF, dataEtiquetada, categorias)
 
-        # clasificador=self.input_output.leerClasificador(categorias)
+        # clasificador=self.io.leerClasificador(categorias)
 
         print(clasificador.categorias)
         print(clasificador.clasificadores.keys())
 
         print("Se finalizó la etapa de entrenamiento")
-        datasetAClasificar = self.input_output.obtenerDatasetAClasificar(
-            filename)
-        predicted, mat_con, conteo_Categorias_Palabras = self.predecir(
-            clasificador, datasetAClasificar, diccionario, categorias)
-        self.input_output._imprimirPredicted(
-            datasetAClasificar, predicted, filename, self.carrera)
-        self.input_output._imprimirDiccionarios(
-            conteo_Categorias_Palabras, categorias, filename, self.carrera)
+        unlabelled_dataset = self.io.obtenerDatasetAClasificar(filename)
+
+        (predicted,
+         mat_con,
+         conteo_Categorias_Palabras) = self.predecir(
+            clasificador,
+            unlabelled_dataset,
+            diccionario,
+            categorias
+        )
+        self.io._imprimirPredicted(
+            unlabelled_dataset,
+            predicted,
+            filename,
+            self.carrera
+        )
+        self.io._imprimirDiccionarios(
+            conteo_Categorias_Palabras,
+            categorias,
+            filename,
+            self.carrera
+        )
         return mat_con
 
 
