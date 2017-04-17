@@ -192,10 +192,7 @@ class Core():
             for categoria in categorias:
                 conteo_Categorias_Palabras[categoriaEtiqueta][categoria] = {}
 
-        matriz_conocimientos = [
-            [0 for x in range(len(categorias))]
-            for x in range(len(categorias))
-        ]
+        matriz_conocimientos = [[0] * len(categorias)] * len(categorias)
 
         titulo = 1
         descripcion = 2
