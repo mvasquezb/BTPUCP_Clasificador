@@ -12,7 +12,7 @@ class DataLoader:
     def __init__(self):
         self.procesadorTextos = TextProcessor()
 
-    def limpiarDataset(self, dataset):
+    def clean_dataset(self, dataset):
         """Quita los signos de puntuación, pasa todo a minúsculas,
         quita los números, elimina los stopwords(inglés y español)
         y pasa todas las palabras a forma raíz."""
@@ -58,7 +58,7 @@ class DataLoader:
             for oferta in ofertas:
                 if int(oferta[Id]) in dataEtiquetada.keys():
                     dataset.append(oferta)
-        return self.limpiarDataset(dataset)
+        return self.clean_dataset(dataset)
 
     def obtenerCategorias(self, carrera):
         "Obtiene las categorías que pertenecen a la carrera escogida."
@@ -72,7 +72,7 @@ class DataLoader:
         categorias.sort()
         return categorias
 
-    def obtenerDiccionario(self, carrera):
+    def get_dictionary(self, carrera):
         dicc_ofertas = dict()
 
         with open(carrera + "/diccProfeABCD/diccionarios.txt",
@@ -99,11 +99,11 @@ class DataLoader:
 
         return dicc_ofertas
 
-    def getDataForCareer(self, carrera):
+    def get_data_for_career(self, carrera):
         dataEtiquetada = self.obtenerDataEtiquetada(carrera)
         dataset = self.obtenerDataset(dataEtiquetada, carrera)
         categorias = self.obtenerCategorias(carrera)
-        diccionario = self.obtenerDiccionario(carrera)
+        diccionario = self.get_dictionary(carrera)
 
         return dataEtiquetada, dataset, diccionario, categorias
 
@@ -123,7 +123,7 @@ class DataLoader:
                 f.write("%s: %s\n" %
                         (datasetClasificado[i][indID], predicted[i]))
 
-    def printDictionaries(self,
+    def print_dictionaries(self,
                               cat_word_count,
                               categorias,
                               filename,
@@ -176,4 +176,4 @@ class DataLoader:
                 # Assume csv
                 dataset = self._read_csv(f)
 
-        return self.limpiarDataset(dataset)
+        return self.clean_dataset(dataset)

@@ -6,106 +6,106 @@ from utils import open_filename
 
 
 class DataLoader:
+    def __init__(self, root='.'):
+        self.root = root
+        self.textProcessor = TextProcessor()
 
-    procesadorTextos = None
+    def clean_dataset(self, dataset, inplace=False):
+        """
+        Merge offer attributes and preprocess text
+        """
 
-    def __init__(self):
-        self.procesadorTextos = TextProcessor()
+        new_data = dataset if inplace else dataset.copy()
+        for key, offer in new_data.items():
+            new_data[key] = ' '.join(
+                set(self.textProcessor.tokenize(' '.join(offer)))
+            )
 
-    def limpiarDataset(self, dataset):
-        """Quita los signos de puntuación, pasa todo a minúsculas,
-        quita los números, elimina los stopwords(inglés y español)
-        y pasa todas las palabras a forma raíz."""
+        return new_data
 
-        Id = 0
-        for oferta in dataset:
-            oferta[Id] = oferta[Id].replace("\ufeff", "")
-            numAtributos = len(oferta)
-            for attr in range(1, numAtributos):
-                oferta[attr] = self.procesadorTextos.preprocessText(
-                    oferta[attr]
-                )
-                # oferta[attr] = self.procesadorTextos.lematizeText(oferta[attr])
-                oferta[attr] = self.procesadorTextos.stemText(oferta[attr])
-
-        return dataset
-
-    def obtenerDataEtiquetada(self, carrera):
+    def get_labelled_data(self, carrera):
         "Lee de un archivo la etiqueta que le corresponde a cada oferta."
 
-        dataEtiquetada = {}
+        labelledData = {}
         Id = 0
         categoria = 1
 
-        with open(carrera + '/dataEtiquetadaABCD.txt') as f:
-            ofertas = csv.reader(f)
-            for oferta in ofertas:
-                dataEtiquetada[int(oferta[Id])] = oferta[categoria].lower()
-        return dataEtiquetada
+        with open(str(OSPath(
+            self.root, carrera, 'dataEtiquetadaABCD.txt')
+        )) as f:
+            offers = csv.reader(f)
+            for offer in offers:
+                labelledData[int(offer[Id])] = offer[categoria].lower()
+        return labelledData
 
-    def obtenerDataset(self, dataEtiquetada, carrera):
+    def get_dataset(self, labelledData, carrera):
         """
         Lee las ofertas desde el archivo ofertasCSV.txt
         y las inserta en una lista.
         """
 
         Id = 0
-        dataset = []
-        with open(carrera + '/dataEntrenamiento.csv') as f:
-            ofertas = csv.reader(f)
+        dataset = {}
+        with open(str(OSPath(
+            self.root, carrera, 'dataEntrenamiento.csv')
+        )) as f:
+            offers = csv.reader(f)
             # Skip header
-            next(ofertas)
-            for oferta in ofertas:
-                if int(oferta[Id]) in dataEtiquetada.keys():
-                    dataset.append(oferta)
-        return self.limpiarDataset(dataset)
+            next(offers)
+            for offer in offers:
+                if int(offer[Id]) in labelledData.keys():
+                    dataset[int(offer[Id])] = offer[1:]
 
-    def obtenerCategorias(self, carrera):
+        return self.clean_dataset(dataset)
+
+    def get_categories(self, carrera):
         "Obtiene las categorías que pertenecen a la carrera escogida."
 
         categorias = []
 
-        with open(carrera + '/categorias.txt') as f:
+        with open(str(OSPath(self.root, carrera, 'categorias.txt'))) as f:
             for categoria in f:
                 categoria = categoria.lower()
                 categorias.append(categoria.replace("\n", ""))
         categorias.sort()
         return categorias
 
-    def obtenerDiccionario(self, carrera):
-        dicc_ofertas = dict()
+    def get_dictionary(self, carrera, encoding='ISO-8859-1'):
+        dicc_offers = {}
 
-        with open(carrera + "/diccProfeABCD/diccionarios.txt",
-                  encoding='ISO-8859-1') as f1:
+        with open(self.root + '/' + carrera + "/diccProfeABCD/diccionarios.txt",
+                  encoding=encoding) as f1:
             lineas = f1.readlines()
             for categoria in lineas:
                 categoria = categoria.replace("\n", "")
                 print("Diccionarios-", categoria)
-                with open(carrera + "/diccProfeABCD/" + categoria,
+                with open(self.root + '/' + carrera + "/diccProfeABCD/" + categoria,
                           encoding='ISO-8859-1') as f2:
                     categoria = categoria.replace(".txt", "")
-                    if categoria not in dicc_ofertas.keys():
-                        dicc_ofertas[categoria] = set()
+                    if categoria not in dicc_offers.keys():
+                        dicc_offers[categoria] = set()
 
                     for linea in f2.read().splitlines():
-                        linea = self.procesadorTextos.preprocessText(linea)
-                        # cadena_procesada = self.procesadorTextos.lematizeText(linea)
-                        cadena_procesada = self.procesadorTextos.stemText(
+                        linea = self.textProcessor.preprocessText(linea)
+                        cadena_procesada = self.textProcessor.stemText(
                             linea)
-                        dicc_ofertas[categoria].add(cadena_procesada)
+                        dicc_offers[categoria].add(cadena_procesada)
 
-        for cat in dicc_ofertas.keys():
-            dicc_ofertas[cat] = list(dicc_ofertas[cat])
+        for cat in dicc_offers.keys():
+            dicc_offers[cat] = list(dicc_offers[cat])
 
-        return dicc_ofertas
+        return dicc_offers
 
-    def getDataForCareer(self, carrera):
-        dataEtiquetada = self.obtenerDataEtiquetada(carrera)
-        dataset = self.obtenerDataset(dataEtiquetada, carrera)
-        categorias = self.obtenerCategorias(carrera)
-        diccionario = self.obtenerDiccionario(carrera)
+    def get_data_for_career(self, career):
+        # labelled_data = self.get_labelled_data(career)
+        # dataset = self.get_dataset(labelled_data, career)
+        # categories = self.get_categories(career)
+        # dictionary = self.get_dictionary(career)
 
-        return dataEtiquetada, dataset, diccionario, categorias
+        # return labelled_data, dataset, dictionary, categories
+        labelled_data = self.get_labelled_data(career)
+        dataset = self.get_dataset(labelled_data, career)
+        return dataset
 
     def printPredicted(self,
                        datasetClasificado,
@@ -117,50 +117,53 @@ class DataLoader:
         firstElement = 0
         nombArchivo = nombArchivo_Extension.split(".")[firstElement]
         indID = 0
-        with open(carrera + "/DataClasificada_" +
+        with open(self.root + '/' + carrera + "/DataClasificada_" +
                   nombArchivo + ".txt", 'w') as f:
             for i in range(len(datasetClasificado)):
                 f.write("%s: %s\n" %
                         (datasetClasificado[i][indID], predicted[i]))
 
-    def printDictionaries(self,
-                              cat_word_count,
-                              categorias,
-                              filename,
-                              carrera):
+    def print_dictionaries(self,
+                           cat_word_count,
+                           categorias,
+                           filename,
+                           carrera):
         division_Carpetas = filename.split("/")
         nombArchivo_Extension = division_Carpetas[len(division_Carpetas) - 1]
         firstElement = 0
         nombArchivo = nombArchivo_Extension.split(".")[firstElement]
         for categoriaEtiqueta in categorias:
             for categoria in categorias:
-                with open(carrera + "/Diccionario_" + nombArchivo + "_" +
+                with open(self.root + '/' + carrera + "/Diccionario_" + nombArchivo + "_" +
                           categoriaEtiqueta + "_" +
                           categoria + ".txt", 'w') as f:
                     for palabra in sorted(cat_word_count[categoriaEtiqueta][categoria].keys()):
                         f.write("%s: %d\n" % (
                             palabra, cat_word_count[categoriaEtiqueta][categoria][palabra]))
 
-    def _read_excel(self, filename):
+    def _read_excel_dataset(self, filename):
         dataset = []
 
         wb = openpyxl.load_workbook(filename)
         sheets = wb.get_sheet_names()
-        sheetAviso = wb.get_sheet_by_name(sheets[0])
-        maxFilas = sheetAviso.max_row + 1
-        maxColumnas = sheetAviso.max_column + 1
+        offer_sheet = wb.get_sheet_by_name(sheets[0])
+        max_rows = offer_sheet.max_row + 1
+        max_columns = offer_sheet.max_column + 1
 
-        for num_oferta in range(2, maxFilas):
-            fila = []
-            for nColumna in range(1, maxColumnas):
-                fila.append(
-                    str(sheetAviso.cell(row=num_oferta, column=nColumna).value)
+        for offer_number in range(2, max_rows):
+            row = []
+            for col_number in range(1, max_columns):
+                row.append(
+                    str(offer_sheet.cell(
+                        row=offer_number,
+                        column=col_number
+                    ).value)
                 )
-            dataset.append(fila)
+            dataset.append(row)
 
         return dataset
 
-    def _read_csv(self, filename):
+    def _read_csv_dataset(self, filename):
         dataset = []
 
         return dataset
@@ -171,9 +174,9 @@ class DataLoader:
         with open_filename(filename, 'rb') as f:
             path = OSPath(f.name)
             if path.suffix == '.xlsx':
-                dataset = self._read_excel(f)
+                dataset = self._read_excel_dataset(f)
             else:
                 # Assume csv
-                dataset = self._read_csv(f)
+                dataset = self._read_csv_dataset(f)
 
-        return self.limpiarDataset(dataset)
+        return self.clean_dataset(dataset)

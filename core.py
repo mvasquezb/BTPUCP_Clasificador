@@ -248,7 +248,7 @@ class Core():
         (dataEtiquetada,
          dataset,
          diccionario,
-         categorias) = self.io.getDataForCareer(self.carrera)
+         categorias) = self.io.get_data_for_career(self.carrera)
 
         TF_IDF = self.calcularTF_IDF(diccionario, dataset, categorias)
 
@@ -264,7 +264,7 @@ class Core():
         (dataEtiquetada,
          dataset,
          diccionario,
-         categorias) = self.io.getDataForCareer(self.carrera)
+         categorias) = self.io.get_data_for_career(self.carrera)
 
         TF_IDF = self.calcularTF_IDF(diccionario, dataset, categorias)
         (clasificador,
@@ -293,7 +293,7 @@ class Core():
             filename,
             self.carrera
         )
-        self.io.printDictionaries(
+        self.io.print_dictionaries(
             conteo_Categorias_Palabras,
             categorias,
             filename,
