@@ -1,6 +1,8 @@
 import csv
 import openpyxl
 from textprocessor import TextProcessor
+from pathlib import Path as OSPath
+from utils import open_filename
 
 
 class DataLoader:
@@ -97,7 +99,7 @@ class DataLoader:
 
         return dicc_ofertas
 
-    def obtenerUtilidades(self, carrera):
+    def getDataForCareer(self, carrera):
         dataEtiquetada = self.obtenerDataEtiquetada(carrera)
         dataset = self.obtenerDataset(dataEtiquetada, carrera)
         categorias = self.obtenerCategorias(carrera)
@@ -105,11 +107,11 @@ class DataLoader:
 
         return dataEtiquetada, dataset, diccionario, categorias
 
-    def _imprimirPredicted(self,
-                           datasetClasificado,
-                           predicted,
-                           filename,
-                           carrera):
+    def printPredicted(self,
+                       datasetClasificado,
+                       predicted,
+                       filename,
+                       carrera):
         division_Carpetas = filename.split("/")
         nombArchivo_Extension = division_Carpetas[len(division_Carpetas) - 1]
         firstElement = 0
@@ -121,7 +123,7 @@ class DataLoader:
                 f.write("%s: %s\n" %
                         (datasetClasificado[i][indID], predicted[i]))
 
-    def _imprimirDiccionarios(self,
+    def printDictionaries(self,
                               cat_word_count,
                               categorias,
                               filename,
@@ -139,15 +141,15 @@ class DataLoader:
                         f.write("%s: %d\n" % (
                             palabra, cat_word_count[categoriaEtiqueta][categoria][palabra]))
 
-    def obtenerDatasetAClasificar(self, filename):
-        "Se lee un archivo Excel con las ofertas a clasificar"
-
+    def _read_excel(self, filename):
         dataset = []
+
         wb = openpyxl.load_workbook(filename)
         sheets = wb.get_sheet_names()
         sheetAviso = wb.get_sheet_by_name(sheets[0])
         maxFilas = sheetAviso.max_row + 1
         maxColumnas = sheetAviso.max_column + 1
+
         for num_oferta in range(2, maxFilas):
             fila = []
             for nColumna in range(1, maxColumnas):
@@ -155,5 +157,23 @@ class DataLoader:
                     str(sheetAviso.cell(row=num_oferta, column=nColumna).value)
                 )
             dataset.append(fila)
+
+        return dataset
+
+    def _read_csv(self, filename):
+        dataset = []
+
+        return dataset
+
+    def getUnlabelledData(self, filename):
+        "Se lee un archivo Excel con las ofertas a clasificar"
+
+        with open_filename(filename, 'rb') as f:
+            path = OSPath(f.name)
+            if path.suffix == '.xlsx':
+                dataset = self._read_excel(f)
+            else:
+                # Assume csv
+                dataset = self._read_csv(f)
 
         return self.limpiarDataset(dataset)

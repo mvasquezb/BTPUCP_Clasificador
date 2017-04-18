@@ -7,7 +7,7 @@ from sklearn import metrics
 from sklearn import model_selection
 
 from clasificador_categorias import Maximizador
-from DataLoader_text import DataLoader
+from input_output_text import DataLoader
 
 
 class Core():
@@ -44,7 +44,6 @@ class Core():
                     print("No hay palabras de la categoria " + cat)
                 else:
                     TF_IDF[ID][cat] = [0] * len(diccionario[cat])
-
         return TF_IDF
 
     def calcular_idf(self, dataset, diccionario):
@@ -249,7 +248,7 @@ class Core():
         (dataEtiquetada,
          dataset,
          diccionario,
-         categorias) = self.io.obtenerUtilidades(self.carrera)
+         categorias) = self.io.getDataForCareer(self.carrera)
 
         TF_IDF = self.calcularTF_IDF(diccionario, dataset, categorias)
 
@@ -265,7 +264,7 @@ class Core():
         (dataEtiquetada,
          dataset,
          diccionario,
-         categorias) = self.io.obtenerUtilidades(self.carrera)
+         categorias) = self.io.getDataForCareer(self.carrera)
 
         TF_IDF = self.calcularTF_IDF(diccionario, dataset, categorias)
         (clasificador,
@@ -278,7 +277,7 @@ class Core():
         print(list(clasificador.clasificadores.keys()))
 
         print("Se finalizó la etapa de entrenamiento")
-        unlabelled_dataset = self.io.obtenerDatasetAClasificar(filename)
+        unlabelled_dataset = self.io.getUnlabelledData(filename)
 
         (predicted,
          mat_con,
@@ -288,13 +287,13 @@ class Core():
             diccionario,
             categorias
         )
-        self.io._imprimirPredicted(
+        self.io.printPredicted(
             unlabelled_dataset,
             predicted,
             filename,
             self.carrera
         )
-        self.io._imprimirDiccionarios(
+        self.io.printDictionaries(
             conteo_Categorias_Palabras,
             categorias,
             filename,
