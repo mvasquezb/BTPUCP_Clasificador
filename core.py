@@ -7,7 +7,7 @@ from sklearn import metrics
 from sklearn import model_selection
 
 from clasificador_categorias import Maximizador
-from input_output_text import Input_Output
+from DataLoader_text import DataLoader
 
 
 class Core():
@@ -17,7 +17,7 @@ class Core():
 
     def __init__(self, carrera):
         self.carrera = carrera
-        self.io = Input_Output()
+        self.io = DataLoader()
 
     def _count_word(self, text, search):
         '''Esta funcion cuenta de manera exacta la palabra en el texto

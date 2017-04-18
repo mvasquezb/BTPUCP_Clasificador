@@ -3,7 +3,7 @@ import openpyxl
 from textprocessor import TextProcessor
 
 
-class Input_Output:
+class DataLoader:
 
     procesadorTextos = None
 
