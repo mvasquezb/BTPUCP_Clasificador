@@ -1,68 +1,72 @@
-from nltk.corpus import stopwords
 import string
 import re
 
+from nltk.corpus import stopwords as sw
+from nltk import wordpunct_tokenize
 from nltk.stem.snowball import SpanishStemmer
+from nltk import sent_tokenize
+from nltk import pos_tag
+
+from sklearn.base import BaseEstimator, TransformerMixin
 
 
-class TextProcessor:
-    lemmatizer = None
-    stopEnglish = None
-    stopSpanish = None
-    spanishStemmer = None
+class TextProcessor(BaseEstimator, TransformerMixin):
 
-    def __init__(self):
-        # self.lemmatizer = treetaggerwrapper.TreeTagger(TAGLANG='es')
-        self.stopEnglish = stopwords.words('english')
-        self.stopSpanish = stopwords.words('spanish')
-        self.stopSpanish.append('y/o')
-        self.spanishStemmer = SpanishStemmer()
+    def __init__(self,
+                 stopwords=None,
+                 punct=None,
+                 lower=True,
+                 strip=True):
+        self.lower = lower
+        self.do_strip = strip
+        self.stopwords = stopwords or set(
+            sw.words('english') + sw.words('spanish') + ['y/o']
+        )
+        self.punct = punct or set(string.punctuation + '•')
+        self.stemmer = SpanishStemmer()
 
-    def _remove_numbers(self, text):
-        "Elimina los números del texto"
+    def fit(self, X, y=None):
+        return self
 
-        return ''.join([letter for letter in text if not letter.isdigit()])
+    def inverse_transform(self, X):
+        return [" ".join(doc) for doc in X]
 
-    def _remove_punctuation(self, text):
-        "Elimina los signos de puntuacion del texto"
+    def transform(self, X):
+        return [
+            list(self.tokenize(doc)) for doc in X
+        ]
 
-        regex = re.compile('[%s]' % re.escape(string.punctuation))
-        return regex.sub(' ', text)
+    def tokenize(self, document):
+        # Break the document into sentences
+        for sentence in sent_tokenize(document):
+            # Break the sentence into part of speech tagged tokens
+            for token, tag in pos_tag(wordpunct_tokenize(sentence)):
+                # Apply preprocessing to the token
+                token = token.lower() if self.lower else token
+                token = self.strip(token) if self.do_strip else token
+                token = self.remove_numbers(token)
 
-    def preprocessText(self, text):
-        text = text.lower()
-        text = self._remove_punctuation(text)
-        text = self._remove_numbers(text)
-        return text
+                # If stopword, ignore token and continue
+                if token in self.stopwords:
+                    continue
 
-    def lematizeText(self, text):
-        newText = ""
-        firstElement = 0
-        firstWord = True
-        for word in text.split():
-            if word not in self.stopEnglish and word not in self.stopSpanish:
-                word = word.replace("\ufeff", "")
-                lemmaResult = self.lemmatizer.tag_text(word)
-                # Return [[word,type of word, lemma]]
-                if (len(lemmaResult) != 0):
-                    word = lemmaResult[firstElement].split()[2]
-                    if firstWord:
-                        newText += word
-                        firstWord = False
-                    else:
-                        newText += " " + word
-        return newText
+                # If punctuation, ignore token and continue
+                if all(char in self.punct for char in token):
+                    continue
 
-    def stemText(self, text):
-        newText = ""
-        firstWord = True
-        for word in text.split():
-            if word not in self.stopEnglish and word not in self.stopSpanish:
-                word = word.replace("\ufeff", "")
-                wordStemmed = self.spanishStemmer.stem(word)
-                if firstWord:
-                    newText += wordStemmed
-                    firstWord = False
-                else:
-                    newText += " " + wordStemmed
-        return newText
+                # Lemmatize the token and yield
+                stemmed = self.stem(token)
+                yield stemmed
+
+    def stem(self, token):
+        return self.stemmer.stem(token)
+
+    def remove_numbers(self, token):
+        return re.sub(r'\d+', '', token)
+
+    def strip(self, token):
+        token = re.sub('\s+', '', token)
+        token = token.strip()
+        token = token.strip('_')
+        token = token.strip('*')
+        return token
