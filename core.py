@@ -161,6 +161,9 @@ class Core():
            y prueba los datos usando cross validation."""
 
         data = self.tranformarDataALista(TF_IDF, categorias)
+        import json
+        with open('entrenamiento.data.json', 'w') as f:
+            json.dump(data, f, indent=2, ensure_ascii=False)
         expected = self.obtenerCategoriasEsperadas(TF_IDF, dataEtiquetada)
 
         clasificador = Maximizador(intValue=0, categorias=categorias)

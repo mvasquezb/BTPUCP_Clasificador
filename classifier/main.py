@@ -2,6 +2,8 @@
 
 import sys
 from dataloader import DataLoader
+from estimator import ProxyEstimator
+from sklearn.neighbors import KNeighborsClassifier
 
 
 class Main(object):
@@ -10,15 +12,28 @@ class Main(object):
         self.career = career
         self.io = DataLoader(root='..')
 
+    def get_expected_categories(self, data):
+        print(data['labelled_data'])
+        return []
+
+    def build_classifier(self,
+                         data,
+                         classifier=ProxyEstimator):
+        if isinstance(classifier, type):
+            classifier = classifier()
+        expected = self.get_expected_categories(data)
+
+        return ''
+
     def run(self, data_file):
-        # (labelledData,
-        #  dataset,
-        #  dictionary,
-        #  categories) = self.io.get_data_for_career(self.career)
         data = self.io.get_data_for_career(self.career)
+
+        classifier = self.build_classifier(data)
+        # unlabelled = self.io.get_unlabelled_data(data_file)
+
         # import json
-        # with open('data.json', 'w') as f:
-        #     json.dump(data, f, indent=2, ensure_ascii=False)
+        # with open('unlabelled.json', 'w') as f:
+        #     json.dump(unlabelled, f, indent=2, ensure_ascii=False)
         return ''
 
 

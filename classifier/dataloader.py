@@ -3,6 +3,7 @@ import openpyxl
 from textprocessor import TextProcessor
 from pathlib import Path as OSPath
 from utils import open_filename
+from collections import OrderedDict
 
 
 class DataLoader:
@@ -14,8 +15,10 @@ class DataLoader:
         """
         Merge offer attributes and preprocess text
         """
-
-        new_data = dataset if inplace else dataset.copy()
+        dataset = OrderedDict(
+            sorted(dict.items(), key=lambda t: t[0])
+        ) if inplace else dataset
+        new_data = dataset if inplace else OrderedDict(dataset.copy())
         for key, offer in new_data.items():
             new_data[key] = ' '.join(
                 set(self.textProcessor.tokenize(' '.join(offer)))
@@ -65,7 +68,7 @@ class DataLoader:
 
         with open(str(
             OSPath(self.root, career, 'categorias.txt')
-        ), encoding) as f:
+        ), encoding=encoding) as f:
             for target in f:
                 target = target.lower().strip()
                 targets.append(target.replace("\n", ""))
@@ -76,14 +79,14 @@ class DataLoader:
         offer_dict = {}
 
         with open(str(
-            OSPath(self.root, career, "/diccProfeABCD/diccionarios.txt")
+            OSPath(self.root, career, "diccProfeABCD/diccionarios.txt")
         ), encoding=encoding) as f1:
 
             for target in f1:
                 target = target.replace("\n", "")
                 print("Diccionarios-", target)
                 with open(str(
-                    OSPath(self.root, career, "/diccProfeABCD/", target)
+                    OSPath(self.root, career, "diccProfeABCD/", target)
                 ), encoding=encoding) as f2:
 
                     target = (target[:-len('.txt')]
@@ -115,20 +118,20 @@ class DataLoader:
         }
 
     def printPredicted(self,
-                       datasetClasificado,
+                       labelledData,
                        predicted,
                        filename,
                        carrera):
         division_Carpetas = filename.split("/")
-        nombArchivo_Extension = division_Carpetas[len(division_Carpetas) - 1]
-        firstElement = 0
-        nombArchivo = nombArchivo_Extension.split(".")[firstElement]
+        filename = division_Carpetas[len(division_Carpetas) - 1]
+        first = 0
+        file_base = filename.split(".")[first]
         indID = 0
-        with open(self.root + '/' + carrera + "/DataClasificada_" +
-                  nombArchivo + ".txt", 'w') as f:
-            for i in range(len(datasetClasificado)):
-                f.write("%s: %s\n" %
-                        (datasetClasificado[i][indID], predicted[i]))
+        with open(str(
+            OSPath(self.root, carrera, "DataClasificada_" + file_base + ".txt")
+        ), 'w') as f:
+            for i in range(len(labelledData)):
+                f.write("%s: %s\n" % (labelledData[i][indID], predicted[i]))
 
     def print_dictionaries(self,
                            cat_word_count,
@@ -136,14 +139,16 @@ class DataLoader:
                            filename,
                            carrera):
         division_Carpetas = filename.split("/")
-        nombArchivo_Extension = division_Carpetas[len(division_Carpetas) - 1]
+        filename = division_Carpetas[len(division_Carpetas) - 1]
         firstElement = 0
-        nombArchivo = nombArchivo_Extension.split(".")[firstElement]
+        file_base = filename.split(".")[firstElement]
         for categoriaEtiqueta in categorias:
             for categoria in categorias:
-                with open(self.root + '/' + carrera + "/Diccionario_" + nombArchivo + "_" +
-                          categoriaEtiqueta + "_" +
-                          categoria + ".txt", 'w') as f:
+                with open(str(
+                    OSPath(self.root,
+                           carrera, "Diccionario_" + file_base + "_" +
+                           categoriaEtiqueta + "_" + categoria + ".txt")
+                ), 'w') as f:
                     for palabra in sorted(cat_word_count[categoriaEtiqueta][categoria].keys()):
                         f.write("%s: %d\n" % (
                             palabra, cat_word_count[categoriaEtiqueta][categoria][palabra]))

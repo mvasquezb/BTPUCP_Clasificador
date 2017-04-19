@@ -16,10 +16,10 @@ class Maximizador(BaseEstimator, ClassifierMixin):
 
         self.categorias = categorias
         for categoria in self.categorias:
-            self.clasificadores[categoria] = KNeighborsClassifier(
-                n_neighbors=len(self.categorias)
-            )
-            # self.clasificadores[categoria] = BernoulliNB()
+            self.clasificadores[categoria] = BernoulliNB()
+            # self.clasificadores[categoria] = KNeighborsClassifier(
+            #     n_neighbors=len(self.categorias)
+            # )
             # self.clasificadores[categoria]=svm.SVC(probability=True)
             # self.clasificadores[categoria]=LogisticRegression(C=1.0,penalty='l2',solver='liblinear',multi_class='ovr',n_jobs=3)
 
