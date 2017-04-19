@@ -58,54 +58,61 @@ class DataLoader:
 
         return self.clean_dataset(dataset)
 
-    def get_categories(self, carrera):
+    def get_targets(self, career, encoding='UTF-8'):
         "Obtiene las categorías que pertenecen a la carrera escogida."
 
-        categorias = []
+        targets = []
 
-        with open(str(OSPath(self.root, carrera, 'categorias.txt'))) as f:
-            for categoria in f:
-                categoria = categoria.lower()
-                categorias.append(categoria.replace("\n", ""))
-        categorias.sort()
-        return categorias
+        with open(str(
+            OSPath(self.root, career, 'categorias.txt')
+        ), encoding) as f:
+            for target in f:
+                target = target.lower().strip()
+                targets.append(target.replace("\n", ""))
+        targets.sort()
+        return targets
 
-    def get_dictionary(self, carrera, encoding='ISO-8859-1'):
-        dicc_offers = {}
+    def get_features(self, career, encoding='ISO-8859-1'):
+        offer_dict = {}
 
-        with open(self.root + '/' + carrera + "/diccProfeABCD/diccionarios.txt",
-                  encoding=encoding) as f1:
-            lineas = f1.readlines()
-            for categoria in lineas:
-                categoria = categoria.replace("\n", "")
-                print("Diccionarios-", categoria)
-                with open(self.root + '/' + carrera + "/diccProfeABCD/" + categoria,
-                          encoding='ISO-8859-1') as f2:
-                    categoria = categoria.replace(".txt", "")
-                    if categoria not in dicc_offers.keys():
-                        dicc_offers[categoria] = set()
+        with open(str(
+            OSPath(self.root, career, "/diccProfeABCD/diccionarios.txt")
+        ), encoding=encoding) as f1:
 
-                    for linea in f2.read().splitlines():
-                        linea = self.textProcessor.preprocessText(linea)
-                        cadena_procesada = self.textProcessor.stemText(
-                            linea)
-                        dicc_offers[categoria].add(cadena_procesada)
+            for target in f1:
+                target = target.replace("\n", "")
+                print("Diccionarios-", target)
+                with open(str(
+                    OSPath(self.root, career, "/diccProfeABCD/", target)
+                ), encoding=encoding) as f2:
 
-        for cat in dicc_offers.keys():
-            dicc_offers[cat] = list(dicc_offers[cat])
+                    target = (target[:-len('.txt')]
+                              if target.endswith('.txt') else target)
 
-        return dicc_offers
+                    if target not in offer_dict.keys():
+                        offer_dict[target] = set()
+
+                    for feature in f2:
+                        feature = self.textProcessor.preprocess(feature)
+                        feature = self.textProcessor.stem(feature)
+                        offer_dict[target].add(feature)
+
+        for cat in offer_dict.keys():
+            offer_dict[cat] = list(offer_dict[cat])
+
+        return offer_dict
 
     def get_data_for_career(self, career):
-        # labelled_data = self.get_labelled_data(career)
-        # dataset = self.get_dataset(labelled_data, career)
-        # categories = self.get_categories(career)
-        # dictionary = self.get_dictionary(career)
-
-        # return labelled_data, dataset, dictionary, categories
         labelled_data = self.get_labelled_data(career)
         dataset = self.get_dataset(labelled_data, career)
-        return dataset
+        targets = self.get_targets(career)
+        features = self.get_features(career)
+        return {
+            'labelled_data': labelled_data,
+            'dataset': dataset,
+            'features': features,
+            'target_names': targets,
+        }
 
     def printPredicted(self,
                        datasetClasificado,
@@ -142,7 +149,7 @@ class DataLoader:
                             palabra, cat_word_count[categoriaEtiqueta][categoria][palabra]))
 
     def _read_excel_dataset(self, filename):
-        dataset = []
+        dataset = {}
 
         wb = openpyxl.load_workbook(filename)
         sheets = wb.get_sheet_names()
@@ -151,15 +158,16 @@ class DataLoader:
         max_columns = offer_sheet.max_column + 1
 
         for offer_number in range(2, max_rows):
-            row = []
-            for col_number in range(1, max_columns):
-                row.append(
-                    str(offer_sheet.cell(
-                        row=offer_number,
-                        column=col_number
-                    ).value)
-                )
-            dataset.append(row)
+            offer_id = int(offer_sheet.cell(row=offer_number, column=1).value)
+            offer = [
+                str(offer_sheet.cell(
+                    row=offer_number,
+                    column=col_number
+                ).value)
+
+                for col_number in range(2, max_columns)
+            ]
+            dataset[offer_id] = offer
 
         return dataset
 
@@ -168,10 +176,10 @@ class DataLoader:
 
         return dataset
 
-    def getUnlabelledData(self, filename):
+    def get_unlabelled_data(self, filename):
         "Se lee un archivo Excel con las ofertas a clasificar"
 
-        with open_filename(filename, 'rb') as f:
+        with open_filename(str(OSPath(self.root, filename)), 'rb') as f:
             path = OSPath(f.name)
             if path.suffix == '.xlsx':
                 dataset = self._read_excel_dataset(f)
