@@ -42,9 +42,7 @@ class TextProcessor(BaseEstimator, TransformerMixin):
             # Break the sentence into part of speech tagged tokens
             for token, tag in pos_tag(wordpunct_tokenize(sentence)):
                 # Apply preprocessing to the token
-                token = token.lower() if self.lower else token
-                token = self.strip(token) if self.do_strip else token
-                token = self.remove_numbers(token)
+                token = self.preprocess(token)
 
                 # If stopword, ignore token and continue
                 if token in self.stopwords:
@@ -69,4 +67,15 @@ class TextProcessor(BaseEstimator, TransformerMixin):
         token = token.strip()
         token = token.strip('_')
         token = token.strip('*')
+        return token
+
+    def preprocess(self, token, lower=None, strip=None):
+        if lower is None:
+            lower = self.lower
+        if strip is None:
+            strip = self.do_strip
+
+        token = token.lower() if lower else token
+        token = self.strip(token) if strip else token
+        token = self.remove_numbers(token)
         return token
